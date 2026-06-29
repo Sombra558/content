@@ -1,0 +1,1731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SC Content QA Viewer</title>
+  <style>
+    :root {
+      --bg: #f4efe6;
+      --panel: rgba(255, 252, 247, 0.88);
+      --panel-strong: #fffdf9;
+      --ink: #1f1a17;
+      --muted: #6e6258;
+      --line: rgba(93, 72, 56, 0.16);
+      --accent: #c35a2e;
+      --accent-2: #176b63;
+      --shadow: 0 20px 50px rgba(72, 50, 35, 0.12);
+      --radius: 18px;
+      --radius-sm: 12px;
+      --mono: "Consolas", "SFMono-Regular", monospace;
+      --sans: "Segoe UI", "Aptos", "Helvetica Neue", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: var(--sans);
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(195, 90, 46, 0.18), transparent 34%),
+        radial-gradient(circle at top right, rgba(23, 107, 99, 0.18), transparent 28%),
+        linear-gradient(180deg, #f7f1e8 0%, #f0e7db 100%);
+      min-height: 100vh;
+    }
+
+    .shell {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      min-height: 100vh;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .sidebar,
+    .main {
+      background: var(--panel);
+      backdrop-filter: blur(18px);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .brand {
+      padding: 24px 22px 14px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 1.35rem;
+      letter-spacing: -0.03em;
+    }
+
+    .brand p {
+      margin: 8px 0 0;
+      color: var(--muted);
+      line-height: 1.5;
+      font-size: 0.94rem;
+    }
+
+    .controls {
+      padding: 18px 18px 12px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .lang-switch {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+    }
+
+    button {
+      border: 0;
+      cursor: pointer;
+      font: inherit;
+    }
+
+    .lang-btn,
+    .filter-btn {
+      padding: 12px 14px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.6);
+      color: var(--ink);
+      border: 1px solid var(--line);
+      transition: 180ms ease;
+    }
+
+    .lang-btn.active,
+    .filter-btn.active {
+      background: linear-gradient(135deg, var(--accent), #de7d4f);
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 12px 24px rgba(195, 90, 46, 0.22);
+    }
+
+    .search {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 12px 14px;
+      font: inherit;
+      background: rgba(255,255,255,0.85);
+      color: var(--ink);
+    }
+
+    .search:focus {
+      outline: 2px solid rgba(195, 90, 46, 0.18);
+      border-color: rgba(195, 90, 46, 0.38);
+    }
+
+    .filter-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .section-list {
+      padding: 8px 10px 18px;
+      overflow: auto;
+      display: grid;
+      gap: 10px;
+    }
+
+    .section-card {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 14px;
+      background: rgba(255,255,255,0.62);
+      transition: 180ms ease;
+    }
+
+    .section-card.active {
+      border-color: rgba(23, 107, 99, 0.35);
+      background: linear-gradient(180deg, rgba(23, 107, 99, 0.12), rgba(255,255,255,0.95));
+      box-shadow: 0 10px 22px rgba(23, 107, 99, 0.12);
+    }
+
+    .section-card button {
+      width: 100%;
+      text-align: left;
+      background: transparent;
+      padding: 0;
+      color: inherit;
+    }
+
+    .section-index {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 34px;
+      height: 34px;
+      border-radius: 999px;
+      background: rgba(23, 107, 99, 0.12);
+      color: var(--accent-2);
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    .section-title {
+      font-size: 0.98rem;
+      line-height: 1.35;
+      margin: 0 0 8px;
+    }
+
+    .section-meta {
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+
+    .main {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .hero {
+      padding: 28px 28px 20px;
+      border-bottom: 1px solid var(--line);
+      background: linear-gradient(135deg, rgba(195, 90, 46, 0.12), rgba(23, 107, 99, 0.08));
+    }
+
+    .hero-top {
+      display: flex;
+      gap: 16px;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      display: inline-flex;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.75);
+      border: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-weight: 600;
+    }
+
+    .hero h2 {
+      margin: 14px 0 8px;
+      font-size: clamp(1.5rem, 3vw, 2.3rem);
+      line-height: 1.08;
+      letter-spacing: -0.04em;
+    }
+
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 900px;
+      line-height: 1.6;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .stat {
+      background: rgba(255,255,255,0.72);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 14px;
+    }
+
+    .stat-label {
+      display: block;
+      color: var(--muted);
+      font-size: 0.8rem;
+      margin-bottom: 6px;
+    }
+
+    .stat strong {
+      font-size: 1.1rem;
+    }
+
+    .slides {
+      overflow: auto;
+      padding: 22px 24px 30px;
+      display: grid;
+      gap: 16px;
+    }
+
+    .slide {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--panel-strong);
+      overflow: hidden;
+    }
+
+    .slide-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+      padding: 16px 18px;
+      background: rgba(23, 107, 99, 0.06);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .slide-title {
+      font-size: 0.98rem;
+      font-weight: 700;
+      line-height: 1.4;
+    }
+
+    .slide-kind {
+      color: var(--accent-2);
+      font-size: 0.82rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .slide-body {
+      padding: 18px;
+      display: grid;
+      gap: 16px;
+    }
+
+    .content-block {
+      border: 1px solid rgba(93, 72, 56, 0.12);
+      border-radius: 14px;
+      padding: 14px;
+      background: rgba(244, 239, 230, 0.55);
+    }
+
+    .content-head {
+      display: flex;
+      gap: 8px;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      flex-wrap: wrap;
+    }
+
+    .content-order {
+      font-family: var(--mono);
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+
+    .content-type {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .paragraphs {
+      display: grid;
+      gap: 10px;
+      line-height: 1.65;
+    }
+
+    .paragraphs p {
+      margin: 0;
+      white-space: pre-wrap;
+    }
+
+    .instruction {
+      margin-top: 12px;
+      padding: 12px 14px;
+      border-radius: 12px;
+      background: rgba(23, 107, 99, 0.08);
+      color: #19443f;
+      font-size: 0.92rem;
+    }
+
+    .inline-code {
+      font-family: var(--mono);
+      font-size: 0.84rem;
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: #f7f3ed;
+      border: 1px solid var(--line);
+      white-space: pre-wrap;
+    }
+
+    .empty {
+      padding: 28px;
+      border: 1px dashed var(--line);
+      border-radius: 18px;
+      text-align: center;
+      color: var(--muted);
+      background: rgba(255,255,255,0.5);
+    }
+
+    @media (max-width: 1100px) {
+      .shell {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        max-height: none;
+      }
+
+      .stats {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 640px) {
+      .shell {
+        padding: 12px;
+      }
+
+      .hero,
+      .slides {
+        padding-left: 16px;
+        padding-right: 16px;
+      }
+
+      .stats {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <h1>SC Content QA Viewer</h1>
+        <p>Review the Spanish and English course JSON in a cleaner interface for quality assurance, content comparison, and navigation.</p>
+      </div>
+      <div class="controls">
+        <div class="lang-switch">
+          <button class="lang-btn active" data-lang="en">English</button>
+          <button class="lang-btn" data-lang="es">Español</button>
+        </div>
+        <input id="search" class="search" type="search" placeholder="Search sections, slides, or content...">
+        <div class="filter-row">
+          <button class="filter-btn active" data-filter="all">All</button>
+          <button class="filter-btn" data-filter="Text">Text</button>
+          <button class="filter-btn" data-filter="Multiple">Questions</button>
+          <button class="filter-btn" data-filter="Completion">Completion</button>
+        </div>
+      </div>
+      <div id="sectionList" class="section-list"></div>
+    </aside>
+
+    <main class="main">
+      <section class="hero">
+        <div class="hero-top">
+          <span id="courseBadge" class="badge"></span>
+          <span id="resultBadge" class="badge"></span>
+        </div>
+        <h2 id="sectionTitle"></h2>
+        <p id="sectionDescription"></p>
+        <div class="stats">
+          <div class="stat">
+            <span class="stat-label">Slides</span>
+            <strong id="statSlides">0</strong>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Visible Blocks</span>
+            <strong id="statBlocks">0</strong>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Language</span>
+            <strong id="statLang">EN</strong>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Course Duration</span>
+            <strong id="statDuration">0 min</strong>
+          </div>
+        </div>
+      </section>
+      <section id="slides" class="slides"></section>
+    </main>
+  </div>
+
+  <script>
+    const state = {
+      lang: 'en',
+      filter: 'all',
+      query: '',
+      selectedSectionIndex: 0,
+      data: {}
+    };
+
+    const sectionList = document.getElementById('sectionList');
+    const slidesEl = document.getElementById('slides');
+    const sectionTitle = document.getElementById('sectionTitle');
+    const sectionDescription = document.getElementById('sectionDescription');
+    const courseBadge = document.getElementById('courseBadge');
+    const resultBadge = document.getElementById('resultBadge');
+    const statSlides = document.getElementById('statSlides');
+    const statBlocks = document.getElementById('statBlocks');
+    const statLang = document.getElementById('statLang');
+    const statDuration = document.getElementById('statDuration');
+    const searchInput = document.getElementById('search');
+
+    document.querySelectorAll('.lang-btn').forEach((button) => {
+      button.addEventListener('click', () => {
+        state.lang = button.dataset.lang;
+        state.selectedSectionIndex = 0;
+        document.querySelectorAll('.lang-btn').forEach((btn) => btn.classList.toggle('active', btn === button));
+        render();
+      });
+    });
+
+    document.querySelectorAll('.filter-btn').forEach((button) => {
+      button.addEventListener('click', () => {
+        state.filter = button.dataset.filter;
+        document.querySelectorAll('.filter-btn').forEach((btn) => btn.classList.toggle('active', btn === button));
+        renderSlides();
+      });
+    });
+
+    searchInput.addEventListener('input', (event) => {
+      state.query = event.target.value.trim().toLowerCase();
+      renderSections();
+      renderSlides();
+    });
+
+    function normalizeText(value) {
+      if (value == null) return '';
+      if (typeof value === 'string') return value;
+      if (Array.isArray(value)) return value.map(normalizeText).join(' ');
+      if (typeof value === 'object') return Object.values(value).map(normalizeText).join(' ');
+      return String(value);
+    }
+
+    function getCourse() {
+      return state.data[state.lang]?.courses?.[0] ?? null;
+    }
+
+    function getSections() {
+      return getCourse()?.sections ?? [];
+    }
+
+    function getSection() {
+      const sections = getSections();
+      return sections[state.selectedSectionIndex] ?? sections[0] ?? null;
+    }
+
+    function sectionMatches(section) {
+      if (!state.query) return true;
+      const haystack = normalizeText(section).toLowerCase();
+      return haystack.includes(state.query);
+    }
+
+    function slideMatches(slide) {
+      const filterOk = state.filter === 'all' || slide.content_type === state.filter;
+      const queryOk = !state.query || normalizeText(slide).toLowerCase().includes(state.query);
+      return filterOk && queryOk;
+    }
+
+    function renderSections() {
+      const sections = getSections();
+      const visibleSections = sections.filter(sectionMatches);
+
+      if (!visibleSections.length) {
+        sectionList.innerHTML = '<div class="empty">No sections match the current search.</div>';
+        return;
+      }
+
+      if (!sectionMatches(getSection())) {
+        const firstMatch = sections.findIndex(sectionMatches);
+        state.selectedSectionIndex = firstMatch >= 0 ? firstMatch : 0;
+      }
+
+      sectionList.innerHTML = visibleSections.map((section) => {
+        const actualIndex = sections.indexOf(section);
+        const active = actualIndex === state.selectedSectionIndex;
+        const slideCount = section.slides?.length ?? 0;
+        return `
+          <div class="section-card ${active ? 'active' : ''}">
+            <button type="button" data-section-index="${actualIndex}">
+              <span class="section-index">${section.order_index}</span>
+              <h3 class="section-title">${escapeHtml(section.title || 'Untitled Section')}</h3>
+              <div class="section-meta">${slideCount} slides</div>
+            </button>
+          </div>
+        `;
+      }).join('');
+
+      sectionList.querySelectorAll('button[data-section-index]').forEach((button) => {
+        button.addEventListener('click', () => {
+          state.selectedSectionIndex = Number(button.dataset.sectionIndex);
+          render();
+        });
+      });
+    }
+
+    function renderSlides() {
+      const section = getSection();
+      if (!section) {
+        slidesEl.innerHTML = '<div class="empty">No section available.</div>';
+        return;
+      }
+
+      const slides = (section.slides || []).filter(slideMatches);
+      const visibleBlocks = slides.reduce((sum, slide) => sum + (slide.contents?.length || 0), 0);
+
+      sectionTitle.textContent = section.title || 'Untitled Section';
+      sectionDescription.textContent = section.description || `Reviewing section ${section.order_index}.`;
+      statSlides.textContent = String(section.slides?.length || 0);
+      statBlocks.textContent = String(visibleBlocks);
+      statLang.textContent = state.lang.toUpperCase();
+
+      resultBadge.textContent = state.query
+        ? `${slides.length} matching slides`
+        : `${slides.length} visible slides`;
+
+      if (!slides.length) {
+        slidesEl.innerHTML = '<div class="empty">No slides match the current filters.</div>';
+        return;
+      }
+
+      slidesEl.innerHTML = slides.map((slide) => renderSlide(slide)).join('');
+    }
+
+    function renderSlide(slide) {
+      const title = `Slide ${slide.order_index}`;
+      return `
+        <article class="slide">
+          <div class="slide-header">
+            <div class="slide-title">${escapeHtml(title)}</div>
+            <div class="slide-kind">${escapeHtml(slide.content_type || 'Unknown')}</div>
+          </div>
+          <div class="slide-body">
+            ${(slide.contents || []).map(renderContentBlock).join('')}
+          </div>
+        </article>
+      `;
+    }
+
+    function renderContentBlock(content) {
+      const text = content.text;
+      let body = '';
+
+      if (typeof text === 'string') {
+        body += `<div class="inline-code">${escapeHtml(text)}</div>`;
+      } else if (text && typeof text === 'object') {
+        const paragraphs = Array.isArray(text.paragraphs) ? text.paragraphs : [];
+        if (paragraphs.length) {
+          body += `<div class="paragraphs">${paragraphs.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join('')}</div>`;
+        }
+        const instruction = text.instruction || text.instruction_text;
+        if (instruction) {
+          body += `<div class="instruction">${escapeHtml(instruction)}</div>`;
+        }
+      }
+
+      if (!body) {
+        body = `<div class="inline-code">${escapeHtml(JSON.stringify(content, null, 2))}</div>`;
+      }
+
+      return `
+        <section class="content-block">
+          <div class="content-head">
+            <span class="content-order">content ${escapeHtml(String(content.order_index ?? 'n/a'))}</span>
+            <span class="content-type">${escapeHtml(content.content_type || 'content')}</span>
+          </div>
+          ${body}
+        </section>
+      `;
+    }
+
+    function render() {
+      const course = getCourse();
+      if (!course) {
+        sectionList.innerHTML = '<div class="empty">Course data is not available.</div>';
+        slidesEl.innerHTML = '<div class="empty">Course data is not available.</div>';
+        return;
+      }
+
+      courseBadge.textContent = `${course.name} · ${course.state}`;
+      statDuration.textContent = `${course.duration_minutes || 0} min`;
+      renderSections();
+      renderSlides();
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    async function loadData() {
+      try {
+        const [en, es] = await Promise.all([
+          fetch('./sc-content/sc-content.en.json').then((response) => response.json()),
+          fetch('./sc-content/sc-content.es.json').then((response) => response.json())
+        ]);
+
+        state.data.en = en;
+        state.data.es = es;
+        render();
+      } catch (error) {
+        sectionList.innerHTML = '<div class="empty">Unable to load JSON files. Open this folder from a local web server.</div>';
+        slidesEl.innerHTML = `<div class="empty">${escapeHtml(error.message)}</div>`;
+      }
+    }
+
+    loadData();
+  </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SC Content QA Viewer</title>
+  <style>
+    :root {
+      --bg: #f4efe6;
+      --panel: rgba(255, 251, 245, 0.88);
+      --panel-strong: #fffaf2;
+      --ink: #1e2930;
+      --muted: #5f6b6d;
+      --line: rgba(44, 62, 67, 0.14);
+      --accent: #0f766e;
+      --accent-2: #c96f2d;
+      --shadow: 0 18px 40px rgba(33, 38, 41, 0.09);
+      --radius: 20px;
+      --radius-sm: 14px;
+      --sidebar-width: 340px;
+      --font-ui: "Aptos", "Segoe UI", "Trebuchet MS", sans-serif;
+      --font-display: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background:
+        radial-gradient(circle at top left, rgba(201, 111, 45, 0.18), transparent 26%),
+        radial-gradient(circle at 80% 10%, rgba(15, 118, 110, 0.14), transparent 24%),
+        linear-gradient(180deg, #f8f2e7 0%, #f2ece4 48%, #ebe6de 100%);
+      color: var(--ink);
+      font-family: var(--font-ui);
+    }
+
+    body {
+      padding: 24px;
+    }
+
+    .shell {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: var(--sidebar-width) minmax(0, 1fr);
+      gap: 20px;
+      align-items: start;
+    }
+
+    .panel {
+      background: var(--panel);
+      backdrop-filter: blur(14px);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      border-radius: var(--radius);
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 24px;
+      padding: 20px;
+      display: grid;
+      gap: 16px;
+      max-height: calc(100vh - 48px);
+      overflow: auto;
+    }
+
+    .brand {
+      display: grid;
+      gap: 10px;
+    }
+
+    .eyebrow {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: clamp(30px, 4vw, 42px);
+      line-height: 0.98;
+      font-weight: 700;
+    }
+
+    .lede {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.55;
+    }
+
+    .chip-row,
+    .mode-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .chip,
+    .mode-btn,
+    .mini-btn {
+      appearance: none;
+      border: 1px solid var(--line);
+      background: #fffefb;
+      color: var(--ink);
+      border-radius: 999px;
+      padding: 10px 14px;
+      font: inherit;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: transform 120ms ease, background-color 120ms ease, border-color 120ms ease;
+    }
+
+    .chip:hover,
+    .mode-btn:hover,
+    .mini-btn:hover,
+    .section-btn:hover,
+    .slide-btn:hover {
+      transform: translateY(-1px);
+      border-color: rgba(15, 118, 110, 0.35);
+    }
+
+    .chip.active,
+    .mode-btn.active,
+    .mini-btn.active {
+      background: linear-gradient(135deg, var(--accent), #14877e);
+      color: #fff;
+      border-color: transparent;
+    }
+
+    .search {
+      display: grid;
+      gap: 8px;
+    }
+
+    .search input,
+    .file-box input {
+      width: 100%;
+      border: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.92);
+      border-radius: 14px;
+      padding: 12px 14px;
+      font: inherit;
+      color: var(--ink);
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .meta-card {
+      padding: 12px 14px;
+      border-radius: var(--radius-sm);
+      background: rgba(255, 255, 255, 0.82);
+      border: 1px solid var(--line);
+    }
+
+    .meta-label {
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 6px;
+    }
+
+    .meta-value {
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1;
+    }
+
+    .status {
+      padding: 12px 14px;
+      border-radius: var(--radius-sm);
+      background: rgba(15, 118, 110, 0.09);
+      border: 1px solid rgba(15, 118, 110, 0.16);
+      color: #155e58;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .status.warn {
+      background: rgba(201, 111, 45, 0.1);
+      border-color: rgba(201, 111, 45, 0.18);
+      color: #8a4e20;
+    }
+
+    .file-box {
+      display: grid;
+      gap: 10px;
+      padding: 14px;
+      border-radius: var(--radius-sm);
+      border: 1px dashed rgba(44, 62, 67, 0.22);
+      background: rgba(255, 255, 255, 0.62);
+    }
+
+    .section-list,
+    .slide-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .section-btn,
+    .slide-btn {
+      width: 100%;
+      text-align: left;
+      border: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.7);
+      border-radius: 16px;
+      padding: 12px 14px;
+      cursor: pointer;
+      transition: transform 120ms ease, border-color 120ms ease, background-color 120ms ease;
+      color: var(--ink);
+    }
+
+    .section-btn.active,
+    .slide-btn.active {
+      background: linear-gradient(135deg, rgba(15, 118, 110, 0.13), rgba(201, 111, 45, 0.14));
+      border-color: rgba(15, 118, 110, 0.28);
+    }
+
+    .section-index,
+    .slide-index {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 28px;
+      height: 28px;
+      border-radius: 999px;
+      margin-right: 10px;
+      background: rgba(15, 118, 110, 0.1);
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .section-title,
+    .slide-title {
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 1.35;
+    }
+
+    .section-sub,
+    .slide-sub {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.4;
+    }
+
+    .main {
+      padding: 22px;
+      display: grid;
+      gap: 16px;
+      min-height: calc(100vh - 48px);
+    }
+
+    .hero {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: start;
+      padding: 6px 4px 2px;
+    }
+
+    .hero-copy {
+      display: grid;
+      gap: 8px;
+    }
+
+    .hero-copy h2 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: clamp(28px, 3.4vw, 40px);
+      line-height: 1.04;
+    }
+
+    .hero-copy p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 75ch;
+      line-height: 1.6;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: flex-end;
+      align-items: center;
+    }
+
+    .content-grid.compare {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .content-grid.single {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel-strong);
+      box-shadow: 0 10px 24px rgba(31, 41, 55, 0.05);
+      padding: 18px;
+      display: grid;
+      gap: 14px;
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: start;
+    }
+
+    .card-title {
+      margin: 0;
+      font-size: 20px;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+
+    .card-kicker {
+      margin: 0 0 6px;
+      color: var(--accent);
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      font-weight: 800;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(201, 111, 45, 0.11);
+      color: #8b4c1f;
+      font-size: 12px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .content-block {
+      display: grid;
+      gap: 12px;
+      padding: 14px;
+      border-radius: 16px;
+      border: 1px solid rgba(44, 62, 67, 0.1);
+      background: rgba(247, 243, 236, 0.7);
+    }
+
+    .content-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: center;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .paragraphs {
+      display: grid;
+      gap: 10px;
+    }
+
+    .paragraphs p,
+    .generic-text {
+      margin: 0;
+      line-height: 1.68;
+      color: var(--ink);
+      white-space: pre-wrap;
+    }
+
+    .instruction {
+      padding-top: 10px;
+      border-top: 1px dashed rgba(44, 62, 67, 0.18);
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .empty {
+      padding: 22px;
+      border-radius: var(--radius);
+      border: 1px dashed rgba(44, 62, 67, 0.22);
+      color: var(--muted);
+      text-align: center;
+      background: rgba(255, 255, 255, 0.45);
+    }
+
+    .slide-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .slide-nav .left,
+    .slide-nav .right {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .footer-note {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+      padding: 0 4px 4px;
+    }
+
+    @media (max-width: 1180px) {
+      .shell {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+        max-height: none;
+      }
+
+      .content-grid.compare {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 760px) {
+      body {
+        padding: 14px;
+      }
+
+      .sidebar,
+      .main {
+        padding: 16px;
+      }
+
+      .hero {
+        flex-direction: column;
+      }
+
+      .toolbar {
+        justify-content: flex-start;
+      }
+
+      .meta {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar panel">
+      <section class="brand">
+        <div class="eyebrow">SC QA Workspace</div>
+        <h1>JSON Course Viewer</h1>
+        <p class="lede">A presentation-ready QA surface for navigating sections, slides, and content across the English and Spanish course files.</p>
+      </section>
+
+      <section>
+        <div class="eyebrow">View</div>
+        <div class="mode-row" id="viewModes"></div>
+      </section>
+
+      <section>
+        <div class="eyebrow">Search</div>
+        <div class="search">
+          <input id="searchInput" type="search" placeholder="Search sections, slides, instructions, text...">
+        </div>
+      </section>
+
+      <section>
+        <div class="eyebrow">Snapshot</div>
+        <div class="meta" id="meta"></div>
+      </section>
+
+      <section id="statusBox" class="status">Loading JSON sources...</section>
+
+      <section id="fileFallback" class="file-box" hidden>
+        <strong>Manual load fallback</strong>
+        <div>If your browser blocks local file fetches, load the JSON files manually below.</div>
+        <label>
+          English JSON
+          <input id="enFileInput" type="file" accept=".json,application/json">
+        </label>
+        <label>
+          Spanish JSON
+          <input id="esFileInput" type="file" accept=".json,application/json">
+        </label>
+      </section>
+
+      <section>
+        <div class="eyebrow">Sections</div>
+        <div class="section-list" id="sectionList"></div>
+      </section>
+    </aside>
+
+    <main class="main panel">
+      <section class="hero">
+        <div class="hero-copy">
+          <div class="eyebrow" id="heroEyebrow">Course</div>
+          <h2 id="heroTitle">Preparing content...</h2>
+          <p id="heroDescription">The viewer will display one slide at a time with a compare mode for better QA review.</p>
+        </div>
+        <div class="toolbar">
+          <div class="chip-row" id="languageTabs"></div>
+        </div>
+      </section>
+
+      <section class="slide-nav">
+        <div class="left">
+          <button class="mini-btn" id="prevSlideBtn" type="button">Previous Slide</button>
+          <button class="mini-btn" id="nextSlideBtn" type="button">Next Slide</button>
+        </div>
+        <div class="right">
+          <span id="slideCounter" class="tag">Slide 0 / 0</span>
+        </div>
+      </section>
+
+      <section>
+        <div class="eyebrow">Slides In Section</div>
+        <div class="slide-list" id="slideList"></div>
+      </section>
+
+      <section id="contentGrid" class="content-grid single"></section>
+
+      <div class="footer-note">
+        Tip: if this page is opened directly from the file system and the browser blocks JSON loading, use the manual file inputs or serve the workspace with a simple static server.
+      </div>
+    </main>
+  </div>
+
+  <script>
+    const state = {
+      data: { en: null, es: null },
+      activeLanguage: "en",
+      viewMode: "compare",
+      sectionIndex: 0,
+      slideIndex: 0,
+      query: ""
+    };
+
+    const refs = {
+      statusBox: document.getElementById("statusBox"),
+      fileFallback: document.getElementById("fileFallback"),
+      enFileInput: document.getElementById("enFileInput"),
+      esFileInput: document.getElementById("esFileInput"),
+      viewModes: document.getElementById("viewModes"),
+      languageTabs: document.getElementById("languageTabs"),
+      sectionList: document.getElementById("sectionList"),
+      slideList: document.getElementById("slideList"),
+      contentGrid: document.getElementById("contentGrid"),
+      searchInput: document.getElementById("searchInput"),
+      meta: document.getElementById("meta"),
+      heroEyebrow: document.getElementById("heroEyebrow"),
+      heroTitle: document.getElementById("heroTitle"),
+      heroDescription: document.getElementById("heroDescription"),
+      slideCounter: document.getElementById("slideCounter"),
+      prevSlideBtn: document.getElementById("prevSlideBtn"),
+      nextSlideBtn: document.getElementById("nextSlideBtn")
+    };
+
+    const VIEW_MODES = [
+      { id: "compare", label: "Compare" },
+      { id: "single", label: "Single" }
+    ];
+
+    const LANGUAGES = [
+      { id: "en", label: "English" },
+      { id: "es", label: "Spanish" }
+    ];
+
+    init();
+
+    async function init() {
+      renderModeButtons();
+      renderLanguageTabs();
+      wireEvents();
+      await loadInitialData();
+      render();
+    }
+
+    function wireEvents() {
+      refs.searchInput.addEventListener("input", (event) => {
+        state.query = event.target.value.trim().toLowerCase();
+        state.sectionIndex = 0;
+        state.slideIndex = 0;
+        render();
+      });
+
+      refs.prevSlideBtn.addEventListener("click", () => moveSlide(-1));
+      refs.nextSlideBtn.addEventListener("click", () => moveSlide(1));
+
+      refs.enFileInput.addEventListener("change", (event) => loadFromFile(event, "en"));
+      refs.esFileInput.addEventListener("change", (event) => loadFromFile(event, "es"));
+    }
+
+    async function loadInitialData() {
+      const results = await Promise.allSettled([
+        fetchJson("sc-content/sc-content.en.json"),
+        fetchJson("sc-content/sc-content.es.json")
+      ]);
+
+      if (results[0].status === "fulfilled") {
+        state.data.en = results[0].value;
+      }
+
+      if (results[1].status === "fulfilled") {
+        state.data.es = results[1].value;
+      }
+
+      if (!state.data.en || !state.data.es) {
+        refs.fileFallback.hidden = false;
+        setStatus("Automatic JSON loading was blocked or incomplete. Use the manual file loaders below or serve the folder with a static server.", true);
+      } else {
+        setStatus("Both JSON sources loaded successfully. You can review content in single or compare mode.");
+      }
+    }
+
+    async function fetchJson(path) {
+      const response = await fetch(path, { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`Could not load ${path}`);
+      }
+      return response.json();
+    }
+
+    function loadFromFile(event, lang) {
+      const [file] = event.target.files || [];
+      if (!file) {
+        return;
+      }
+
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          state.data[lang] = JSON.parse(String(reader.result));
+          const bothLoaded = state.data.en && state.data.es;
+          setStatus(bothLoaded
+            ? "Manual file load complete for both JSON sources."
+            : `Loaded ${lang.toUpperCase()} JSON. Load the other file to enable compare mode.`);
+          render();
+        } catch (error) {
+          setStatus(`Invalid ${lang.toUpperCase()} JSON file: ${error.message}`, true);
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    function setStatus(message, isWarn = false) {
+      refs.statusBox.textContent = message;
+      refs.statusBox.classList.toggle("warn", isWarn);
+    }
+
+    function renderModeButtons() {
+      refs.viewModes.innerHTML = "";
+      VIEW_MODES.forEach((mode) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = `mode-btn${state.viewMode === mode.id ? " active" : ""}`;
+        button.textContent = mode.label;
+        button.addEventListener("click", () => {
+          state.viewMode = mode.id;
+          renderModeButtons();
+          render();
+        });
+        refs.viewModes.appendChild(button);
+      });
+    }
+
+    function renderLanguageTabs() {
+      refs.languageTabs.innerHTML = "";
+      LANGUAGES.forEach((language) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = `chip${state.activeLanguage === language.id ? " active" : ""}`;
+        button.textContent = language.label;
+        button.addEventListener("click", () => {
+          state.activeLanguage = language.id;
+          renderLanguageTabs();
+          render();
+        });
+        refs.languageTabs.appendChild(button);
+      });
+    }
+
+    function getCourse(lang) {
+      return state.data[lang]?.courses?.[0] || null;
+    }
+
+    function getSectionsForNavigation() {
+      const preferred = getCourse(state.activeLanguage) || getCourse("en") || getCourse("es");
+      if (!preferred) {
+        return [];
+      }
+
+      const sections = preferred.sections || [];
+      if (!state.query) {
+        return sections;
+      }
+
+      return sections.filter((section) => matchesSection(section, state.query));
+    }
+
+    function matchesSection(section, query) {
+      const text = [
+        section.title,
+        section.description,
+        ...(section.slides || []).flatMap((slide) => collectSlideText(slide))
+      ].join(" ").toLowerCase();
+      return text.includes(query);
+    }
+
+    function collectSlideText(slide) {
+      const chunks = [slide.content_type, String(slide.order_index)];
+      (slide.contents || []).forEach((content) => {
+        chunks.push(String(content.order_index));
+        chunks.push(content.content_type || "");
+        const text = content.text;
+        if (typeof text === "string") {
+          chunks.push(text);
+        } else if (text && typeof text === "object") {
+          chunks.push(text.instruction || "");
+          chunks.push(text.instruction_text || "");
+          if (Array.isArray(text.paragraphs)) {
+            chunks.push(text.paragraphs.join(" "));
+          }
+        }
+      });
+      return chunks;
+    }
+
+    function clampSelection() {
+      const sections = getSectionsForNavigation();
+      if (!sections.length) {
+        state.sectionIndex = 0;
+        state.slideIndex = 0;
+        return { sections, currentSection: null, currentSlide: null };
+      }
+
+      if (state.sectionIndex >= sections.length) {
+        state.sectionIndex = 0;
+      }
+
+      const currentSection = sections[state.sectionIndex];
+      const slides = currentSection.slides || [];
+
+      if (!slides.length) {
+        state.slideIndex = 0;
+        return { sections, currentSection, currentSlide: null };
+      }
+
+      if (state.slideIndex >= slides.length) {
+        state.slideIndex = 0;
+      }
+
+      return { sections, currentSection, currentSlide: slides[state.slideIndex] };
+    }
+
+    function moveSlide(delta) {
+      const { sections, currentSection } = clampSelection();
+      if (!sections.length || !currentSection) {
+        return;
+      }
+
+      const slides = currentSection.slides || [];
+      const nextIndex = state.slideIndex + delta;
+
+      if (nextIndex >= 0 && nextIndex < slides.length) {
+        state.slideIndex = nextIndex;
+      } else if (nextIndex < 0 && state.sectionIndex > 0) {
+        state.sectionIndex -= 1;
+        const previousSection = sections[state.sectionIndex];
+        state.slideIndex = Math.max((previousSection.slides || []).length - 1, 0);
+      } else if (nextIndex >= slides.length && state.sectionIndex < sections.length - 1) {
+        state.sectionIndex += 1;
+        state.slideIndex = 0;
+      }
+
+      render();
+    }
+
+    function render() {
+      renderModeButtons();
+      renderLanguageTabs();
+
+      const { sections, currentSection, currentSlide } = clampSelection();
+      renderMeta(sections, currentSection);
+      renderHero(currentSection, currentSlide);
+      renderSections(sections);
+      renderSlides(currentSection);
+      renderContent(currentSection, currentSlide);
+    }
+
+    function renderMeta(sections, currentSection) {
+      const course = getCourse(state.activeLanguage) || getCourse("en") || getCourse("es");
+      const sectionCount = sections.length;
+      const slideCount = currentSection?.slides?.length || 0;
+      const duration = course?.duration_minutes || "-";
+      const languageValue = state.viewMode === "compare" ? "EN + ES" : state.activeLanguage.toUpperCase();
+
+      refs.meta.innerHTML = [
+        metaCard("Language", languageValue),
+        metaCard("Sections", String(sectionCount)),
+        metaCard("Slides", String(slideCount)),
+        metaCard("Duration", `${duration} min`)
+      ].join("");
+    }
+
+    function metaCard(label, value) {
+      return `
+        <div class="meta-card">
+          <div class="meta-label">${escapeHtml(label)}</div>
+          <div class="meta-value">${escapeHtml(value)}</div>
+        </div>
+      `;
+    }
+
+    function renderHero(currentSection, currentSlide) {
+      const course = getCourse(state.activeLanguage) || getCourse("en") || getCourse("es");
+      refs.heroEyebrow.textContent = course ? `${course.name} | ${course.state}` : "Course";
+      refs.heroTitle.textContent = currentSection?.title || "No section available";
+
+      const slideLabel = currentSlide
+        ? `Slide ${currentSlide.order_index} | ${currentSlide.content_type}`
+        : "No slide selected";
+
+      refs.heroDescription.textContent = currentSection
+        ? `${slideLabel}. Use compare mode to review both languages side by side or switch to single mode for focused reading.`
+        : "Load both JSON files or clear the search to begin review.";
+
+      const totalSlides = currentSection?.slides?.length || 0;
+      refs.slideCounter.textContent = totalSlides
+        ? `Slide ${state.slideIndex + 1} / ${totalSlides}`
+        : "Slide 0 / 0";
+
+      refs.prevSlideBtn.disabled = !currentSection;
+      refs.nextSlideBtn.disabled = !currentSection;
+    }
+
+    function renderSections(sections) {
+      refs.sectionList.innerHTML = "";
+      if (!sections.length) {
+        refs.sectionList.innerHTML = '<div class="empty">No sections match the current search.</div>';
+        return;
+      }
+
+      sections.forEach((section, index) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = `section-btn${state.sectionIndex === index ? " active" : ""}`;
+        button.innerHTML = `
+          <div class="section-title"><span class="section-index">${escapeHtml(String(section.order_index))}</span>${escapeHtml(section.title || "Untitled section")}</div>
+          <div class="section-sub">${(section.slides || []).length} slides</div>
+        `;
+        button.addEventListener("click", () => {
+          state.sectionIndex = index;
+          state.slideIndex = 0;
+          render();
+        });
+        refs.sectionList.appendChild(button);
+      });
+    }
+
+    function renderSlides(currentSection) {
+      refs.slideList.innerHTML = "";
+
+      if (!currentSection?.slides?.length) {
+        refs.slideList.innerHTML = '<div class="empty">No slides in this section.</div>';
+        return;
+      }
+
+      currentSection.slides.forEach((slide, index) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = `slide-btn${state.slideIndex === index ? " active" : ""}`;
+        button.innerHTML = `
+          <div class="slide-title"><span class="slide-index">${escapeHtml(String(slide.order_index))}</span>${escapeHtml(slide.content_type || "Slide")}</div>
+          <div class="slide-sub">${(slide.contents || []).length} content blocks</div>
+        `;
+        button.addEventListener("click", () => {
+          state.slideIndex = index;
+          render();
+        });
+        refs.slideList.appendChild(button);
+      });
+    }
+
+    function renderContent(currentSection, currentSlide) {
+      refs.contentGrid.className = `content-grid ${state.viewMode}`;
+      refs.contentGrid.innerHTML = "";
+
+      if (!currentSection || !currentSlide) {
+        refs.contentGrid.innerHTML = '<div class="empty">No content available for the current selection.</div>';
+        return;
+      }
+
+      if (state.viewMode === "compare") {
+        ["en", "es"].forEach((lang) => {
+          refs.contentGrid.appendChild(renderLanguageCard(lang));
+        });
+      } else {
+        refs.contentGrid.appendChild(renderLanguageCard(state.activeLanguage));
+      }
+    }
+
+    function renderLanguageCard(lang) {
+      const course = getCourse(lang);
+      const section = course?.sections?.find((item) => item.order_index === getCurrentSectionOrderIndex());
+      const slide = section?.slides?.find((item) => item.order_index === getCurrentSlideOrderIndex());
+
+      const card = document.createElement("article");
+      card.className = "card";
+
+      if (!course || !section || !slide) {
+        card.innerHTML = `
+          <div class="card-header">
+            <div>
+              <p class="card-kicker">${lang.toUpperCase()}</p>
+              <h3 class="card-title">Content missing for this selection</h3>
+            </div>
+            <span class="tag">Unavailable</span>
+          </div>
+          <div class="empty">This section or slide does not exist in the ${lang.toUpperCase()} JSON.</div>
+        `;
+        return card;
+      }
+
+      const blocks = (slide.contents || []).map((content) => renderContentBlock(content)).join("");
+      card.innerHTML = `
+        <div class="card-header">
+          <div>
+            <p class="card-kicker">${lang.toUpperCase()}</p>
+            <h3 class="card-title">${escapeHtml(section.title || "Untitled section")}</h3>
+          </div>
+          <span class="tag">Slide ${escapeHtml(String(slide.order_index))} | ${escapeHtml(slide.content_type || "Slide")}</span>
+        </div>
+        ${blocks || '<div class="empty">No content blocks on this slide.</div>'}
+      `;
+      return card;
+    }
+
+    function getCurrentSectionOrderIndex() {
+      const sections = getSectionsForNavigation();
+      return sections[state.sectionIndex]?.order_index;
+    }
+
+    function getCurrentSlideOrderIndex() {
+      const sections = getSectionsForNavigation();
+      const currentSection = sections[state.sectionIndex];
+      return currentSection?.slides?.[state.slideIndex]?.order_index;
+    }
+
+    function renderContentBlock(content) {
+      const type = content.content_type || inferContentType(content.text);
+      const text = content.text;
+      const body = renderTextPayload(text);
+      return `
+        <section class="content-block">
+          <div class="content-head">
+            <strong>Content ${escapeHtml(String(content.order_index ?? "-"))}</strong>
+            <span>${escapeHtml(type || "text")}</span>
+          </div>
+          ${body}
+        </section>
+      `;
+    }
+
+    function inferContentType(text) {
+      if (typeof text === "string") {
+        return "text";
+      }
+      if (text?.paragraphs) {
+        return "paragraphs";
+      }
+      return "content";
+    }
+
+    function renderTextPayload(text) {
+      if (typeof text === "string") {
+        return `<div class="generic-text">${escapeHtml(text)}</div>`;
+      }
+
+      if (!text || typeof text !== "object") {
+        return '<div class="generic-text">No text payload.</div>';
+      }
+
+      const paragraphs = Array.isArray(text.paragraphs)
+        ? `<div class="paragraphs">${text.paragraphs.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("")}</div>`
+        : "";
+
+      const instruction = text.instruction || text.instruction_text
+        ? `<div class="instruction">${escapeHtml(text.instruction || text.instruction_text)}</div>`
+        : "";
+
+      const extras = Object.entries(text)
+        .filter(([key]) => !["paragraphs", "instruction", "instruction_text"].includes(key))
+        .map(([key, value]) => `<div class="instruction"><strong>${escapeHtml(key)}:</strong> ${escapeHtml(stringifyValue(value))}</div>`)
+        .join("");
+
+      return `${paragraphs}${instruction}${extras}` || '<div class="generic-text">Empty text payload.</div>';
+    }
+
+    function stringifyValue(value) {
+      if (value == null) {
+        return "";
+      }
+      if (typeof value === "string") {
+        return value;
+      }
+      return JSON.stringify(value);
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+  </script>
+</body>
+</html>
