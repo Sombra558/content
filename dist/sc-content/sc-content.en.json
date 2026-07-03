@@ -398,7 +398,7 @@
                   "order_index": 14,
                   "text": {
                     "paragraphs": [
-                      "Practical rule: verify ID consistently for anyone who might be underage; if no valid ID, refuse the sale."
+                      "Practical rule: verify ID consistently for anyone who might be underage; if no valid ID, refuse the sale. References: SC Code § 61-4-50; § 61-6-4080; Reg. 7-200.4."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -461,7 +461,7 @@
                   "order_index": 16,
                   "text": {
                     "paragraphs": [
-                      "Warning: selling to minors can result in penalties for the server and the business. Always verify ID."
+                      "Warning: selling to minors can result in penalties for the server and the business. Always verify ID. References: SC Code § 61-4-50; § 61-6-4080."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -558,7 +558,7 @@
                   "order_index": 20,
                   "text": {
                     "paragraphs": [
-                      "Avoid indirect sales: do not sell if you suspect the purchase is for a minor (third-party sale)."
+                      "Avoid indirect sales: do not sell if you suspect the purchase is for a minor (third-party sale). References: SC Code § 61-4-90; § 61-6-4070; § 61-6-4075."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -807,7 +807,7 @@
                   "order_index": 30,
                   "text": {
                     "paragraphs": [
-                      "South Carolina DUI laws make it illegal to operate a vehicle while impaired by alcohol. Impairment can occur before a person feels “drunk.” As a server, your actions can help prevent impaired driving. Stopping service at the right time reduces the chance a customer will leave and drive while impaired."
+                      "South Carolina DUI laws make it illegal to operate a vehicle while impaired by alcohol. Impairment can occur before a person feels “drunk.” As a server, your actions can help prevent impaired driving. Stopping service at the right time reduces the chance a customer will leave and drive while impaired. References: SC Code § 56-5-2930; § 56-5-2933; § 56-5-2950."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -1008,7 +1008,7 @@
                   "order_index": 37,
                   "text": {
                     "paragraphs": [
-                      "South Carolina law addresses the presence of concealed weapons in alcohol-serving establishments. Certain locations that sell alcohol for on-premises consumption may restrict firearms. These rules are designed to reduce risk in environments where alcohol is consumed. As a server, you are not expected to enforce weapon laws directly, but you should understand basic restrictions and follow your workplace policies."
+                      "South Carolina law addresses the presence of concealed weapons in alcohol-serving establishments. Certain locations that sell alcohol for on-premises consumption may restrict firearms. These rules are designed to reduce risk in environments where alcohol is consumed. As a server, you are not expected to enforce weapon laws directly, but you should understand basic restrictions and follow your workplace policies. References: SC Code § 16-23-465; § 23-31-220."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -3803,7 +3803,7 @@
                   "order_index": 6,
                   "text": {
                     "paragraphs": [
-                      "Underage drinking can harm education and future opportunities; some offenses may affect scholarship eligibility. Refusing a sale protects their future."
+                      "Underage drinking can harm education and future opportunities; some offenses may affect scholarship eligibility. Refusing a sale protects their future. References: SC Code § 59-104-20; § 61-4-100; § 61-6-4085; Reg. 62-900.95."
                     ],
                     "instruction": "Read the following, then click Next."
                   }

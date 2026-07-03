@@ -398,7 +398,7 @@
                   "order_index": 14,
                   "text": {
                     "paragraphs": [
-                      "Regla práctica: verifique ID consistente para cualquier persona que podría ser menor; si no hay ID válida, niegue la venta."
+                      "Regla práctica: verifique ID consistente para cualquier persona que podría ser menor; si no hay ID válida, niegue la venta. Referencias: SC Code § 61-4-50; § 61-6-4080; Reg. 7-200.4."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -461,7 +461,7 @@
                   "order_index": 16,
                   "text": {
                     "paragraphs": [
-                      "Advertencia: vender a menores puede conllevar sanciones para el servidor y el establecimiento. Verifique siempre la ID."
+                      "Advertencia: vender a menores puede conllevar sanciones para el servidor y el establecimiento. Verifique siempre la ID. Referencias: SC Code § 61-4-50; § 61-6-4080."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -558,7 +558,7 @@
                   "order_index": 20,
                   "text": {
                     "paragraphs": [
-                      "Evite ventas indirectas: no venda si sospecha compra para un menor (venta a terceros)."
+                      "Evite ventas indirectas: no venda si sospecha compra para un menor (venta a terceros). Referencias: SC Code § 61-4-90; § 61-6-4070; § 61-6-4075."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -809,7 +809,7 @@
                   "order_index": 30,
                   "text": {
                     "paragraphs": [
-                      "Las leyes de DUI de Carolina del Sur hacen que sea ilegal operar un vehículo bajo los efectos del alcohol. El deterioro puede ocurrir antes de que una persona se sienta \"borracha\". Como servidor, sus acciones pueden ayudar a prevenir la conducción bajo los efectos del alcohol. Detener el servicio en el momento adecuado reduce la posibilidad de que un cliente se vaya y conduzca en estado de ebriedad."
+                      "Las leyes de DUI de Carolina del Sur hacen que sea ilegal operar un vehículo bajo los efectos del alcohol. El deterioro puede ocurrir antes de que una persona se sienta \"borracha\". Como servidor, sus acciones pueden ayudar a prevenir la conducción bajo los efectos del alcohol. Detener el servicio en el momento adecuado reduce la posibilidad de que un cliente se vaya y conduzca en estado de ebriedad. Referencias: SC Code § 56-5-2930; § 56-5-2933; § 56-5-2950."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -1010,7 +1010,7 @@
                   "order_index": 37,
                   "text": {
                     "paragraphs": [
-                      "La ley de Carolina del Sur aborda la presencia de armas ocultas en establecimientos que sirven alcohol. Ciertos lugares que venden alcohol para consumo interno pueden restringir el uso de armas de fuego. Estas reglas están diseñadas para reducir el riesgo en entornos donde se consume alcohol. Como servidor, no se espera que usted haga cumplir las leyes sobre armas directamente, pero debe comprender las restricciones básicas y seguir las políticas de su lugar de trabajo."
+                      "La ley de Carolina del Sur aborda la presencia de armas ocultas en establecimientos que sirven alcohol. Ciertos lugares que venden alcohol para consumo interno pueden restringir el uso de armas de fuego. Estas reglas están diseñadas para reducir el riesgo en entornos donde se consume alcohol. Como servidor, no se espera que usted haga cumplir las leyes sobre armas directamente, pero debe comprender las restricciones básicas y seguir las políticas de su lugar de trabajo. Referencias: SC Code § 16-23-465; § 23-31-220."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3805,7 +3805,7 @@
                   "order_index": 6,
                   "text": {
                     "paragraphs": [
-                      "El consumo de alcohol entre menores de edad puede tener efectos a largo plazo. Puede afectar la educación, el juicio y las oportunidades futuras. El consumo temprano de alcohol está relacionado con un mayor comportamiento de riesgo. Además de consecuencias legales, ciertas infracciones relacionadas con alcohol pueden afectar oportunidades educativas y, en algunos casos, la elegibilidad para ciertas becas estatales. Al negarse a vender, puede estar evitando daños graves. Su función va más allá de completar una transacción. Estás ayudando a proteger el futuro de alguien."
+                      "El consumo de alcohol entre menores de edad puede tener efectos a largo plazo. Puede afectar la educación, el juicio y las oportunidades futuras. El consumo temprano de alcohol está relacionado con un mayor comportamiento de riesgo. Además de consecuencias legales, ciertas infracciones relacionadas con alcohol pueden afectar oportunidades educativas y, en algunos casos, la elegibilidad para ciertas becas estatales. Al negarse a vender, puede estar evitando daños graves. Su función va más allá de completar una transacción. Estás ayudando a proteger el futuro de alguien. Referencias: SC Code § 59-104-20; § 61-4-100; § 61-6-4085; Reg. 62-900.95."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
