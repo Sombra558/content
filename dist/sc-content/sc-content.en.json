@@ -63,7 +63,7 @@
                   "order_index": 2,
                   "text": {
                     "paragraphs": [
-                      "Alcohol sales in South Carolina require proper licensing. Businesses must hold a valid permit before selling beer, wine, or liquor. Different permits apply depending on the type of alcohol and business model. For example, restaurants, bars, and retail stores may have different requirements. Always work under a valid license. Serving alcohol without proper authorization is illegal."
+                      "Alcohol sales in South Carolina require proper licensing. Businesses must hold a valid permit before selling beer, wine, or liquor. Different permits apply depending on the type of alcohol and business model. For example, restaurants, bars, and retail stores may have different requirements. Main on-premises permit types include PBW, PO7, PLB, PLC, and LOP. Always work under a valid license. Serving alcohol without proper authorization is illegal. References: SC Code § 61-4-120; § 61-4-510; § 61-4-630; § 61-6-1600; § 61-6-1610; § 61-4-150; § 61-4-560; § 61-6-2600; § 61-6-2610."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -136,7 +136,7 @@
                   "order_index": 4,
                   "text": {
                     "paragraphs": [
-                      "Permits must be displayed or available at the business location. Inspectors and law enforcement may check licenses at any time. You should know where permits are kept and confirm your workplace is operating legally. If a business is found operating without proper licensing, it can face serious consequences, including fines or shutdown."
+                      "Permits must be displayed or available at the business location. Inspectors and law enforcement may check licenses at any time. Some businesses must also post visible signs related to underage alcohol laws. You should know where permits are kept and confirm your workplace is operating legally. If a business is found operating without proper licensing, it can face serious consequences, including fines or shutdown. References: SC Code § 61-4-70; § 61-6-1530; § 61-2-90; § 61-2-100; § 61-2-140; Reg. 7-200.1; Reg. 7-202; Reg. 7-200.3."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -233,7 +233,7 @@
                   "order_index": 8,
                   "text": {
                     "paragraphs": [
-                      "Servers can be held responsible for illegal alcohol service. This includes selling to underage individuals or serving outside permitted hours. Even if a manager is present, you are still accountable for your actions. Knowing the law helps you make correct decisions and avoid personal risk. Always ask questions if you are unsure."
+                      "Servers can be held responsible for illegal alcohol service. This includes selling to underage individuals or serving outside permitted hours. Even if a manager is present, you are still accountable for your actions. Certain roles also have minimum age rules for employees and bartenders. Knowing the law helps you make correct decisions and avoid personal risk. Always ask questions if you are unsure. References: SC Code § 61-4-90(D); § 61-6-2200; § 61-6-4070; § 61-6-4140."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -807,7 +807,7 @@
                   "order_index": 30,
                   "text": {
                     "paragraphs": [
-                      "South Carolina DUI laws make it illegal to operate a vehicle while impaired by alcohol. Impairment can occur before a person feels “drunk.” As a server, your actions can help prevent impaired driving. Stopping service at the right time reduces the chance a customer will leave and drive while impaired. References: SC Code § 56-5-2930; § 56-5-2933; § 56-5-2950."
+                      "South Carolina DUI laws make it illegal to operate a vehicle while impaired by alcohol. Impairment can occur before a person feels “drunk.” As a server, your actions can help prevent impaired driving. Stopping service at the right time reduces the chance a customer will leave and drive while impaired. References: SC Code § 56-5-2930; § 56-5-2933; § 56-5-2940; § 56-5-2950; § 56-5-2951; § 61-4-110; § 61-6-4020."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -870,7 +870,7 @@
                   "order_index": 32,
                   "text": {
                     "paragraphs": [
-                      "Serving an intoxicated person can lead to legal consequences. Both the server and the business may be held responsible. These consequences may include fines, license actions, or other penalties. Even one mistake can have serious impact. This is why consistent monitoring and decision-making are essential during every shift."
+                      "Serving an intoxicated person can lead to legal consequences. Both the server and the business may be held responsible. These consequences may include fines, license actions, or other penalties. Even one mistake can have serious impact. This is why consistent monitoring and decision-making are essential during every shift. References: SC Code § 61-4-580; § 61-6-1830; § 61-6-2220; § 61-6-2230."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -1403,7 +1403,7 @@
                   "order_index": 52,
                   "text": {
                     "paragraphs": [
-                      "Civil liability involves lawsuits. If alcohol service leads to harm, such as an accident or injury, a business or server may be sued. These cases often involve financial damages. Civil cases are separate from criminal charges. Even if no criminal charge is filed, a civil lawsuit can still occur."
+                      "Civil liability involves lawsuits. If alcohol service leads to harm, such as an accident or injury, a business or server may be sued. These cases often involve financial damages. Civil cases are separate from criminal charges. Even if no criminal charge is filed, a civil lawsuit can still occur. Some businesses must also maintain liquor liability insurance. References: SC Code § 15-38-15; § 15-38-20; § 15-38-30; § 15-38-40; § 61-2-147; § 61-2-145."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -1420,7 +1420,7 @@
                   "order_index": 53,
                   "text": {
                     "paragraphs": [
-                      "Administrative liability relates to licensing and regulatory action. State agencies can take action against a business permit. This may include fines, suspension, or revocation of the license. These actions directly affect the business’s ability to operate. Violations by staff can lead to consequences for the entire establishment."
+                      "Administrative liability relates to licensing and regulatory action. State agencies can take action against a business permit. This may include fines, suspension, or revocation of the license. These actions directly affect the business’s ability to operate. Violations by staff can lead to consequences for the entire establishment. References: SC Code § 61-4-580; § 61-6-1830; § 61-6-2220; § 61-6-2230."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -12539,7 +12539,7 @@
                   "order_index": 26,
                   "text": {
                     "paragraphs": [
-                      "Alcohol promotions should support moderate and responsible consumption. Avoid anything that encourages excessive drinking or rapid consumption. Even if a promotion is allowed by your business, you must still monitor customer behavior closely. Your responsibility does not change based on a promotion. Safe service always comes first."
+                      "Alcohol promotions should support moderate and responsible consumption. Avoid anything that encourages excessive drinking or rapid consumption. Even if a promotion is allowed by your business, you must still monitor customer behavior closely. Your responsibility does not change based on a promotion. Safe service always comes first. References: SC Code § 61-4-160; § 61-6-4550; Reg. 7-202.5."
                     ],
                     "instruction": "Read the following, then click Next."
                   }

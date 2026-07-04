@@ -63,7 +63,7 @@
                   "order_index": 2,
                   "text": {
                     "paragraphs": [
-                      "La venta de alcohol en Carolina del Sur requiere una licencia adecuada. Las empresas deben tener un permiso válido antes de vender cerveza, vino o licor. Se aplican diferentes permisos según el tipo de alcohol y el modelo de negocio. Por ejemplo, los restaurantes, bares y tiendas minoristas pueden tener requisitos diferentes. Trabaje siempre con una licencia válida. Servir alcohol sin la autorización adecuada es ilegal."
+                      "La venta de alcohol en Carolina del Sur requiere una licencia adecuada. Las empresas deben tener un permiso válido antes de vender cerveza, vino o licor. Se aplican diferentes permisos según el tipo de alcohol y el modelo de negocio. Por ejemplo, los restaurantes, bares y tiendas minoristas pueden tener requisitos diferentes. Los tipos principales de permisos para consumo en el local incluyen PBW, PO7, PLB, PLC y LOP. Trabaje siempre con una licencia válida. Servir alcohol sin la autorización adecuada es ilegal. Referencias: SC Code § 61-4-120; § 61-4-510; § 61-4-630; § 61-6-1600; § 61-6-1610; § 61-4-150; § 61-4-560; § 61-6-2600; § 61-6-2610."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -136,7 +136,7 @@
                   "order_index": 4,
                   "text": {
                     "paragraphs": [
-                      "Los permisos deben estar exhibidos o disponibles en la ubicación comercial. Los inspectores y las fuerzas del orden pueden verificar las licencias en cualquier momento. Debe saber dónde se guardan los permisos y confirmar que su lugar de trabajo esté funcionando legalmente. Si se descubre que una empresa opera sin la licencia adecuada, puede enfrentar consecuencias graves, incluidas multas o el cierre."
+                      "Los permisos deben estar exhibidos o disponibles en la ubicación comercial. Los inspectores y las fuerzas del orden pueden verificar las licencias en cualquier momento. Algunos negocios también deben mostrar avisos visibles relacionados con menores de edad. Debe saber dónde se guardan los permisos y confirmar que su lugar de trabajo esté funcionando legalmente. Si se descubre que una empresa opera sin la licencia adecuada, puede enfrentar consecuencias graves, incluidas multas o el cierre. Referencias: SC Code § 61-4-70; § 61-6-1530; § 61-2-90; § 61-2-100; § 61-2-140; Reg. 7-200.1; Reg. 7-202; Reg. 7-200.3."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -233,7 +233,7 @@
                   "order_index": 8,
                   "text": {
                     "paragraphs": [
-                      "Los camareros pueden ser considerados responsables por el servicio ilegal de alcohol. Esto incluye vender a menores de edad o servir fuera del horario permitido. Incluso si un gerente está presente, usted sigue siendo responsable de sus acciones. Conocer la ley le ayuda a tomar decisiones correctas y evitar riesgos personales. Siempre haga preguntas si no está seguro."
+                      "Los camareros pueden ser considerados responsables por el servicio ilegal de alcohol. Esto incluye vender a menores de edad o servir fuera del horario permitido. Incluso si un gerente está presente, usted sigue siendo responsable de sus acciones. En ciertas funciones, también aplican límites de edad para empleados y bartenders. Conocer la ley le ayuda a tomar decisiones correctas y evitar riesgos personales. Siempre haga preguntas si no está seguro. Referencias: SC Code § 61-4-90(D); § 61-6-2200; § 61-6-4070; § 61-6-4140."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -809,7 +809,7 @@
                   "order_index": 30,
                   "text": {
                     "paragraphs": [
-                      "Las leyes de DUI de Carolina del Sur hacen que sea ilegal operar un vehículo bajo los efectos del alcohol. El deterioro puede ocurrir antes de que una persona se sienta \"borracha\". Como servidor, sus acciones pueden ayudar a prevenir la conducción bajo los efectos del alcohol. Detener el servicio en el momento adecuado reduce la posibilidad de que un cliente se vaya y conduzca en estado de ebriedad. Referencias: SC Code § 56-5-2930; § 56-5-2933; § 56-5-2950."
+                      "Las leyes de DUI de Carolina del Sur hacen que sea ilegal operar un vehículo bajo los efectos del alcohol. El deterioro puede ocurrir antes de que una persona se sienta \"borracha\". Como servidor, sus acciones pueden ayudar a prevenir la conducción bajo los efectos del alcohol. Detener el servicio en el momento adecuado reduce la posibilidad de que un cliente se vaya y conduzca en estado de ebriedad. Referencias: SC Code § 56-5-2930; § 56-5-2933; § 56-5-2940; § 56-5-2950; § 56-5-2951; § 61-4-110; § 61-6-4020."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -872,7 +872,7 @@
                   "order_index": 32,
                   "text": {
                     "paragraphs": [
-                      "Servir a una persona en estado de ebriedad puede tener consecuencias legales. Tanto el servidor como la empresa pueden ser considerados responsables. Estas consecuencias pueden incluir multas, acciones de licencia u otras sanciones. Incluso un error puede tener un impacto grave. Es por eso que el monitoreo y la toma de decisiones consistentes son esenciales durante cada turno."
+                      "Servir a una persona en estado de ebriedad puede tener consecuencias legales. Tanto el servidor como la empresa pueden ser considerados responsables. Estas consecuencias pueden incluir multas, acciones de licencia u otras sanciones. Incluso un error puede tener un impacto grave. Es por eso que el monitoreo y la toma de decisiones consistentes son esenciales durante cada turno. Referencias: SC Code § 61-4-580; § 61-6-1830; § 61-6-2220; § 61-6-2230."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -1405,7 +1405,7 @@
                   "order_index": 52,
                   "text": {
                     "paragraphs": [
-                      "La responsabilidad civil implica demandas. Si el servicio de alcohol provoca daños, como un accidente o una lesión, una empresa o un camarero pueden ser demandados. Estos casos a menudo implican daños financieros. Los casos civiles están separados de los cargos penales. Incluso si no se presenta ningún cargo penal, todavía se puede presentar una demanda civil."
+                      "La responsabilidad civil implica demandas. Si el servicio de alcohol provoca daños, como un accidente o una lesión, una empresa o un camarero pueden ser demandados. Estos casos a menudo implican daños financieros. Los casos civiles están separados de los cargos penales. Incluso si no se presenta ningún cargo penal, todavía se puede presentar una demanda civil. Algunos negocios también deben mantener seguro de responsabilidad por licor. Referencias: SC Code § 15-38-15; § 15-38-20; § 15-38-30; § 15-38-40; § 61-2-147; § 61-2-145."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -1422,7 +1422,7 @@
                   "order_index": 53,
                   "text": {
                     "paragraphs": [
-                      "La responsabilidad administrativa se relaciona con la concesión de licencias y la acción regulatoria. Las agencias estatales pueden tomar medidas contra un permiso comercial. Esto puede incluir multas, suspensión o revocación de la licencia. Estas acciones afectan directamente la capacidad de operación del negocio. Las infracciones por parte del personal pueden tener consecuencias para todo el establecimiento."
+                      "La responsabilidad administrativa se relaciona con la concesión de licencias y la acción regulatoria. Las agencias estatales pueden tomar medidas contra un permiso comercial. Esto puede incluir multas, suspensión o revocación de la licencia. Estas acciones afectan directamente la capacidad de operación del negocio. Las infracciones por parte del personal pueden tener consecuencias para todo el establecimiento. Referencias: SC Code § 61-4-580; § 61-6-1830; § 61-6-2220; § 61-6-2230."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12540,7 +12540,7 @@
                   "order_index": 26,
                   "text": {
                     "paragraphs": [
-                      "Las promociones de alcohol deben apoyar el consumo moderado y responsable. Evita cualquier cosa que fomente el consumo excesivo o rápido de alcohol. Incluso si tu empresa permite una promoción, debes monitorear de cerca el comportamiento del cliente. Tu responsabilidad no cambia según una promoción. El servicio seguro siempre es lo primero."
+                      "Las promociones de alcohol deben apoyar el consumo moderado y responsable. Evita cualquier cosa que fomente el consumo excesivo o rápido de alcohol. Incluso si tu empresa permite una promoción, debes monitorear de cerca el comportamiento del cliente. Tu responsabilidad no cambia según una promoción. El servicio seguro siempre es lo primero. Referencias: SC Code § 61-4-160; § 61-6-4550; Reg. 7-202.5."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
