@@ -12992,11 +12992,171 @@
       {
        "order_index": 22,
        "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 22,
+         "text": {
+          "paragraphs": [
+           "Responsible service is not a one-time lesson. South Carolina's framework and best practice expect servers to keep their knowledge current through refresher training, periodic self-assessments, and digital modules. Laws, permit rules, and penalties change -- the Legal Supplement itself carries an effective date -- so what you learned last year may not be current today."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 23,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 23,
+         "text": {
+          "paragraphs": [
+           "Make ongoing training a habit: complete refreshers when your employer offers them, recheck your own ID-checking and refusal skills regularly, and stay alert to updates in South Carolina alcohol law. Employers who keep every server certified also reduce their liquor-liability insurance requirement, so your continued training directly benefits the business."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 24,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 24,
+         "interactive": {
+          "question": "You hear that South Carolina may have changed a rule about serving hours, but you are not sure. What is the best professional response?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. Keep serving the way you always have until someone complains",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. Check current South Carolina resources or ask your manager, and complete refresher training to stay current",
+            "is_correct": true
+           },
+           {
+            "id": "opt_c",
+            "label": "C. Guess based on what other bars do",
+            "is_correct": false
+           },
+           {
+            "id": "opt_d",
+            "label": "D. Ignore it; training only matters when you are first hired",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "Laws and rules change over time. Staying current through refresher training and checking authoritative South Carolina resources or your manager is part of responsible, ongoing professional conduct.",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 25,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 25,
+         "text": {
+          "paragraphs": [
+           "Businesses open after 5 p.m. that sell alcohol for on-premises consumption must carry at least $1 million in liquor-liability coverage. South Carolina lets a business lower that requirement through risk mitigation -- for example, a $100,000 reduction when every server completes the SC Alcohol Server Certificate within 60 days of hire, or when the business stops serving at midnight (a $250,000 reduction). This is a direct financial reason your training and responsible service matter to your employer. Relevant statute: SC Code Section 61-2-145."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 26,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 26,
+         "text": {
+          "paragraphs": [
+           "If an intoxicated guest later causes harm, the establishment can share civil liability. Under South Carolina law a business is no longer liable for more than 50% of the damages from a DUI incident, and responsibility can be apportioned among multiple parties if a jury agrees. Responsible service -- cutting off intoxicated guests and refusing illegal sales -- is how you and your employer limit this exposure. Relevant statutes: SC Code Sections 15-38-15 through 15-38-40 and 61-2-147."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 27,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 27,
+         "text": {
+          "paragraphs": [
+           "South Carolina restricts alcohol promotions that encourage over-consumption. For on-premises consumption, a business may not advertise, sell, or dispense beer, wine, or liquor for free, at less than half the regular price, or on a two-for-one basis. It is also illegal to run a 'drinking contest' or 'drinking game.' Relevant statutes: SC Code Sections 61-4-160 and 61-6-4550."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 28,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 28,
+         "text": {
+          "paragraphs": [
+           "Curbside and drive-thru alcohol sales are prohibited. A permit holder or employee may not sell or deliver beer or wine to anyone who remains in a motor vehicle during the transaction -- this rule specifically bans drive-in, drive-thru, and curb service alcohol sales. Relevant statute: SC Code of Regulations 7-202.5."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 29,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 29,
+         "text": {
+          "paragraphs": [
+           "When you complete this course and pass the test, your Alcohol Server Certificate is issued through the South Carolina Department of Revenue (SCDOR). You can access your approved certificate and its certificate number through the MYDORWAY portal. Keep your certificate number -- employers and regulators may ask you to confirm your certification."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 30,
+       "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 22,
+         "order_index": 30,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13036,13 +13196,13 @@
        ]
       },
       {
-       "order_index": 23,
+       "order_index": 31,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 23,
+         "order_index": 31,
          "text": {
           "paragraphs": [
            "A strong team culture supports responsible alcohol service. This means valuing safety over sales and supporting each other’s decisions. When servers and managers work together, it creates a safer environment for customers and staff. Positive teamwork also improves confidence when making difficult service decisions."
@@ -13053,13 +13213,13 @@
        ]
       },
       {
-       "order_index": 24,
+       "order_index": 32,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 24,
+         "order_index": 32,
          "interactive": {
           "question": "A customer becomes upset after you refuse service due to signs of intoxication. They raise their voice and demand another drink. What should you do next?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -13094,13 +13254,13 @@
        ]
       },
       {
-       "order_index": 25,
+       "order_index": 33,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 25,
+         "order_index": 33,
          "text": {
           "paragraphs": [
            "Responsible marketing and promotion are important parts of alcohol service in South Carolina. Promotions should never encourage unsafe drinking. The goal is to attract customers while maintaining safety and compliance. Servers and staff must understand how promotions affect customer behavior. Poorly designed promotions can increase the risk of over-service and lead to unsafe situations."
@@ -13111,13 +13271,13 @@
        ]
       },
       {
-       "order_index": 26,
+       "order_index": 34,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 26,
+         "order_index": 34,
          "text": {
           "paragraphs": [
            "Alcohol promotions should support moderate and responsible consumption. Avoid anything that encourages excessive drinking or rapid consumption. Even if a promotion is allowed by your business, you must still monitor customer behavior closely. Your responsibility does not change based on a promotion. Safe service always comes first. References: SC Code § 61-4-160; § 61-6-4550; Reg. 7-202.5."
@@ -13128,13 +13288,13 @@
        ]
       },
       {
-       "order_index": 27,
+       "order_index": 35,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 27,
+         "order_index": 35,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13174,13 +13334,13 @@
        ]
       },
       {
-       "order_index": 28,
+       "order_index": 36,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 28,
+         "order_index": 36,
          "text": {
           "paragraphs": [
            "Marketing decisions are usually made by management, but servers still play a role. You must follow the rules of any promotion and apply them safely. If a promotion seems to create unsafe conditions, notify a manager. Do not continue serving in a way that increases risk just to meet promotional goals."
@@ -13191,13 +13351,13 @@
        ]
       },
       {
-       "order_index": 29,
+       "order_index": 37,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 29,
+         "order_index": 37,
          "text": {
           "paragraphs": [
            "Promotions can change how customers behave. Discounts or specials may lead customers to drink faster or order more. Stay aware of these patterns. Watch for signs of intoxication and adjust your service. Slowing down service or offering alternatives helps maintain control during busy or high-risk promotions."
@@ -13208,13 +13368,13 @@
        ]
       },
       {
-       "order_index": 30,
+       "order_index": 38,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 30,
+         "order_index": 38,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13254,13 +13414,13 @@
        ]
       },
       {
-       "order_index": 31,
+       "order_index": 39,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 31,
+         "order_index": 39,
          "text": {
           "paragraphs": [
            "Responsible marketing also includes how alcohol is presented to customers. Staff should avoid language that encourages excessive drinking. Focus on quality, not quantity. Avoid statements that push customers to drink more. Your words can influence behavior, so keep communication professional and safety-focused."
@@ -13271,13 +13431,13 @@
        ]
       },
       {
-       "order_index": 32,
+       "order_index": 40,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 32,
+         "order_index": 40,
          "text": {
           "paragraphs": [
            "You must still refuse service when required, even during promotions. A discount or special does not change the law. Do not serve minors or intoxicated customers under any circumstance. Promotions should never override your responsibility to follow state laws and protect customer safety."
@@ -13288,13 +13448,13 @@
        ]
       },
       {
-       "order_index": 33,
+       "order_index": 41,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 33,
+         "order_index": 41,
          "text": {
           "paragraphs": [
            "Managers are responsible for setting promotion guidelines, but servers must help enforce them. If a promotion creates confusion or conflict, involve a manager. Clear communication and teamwork help ensure promotions are carried out safely and consistently across all staff members."
@@ -13305,13 +13465,13 @@
        ]
       },
       {
-       "order_index": 34,
+       "order_index": 42,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 34,
+         "order_index": 42,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13351,13 +13511,13 @@
        ]
       },
       {
-       "order_index": 35,
+       "order_index": 43,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 35,
+         "order_index": 43,
          "text": {
           "paragraphs": [
            "Responsible promotion supports long-term business success. Unsafe promotions can lead to incidents, complaints, or legal issues. Safe practices protect customers, staff, and the business. When promotions are handled correctly, they create a positive environment without increasing risk or encouraging unsafe behavior."
@@ -13368,13 +13528,13 @@
        ]
       },
       {
-       "order_index": 36,
+       "order_index": 44,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 36,
+         "order_index": 44,
          "interactive": {
           "question": "A group is participating in a drink special and begins ordering drinks quickly. One customer is showing early signs of intoxication. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -13409,13 +13569,13 @@
        ]
       },
       {
-       "order_index": 37,
+       "order_index": 45,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 37,
+         "order_index": 45,
          "text": {
           "paragraphs": [
            "Standard drink awareness helps alcohol servers understand how much alcohol a customer is actually consuming. Not all drinks are equal. Different types and sizes of drinks can contain different amounts of alcohol. Knowing what counts as a standard drink helps you monitor intake and prevent over-service. This knowledge supports safe service and better decision-making during every shift."
@@ -13426,13 +13586,13 @@
        ]
       },
       {
-       "order_index": 38,
+       "order_index": 46,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 38,
+         "order_index": 46,
          "text": {
           "paragraphs": [
            "A standard drink is a general way to measure alcohol content across different beverages. It allows you to compare beer, wine, and liquor on the same scale. This helps you track how much alcohol a customer has consumed, even if they are ordering different types of drinks throughout their visit."
@@ -13443,13 +13603,13 @@
        ]
       },
       {
-       "order_index": 39,
+       "order_index": 47,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 39,
+         "order_index": 47,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13489,13 +13649,13 @@
        ]
       },
       {
-       "order_index": 40,
+       "order_index": 48,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 40,
+         "order_index": 48,
          "text": {
           "paragraphs": [
            "Drink size and strength can vary widely. A large pour or a strong mixed drink may contain more than one standard drink. Do not assume that one glass equals one drink. Always consider how the drink is prepared. This is especially important when serving cocktails or specialty drinks."
@@ -13506,13 +13666,13 @@
        ]
       },
       {
-       "order_index": 41,
+       "order_index": 49,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 41,
+         "order_index": 49,
          "text": {
           "paragraphs": [
            "Customers may not understand standard drink sizes. They may believe they have had “only a few drinks,” even when they have consumed more alcohol than they realize. It is your responsibility to track consumption based on standard drink awareness, not just the number of items ordered."
@@ -13523,13 +13683,13 @@
        ]
       },
       {
-       "order_index": 42,
+       "order_index": 50,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 42,
+         "order_index": 50,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13569,13 +13729,13 @@
        ]
       },
       {
-       "order_index": 43,
+       "order_index": 51,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 43,
+         "order_index": 51,
          "text": {
           "paragraphs": [
            "Standard drink awareness helps you pace service. If a customer is consuming alcohol quickly, you may need to slow down service. Offer water or suggest food when appropriate. Pacing helps reduce the risk of intoxication and gives the body time to process alcohol more safely."
@@ -13586,13 +13746,13 @@
        ]
       },
       {
-       "order_index": 44,
+       "order_index": 52,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 44,
+         "order_index": 52,
          "text": {
           "paragraphs": [
            "Different customers are affected differently by alcohol. Body size, tolerance, and other factors can change how quickly someone becomes impaired. Even with standard drink awareness, you must still observe behavior. Use both drink tracking and visible signs to guide your decisions."
@@ -13603,13 +13763,13 @@
        ]
       },
       {
-       "order_index": 45,
+       "order_index": 53,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 45,
+         "order_index": 53,
          "text": {
           "paragraphs": [
            "Standard drink knowledge also supports communication with coworkers and managers. When everyone understands drink strength and portions, it is easier to track customer consumption as a team. This improves consistency and helps prevent over-service during busy shifts or group service situations."
@@ -13620,13 +13780,13 @@
        ]
       },
       {
-       "order_index": 46,
+       "order_index": 54,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 46,
+         "order_index": 54,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13666,13 +13826,13 @@
        ]
       },
       {
-       "order_index": 47,
+       "order_index": 55,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 47,
+         "order_index": 55,
          "text": {
           "paragraphs": [
            "Understanding standard drinks is part of responsible alcohol service expectations. It supports your role in recognizing intoxication and preventing unsafe situations. Combined with observation and good judgment, it helps you make better decisions throughout your shift and reduces the chance of harm."
@@ -13683,13 +13843,13 @@
        ]
       },
       {
-       "order_index": 48,
+       "order_index": 56,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 48,
+         "order_index": 56,
          "interactive": {
           "question": "A customer orders a strong cocktail with multiple shots and finishes it quickly. They ask for another right away. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -13724,13 +13884,13 @@
        ]
       },
       {
-       "order_index": 49,
+       "order_index": 57,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 49,
+         "order_index": 57,
          "text": {
           "paragraphs": [
            "Workplace culture sets the tone for how alcohol service is handled. In South Carolina, a strong culture supports safe, legal, and responsible service. This means following laws, respecting policies, and making decisions that protect customers and coworkers. A positive culture helps staff feel confident when making difficult service decisions, including refusing service when required."
@@ -13741,13 +13901,13 @@
        ]
       },
       {
-       "order_index": 50,
+       "order_index": 58,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 50,
+         "order_index": 58,
          "text": {
           "paragraphs": [
            "Ethics in alcohol service means doing the right thing, even when it is not the easiest choice. This includes refusing service when necessary, following ID procedures, and avoiding shortcuts. Ethical decisions protect customers and reduce risk. Your actions reflect both your professionalism and your workplace standards."
@@ -13758,13 +13918,13 @@
        ]
       },
       {
-       "order_index": 51,
+       "order_index": 59,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 51,
+         "order_index": 59,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13804,13 +13964,13 @@
        ]
       },
       {
-       "order_index": 52,
+       "order_index": 60,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 52,
+         "order_index": 60,
          "text": {
           "paragraphs": [
            "Professional conduct means staying calm, respectful, and focused during your shift. Treat all customers fairly and consistently. Avoid arguments or emotional reactions. Your behavior influences how customers respond. Staying professional helps prevent conflict and supports a safe and controlled environment."
@@ -13821,13 +13981,13 @@
        ]
       },
       {
-       "order_index": 53,
+       "order_index": 61,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 53,
+         "order_index": 61,
          "text": {
           "paragraphs": [
            "Team accountability is a key part of workplace culture. Staff must support each other in following rules and making safe decisions. If a coworker needs help, step in or notify a manager. Ignoring unsafe behavior can lead to larger problems. Everyone shares responsibility for maintaining standards."
@@ -13838,13 +13998,13 @@
        ]
       },
       {
-       "order_index": 54,
+       "order_index": 62,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 54,
+         "order_index": 62,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13884,13 +14044,13 @@
        ]
       },
       {
-       "order_index": 55,
+       "order_index": 63,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 55,
+         "order_index": 63,
          "text": {
           "paragraphs": [
            "Workplace culture should prioritize safety over sales. Serving more alcohol should never be more important than following the law. If a situation feels unsafe, you are expected to act. Choosing not to serve is often the safest and most responsible decision you can make."
@@ -13901,13 +14061,13 @@
        ]
       },
       {
-       "order_index": 56,
+       "order_index": 64,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 56,
+         "order_index": 64,
          "text": {
           "paragraphs": [
            "Managers play a key role in shaping workplace culture. They set expectations, enforce policies, and support staff decisions. When managers back responsible choices, it builds confidence across the team. Always communicate with management if you need guidance or support during service."
@@ -13918,13 +14078,13 @@
        ]
       },
       {
-       "order_index": 57,
+       "order_index": 65,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 57,
+         "order_index": 65,
          "text": {
           "paragraphs": [
            "Professional conduct also includes how you communicate with coworkers. Clear and respectful communication helps prevent mistakes. Share concerns quickly and directly. This helps the team stay aligned and respond to issues before they become serious problems."
@@ -13935,13 +14095,13 @@
        ]
       },
       {
-       "order_index": 58,
+       "order_index": 66,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 58,
+         "order_index": 66,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -13981,13 +14141,13 @@
        ]
       },
       {
-       "order_index": 59,
+       "order_index": 67,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 59,
+         "order_index": 67,
          "text": {
           "paragraphs": [
            "A positive workplace culture encourages confidence in making difficult decisions. Refusing service, slowing down alcohol service, or involving a manager are all part of responsible behavior. When staff feel supported, they are more likely to act in ways that protect safety and comply with the law."
@@ -13998,13 +14158,13 @@
        ]
       },
       {
-       "order_index": 60,
+       "order_index": 68,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 60,
+         "order_index": 68,
          "interactive": {
           "question": "A coworker continues serving a customer who appears intoxicated. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -14039,13 +14199,13 @@
        ]
       },
       {
-       "order_index": 61,
+       "order_index": 69,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 61,
+         "order_index": 69,
          "interactive": {
           "question": "A customer shows an ID that looks damaged and hard to read. You are unsure if it is valid. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -14080,13 +14240,13 @@
        ]
       },
       {
-       "order_index": 63,
+       "order_index": 70,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 63,
+         "order_index": 70,
          "interactive": {
           "question": "You are unsure whether a customer is intoxicated. What is the best next step?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -14121,13 +14281,13 @@
        ]
       },
       {
-       "order_index": 64,
+       "order_index": 71,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 64,
+         "order_index": 71,
          "interactive": {
           "question": "A busy shift makes it hard to track how much customers are drinking. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -14162,13 +14322,13 @@
        ]
       },
       {
-       "order_index": 65,
+       "order_index": 72,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 65,
+         "order_index": 72,
          "interactive": {
           "question": "A customer asks for multiple drinks at once for themselves. What is your best response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -14203,13 +14363,13 @@
        ]
       },
       {
-       "order_index": 66,
+       "order_index": 73,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 66,
+         "order_index": 73,
          "interactive": {
           "question": "A coworker refuses service and the customer asks you for a drink instead. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
