@@ -14299,7 +14299,7 @@
          "order_index": 2,
          "text": {
           "paragraphs": [
-           "Alcohol-impaired driving contributes to a large share of serious crashes in South Carolina. A notable portion of traffic fatalities involve drivers with measurable alcohol impairment. These incidents often occur after prolonged drinking periods. Servers are in a position to interrupt this pattern. Recognizing when a guest should no longer be served can help reduce the likelihood of these outcomes."
+           "Impaired driving remains one of South Carolina's most serious traffic-safety problems. According to NHTSA's Fatality Analysis Reporting System, 413 people were killed in alcohol-impaired-driving crashes in South Carolina in 2023 -- a driver with a blood alcohol concentration of 0.08% or higher was involved in 39% of all fatal-crash drivers that year. South Carolina consistently ranks among the states with the highest share of fatal crashes involving alcohol. As a server, the decision to stop serving an impaired guest is part of preventing these deaths."
           ],
           "instruction": "Read the following, then click Next."
          }
@@ -14309,11 +14309,127 @@
       {
        "order_index": 3,
        "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 3,
+         "text": {
+          "paragraphs": [
+           "The South Carolina Department of Public Safety reported 5,319 alcohol- or drug-involved collisions in 2023, in which 367 people were killed and 3,372 were injured (SCDPS 2023 Traffic Collision Fact Book). Put another way, roughly every 21.2 hours one person was killed in a driving-under-the-influence collision in South Carolina. Behind each number is a preventable decision about when to stop serving."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 4,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 4,
+         "text": {
+          "paragraphs": [
+           "Enforcement is increasing. The South Carolina Law Enforcement Division reported that DUI arrests rose 24.6% statewide from 2022 to 2023, with some counties more than doubling. South Carolina's 2024 mileage death rate of 1.68 fatalities per 100 million miles traveled was about 40% higher than the national rate of 1.20 (SCDPS). More enforcement means over-service is more likely to be traced back to the establishment and the server who poured the last drink."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 5,
+       "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 3,
+         "order_index": 5,
+         "text": {
+          "instruction": "Click each item to learn more."
+         },
+         "interactive": {
+          "content_structure": [
+           "The statistics point back to your role: {{item_1}} {{item_2}} {{item_3}} {{item_4}} Every responsible refusal changes the numbers."
+          ],
+          "reveal_items": [
+           {
+            "id": "item_1",
+            "title": "Prevention",
+            "revealed_text": "Stopping service to an impaired guest can prevent a crash before it happens."
+           },
+           {
+            "id": "item_2",
+            "title": "Legal exposure",
+            "revealed_text": "Over-service can be traced back to the server and establishment through enforcement and investigation."
+           },
+           {
+            "id": "item_3",
+            "title": "Community impact",
+            "revealed_text": "Each alcohol-related death and injury affects families, coworkers, and the wider community."
+           },
+           {
+            "id": "item_4",
+            "title": "Professional responsibility",
+            "revealed_text": "Responsible service is a measurable part of reducing South Carolina's impaired-driving toll."
+           }
+          ]
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 6,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 6,
+         "interactive": {
+          "question": "According to NHTSA FARS data, roughly what share of drivers in South Carolina's fatal crashes in 2023 had a blood alcohol concentration of 0.08% or higher?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. About 10%",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. About 25%",
+            "is_correct": false
+           },
+           {
+            "id": "opt_c",
+            "label": "C. About 39%",
+            "is_correct": true
+           },
+           {
+            "id": "opt_d",
+            "label": "D. About 75%",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "In 2023, about 39% of drivers in South Carolina fatal crashes had a BAC of 0.08% or higher, and 413 people were killed in alcohol-impaired-driving crashes (NHTSA FARS, 2023).",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 7,
+       "min_time": 3,
+       "content_type": "Completion",
+       "content_type_unique_id": "completion",
+       "contents": [
+        {
+         "order_index": 7,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -14353,13 +14469,13 @@
        ]
       },
       {
-       "order_index": 4,
+       "order_index": 8,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 4,
+         "order_index": 8,
          "text": {
           "paragraphs": [
            "DUI arrests in South Carolina are actively enforced by state and local law enforcement. Officers regularly patrol for impaired drivers and respond to alcohol-related incidents. These enforcement efforts aim to reduce harm. However, prevention starts before enforcement. Servers who follow proper procedures help reduce the number of impaired drivers on the road."
@@ -14370,13 +14486,13 @@
        ]
       },
       {
-       "order_index": 5,
+       "order_index": 9,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 5,
+         "order_index": 9,
          "text": {
           "paragraphs": [
            "Sobriety checkpoints and targeted patrols are used during high-risk periods. These enforcement strategies increase visibility and deter impaired driving. Guests may encounter these checkpoints after leaving your establishment. This reinforces the importance of not over-serving. If a guest is impaired, they are at risk of being stopped and causing harm."
@@ -14387,13 +14503,13 @@
        ]
       },
       {
-       "order_index": 6,
+       "order_index": 10,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 6,
+         "order_index": 10,
          "text": {
           "paragraphs": [
            "DUI trends show increased risk during certain times. Late nights, weekends, and holidays often see higher alcohol consumption. These patterns lead to more impaired driving incidents. Servers must stay alert during these periods. Monitoring intake and pacing drinks becomes more important when risk is elevated."
@@ -14404,13 +14520,13 @@
        ]
       },
       {
-       "order_index": 7,
+       "order_index": 11,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 7,
+         "order_index": 11,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -14450,13 +14566,13 @@
        ]
       },
       {
-       "order_index": 8,
+       "order_index": 12,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 8,
+         "order_index": 12,
          "text": {
           "paragraphs": [
            "Many DUI cases involve drivers who showed visible signs of intoxication before leaving. This highlights the importance of early action. Waiting too long to intervene increases risk. Servers must recognize signs and respond quickly. Preventing over-service is one of the most effective ways to reduce DUI incidents."
@@ -14467,13 +14583,13 @@
        ]
       },
       {
-       "order_index": 9,
+       "order_index": 13,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 9,
+         "order_index": 13,
          "text": {
           "paragraphs": [
            "Repeat DUI offenses are a concern in South Carolina. Some individuals continue risky behavior even after prior incidents. This makes consistent service practices critical. You cannot rely on a guest to make safe choices. Your responsibility is to follow the law and your training every time."
@@ -14484,13 +14600,13 @@
        ]
       },
       {
-       "order_index": 10,
+       "order_index": 14,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 10,
+         "order_index": 14,
          "text": {
           "paragraphs": [
            "South Carolina requires alcohol server training to reduce risks tied to alcohol service. This includes understanding DUI trends and prevention strategies. Training helps servers make better decisions in real situations. Applying these skills supports statewide efforts to reduce alcohol-related harm and improve safety outcomes."
@@ -14501,13 +14617,13 @@
        ]
       },
       {
-       "order_index": 11,
+       "order_index": 15,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 11,
+         "order_index": 15,
          "interactive": {
           "question": "A guest has been drinking for several hours. It is late, and they plan to drive home. They show slower reactions and reduced awareness. What is the best action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -14542,13 +14658,13 @@
        ]
       },
       {
-       "order_index": 12,
+       "order_index": 16,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 12,
+         "order_index": 16,
          "text": {
           "paragraphs": [
            "Alcohol-related injuries and fatalities remain a serious concern in South Carolina. Many incidents involve preventable over-service. As alcohol consumption increases, so does the risk of harm. These outcomes affect not only the individual but also others nearby. Servers play a key role in prevention. Recognizing risk early and adjusting service can help reduce injuries and save lives."
@@ -14559,13 +14675,13 @@
        ]
       },
       {
-       "order_index": 13,
+       "order_index": 17,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 13,
+         "order_index": 17,
          "text": {
           "paragraphs": [
            "Alcohol slows brain function and physical coordination. This increases the chance of accidents. Guests may trip, fall, or misjudge their surroundings. Even small levels of impairment can create risk. Monitoring behavior throughout service is critical. Taking action early helps prevent minor issues from becoming serious injuries."
@@ -14576,13 +14692,13 @@
        ]
       },
       {
-       "order_index": 14,
+       "order_index": 18,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 14,
+         "order_index": 18,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -14622,13 +14738,13 @@
        ]
       },
       {
-       "order_index": 15,
+       "order_index": 19,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 15,
+         "order_index": 19,
          "text": {
           "paragraphs": [
            "Alcohol-related fatalities are often linked to impaired driving, but they also occur in other ways. Falls, violence, and unsafe environments can all lead to fatal outcomes. These situations can develop quickly. Servers must remain aware of guest behavior and surroundings to reduce risk."
@@ -14639,13 +14755,13 @@
        ]
       },
       {
-       "order_index": 16,
+       "order_index": 20,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 16,
+         "order_index": 20,
          "text": {
           "paragraphs": [
            "Many injuries happen inside or near establishments. Crowded spaces, spills, and intoxicated guests increase the chance of accidents. A guest who loses balance or awareness can quickly become injured. Staff awareness and quick response are key to preventing harm in these situations."
@@ -14656,13 +14772,13 @@
        ]
       },
       {
-       "order_index": 17,
+       "order_index": 21,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 17,
+         "order_index": 21,
          "text": {
           "paragraphs": [
            "Risk increases when alcohol is combined with other factors. Fatigue, medications, and other substances can intensify impairment. Guests may appear more affected than expected. When behavior seems unusual, take it seriously. Slowing or stopping service can help prevent dangerous outcomes."
@@ -14673,13 +14789,13 @@
        ]
       },
       {
-       "order_index": 18,
+       "order_index": 22,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 18,
+         "order_index": 22,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -14719,13 +14835,13 @@
        ]
       },
       {
-       "order_index": 19,
+       "order_index": 23,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 19,
+         "order_index": 23,
          "text": {
           "paragraphs": [
            "Alcohol can increase aggression and reduce self-control. Some guests may become loud, confrontational, or unpredictable. This creates risk for staff and others. Recognizing early warning signs allows you to act before a situation escalates into injury or violence."
@@ -14736,13 +14852,13 @@
        ]
       },
       {
-       "order_index": 20,
+       "order_index": 24,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 20,
+         "order_index": 24,
          "text": {
           "paragraphs": [
            "Serious incidents often happen after multiple missed chances to intervene. A guest may show signs of impairment long before an injury occurs. Each decision matters. Acting early—by slowing service or refusing alcohol—can prevent harm and protect everyone involved."
@@ -14753,13 +14869,13 @@
        ]
       },
       {
-       "order_index": 21,
+       "order_index": 25,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 21,
+         "order_index": 25,
          "text": {
           "paragraphs": [
            "South Carolina training emphasizes preventing alcohol-related harm through responsible service. Servers must recognize intoxication and take appropriate action. These actions reduce the likelihood of injuries and fatalities. Your role supports safer environments and aligns with state training expectations."
@@ -14770,13 +14886,13 @@
        ]
       },
       {
-       "order_index": 22,
+       "order_index": 26,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 22,
+         "order_index": 26,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -14816,13 +14932,13 @@
        ]
       },
       {
-       "order_index": 23,
+       "order_index": 27,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 23,
+         "order_index": 27,
          "interactive": {
           "question": "A guest is stumbling, bumps into others, and drops a glass. They laugh and ask for another drink. What is the best action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -14857,13 +14973,13 @@
        ]
       },
       {
-       "order_index": 24,
+       "order_index": 28,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 24,
+         "order_index": 28,
          "text": {
           "paragraphs": [
            "Alcohol service has a direct impact on community safety in South Carolina. When alcohol is served responsibly, risks are reduced. When it is not, problems can extend beyond the establishment. Communities are affected by noise, disturbances, and unsafe behavior. Servers play a role in shaping these outcomes. Responsible service helps protect both guests and the surrounding community environment."
@@ -14874,13 +14990,13 @@
        ]
       },
       {
-       "order_index": 25,
+       "order_index": 29,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 25,
+         "order_index": 29,
          "text": {
           "paragraphs": [
            "Public safety concerns increase when alcohol is misused. This includes impaired driving, fights, and property damage. These incidents often begin with excessive drinking. What happens inside an establishment can carry into the community. Servers help control this risk by managing service carefully. Preventing over-service supports safer streets, neighborhoods, and shared public spaces."
@@ -14891,13 +15007,13 @@
        ]
       },
       {
-       "order_index": 26,
+       "order_index": 30,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 26,
+         "order_index": 30,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -14937,13 +15053,13 @@
        ]
       },
       {
-       "order_index": 27,
+       "order_index": 31,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 27,
+         "order_index": 31,
          "text": {
           "paragraphs": [
            "Alcohol-related incidents can strain local resources. Law enforcement, emergency services, and healthcare providers may be called to respond. These responses take time and resources away from other needs. Preventing alcohol-related problems reduces this burden. Servers contribute by recognizing risk early and taking action before situations require outside intervention."
@@ -14954,13 +15070,13 @@
        ]
       },
       {
-       "order_index": 28,
+       "order_index": 32,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 28,
+         "order_index": 32,
          "text": {
           "paragraphs": [
            "Neighborhood quality of life can be affected by alcohol-related behavior. Loud noise, late-night disruptions, and unsafe conduct can impact residents. These issues may lead to complaints or increased enforcement attention. Establishments that promote responsible service help maintain positive relationships with the community. This also supports long-term business success."
@@ -14971,13 +15087,13 @@
        ]
       },
       {
-       "order_index": 29,
+       "order_index": 33,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 29,
+         "order_index": 33,
          "text": {
           "paragraphs": [
            "Public intoxication can create safety concerns for both the individual and others. Intoxicated individuals may be vulnerable to injury or may act unpredictably. This increases the risk of accidents or confrontations. Servers can help prevent this by monitoring guests and limiting alcohol when needed. Early action is more effective than reacting after problems develop."
@@ -14988,13 +15104,13 @@
        ]
       },
       {
-       "order_index": 30,
+       "order_index": 34,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 30,
+         "order_index": 34,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -15034,13 +15150,13 @@
        ]
       },
       {
-       "order_index": 31,
+       "order_index": 35,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 31,
+         "order_index": 35,
          "text": {
           "paragraphs": [
            "Responsible alcohol service supports a safer environment for everyone. This includes guests, staff, and people outside the establishment. When servers follow proper procedures, fewer incidents occur. This reduces harm and builds trust with the community. Every decision made during service has a potential impact beyond the immediate setting."
@@ -15051,13 +15167,13 @@
        ]
       },
       {
-       "order_index": 32,
+       "order_index": 36,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 32,
+         "order_index": 36,
          "text": {
           "paragraphs": [
            "South Carolina emphasizes the importance of understanding community impact as part of alcohol server training. Servers are expected to recognize how their actions affect public safety. This includes preventing service to intoxicated individuals. Applying this knowledge helps reduce harm and supports safer communities statewide."
@@ -15068,13 +15184,13 @@
        ]
       },
       {
-       "order_index": 33,
+       "order_index": 37,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 33,
+         "order_index": 37,
          "text": {
           "paragraphs": [
            "Working as a team improves community safety outcomes. Staff should communicate about guest behavior and potential risks. Managers can provide support when situations escalate. A coordinated response helps prevent incidents from spreading beyond the establishment. Strong teamwork creates a safer environment for both guests and the public."
@@ -15085,13 +15201,13 @@
        ]
       },
       {
-       "order_index": 34,
+       "order_index": 38,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 34,
+         "order_index": 38,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -15131,13 +15247,13 @@
        ]
       },
       {
-       "order_index": 35,
+       "order_index": 39,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 35,
+         "order_index": 39,
          "interactive": {
           "question": "A group becomes loud and disruptive near closing time. One guest is clearly intoxicated and tries to leave to drive home. Nearby customers are uncomfortable. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -15172,13 +15288,13 @@
        ]
       },
       {
-       "order_index": 36,
+       "order_index": 40,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 36,
+         "order_index": 40,
          "text": {
           "paragraphs": [
            "Law enforcement plays a key role in overseeing alcohol service in South Carolina. Agencies monitor establishments to ensure laws are followed. This includes preventing sales to minors and intoxicated individuals. Oversight helps protect public safety and maintain accountability. Servers should expect that enforcement is active and ongoing. Understanding this helps reinforce the importance of following proper procedures every shift."
@@ -15189,13 +15305,13 @@
        ]
       },
       {
-       "order_index": 37,
+       "order_index": 41,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 37,
+         "order_index": 41,
          "text": {
           "paragraphs": [
            "Compliance checks are used to verify that alcohol laws are being followed. These checks may occur without warning. They are designed to test whether staff follow ID procedures and service rules. Servers must treat every transaction as if it is being observed. Consistent behavior is critical. Following the same steps every time helps ensure compliance during inspections."
@@ -15206,13 +15322,13 @@
        ]
       },
       {
-       "order_index": 38,
+       "order_index": 42,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 38,
+         "order_index": 42,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -15252,13 +15368,13 @@
        ]
       },
       {
-       "order_index": 39,
+       "order_index": 43,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 39,
+         "order_index": 43,
          "text": {
           "paragraphs": [
            "Law enforcement agencies may conduct routine visits to licensed establishments. These visits help ensure that operations meet legal requirements. Officers may observe service, review procedures, or address complaints. These interactions are part of normal oversight. Staying professional and cooperative during these visits is important for maintaining compliance."
@@ -15269,13 +15385,13 @@
        ]
       },
       {
-       "order_index": 40,
+       "order_index": 44,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 40,
+         "order_index": 44,
          "text": {
           "paragraphs": [
            "Underage compliance operations are a common enforcement method. These checks test whether staff properly verify identification. Failing to check ID or making assumptions can lead to violations. Servers must always follow ID procedures, regardless of how confident they feel. Consistency is key to passing these checks and avoiding penalties."
@@ -15286,13 +15402,13 @@
        ]
       },
       {
-       "order_index": 41,
+       "order_index": 45,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 41,
+         "order_index": 45,
          "text": {
           "paragraphs": [
            "Oversight also includes monitoring service to intoxicated individuals. Law enforcement may observe whether staff recognize and respond to impairment. Serving an intoxicated guest increases risk and can lead to enforcement action. Servers must stay alert and act when necessary. Preventing over-service supports both compliance and safety."
@@ -15303,13 +15419,13 @@
        ]
       },
       {
-       "order_index": 42,
+       "order_index": 46,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 42,
+         "order_index": 46,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -15349,13 +15465,13 @@
        ]
       },
       {
-       "order_index": 43,
+       "order_index": 47,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 43,
+         "order_index": 47,
          "text": {
           "paragraphs": [
            "Failure to follow alcohol laws can result in serious consequences. These may include fines, legal action, or business penalties. Enforcement actions can affect both the individual server and the establishment. Understanding these risks reinforces the need for consistent compliance. Every decision during service can have legal impact."
@@ -15366,13 +15482,13 @@
        ]
       },
       {
-       "order_index": 44,
+       "order_index": 48,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 44,
+         "order_index": 48,
          "text": {
           "paragraphs": [
            "Managers play an important role during enforcement interactions. They provide guidance and support to staff. If a situation becomes unclear, involving a manager is the right step. Team coordination helps ensure proper responses. This also demonstrates professionalism during inspections or compliance checks."
@@ -15383,13 +15499,13 @@
        ]
       },
       {
-       "order_index": 45,
+       "order_index": 49,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 45,
+         "order_index": 49,
          "text": {
           "paragraphs": [
            "South Carolina requires alcohol server training to include awareness of enforcement and compliance expectations. Servers must understand their responsibilities and apply them consistently. This helps reduce violations and supports lawful operations. Training prepares you to handle real-world enforcement situations with confidence."
@@ -15400,13 +15516,13 @@
        ]
       },
       {
-       "order_index": 46,
+       "order_index": 50,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 46,
+         "order_index": 50,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -15446,13 +15562,13 @@
        ]
       },
       {
-       "order_index": 47,
+       "order_index": 51,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 47,
+         "order_index": 51,
          "interactive": {
           "question": "An officer enters your establishment during a busy shift and observes service. A guest who appears underage approaches the bar. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -15487,13 +15603,13 @@
        ]
       },
       {
-       "order_index": 48,
+       "order_index": 52,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 48,
+         "order_index": 52,
          "text": {
           "paragraphs": [
            "Real-world cases show how alcohol service decisions impact safety. In many DUI crash reports, the driver had been drinking at a licensed establishment before the incident. These cases highlight missed chances to intervene. Servers are often the last point of contact before a guest drives. Learning from these examples helps you recognize risk and act earlier in similar situations."
@@ -15504,13 +15620,13 @@
        ]
       },
       {
-       "order_index": 49,
+       "order_index": 53,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 49,
+         "order_index": 53,
          "text": {
           "paragraphs": [
            "In one reported case, a visibly impaired guest continued to be served over time. Staff did not intervene. The guest later caused a serious crash. This situation reflects a failure to recognize and act on clear warning signs. Consistent monitoring and timely refusal of service can prevent these outcomes and protect both the guest and the public."
@@ -15521,13 +15637,13 @@
        ]
       },
       {
-       "order_index": 50,
+       "order_index": 54,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 50,
+         "order_index": 54,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -15567,13 +15683,13 @@
        ]
       },
       {
-       "order_index": 51,
+       "order_index": 55,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 51,
+         "order_index": 55,
          "text": {
           "paragraphs": [
            "Another case involved an underage individual who was served alcohol without proper ID verification. The guest later experienced alcohol poisoning. This situation shows the importance of checking identification every time. Skipping steps or making assumptions can lead to serious consequences. Proper ID procedures protect both the guest and the server."
@@ -15584,13 +15700,13 @@
        ]
       },
       {
-       "order_index": 52,
+       "order_index": 56,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 52,
+         "order_index": 56,
          "text": {
           "paragraphs": [
            "In some cases, intoxicated guests have been involved in fights inside establishments. These situations often begin with minor signs of agitation that go unnoticed. Without intervention, behavior can escalate quickly. Staff awareness and early involvement can prevent injuries and maintain a safe environment for all guests."
@@ -15601,13 +15717,13 @@
        ]
       },
       {
-       "order_index": 53,
+       "order_index": 57,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 53,
+         "order_index": 57,
          "text": {
           "paragraphs": [
            "A common pattern in these cases is delayed response. Staff may notice warning signs but hesitate to act. This delay increases risk. Taking action early—such as slowing service or involving a manager—can prevent situations from escalating. Confidence and consistency are key to effective intervention."
@@ -15618,13 +15734,13 @@
        ]
       },
       {
-       "order_index": 54,
+       "order_index": 58,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 54,
+         "order_index": 58,
          "text": {
           "paragraphs": [
            "Real-world outcomes often affect more than just the individual involved. Injuries, property damage, and legal consequences can impact many people. These cases reinforce the importance of responsible service. Every decision made during a shift has the potential to prevent or contribute to these outcomes."
@@ -15635,13 +15751,13 @@
        ]
       },
       {
-       "order_index": 55,
+       "order_index": 59,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 55,
+         "order_index": 59,
          "text": {
           "paragraphs": [
            "South Carolina training requires understanding how real incidents connect to service decisions. These examples demonstrate the importance of recognizing intoxication and preventing underage sales. Applying these lessons helps reduce alcohol-related harm and supports public safety expectations."
@@ -15652,13 +15768,13 @@
        ]
       },
       {
-       "order_index": 56,
+       "order_index": 60,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 56,
+         "order_index": 60,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -15698,13 +15814,13 @@
        ]
       },
       {
-       "order_index": 57,
+       "order_index": 61,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 57,
+         "order_index": 61,
          "interactive": {
           "question": "A guest shows clear signs of intoxication but insists they are fine and asks for another drink. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -15739,13 +15855,13 @@
        ]
       },
       {
-       "order_index": 58,
+       "order_index": 62,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 58,
+         "order_index": 62,
          "interactive": {
           "question": "A guest has had several drinks and begins speaking slowly. They ask for another drink and mention driving home. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -15780,13 +15896,13 @@
        ]
       },
       {
-       "order_index": 59,
+       "order_index": 63,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 59,
+         "order_index": 63,
          "interactive": {
           "question": "A coworker continues serving a guest who appears intoxicated. What is the best response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -15821,13 +15937,13 @@
        ]
       },
       {
-       "order_index": 60,
+       "order_index": 64,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 60,
+         "order_index": 64,
          "interactive": {
           "question": "A guest tries to leave quickly after heavy drinking and says they are driving. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
