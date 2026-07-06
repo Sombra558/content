@@ -7484,16 +7484,49 @@
       {
        "order_index": 1,
        "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
+       "content_type": "Completion",
+       "content_type_unique_id": "completion",
        "contents": [
         {
          "order_index": 1,
          "text": {
-          "paragraphs": [
-           "Intoxication means a person has consumed enough alcohol to impair normal mental or physical abilities. This affects judgment, coordination, and reaction time. In South Carolina, you must not serve someone who is overly intoxicated. Your responsibility is to recognize impairment early and act before it creates risk for the guest, your team, or the public."
+          "instruction": "Click each item to learn more."
+         },
+         "interactive": {
+          "content_structure": [
+           "Signs of intoxication usually show up in four areas: {{item_1}} {{item_2}} {{item_3}} {{item_4}} Watch for changes over time, not just a single moment."
           ],
-          "instruction": "Read the following, then click Next."
+          "reveal_items": [
+           {
+            "id": "item_1",
+            "title": "Speech",
+            "revealed_text": "Slurred, loud, rambling, or repetitive speech."
+           },
+           {
+            "id": "item_2",
+            "title": "Coordination",
+            "revealed_text": "Swaying, stumbling, dropping items, or trouble with simple tasks like handling money."
+           },
+           {
+            "id": "item_3",
+            "title": "Judgment and behavior",
+            "revealed_text": "Aggression, over-familiarity, risk-taking, or sudden mood changes."
+           },
+           {
+            "id": "item_4",
+            "title": "Appearance",
+            "revealed_text": "Glassy or bloodshot eyes, flushed face, or a disheveled look."
+           }
+          ]
+         }
+        },
+        {
+         "order_index": 1,
+         "image": {
+          "placeholder": true,
+          "asset_id": "sc-img-intoxication-signs",
+          "alt": "Grid of common intoxication signs grouped by speech, coordination, judgment, and appearance.",
+          "status": "pending"
          }
         }
        ]
@@ -7508,7 +7541,7 @@
          "order_index": 2,
          "text": {
           "paragraphs": [
-           "Alcohol is a depressant that slows the central nervous system. As drinking increases, brain function becomes less controlled. Decision-making declines, and reaction time slows. Physical coordination also weakens. Even small increases in alcohol can change behavior. Understanding these effects helps you identify intoxication before it becomes obvious or dangerous."
+           "Recognizing problem drinking early lets you act before a guest becomes a danger to themselves or others. Watch for guests who drink quickly, order rounds back to back, become louder or more withdrawn, or ask for drinks despite clear signs of impairment. Noticing these patterns early gives you time to slow service, offer food or water, and prepare to refuse further alcohol."
           ],
           "instruction": "Read the following, then click Next."
          }
@@ -7518,11 +7551,103 @@
       {
        "order_index": 3,
        "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 3,
+         "text": {
+          "paragraphs": [
+           "Know when and where to seek help. If a guest's drinking becomes a safety concern, involve your manager or security right away, and arrange safe transportation when needed. Servers are often the first line of defense against alcohol-related harm, so raising a concern early is a sign of professionalism, not weakness. Never let a visibly intoxicated guest drive."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 4,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 4,
+         "interactive": {
+          "question": "A guest is slurring words, swaying on the stool, and just knocked over a glass while reaching for their drink. What should you do?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. Serve one more since they are still sitting down",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. Stop alcohol service, offer water or food, and involve a manager while arranging safe transportation",
+            "is_correct": true
+           },
+           {
+            "id": "opt_c",
+            "label": "C. Wait until they fall before acting",
+            "is_correct": false
+           },
+           {
+            "id": "opt_d",
+            "label": "D. Move them to a booth and keep serving",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "Slurred speech, swaying, and loss of coordination are clear signs of intoxication. Stop serving alcohol, offer water or food, involve a manager, and help arrange safe transportation.",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 5,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 5,
+         "text": {
+          "paragraphs": [
+           "Intoxication means a person has consumed enough alcohol to impair normal mental or physical abilities. This affects judgment, coordination, and reaction time. In South Carolina, you must not serve someone who is overly intoxicated. Your responsibility is to recognize impairment early and act before it creates risk for the guest, your team, or the public."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 6,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 6,
+         "text": {
+          "paragraphs": [
+           "Alcohol is a depressant that slows the central nervous system. As drinking increases, brain function becomes less controlled. Decision-making declines, and reaction time slows. Physical coordination also weakens. Even small increases in alcohol can change behavior. Understanding these effects helps you identify intoxication before it becomes obvious or dangerous."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 7,
+       "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 3,
+         "order_index": 7,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -7562,13 +7687,13 @@
        ]
       },
       {
-       "order_index": 4,
+       "order_index": 8,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 4,
+         "order_index": 8,
          "text": {
           "paragraphs": [
            "The early stage of impairment often includes mood changes and reduced inhibitions. Guests may become more talkative or confident. They may drink faster or encourage others to drink. While this may seem harmless, it signals the start of impaired judgment. This is the best time to slow service and monitor behavior closely."
@@ -7579,13 +7704,13 @@
        ]
       },
       {
-       "order_index": 5,
+       "order_index": 9,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 5,
+         "order_index": 9,
          "text": {
           "paragraphs": [
            "As intoxication increases, coordination and focus begin to decline. Guests may struggle to follow conversations or track time. They may forget what they ordered or repeat themselves. These signs show alcohol is affecting brain function more significantly. At this point, continued service increases risk and may lead to illegal over-service."
@@ -7596,13 +7721,13 @@
        ]
       },
       {
-       "order_index": 6,
+       "order_index": 10,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 6,
+         "order_index": 10,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -7642,13 +7767,13 @@
        ]
       },
       {
-       "order_index": 7,
+       "order_index": 11,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 7,
+         "order_index": 11,
          "text": {
           "paragraphs": [
            "In later stages, intoxication becomes obvious and serious. Guests may stumble, drop items, or have trouble standing. Speech may be difficult to understand. Emotional changes like aggression or sadness may appear. At this point, the guest should not be served alcohol under any circumstances. Immediate action is required to manage the situation safely."
@@ -7659,13 +7784,13 @@
        ]
       },
       {
-       "order_index": 8,
+       "order_index": 12,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 8,
+         "order_index": 12,
          "text": {
           "paragraphs": [
            "Severe intoxication can lead to dangerous health risks. A guest may become unresponsive or unable to stay awake. Breathing may slow, and vomiting may occur. These are medical warning signs. Alcohol poisoning is possible. This situation requires immediate attention, including involving management and seeking medical help if needed."
@@ -7676,13 +7801,13 @@
        ]
       },
       {
-       "order_index": 9,
+       "order_index": 13,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 9,
+         "order_index": 13,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -7722,13 +7847,13 @@
        ]
       },
       {
-       "order_index": 10,
+       "order_index": 14,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 10,
+         "order_index": 14,
          "text": {
           "paragraphs": [
            "Not all guests show intoxication the same way. Some may appear calm while still being impaired. Others may become loud or emotional. You must rely on observable signs, not assumptions. Consistent monitoring is key. Always base your decisions on behavior, not how much a guest claims they have consumed."
@@ -7739,13 +7864,13 @@
        ]
       },
       {
-       "order_index": 11,
+       "order_index": 15,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 11,
+         "order_index": 15,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -7785,13 +7910,13 @@
        ]
       },
       {
-       "order_index": 12,
+       "order_index": 16,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 12,
+         "order_index": 16,
          "interactive": {
           "question": "A guest begins speaking loudly, stumbling slightly, and struggling to focus on conversation. What stage of impairment are they most likely in?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -7826,13 +7951,13 @@
        ]
       },
       {
-       "order_index": 13,
+       "order_index": 17,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 13,
+         "order_index": 17,
          "text": {
           "paragraphs": [
            "Physical signs of intoxication are visible changes in how a person moves, speaks, or appears. These signs help you identify impairment without relying on what a guest says. In South Carolina, recognizing these signs is critical because you must not serve someone who is overly intoxicated. Your decision must be based on what you observe, not assumptions."
@@ -7843,13 +7968,13 @@
        ]
       },
       {
-       "order_index": 14,
+       "order_index": 18,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 14,
+         "order_index": 18,
          "text": {
           "paragraphs": [
            "As alcohol affects the body, coordination begins to decline. Guests may have trouble with simple movements like picking up a drink or standing up. Small physical mistakes are often early indicators. Paying attention to these changes allows you to adjust service before impairment becomes severe or unsafe."
@@ -7860,13 +7985,13 @@
        ]
       },
       {
-       "order_index": 15,
+       "order_index": 19,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 15,
+         "order_index": 19,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -7906,13 +8031,13 @@
        ]
       },
       {
-       "order_index": 16,
+       "order_index": 20,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 16,
+         "order_index": 20,
          "text": {
           "paragraphs": [
            "Balance and coordination continue to worsen as intoxication increases. A guest may bump into objects or need support while walking. They may misjudge distances or struggle to sit down properly. These physical signs show the body is losing control, which increases the risk of injury and unsafe behavior."
@@ -7923,13 +8048,13 @@
        ]
       },
       {
-       "order_index": 17,
+       "order_index": 21,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 17,
+         "order_index": 21,
          "text": {
           "paragraphs": [
            "Hand-eye coordination is often affected during intoxication. Guests may spill drinks, miss objects, or fumble with money or cards. These mistakes may seem minor but are important indicators. They show that alcohol is impairing basic motor skills and that continued service could make the situation worse."
@@ -7940,13 +8065,13 @@
        ]
       },
       {
-       "order_index": 18,
+       "order_index": 22,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 18,
+         "order_index": 22,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -7986,13 +8111,13 @@
        ]
       },
       {
-       "order_index": 19,
+       "order_index": 23,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 19,
+         "order_index": 23,
          "text": {
           "paragraphs": [
            "Speech patterns can reveal intoxication. Words may become slurred, sentences may trail off, or the guest may repeat themselves. Speech changes are a reliable sign that alcohol is affecting brain function. These signs should not be ignored when deciding whether to continue service."
@@ -8003,13 +8128,13 @@
        ]
       },
       {
-       "order_index": 20,
+       "order_index": 24,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 20,
+         "order_index": 24,
          "text": {
           "paragraphs": [
            "Facial appearance can also change with intoxication. A guest may have flushed skin, drooping eyelids, or a blank expression. Eyes may appear unfocused or watery. These physical changes provide additional evidence of impairment and should be considered along with other observed behaviors."
@@ -8020,13 +8145,13 @@
        ]
       },
       {
-       "order_index": 21,
+       "order_index": 25,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 21,
+         "order_index": 25,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8066,13 +8191,13 @@
        ]
       },
       {
-       "order_index": 22,
+       "order_index": 26,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 22,
+         "order_index": 26,
          "text": {
           "paragraphs": [
            "Not every guest will show the same physical signs. Some may appear steady while still being impaired. Others may show obvious symptoms quickly. You must look at the full picture, including multiple signs. Consistency in observation helps you make better decisions and avoid illegal service."
@@ -8083,13 +8208,13 @@
        ]
       },
       {
-       "order_index": 23,
+       "order_index": 27,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 23,
+         "order_index": 27,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8129,13 +8254,13 @@
        ]
       },
       {
-       "order_index": 24,
+       "order_index": 28,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 24,
+         "order_index": 28,
          "interactive": {
           "question": "A guest is stumbling, has slurred speech, and is spilling their drink repeatedly. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -8170,13 +8295,13 @@
        ]
       },
       {
-       "order_index": 25,
+       "order_index": 29,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 25,
+         "order_index": 29,
          "text": {
           "paragraphs": [
            "Behavioral signs of intoxication are changes in how a person acts, speaks, or interacts with others. These signs often appear before severe physical symptoms. In South Carolina, recognizing these behaviors is critical because you must not serve alcohol to an overly intoxicated person. Your decisions should be based on observable behavior, not assumptions or what the guest says."
@@ -8187,13 +8312,13 @@
        ]
       },
       {
-       "order_index": 26,
+       "order_index": 30,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 26,
+         "order_index": 30,
          "text": {
           "paragraphs": [
            "Alcohol affects judgment early. Guests may begin making poor decisions, such as ordering drinks too quickly or ignoring limits. They may act more confident than usual or take risks they normally would not. These early behavioral changes are important warning signs that intoxication is developing."
@@ -8204,13 +8329,13 @@
        ]
       },
       {
-       "order_index": 27,
+       "order_index": 31,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 27,
+         "order_index": 31,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8250,13 +8375,13 @@
        ]
       },
       {
-       "order_index": 28,
+       "order_index": 32,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 28,
+         "order_index": 32,
          "text": {
           "paragraphs": [
            "As intoxication increases, behavior becomes less controlled. Guests may have trouble focusing on conversations or following directions. They may forget what they ordered or repeat themselves. These signs indicate that alcohol is affecting brain function and decision-making more significantly."
@@ -8267,13 +8392,13 @@
        ]
       },
       {
-       "order_index": 29,
+       "order_index": 33,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 29,
+         "order_index": 33,
          "text": {
           "paragraphs": [
            "Emotional changes are common with intoxication. A guest may become unusually happy, angry, or sad without a clear reason. Mood swings can happen quickly. These changes can lead to unpredictable behavior, which increases the risk of conflict or unsafe situations in your establishment."
@@ -8284,13 +8409,13 @@
        ]
       },
       {
-       "order_index": 30,
+       "order_index": 34,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 30,
+         "order_index": 34,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8330,13 +8455,13 @@
        ]
       },
       {
-       "order_index": 31,
+       "order_index": 35,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 31,
+         "order_index": 35,
          "text": {
           "paragraphs": [
            "Intoxicated guests may also lose awareness of their surroundings. They may invade personal space, speak loudly without noticing, or ignore social cues. This behavior can make other guests uncomfortable and create tension. Recognizing these signs helps you step in before problems escalate."
@@ -8347,13 +8472,13 @@
        ]
       },
       {
-       "order_index": 32,
+       "order_index": 36,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 32,
+         "order_index": 36,
          "text": {
           "paragraphs": [
            "Decision-making becomes unreliable as intoxication progresses. A guest may insist they are fine when they are not. They may try to order more alcohol even after showing clear signs of impairment. You must rely on your observations, not the guest’s opinion, when deciding to continue service."
@@ -8364,13 +8489,13 @@
        ]
       },
       {
-       "order_index": 33,
+       "order_index": 37,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 33,
+         "order_index": 37,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8410,13 +8535,13 @@
        ]
       },
       {
-       "order_index": 34,
+       "order_index": 38,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 34,
+         "order_index": 38,
          "text": {
           "paragraphs": [
            "Not all intoxicated guests act the same way. Some may become quiet and withdrawn, while others become loud and disruptive. Both can be impaired. You must observe behavior patterns over time and look for multiple signs before making a decision about service."
@@ -8427,13 +8552,13 @@
        ]
       },
       {
-       "order_index": 35,
+       "order_index": 39,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 35,
+         "order_index": 39,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8473,13 +8598,13 @@
        ]
       },
       {
-       "order_index": 36,
+       "order_index": 40,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 36,
+         "order_index": 40,
          "interactive": {
           "question": "A guest becomes loud, interrupts others, and starts arguing with staff after several drinks. What is the best action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -8514,13 +8639,13 @@
        ]
       },
       {
-       "order_index": 37,
+       "order_index": 41,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 37,
+         "order_index": 41,
          "text": {
           "paragraphs": [
            "Environmental and individual risk factors affect how quickly a person becomes intoxicated. These factors can increase or decrease impairment, even if two people drink the same amount. In South Carolina, you must recognize these risks to prevent over-service. Your role is to adjust service based on conditions, not just drink count."
@@ -8531,13 +8656,13 @@
        ]
       },
       {
-       "order_index": 38,
+       "order_index": 42,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 38,
+         "order_index": 42,
          "text": {
           "paragraphs": [
            "Individual tolerance varies from person to person. Some guests may show signs of intoxication after fewer drinks, while others may appear less affected. Tolerance does not prevent impairment. A guest with high tolerance may still be unsafe. Always rely on observed behavior, not assumptions about drinking experience."
@@ -8548,13 +8673,13 @@
        ]
       },
       {
-       "order_index": 39,
+       "order_index": 43,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 39,
+         "order_index": 43,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8594,13 +8719,13 @@
        ]
       },
       {
-       "order_index": 40,
+       "order_index": 44,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 40,
+         "order_index": 44,
          "text": {
           "paragraphs": [
            "Food intake plays a major role in alcohol absorption. Guests who drink on an empty stomach may become intoxicated faster. Food slows the absorption of alcohol into the bloodstream. If a guest has not eaten, you should be more cautious and monitor for early signs of impairment."
@@ -8611,13 +8736,13 @@
        ]
       },
       {
-       "order_index": 41,
+       "order_index": 45,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 41,
+         "order_index": 45,
          "text": {
           "paragraphs": [
            "Medications and drugs can increase the effects of alcohol. Prescription, over-the-counter, and illegal substances may interact with alcohol in unpredictable ways. This can lead to faster or stronger impairment. You may not always know what a guest has taken, so watch closely for unusual or rapid changes in behavior."
@@ -8628,13 +8753,13 @@
        ]
       },
       {
-       "order_index": 42,
+       "order_index": 46,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 42,
+         "order_index": 46,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8674,13 +8799,13 @@
        ]
       },
       {
-       "order_index": 43,
+       "order_index": 47,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 43,
+         "order_index": 47,
          "text": {
           "paragraphs": [
            "Environmental factors can influence drinking behavior. Loud music, crowded spaces, and group settings may encourage faster drinking. Guests may feel pressured to keep up with others. These conditions can lead to quicker intoxication, even if the guest does not intend to drink heavily."
@@ -8691,13 +8816,13 @@
        ]
       },
       {
-       "order_index": 44,
+       "order_index": 48,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 44,
+         "order_index": 48,
          "text": {
           "paragraphs": [
            "Time is another important factor. Alcohol takes time to affect the body. A guest may not appear intoxicated immediately after drinking. Effects can build over time. This delay can lead to over-service if you are not careful. Monitor guests consistently, even if they seem fine at first."
@@ -8708,13 +8833,13 @@
        ]
       },
       {
-       "order_index": 45,
+       "order_index": 49,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 45,
+         "order_index": 49,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8754,13 +8879,13 @@
        ]
       },
       {
-       "order_index": 46,
+       "order_index": 50,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 46,
+         "order_index": 50,
          "text": {
           "paragraphs": [
            "Fatigue and stress can also increase the effects of alcohol. A tired or stressed guest may become impaired more quickly. These factors are not always visible, but they can affect behavior. Pay attention to signs of rapid change, even if the guest has not consumed many drinks."
@@ -8771,13 +8896,13 @@
        ]
       },
       {
-       "order_index": 47,
+       "order_index": 51,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 47,
+         "order_index": 51,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8817,13 +8942,13 @@
        ]
       },
       {
-       "order_index": 48,
+       "order_index": 52,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 48,
+         "order_index": 52,
          "interactive": {
           "question": "A guest has not eaten, is drinking quickly, and is in a loud group celebrating. What is the best approach?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -8858,13 +8983,13 @@
        ]
       },
       {
-       "order_index": 49,
+       "order_index": 53,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 49,
+         "order_index": 53,
          "text": {
           "paragraphs": [
            "Preventing over-service means taking action before a guest becomes overly intoxicated. In South Carolina, you must not serve alcohol to someone who is already intoxicated. The best approach is to prevent that situation from happening. This requires active monitoring, good communication, and consistent decision-making throughout the guest’s visit."
@@ -8875,13 +9000,13 @@
        ]
       },
       {
-       "order_index": 50,
+       "order_index": 54,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 50,
+         "order_index": 54,
          "text": {
           "paragraphs": [
            "Start monitoring guests from their first drink. Do not wait until signs of intoxication appear. Track how quickly drinks are ordered and consumed. Pay attention to behavior changes over time. Early awareness allows you to make small adjustments that prevent larger problems later in the shift."
@@ -8892,13 +9017,13 @@
        ]
       },
       {
-       "order_index": 51,
+       "order_index": 55,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 51,
+         "order_index": 55,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -8938,13 +9063,13 @@
        ]
       },
       {
-       "order_index": 52,
+       "order_index": 56,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 52,
+         "order_index": 56,
          "text": {
           "paragraphs": [
            "Serving one drink at a time helps you stay in control. Avoid delivering multiple alcoholic drinks to one guest at once. This reduces the chance of rapid consumption. It also gives you time to observe behavior between drinks and make better decisions about continued service."
@@ -8955,13 +9080,13 @@
        ]
       },
       {
-       "order_index": 53,
+       "order_index": 57,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 53,
+         "order_index": 57,
          "text": {
           "paragraphs": [
            "Offer food whenever possible. Food slows alcohol absorption and reduces the speed of intoxication. Suggest appetizers or meals, especially if a guest is drinking quickly. This is a simple and effective way to support safer consumption without directly limiting the guest."
@@ -8972,13 +9097,13 @@
        ]
       },
       {
-       "order_index": 54,
+       "order_index": 58,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 54,
+         "order_index": 58,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -9018,13 +9143,13 @@
        ]
       },
       {
-       "order_index": 55,
+       "order_index": 59,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 55,
+         "order_index": 59,
          "text": {
           "paragraphs": [
            "Communication with your team is essential. Share concerns about a guest with coworkers and managers. This ensures consistent service decisions. If one staff member stops service, others should not continue serving that guest. Team awareness prevents mixed messages and unsafe outcomes."
@@ -9035,13 +9160,13 @@
        ]
       },
       {
-       "order_index": 56,
+       "order_index": 60,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 56,
+         "order_index": 60,
          "text": {
           "paragraphs": [
            "Watch for changes over time, not just single actions. A guest may seem fine at one moment but show signs later. Track patterns such as increasing speed of drinking or changing behavior. Consistent observation helps you act at the right time and avoid over-service."
@@ -9052,13 +9177,13 @@
        ]
       },
       {
-       "order_index": 57,
+       "order_index": 61,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 57,
+         "order_index": 61,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -9098,13 +9223,13 @@
        ]
       },
       {
-       "order_index": 58,
+       "order_index": 62,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 58,
+         "order_index": 62,
          "text": {
           "paragraphs": [
            "Avoid pressure situations. Guests may try to order rounds, participate in drinking games, or encourage others to drink more. These situations increase risk. Stay focused on safe service. Do not allow group behavior to override your responsibility to prevent intoxication."
@@ -9115,13 +9240,13 @@
        ]
       },
       {
-       "order_index": 59,
+       "order_index": 63,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 59,
+         "order_index": 63,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -9161,13 +9286,13 @@
        ]
       },
       {
-       "order_index": 60,
+       "order_index": 64,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 60,
+         "order_index": 64,
          "interactive": {
           "question": "A guest is ordering drinks quickly and has not eaten. What is the best way to prevent over-service?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -9202,13 +9327,13 @@
        ]
       },
       {
-       "order_index": 61,
+       "order_index": 65,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 61,
+         "order_index": 65,
          "text": {
           "paragraphs": [
            "Recognizing problem drinking means identifying patterns that go beyond normal social use. This includes repeated excessive drinking, loss of control, or behavior that creates risk. In South Carolina, you must act when a guest becomes overly intoxicated. Early recognition helps you intervene before the situation becomes unsafe or illegal."
@@ -9219,13 +9344,13 @@
        ]
       },
       {
-       "order_index": 62,
+       "order_index": 66,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 62,
+         "order_index": 66,
          "text": {
           "paragraphs": [
            "Problem drinking is often shown through patterns, not just one moment. A guest may consistently drink too quickly or return frequently in an impaired state. These patterns increase the risk of over-service. Watching for repeated behavior helps you identify when stronger action may be needed."
@@ -9236,13 +9361,13 @@
        ]
       },
       {
-       "order_index": 63,
+       "order_index": 67,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 63,
+         "order_index": 67,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -9282,13 +9407,13 @@
        ]
       },
       {
-       "order_index": 64,
+       "order_index": 68,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 64,
+         "order_index": 68,
          "text": {
           "paragraphs": [
            "Guests showing problem drinking behaviors may try to hide their level of intoxication. They may insist they are fine or try to order from different staff members. This makes teamwork critical. Always communicate with coworkers to ensure consistent service decisions and prevent continued alcohol service."
@@ -9299,13 +9424,13 @@
        ]
       },
       {
-       "order_index": 65,
+       "order_index": 69,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 65,
+         "order_index": 69,
          "text": {
           "paragraphs": [
            "Emotional or behavioral instability can also signal a problem. A guest may become aggressive, overly emotional, or unpredictable. These behaviors increase safety risks for staff and other guests. Recognizing these changes helps you decide when to step in and limit or stop service."
@@ -9316,13 +9441,13 @@
        ]
       },
       {
-       "order_index": 66,
+       "order_index": 70,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 66,
+         "order_index": 70,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -9362,13 +9487,13 @@
        ]
       },
       {
-       "order_index": 67,
+       "order_index": 71,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 67,
+         "order_index": 71,
          "text": {
           "paragraphs": [
            "Know when to act. You should take action as soon as you observe clear signs of intoxication or risky behavior. Waiting too long can lead to unsafe conditions. Acting early allows you to manage the situation calmly and reduces the chance of conflict."
@@ -9379,13 +9504,13 @@
        ]
       },
       {
-       "order_index": 68,
+       "order_index": 72,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 68,
+         "order_index": 72,
          "text": {
           "paragraphs": [
            "Intervention does not always mean immediate refusal. It may begin with slowing service, offering food or water, or checking in with the guest. These steps can help prevent further intoxication. If behavior continues or worsens, stronger action will be required."
@@ -9396,13 +9521,13 @@
        ]
       },
       {
-       "order_index": 69,
+       "order_index": 73,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 69,
+         "order_index": 73,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -9442,13 +9567,13 @@
        ]
       },
       {
-       "order_index": 70,
+       "order_index": 74,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 70,
+         "order_index": 74,
          "text": {
           "paragraphs": [
            "Do not rely on what the guest tells you. A guest may say they have only had one drink or that they feel fine. Your responsibility is to observe behavior and make decisions based on what you see. This protects you and your establishment from liability."
@@ -9459,13 +9584,13 @@
        ]
       },
       {
-       "order_index": 71,
+       "order_index": 75,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 71,
+         "order_index": 75,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -9505,13 +9630,13 @@
        ]
       },
       {
-       "order_index": 72,
+       "order_index": 76,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 72,
+         "order_index": 76,
          "interactive": {
           "question": "A guest is repeatedly ordering drinks, showing mood swings, and ignoring your attempts to slow service. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -9546,13 +9671,13 @@
        ]
       },
       {
-       "order_index": 73,
+       "order_index": 77,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 73,
+         "order_index": 77,
          "interactive": {
           "question": "A guest orders two drinks quickly and begins speaking loudly. They are laughing and encouraging others to drink faster. What is your best first step?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -9587,13 +9712,13 @@
        ]
       },
       {
-       "order_index": 74,
+       "order_index": 78,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 74,
+         "order_index": 78,
          "interactive": {
           "question": "A guest has glassy eyes, is repeating themselves, and drops their credit card twice. What do these signs indicate?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -9628,13 +9753,13 @@
        ]
       },
       {
-       "order_index": 75,
+       "order_index": 79,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 75,
+         "order_index": 79,
          "interactive": {
           "question": "A guest has not eaten, is drinking quickly, and is part of a loud celebration group. What risk is present?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -9669,13 +9794,13 @@
        ]
       },
       {
-       "order_index": 76,
+       "order_index": 80,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 76,
+         "order_index": 80,
          "interactive": {
           "question": "A guest insists they are fine but is stumbling and knocking into furniture. What should you rely on?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -9710,13 +9835,13 @@
        ]
       },
       {
-       "order_index": 77,
+       "order_index": 81,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 77,
+         "order_index": 81,
          "interactive": {
           "question": "A guest becomes argumentative and ignores your attempts to slow service. What is the best next step?.",
           "instruction": "Read the scenario, then select the best answer.",
@@ -9751,13 +9876,13 @@
        ]
       },
       {
-       "order_index": 78,
+       "order_index": 82,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 78,
+         "order_index": 82,
          "interactive": {
           "question": "A quiet guest appears calm but has slow reactions and unfocused eyes. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
