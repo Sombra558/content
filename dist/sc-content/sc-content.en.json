@@ -9958,7 +9958,7 @@
          "order_index": 1,
          "text": {
           "paragraphs": [
-           "Refusing service is a legal and professional responsibility in South Carolina. You must not serve alcohol to someone who is underage or already intoxicated. This is not optional. Failing to refuse service can lead to penalties for both you and your employer. Your decisions directly impact safety, compliance, and your job security."
+           "Refusing service works best when it is calm, firm, and respectful. Use clear language such as, 'I cannot serve you another alcoholic drink tonight,' and avoid debating or blaming the guest. Offer water, food, a nonalcoholic beverage, or help arranging transportation. Your goal is to end alcohol service safely while preserving dignity and reducing conflict."
           ],
           "instruction": "Read the following, then click Next."
          }
@@ -9968,11 +9968,190 @@
       {
        "order_index": 2,
        "min_time": 3,
+       "content_type": "Completion",
+       "content_type_unique_id": "completion",
+       "contents": [
+        {
+         "order_index": 2,
+         "text": {
+          "instruction": "Click each item to learn more."
+         },
+         "interactive": {
+          "content_structure": [
+           "Use the same escalation steps every time: {{item_1}} {{item_2}} {{item_3}} {{item_4}} {{item_5}} A consistent process protects guests, staff, and the business."
+          ],
+          "reveal_items": [
+           {
+            "id": "item_1",
+            "title": "Pause service",
+            "revealed_text": "Stop serving alcohol while you assess the situation."
+           },
+           {
+            "id": "item_2",
+            "title": "Offer alternatives",
+            "revealed_text": "Offer water, food, nonalcoholic drinks, or time to rest."
+           },
+           {
+            "id": "item_3",
+            "title": "Involve a manager",
+            "revealed_text": "Bring in a manager or supervisor when the guest resists, becomes upset, or needs a formal refusal."
+           },
+           {
+            "id": "item_4",
+            "title": "Arrange safe transport",
+            "revealed_text": "Help the guest get a ride, call a rideshare or taxi, or contact a sober friend."
+           },
+           {
+            "id": "item_5",
+            "title": "Document the incident",
+            "revealed_text": "Complete an incident report according to house policy."
+           }
+          ]
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 3,
+       "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 2,
+         "order_index": 3,
+         "text": {
+          "paragraphs": [
+           "House policies turn responsible service into a repeatable process. A strong policy explains when to check ID, when to refuse service, when to involve a manager, how to prevent a guest from driving, and when to complete an incident report. Following the policy protects you because it shows your decisions were consistent, documented, and based on safety rather than personal judgment alone."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 4,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 4,
+         "text": {
+          "paragraphs": [
+           "In South Carolina, refusing an illegal or unsafe sale always outranks making the sale or pleasing a customer. A single sale is never worth a criminal charge, a lost certificate, or a life-changing crash. Confident, consistent refusals are a mark of professionalism, not rudeness -- and your establishment's culture of accountability depends on every server holding this line."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 5,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 5,
+         "interactive": {
+          "question": "A guest becomes irritated after you refuse another drink and says, 'I know the owner. Serve me anyway.' What should you do?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. Serve the drink to avoid conflict",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. Stay calm, repeat the refusal, offer water or a nonalcoholic option, and involve a manager if the guest continues to push",
+            "is_correct": true
+           },
+           {
+            "id": "opt_c",
+            "label": "C. Argue until they admit they are intoxicated",
+            "is_correct": false
+           },
+           {
+            "id": "opt_d",
+            "label": "D. Ignore them and walk away without telling anyone",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "A refusal should be calm, firm, and respectful. Repeat the boundary, offer alternatives, and involve a manager when the guest resists or escalates.",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 6,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 6,
+         "interactive": {
+          "question": "A server cuts off a visibly intoxicated guest. The guest leaves angry and starts walking toward the parking lot with car keys in hand. What is the best next step?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. Do nothing because service already stopped",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. Follow escalation procedures: alert a manager or security, try to arrange safe transportation, and document the incident",
+            "is_correct": true
+           },
+           {
+            "id": "opt_c",
+            "label": "C. Serve coffee and assume they will sober up immediately",
+            "is_correct": false
+           },
+           {
+            "id": "opt_d",
+            "label": "D. Let them drive if they promise to go slowly",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "Stopping service is only part of responsible service. Escalate, involve management/security, arrange safe transportation when possible, and document the incident according to house policy.",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 7,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 7,
+         "text": {
+          "paragraphs": [
+           "Refusing service is a legal and professional responsibility in South Carolina. You must not serve alcohol to someone who is underage or already intoxicated. This is not optional. Failing to refuse service can lead to penalties for both you and your employer. Your decisions directly impact safety, compliance, and your job security."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 8,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 8,
          "text": {
           "paragraphs": [
            "You must refuse service if a customer is under 21. This includes any situation where valid identification is not provided. If you cannot confirm age, you cannot complete the sale. Guessing or assuming age is never acceptable. Always rely on proper ID verification before serving alcohol."
@@ -9983,13 +10162,13 @@
        ]
       },
       {
-       "order_index": 3,
+       "order_index": 9,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 3,
+         "order_index": 9,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10029,13 +10208,13 @@
        ]
       },
       {
-       "order_index": 4,
+       "order_index": 10,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 4,
+         "order_index": 10,
          "text": {
           "paragraphs": [
            "South Carolina law prohibits selling alcohol to an intoxicated person. This applies even if the customer was served elsewhere first. If they are visibly impaired, you must refuse service. It does not matter how they became intoxicated. Your responsibility begins the moment you interact with them."
@@ -10046,13 +10225,13 @@
        ]
       },
       {
-       "order_index": 5,
+       "order_index": 11,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 5,
+         "order_index": 11,
          "text": {
           "paragraphs": [
            "Legal justification for refusal is based on protecting public safety. Serving an intoxicated person increases the risk of accidents, injuries, and illegal behavior. Refusing service helps prevent harm and keeps your business compliant with state law. It also protects you from personal liability."
@@ -10063,13 +10242,13 @@
        ]
       },
       {
-       "order_index": 6,
+       "order_index": 12,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 6,
+         "order_index": 12,
          "text": {
           "paragraphs": [
            "You are also required to refuse service if a customer becomes disruptive or unsafe. This includes threatening behavior, harassment, or refusal to follow rules. Alcohol service should never continue in a situation that risks harm to staff or other customers."
@@ -10080,13 +10259,13 @@
        ]
       },
       {
-       "order_index": 7,
+       "order_index": 13,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 7,
+         "order_index": 13,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10126,13 +10305,13 @@
        ]
       },
       {
-       "order_index": 8,
+       "order_index": 14,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 8,
+         "order_index": 14,
          "text": {
           "paragraphs": [
            "Refusal should be firm, calm, and respectful. Do not argue or debate with the customer. Clearly state that you cannot serve them and avoid blaming language. Keep your tone professional and focused on policy and safety, not personal judgment."
@@ -10143,13 +10322,13 @@
        ]
       },
       {
-       "order_index": 9,
+       "order_index": 15,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 9,
+         "order_index": 15,
          "text": {
           "paragraphs": [
            "Do not offer alternatives that involve alcohol. Instead, suggest non-alcoholic options or food if appropriate. In some cases, offering water or helping arrange transportation may be appropriate. These actions support safety without violating service laws."
@@ -10160,13 +10339,13 @@
        ]
       },
       {
-       "order_index": 10,
+       "order_index": 16,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 10,
+         "order_index": 16,
          "text": {
           "paragraphs": [
            "Always follow your establishment’s policies when refusing service. This may include documenting the incident or notifying a supervisor. Consistent enforcement helps protect the business and shows compliance with training and legal expectations."
@@ -10177,13 +10356,13 @@
        ]
       },
       {
-       "order_index": 11,
+       "order_index": 17,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 11,
+         "order_index": 17,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10223,13 +10402,13 @@
        ]
       },
       {
-       "order_index": 12,
+       "order_index": 18,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 12,
+         "order_index": 18,
          "interactive": {
           "question": "A customer is slurring words, stumbling, and becoming loud. They ask for another drink. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -10264,13 +10443,13 @@
        ]
       },
       {
-       "order_index": 13,
+       "order_index": 19,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 13,
+         "order_index": 19,
          "text": {
           "paragraphs": [
            "Refusing service should follow a clear, consistent process. This helps you stay professional and reduces conflict. A step-by-step approach keeps your actions aligned with the law and your workplace policies. It also shows confidence and control in difficult situations."
@@ -10281,13 +10460,13 @@
        ]
       },
       {
-       "order_index": 14,
+       "order_index": 20,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 14,
+         "order_index": 20,
          "text": {
           "paragraphs": [
            "Step 1: Observe the customer carefully. Look for signs of intoxication or behavior that requires refusal. Do not rush the decision. Take a moment to confirm what you are seeing before acting. Accurate observation is the foundation of a proper refusal."
@@ -10298,13 +10477,13 @@
        ]
       },
       {
-       "order_index": 15,
+       "order_index": 21,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 15,
+         "order_index": 21,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10344,13 +10523,13 @@
        ]
       },
       {
-       "order_index": 16,
+       "order_index": 22,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 16,
+         "order_index": 22,
          "text": {
           "paragraphs": [
            "Step 2: Decide clearly and confidently. Once you determine that service should stop, commit to that decision. Do not hesitate or second-guess yourself. Waiting too long can make the situation worse and increase risk for everyone involved."
@@ -10361,13 +10540,13 @@
        ]
       },
       {
-       "order_index": 17,
+       "order_index": 23,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 17,
+         "order_index": 23,
          "text": {
           "paragraphs": [
            "Step 3: Choose the right moment. Refuse service before pouring or delivering another drink. Timing matters. Acting early prevents escalation and keeps the interaction more manageable. Do not wait until the customer becomes more impaired."
@@ -10378,13 +10557,13 @@
        ]
       },
       {
-       "order_index": 18,
+       "order_index": 24,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 18,
+         "order_index": 24,
          "text": {
           "paragraphs": [
            "Step 4: Stay calm and professional. Your tone and body language should remain controlled. Avoid showing frustration or anger. A calm approach reduces tension and makes it easier to communicate your decision clearly."
@@ -10395,13 +10574,13 @@
        ]
       },
       {
-       "order_index": 19,
+       "order_index": 25,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 19,
+         "order_index": 25,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10441,13 +10620,13 @@
        ]
       },
       {
-       "order_index": 20,
+       "order_index": 26,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 20,
+         "order_index": 26,
          "text": {
           "paragraphs": [
            "Step 5: Be direct and respectful. Clearly tell the customer you cannot serve them more alcohol. Do not argue or debate. Keep your explanation short and based on policy or safety. Respectful communication helps prevent escalation."
@@ -10458,13 +10637,13 @@
        ]
       },
       {
-       "order_index": 21,
+       "order_index": 27,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 21,
+         "order_index": 27,
          "text": {
           "paragraphs": [
            "Step 6: Do not negotiate. Once you refuse service, the decision is final. Do not offer “just one more” or make exceptions. Changing your decision weakens your authority and creates confusion for the customer."
@@ -10475,13 +10654,13 @@
        ]
       },
       {
-       "order_index": 22,
+       "order_index": 28,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 22,
+         "order_index": 28,
          "text": {
           "paragraphs": [
            "Step 7: Stay aware of your surroundings. Watch how the customer reacts. Be ready to involve management or coworkers if needed. Your safety and the safety of others should always come first."
@@ -10492,13 +10671,13 @@
        ]
       },
       {
-       "order_index": 23,
+       "order_index": 29,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 23,
+         "order_index": 29,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10538,13 +10717,13 @@
        ]
       },
       {
-       "order_index": 24,
+       "order_index": 30,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 24,
+         "order_index": 30,
          "interactive": {
           "question": "You observe a customer showing clear signs of intoxication. What is the correct first step?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -10579,13 +10758,13 @@
        ]
       },
       {
-       "order_index": 25,
+       "order_index": 31,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 25,
+         "order_index": 31,
          "text": {
           "paragraphs": [
            "This section continues the refusal process after you have told the customer you cannot serve more alcohol. What you do next is just as important as the refusal itself. Proper follow-through helps prevent escalation, protects safety, and ensures compliance with South Carolina expectations."
@@ -10596,13 +10775,13 @@
        ]
       },
       {
-       "order_index": 26,
+       "order_index": 32,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 26,
+         "order_index": 32,
          "text": {
           "paragraphs": [
            "Step 8: Do not continue alcohol service under any circumstance. Once you refuse, the decision stands. Do not serve the customer again during that visit. Consistency is critical. Changing your decision increases risk and weakens enforcement."
@@ -10613,13 +10792,13 @@
        ]
       },
       {
-       "order_index": 27,
+       "order_index": 33,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 27,
+         "order_index": 33,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10659,13 +10838,13 @@
        ]
       },
       {
-       "order_index": 28,
+       "order_index": 34,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 28,
+         "order_index": 34,
          "text": {
           "paragraphs": [
            "Step 9: Offer non-alcoholic alternatives when appropriate. You may suggest water or food. This can help de-escalate the situation and support customer safety. Do not suggest anything that includes alcohol."
@@ -10676,13 +10855,13 @@
        ]
       },
       {
-       "order_index": 29,
+       "order_index": 35,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 29,
+         "order_index": 35,
          "text": {
           "paragraphs": [
            "Step 10: Monitor the customer’s behavior. Continue observing after refusal. Watch for signs of escalation, aggression, or worsening impairment. Staying aware helps you respond quickly if the situation changes."
@@ -10693,13 +10872,13 @@
        ]
       },
       {
-       "order_index": 30,
+       "order_index": 36,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 30,
+         "order_index": 36,
          "text": {
           "paragraphs": [
            "Step 11: Involve management when needed. If the customer becomes upset, refuses to comply, or creates a disturbance, notify a manager immediately. Managers are responsible for supporting staff and handling difficult situations."
@@ -10710,13 +10889,13 @@
        ]
       },
       {
-       "order_index": 31,
+       "order_index": 37,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 31,
+         "order_index": 37,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10756,13 +10935,13 @@
        ]
       },
       {
-       "order_index": 32,
+       "order_index": 38,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 32,
+         "order_index": 38,
          "text": {
           "paragraphs": [
            "Step 12: Keep a safe distance. Do not crowd the customer or invade their space. Position yourself where you can exit if needed. Your safety always comes first. Avoid physical contact unless absolutely necessary and directed by policy."
@@ -10773,13 +10952,13 @@
        ]
       },
       {
-       "order_index": 33,
+       "order_index": 39,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 33,
+         "order_index": 39,
          "text": {
           "paragraphs": [
            "Step 13: Follow house procedures for documentation. Some workplaces require incident reports when service is refused. Accurate documentation helps protect the business and shows that proper steps were taken."
@@ -10790,13 +10969,13 @@
        ]
       },
       {
-       "order_index": 34,
+       "order_index": 40,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 34,
+         "order_index": 40,
          "text": {
           "paragraphs": [
            "Step 14: Support safe outcomes. If appropriate, help arrange a safe ride or encourage the customer to avoid driving. While not required in every situation, promoting safety aligns with responsible service practices."
@@ -10807,13 +10986,13 @@
        ]
       },
       {
-       "order_index": 35,
+       "order_index": 41,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 35,
+         "order_index": 41,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10853,13 +11032,13 @@
        ]
       },
       {
-       "order_index": 36,
+       "order_index": 42,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 36,
+         "order_index": 42,
          "interactive": {
           "question": "After refusing service, a customer continues asking for another drink. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -10894,13 +11073,13 @@
        ]
       },
       {
-       "order_index": 37,
+       "order_index": 43,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 37,
+         "order_index": 43,
          "text": {
           "paragraphs": [
            "Communication is critical when refusing service. The way you speak can either calm a situation or make it worse. Your goal is to stay in control, reduce tension, and keep everyone safe. Clear, respectful communication helps you enforce the law without escalating conflict."
@@ -10911,13 +11090,13 @@
        ]
       },
       {
-       "order_index": 38,
+       "order_index": 44,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 38,
+         "order_index": 44,
          "text": {
           "paragraphs": [
            "Always keep your tone calm and steady. Avoid raising your voice or showing frustration. Customers may already be impaired or emotional. A calm tone helps prevent the situation from escalating and shows professionalism."
@@ -10928,13 +11107,13 @@
        ]
       },
       {
-       "order_index": 39,
+       "order_index": 45,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 39,
+         "order_index": 45,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -10974,13 +11153,13 @@
        ]
       },
       {
-       "order_index": 40,
+       "order_index": 46,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 40,
+         "order_index": 46,
          "text": {
           "paragraphs": [
            "Use clear and direct language. Avoid long explanations or complicated reasoning. Keep your message short and focused. This reduces confusion and limits opportunities for argument."
@@ -10991,13 +11170,13 @@
        ]
       },
       {
-       "order_index": 41,
+       "order_index": 47,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 41,
+         "order_index": 47,
          "text": {
           "paragraphs": [
            "Avoid blaming the customer. Do not say things like “you are drunk.” Instead, focus on policy and safety. This keeps the interaction less personal and more professional."
@@ -11008,13 +11187,13 @@
        ]
       },
       {
-       "order_index": 42,
+       "order_index": 48,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 42,
+         "order_index": 48,
          "text": {
           "paragraphs": [
            "Use “I” statements when refusing service. This keeps the message controlled and less confrontational. It also shows that you are following rules, not making a personal decision."
@@ -11025,13 +11204,13 @@
        ]
       },
       {
-       "order_index": 43,
+       "order_index": 49,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 43,
+         "order_index": 49,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11071,13 +11250,13 @@
        ]
       },
       {
-       "order_index": 44,
+       "order_index": 50,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 44,
+         "order_index": 50,
          "text": {
           "paragraphs": [
            "Listen without arguing. Let the customer speak if they respond, but do not engage in debate. Acknowledge what they say without agreeing to continue service. This helps reduce tension while maintaining your decision."
@@ -11088,13 +11267,13 @@
        ]
       },
       {
-       "order_index": 45,
+       "order_index": 51,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 45,
+         "order_index": 51,
          "text": {
           "paragraphs": [
            "Do not match the customer’s emotions. If they become loud or upset, stay calm. Matching their tone can escalate the situation. Staying controlled helps bring the situation down, not up."
@@ -11105,13 +11284,13 @@
        ]
       },
       {
-       "order_index": 46,
+       "order_index": 52,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 46,
+         "order_index": 52,
          "text": {
           "paragraphs": [
            "Use body language that supports de-escalation. Stand at a safe distance, keep your hands visible, and avoid aggressive gestures. Nonverbal communication can affect how your message is received."
@@ -11122,13 +11301,13 @@
        ]
       },
       {
-       "order_index": 47,
+       "order_index": 53,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 47,
+         "order_index": 53,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11168,13 +11347,13 @@
        ]
       },
       {
-       "order_index": 48,
+       "order_index": 54,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 48,
+         "order_index": 54,
          "interactive": {
           "question": "A customer becomes upset after being refused service and raises their voice. What is the best response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -11209,13 +11388,13 @@
        ]
       },
       {
-       "order_index": 49,
+       "order_index": 55,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 49,
+         "order_index": 55,
          "text": {
           "paragraphs": [
            "Difficult or confrontational customers are a real part of alcohol service. These situations often happen after refusal. Your goal is to protect yourself, others, and the business. You are not expected to win an argument. You are expected to maintain safety and follow the law."
@@ -11226,13 +11405,13 @@
        ]
       },
       {
-       "order_index": 50,
+       "order_index": 56,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 50,
+         "order_index": 56,
          "text": {
           "paragraphs": [
            "Stay calm and do not take behavior personally. Intoxicated customers may act irrationally. Their reactions are not about you. Keeping this mindset helps you stay focused and avoid emotional responses that can escalate the situation."
@@ -11243,13 +11422,13 @@
        ]
       },
       {
-       "order_index": 51,
+       "order_index": 57,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 51,
+         "order_index": 57,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11289,13 +11468,13 @@
        ]
       },
       {
-       "order_index": 52,
+       "order_index": 58,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 52,
+         "order_index": 58,
          "text": {
           "paragraphs": [
            "Do not argue or try to prove a point. Arguments increase tension and rarely solve the problem. Your role is not to convince the customer they are wrong. Your role is to enforce the decision and keep the environment safe."
@@ -11306,13 +11485,13 @@
        ]
       },
       {
-       "order_index": 53,
+       "order_index": 59,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 53,
+         "order_index": 59,
          "text": {
           "paragraphs": [
            "Set clear boundaries. Politely but firmly repeat your refusal if needed. Keep your message consistent. Changing your wording or tone too much can create confusion and invite pushback."
@@ -11323,13 +11502,13 @@
        ]
       },
       {
-       "order_index": 54,
+       "order_index": 60,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 54,
+         "order_index": 60,
          "text": {
           "paragraphs": [
            "Avoid physical contact. Do not touch or attempt to restrain a customer unless directed by policy and trained to do so. Physical interaction can quickly escalate the situation and create safety risks."
@@ -11340,13 +11519,13 @@
        ]
       },
       {
-       "order_index": 55,
+       "order_index": 61,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 55,
+         "order_index": 61,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11386,13 +11565,13 @@
        ]
       },
       {
-       "order_index": 56,
+       "order_index": 62,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 56,
+         "order_index": 62,
          "text": {
           "paragraphs": [
            "Involve management early when a customer becomes confrontational. Do not wait for the situation to escalate further. Managers are responsible for handling higher-risk situations and supporting staff decisions."
@@ -11403,13 +11582,13 @@
        ]
       },
       {
-       "order_index": 57,
+       "order_index": 63,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 57,
+         "order_index": 63,
          "text": {
           "paragraphs": [
            "If a customer refuses to leave or becomes disruptive, follow your establishment’s procedures. This may include contacting management or security. Do not try to handle serious situations alone."
@@ -11420,13 +11599,13 @@
        ]
       },
       {
-       "order_index": 58,
+       "order_index": 64,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 58,
+         "order_index": 64,
          "text": {
           "paragraphs": [
            "Keep other customers in mind. Confrontations can affect the entire environment. Stay professional and avoid creating a scene. Your actions help maintain order and protect the experience of others."
@@ -11437,13 +11616,13 @@
        ]
       },
       {
-       "order_index": 59,
+       "order_index": 65,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 59,
+         "order_index": 65,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11483,13 +11662,13 @@
        ]
       },
       {
-       "order_index": 60,
+       "order_index": 66,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 60,
+         "order_index": 66,
          "interactive": {
           "question": "A customer becomes confrontational after being refused service and begins arguing loudly. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -11524,13 +11703,13 @@
        ]
       },
       {
-       "order_index": 61,
+       "order_index": 67,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 61,
+         "order_index": 67,
          "text": {
           "paragraphs": [
            "Escalation procedures are used when a situation goes beyond a normal refusal. This includes customers who become aggressive, refuse to follow instructions, or create safety concerns for others. Knowing when to escalate is part of your responsibility. Acting early can prevent injury, property damage, or legal issues for you and your business."
@@ -11541,13 +11720,13 @@
        ]
       },
       {
-       "order_index": 62,
+       "order_index": 68,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 62,
+         "order_index": 68,
          "text": {
           "paragraphs": [
            "You should involve management anytime you feel unsure, pressured, or unsafe. Do not try to handle a serious situation alone. Managers are responsible for supporting staff and making higher-level decisions. Bringing them in early helps maintain control and shows that proper procedures are being followed."
@@ -11558,13 +11737,13 @@
        ]
       },
       {
-       "order_index": 63,
+       "order_index": 69,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 63,
+         "order_index": 69,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11604,13 +11783,13 @@
        ]
       },
       {
-       "order_index": 64,
+       "order_index": 70,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 64,
+         "order_index": 70,
          "text": {
           "paragraphs": [
            "Use clear and simple communication when requesting help. State what is happening, where you are, and what support you need. Avoid long explanations or emotional language. This helps management understand the situation quickly and respond without confusion or delay."
@@ -11621,13 +11800,13 @@
        ]
       },
       {
-       "order_index": 65,
+       "order_index": 71,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 65,
+         "order_index": 71,
          "text": {
           "paragraphs": [
            "Stay aware of the customer while waiting for help. Do not turn your back or lose track of their behavior. Situations can change quickly, especially with intoxicated individuals. Staying alert allows you to respond if the situation escalates further before support arrives."
@@ -11638,13 +11817,13 @@
        ]
       },
       {
-       "order_index": 66,
+       "order_index": 72,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 66,
+         "order_index": 72,
          "text": {
           "paragraphs": [
            "Follow your establishment’s specific escalation procedures at all times. These may include notifying a supervisor, calling security, or alerting other staff members. Knowing these steps ahead of time ensures a faster and more organized response during stressful situations."
@@ -11655,13 +11834,13 @@
        ]
       },
       {
-       "order_index": 67,
+       "order_index": 73,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 67,
+         "order_index": 73,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11701,13 +11880,13 @@
        ]
       },
       {
-       "order_index": 68,
+       "order_index": 74,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 68,
+         "order_index": 74,
          "text": {
           "paragraphs": [
            "Once management arrives, allow them to take the lead. Do not interrupt or attempt to override their decisions. Step back but stay available if they need information. This keeps communication clear and ensures the situation is handled in a coordinated way."
@@ -11718,13 +11897,13 @@
        ]
       },
       {
-       "order_index": 69,
+       "order_index": 75,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 69,
+         "order_index": 75,
          "text": {
           "paragraphs": [
            "Maintain a safe distance from the customer at all times. Position yourself where you have a clear path to exit if needed. Avoid getting trapped in tight spaces. Your safety is always the priority, especially in unpredictable situations."
@@ -11735,13 +11914,13 @@
        ]
       },
       {
-       "order_index": 70,
+       "order_index": 76,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 70,
+         "order_index": 76,
          "text": {
           "paragraphs": [
            "Avoid physical involvement unless you are trained and directed to act. Trying to physically manage a customer can increase risk and lead to injury. Let trained personnel or management handle any situation that may require physical intervention."
@@ -11752,13 +11931,13 @@
        ]
       },
       {
-       "order_index": 71,
+       "order_index": 77,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 71,
+         "order_index": 77,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11798,13 +11977,13 @@
        ]
       },
       {
-       "order_index": 72,
+       "order_index": 78,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 72,
+         "order_index": 78,
          "interactive": {
           "question": "A customer becomes loud, refuses to leave, and starts making threats after being refused service. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -11839,13 +12018,13 @@
        ]
       },
       {
-       "order_index": 73,
+       "order_index": 79,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 73,
+         "order_index": 79,
          "text": {
           "paragraphs": [
            "Offering alternatives is an important part of responsible alcohol service. When you refuse alcohol, you should still focus on safety and customer care. Alternatives can help reduce tension and prevent harm. These actions support your legal responsibility to avoid over-service and protect the public."
@@ -11856,13 +12035,13 @@
        ]
       },
       {
-       "order_index": 74,
+       "order_index": 80,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 74,
+         "order_index": 80,
          "text": {
           "paragraphs": [
            "Alternatives do not replace refusal. Once you stop alcohol service, that decision must stand. Alternatives are meant to support the customer after refusal, not change the outcome. This helps keep your actions consistent with South Carolina expectations and your workplace policies."
@@ -11873,13 +12052,13 @@
        ]
       },
       {
-       "order_index": 75,
+       "order_index": 81,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 75,
+         "order_index": 81,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -11919,13 +12098,13 @@
        ]
       },
       {
-       "order_index": 76,
+       "order_index": 82,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 76,
+         "order_index": 82,
          "text": {
           "paragraphs": [
            "Offering water is a simple and effective step. It helps the customer stay hydrated and may slow further impairment. Providing water also shows care and professionalism. While it does not reduce intoxication immediately, it supports safer outcomes."
@@ -11936,13 +12115,13 @@
        ]
       },
       {
-       "order_index": 77,
+       "order_index": 83,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 77,
+         "order_index": 83,
          "text": {
           "paragraphs": [
            "Food can be offered if appropriate. While food does not quickly reverse intoxication, it may help slow alcohol absorption if consumed earlier. Offering food can also give the customer something to focus on and may help calm the situation."
@@ -11953,13 +12132,13 @@
        ]
       },
       {
-       "order_index": 78,
+       "order_index": 84,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 78,
+         "order_index": 84,
          "text": {
           "paragraphs": [
            "Non-alcoholic beverages are another good option. Suggesting soda, juice, or other alcohol-free drinks allows the customer to stay engaged without further alcohol consumption. This can help reduce pressure and maintain a positive interaction."
@@ -11970,13 +12149,13 @@
        ]
       },
       {
-       "order_index": 79,
+       "order_index": 85,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 79,
+         "order_index": 85,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -12016,13 +12195,13 @@
        ]
       },
       {
-       "order_index": 80,
+       "order_index": 86,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 80,
+         "order_index": 86,
          "text": {
           "paragraphs": [
            "Transportation is one of the most important alternatives. If a customer is impaired, they should not drive. Encouraging safe transportation helps prevent accidents and protects both the customer and the public."
@@ -12033,13 +12212,13 @@
        ]
       },
       {
-       "order_index": 81,
+       "order_index": 87,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 81,
+         "order_index": 87,
          "text": {
           "paragraphs": [
            "You may suggest calling a ride service, contacting a friend, or arranging another safe way home. While you may not be required to arrange transportation yourself, encouraging safe choices is part of responsible service."
@@ -12050,13 +12229,13 @@
        ]
       },
       {
-       "order_index": 82,
+       "order_index": 88,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 82,
+         "order_index": 88,
          "text": {
           "paragraphs": [
            "Do not force alternatives on the customer. Offer them calmly and respectfully. If the customer refuses, continue to focus on safety and follow your workplace procedures. Your role is to guide, not control, their decisions beyond service."
@@ -12067,13 +12246,13 @@
        ]
       },
       {
-       "order_index": 83,
+       "order_index": 89,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 83,
+         "order_index": 89,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -12113,13 +12292,13 @@
        ]
       },
       {
-       "order_index": 84,
+       "order_index": 90,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 84,
+         "order_index": 90,
          "interactive": {
           "question": "A customer has been refused alcohol due to intoxication. What is the best next step?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -12154,13 +12333,13 @@
        ]
       },
       {
-       "order_index": 85,
+       "order_index": 91,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 85,
+         "order_index": 91,
          "text": {
           "paragraphs": [
            "Protecting yourself legally is a key part of alcohol service in South Carolina. Your actions can have legal consequences if laws are not followed. Refusing service when required helps reduce your risk. Following proper procedures shows that you acted responsibly. Documentation can also support your decisions if questions come up later."
@@ -12171,13 +12350,13 @@
        ]
       },
       {
-       "order_index": 86,
+       "order_index": 92,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 86,
+         "order_index": 92,
          "text": {
           "paragraphs": [
            "You can be held responsible for illegal alcohol service. This includes serving minors or intoxicated individuals. Even one mistake can lead to penalties or job loss. Understanding your role helps you make safer decisions. Consistent compliance protects both you and your employer."
@@ -12188,13 +12367,13 @@
        ]
       },
       {
-       "order_index": 87,
+       "order_index": 93,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 87,
+         "order_index": 93,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -12234,13 +12413,13 @@
        ]
       },
       {
-       "order_index": 88,
+       "order_index": 94,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 88,
+         "order_index": 94,
          "text": {
           "paragraphs": [
            "Always follow your establishment’s policies. These policies are designed to meet legal requirements. Ignoring them can increase your risk. Policies also provide clear steps for handling difficult situations. Following them shows that you acted appropriately."
@@ -12251,13 +12430,13 @@
        ]
       },
       {
-       "order_index": 89,
+       "order_index": 95,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 89,
+         "order_index": 95,
          "text": {
           "paragraphs": [
            "Documentation is important after certain incidents. This may include refusing service or handling a disruptive customer. Writing down what happened creates a record. This record can be used by management if needed. It also helps show that proper procedures were followed."
@@ -12268,13 +12447,13 @@
        ]
       },
       {
-       "order_index": 90,
+       "order_index": 96,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 90,
+         "order_index": 96,
          "text": {
           "paragraphs": [
            "When documenting, be accurate and objective. Write only what you observed and did. Avoid opinions or emotional language. Clear facts are more useful if the report is reviewed later. Good documentation supports your actions."
@@ -12285,13 +12464,13 @@
        ]
       },
       {
-       "order_index": 91,
+       "order_index": 97,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 91,
+         "order_index": 97,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -12331,13 +12510,13 @@
        ]
       },
       {
-       "order_index": 92,
+       "order_index": 98,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 92,
+         "order_index": 98,
          "text": {
           "paragraphs": [
            "Complete documentation as soon as possible after the incident. Waiting too long can lead to missing details. Writing it while it is fresh improves accuracy. This helps ensure the report reflects what actually happened."
@@ -12348,13 +12527,13 @@
        ]
       },
       {
-       "order_index": 93,
+       "order_index": 99,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 93,
+         "order_index": 99,
          "text": {
           "paragraphs": [
            "If law enforcement or management reviews the situation, your documentation may be used. Clear records can support your decisions. They can show that you followed training and policies. This can help protect you in a legal or workplace review."
@@ -12365,13 +12544,13 @@
        ]
       },
       {
-       "order_index": 94,
+       "order_index": 100,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 94,
+         "order_index": 100,
          "text": {
           "paragraphs": [
            "Never falsify or change documentation. Inaccurate reports can create serious problems. Honesty is critical when recording incidents. Accurate records protect your credibility and your job."
@@ -12382,13 +12561,13 @@
        ]
       },
       {
-       "order_index": 95,
+       "order_index": 101,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 95,
+         "order_index": 101,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -12428,13 +12607,13 @@
        ]
       },
       {
-       "order_index": 96,
+       "order_index": 102,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 96,
+         "order_index": 102,
          "interactive": {
           "question": "After refusing service to an intoxicated customer, what should you do to protect yourself legally?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -12469,13 +12648,13 @@
        ]
       },
       {
-       "order_index": 97,
+       "order_index": 103,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 97,
+         "order_index": 103,
          "interactive": {
           "question": "A customer shows slurred speech and poor balance but asks for another drink. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -12510,13 +12689,13 @@
        ]
       },
       {
-       "order_index": 98,
+       "order_index": 104,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 98,
+         "order_index": 104,
          "interactive": {
           "question": "A customer becomes upset after being refused and raises their voice. What is the best response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -12551,13 +12730,13 @@
        ]
       },
       {
-       "order_index": 99,
+       "order_index": 105,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 99,
+         "order_index": 105,
          "interactive": {
           "question": "After refusing service, a customer asks for “just water” but continues requesting alcohol. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -12592,13 +12771,13 @@
        ]
       },
       {
-       "order_index": 100,
+       "order_index": 106,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 100,
+         "order_index": 106,
          "interactive": {
           "question": "A customer refuses to leave after being denied service and begins bothering other guests. What is the correct action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -12633,13 +12812,13 @@
        ]
       },
       {
-       "order_index": 101,
+       "order_index": 107,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 101,
+         "order_index": 107,
          "interactive": {
           "question": "You refused service and the customer becomes quiet but unsteady. What should you do next?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -12674,13 +12853,13 @@
        ]
       },
       {
-       "order_index": 102,
+       "order_index": 108,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 102,
+         "order_index": 108,
          "interactive": {
           "question": "After a difficult refusal, what step helps protect you legally?",
           "instruction": "Read the scenario, then select the best answer.",
