@@ -196,6 +196,10 @@
         parts.push(`<pre>${escapeHtml(content.text)}</pre>`);
       }
 
+      if(content.image){
+        parts.push(`<div class="image-placeholder" style="border:2px dashed #999;padding:1rem;text-align:center;color:#666;margin:0.5rem 0;">[Image placeholder: ${escapeHtml(content.image.asset_id)}] ${escapeHtml(content.image.alt || '')}</div>`);
+      }
+
       if(!parts.length){
         parts.push(`<pre>${escapeHtml(JSON.stringify(content, null, 2))}</pre>`);
       }
