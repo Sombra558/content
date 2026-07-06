@@ -3975,7 +3975,7 @@
          "order_index": 6,
          "text": {
           "paragraphs": [
-           "Underage drinking can harm education and future opportunities; some offenses may affect scholarship eligibility. Refusing a sale protects their future. References: SC Code § 59-104-20; § 61-4-100; § 61-6-4085; Reg. 62-900.95."
+           "In South Carolina you must verify a customer's age with a valid, government-issued photo ID before selling alcohol. The three forms you will see most often are a valid driver's license, a state-issued identification card, and a valid passport (a military ID is also acceptable). The document must be unexpired, must have a photo, and must clearly show the date of birth. If you are not confident the ID is valid and belongs to the customer, do not complete the sale."
           ],
           "instruction": "Read the following, then click Next."
          }
@@ -3992,6 +3992,415 @@
          "order_index": 7,
          "text": {
           "paragraphs": [
+           "Every valid ID shows a date of birth. On a South Carolina driver's license it appears near the name and photo, labeled 'DOB.' Always read the date of birth directly from the card rather than trusting the customer's word or a quick glance at the photo. Confirm the birth date, the expiration date, and that the photo matches the person in front of you."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        },
+        {
+         "order_index": 1,
+         "image": {
+          "placeholder": true,
+          "asset_id": "sc-img-id-anatomy",
+          "alt": "Diagram of a South Carolina driver's license with the date-of-birth field highlighted.",
+          "status": "pending"
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 8,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 8,
+         "text": {
+          "paragraphs": [
+           "South Carolina issues vertical (portrait) driver's licenses and ID cards to people under 21, and horizontal (landscape) licenses to people 21 and older. A vertical orientation is an immediate visual signal that the holder was under 21 when the card was issued, so you must check the date of birth carefully. Never rely on orientation alone -- always confirm the actual date of birth, because a person with a vertical license may have since turned 21, and cards can be altered."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        },
+        {
+         "order_index": 1,
+         "image": {
+          "placeholder": true,
+          "asset_id": "sc-img-vertical-vs-horizontal",
+          "alt": "Side-by-side comparison of a vertical under-21 South Carolina license and a horizontal 21-and-older license.",
+          "status": "pending"
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 9,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 9,
+         "text": {
+          "paragraphs": [
+           "To sell alcohol legally, the customer must be at least 21 years old today. The fastest check is to take today's date and subtract 21 years -- this gives the 'required date of birth.' Anyone born on or before that date is 21 or older; anyone born after it is under 21 and cannot be sold alcohol. For example, if today is July 6, 2026, the required date of birth is July 6, 2005: a customer must have been born on or before July 6, 2005."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        },
+        {
+         "order_index": 1,
+         "image": {
+          "placeholder": true,
+          "asset_id": "sc-img-dob-math",
+          "alt": "Visual showing today's date minus 21 years to find the required date of birth.",
+          "status": "pending"
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 10,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 10,
+         "text": {
+          "paragraphs": [
+           "Once you know the required date of birth, compare it to the date of birth printed on the ID. If the ID's date of birth is on or before the required date, the customer is old enough. If it is after the required date, the customer is under 21 and you must refuse the sale. Do the math every time -- do not estimate age from appearance, and do not round up because a customer 'looks old enough.'"
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 11,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 11,
+         "text": {
+          "paragraphs": [
+           "South Carolina expects consistent ID checks. A common, defensible house rule is to check the ID of anyone who appears to be under 30 (some establishments use 35 or 40), but the safest practice is to check every customer, every time, regardless of perceived age. Consistent checks protect you personally: failure to require identification to verify age is prima facie evidence of an illegal sale under South Carolina law."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 12,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 12,
+         "text": {
+          "paragraphs": [
+           "A fake or altered ID is the most common way an underage buyer tries to get served. Check the physical card: feel for uneven thickness, bumps, or peeling around the photo and date of birth. Look for blurry text, mismatched fonts, missing or dull holograms, and edges that have been split or re-glued. Compare the photo, height, and description to the person. Ask a verifying question the real holder would answer instantly, such as their middle name, ZIP code, or zodiac sign for the birth date shown."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 13,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 13,
+         "text": {
+          "paragraphs": [
+           "If you determine an ID is fake, altered, borrowed, or belongs to someone else, do not sell alcohol. Follow your establishment's policy: politely decline the sale, and depending on house rules, hold the ID and notify a manager. Never argue or accuse loudly. Document what happened if your establishment requires an incident report. Refusing the sale protects you from criminal liability."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 14,
+       "min_time": 3,
+       "content_type": "Completion",
+       "content_type_unique_id": "completion",
+       "contents": [
+        {
+         "order_index": 14,
+         "text": {
+          "instruction": "Click each item to learn more."
+         },
+         "interactive": {
+          "content_structure": [
+           "A thorough ID check follows the same steps every time: {{item_1}} {{item_2}} {{item_3}} {{item_4}} {{item_5}} Consistency is what keeps the check legal and reliable."
+          ],
+          "reveal_items": [
+           {
+            "id": "item_1",
+            "title": "Feel the card",
+            "revealed_text": "Feel the card for uneven thickness, bumps, or peeling around the photo and date of birth."
+           },
+           {
+            "id": "item_2",
+            "title": "Look at security features",
+            "revealed_text": "Look for holograms, microprint, clear fonts, and edges that have not been split or re-glued."
+           },
+           {
+            "id": "item_3",
+            "title": "Check the date of birth",
+            "revealed_text": "Read the date of birth and compare it to today's required date of birth (today minus 21 years)."
+           },
+           {
+            "id": "item_4",
+            "title": "Compare photo and description",
+            "revealed_text": "Match the photo, height, and description to the person in front of you."
+           },
+           {
+            "id": "item_5",
+            "title": "Decide",
+            "revealed_text": "If anything fails or you are unsure, refuse the sale and follow house policy."
+           }
+          ]
+         }
+        },
+        {
+         "order_index": 1,
+         "image": {
+          "placeholder": true,
+          "asset_id": "sc-img-idcheck-steps",
+          "alt": "Five-step ID check sequence: feel the card, look at security features, check the date of birth, compare photo and description, decide.",
+          "status": "pending"
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 15,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 15,
+         "text": {
+          "paragraphs": [
+           "Selling alcohol to someone under 21 is a misdemeanor in South Carolina, and the penalty falls on the person who made the sale -- you. A first offense carries a fine of $200 to $300 or up to 30 days in jail, or both. A second or subsequent offense carries a fine of $400 to $500 or up to 30 days, or both. Because failure to check ID is prima facie evidence of the violation, checking every ID is your best legal protection. Relevant statutes: SC Code Sections 61-4-50 and 61-6-4080."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 16,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 16,
+         "text": {
+          "paragraphs": [
+           "It is also unlawful to purchase for, transfer, or give beer, wine, or liquor to anyone under 21 for consumption. This includes an of-age customer buying a drink to hand to an underage friend at the bar. The penalties match the tiers for an unlawful sale. Watch for 'straw purchases' where one guest orders for an underage companion. Relevant statutes: SC Code Sections 61-4-90, 61-6-4070, and 61-6-4075."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 17,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 17,
+         "text": {
+          "paragraphs": [
+           "Every retail seller must post a sign stating: 'The possession of beer, wine, or alcoholic liquors, by a person under twenty-one years of age is a criminal offense under the laws of this State, and it is also unlawful for a person to knowingly give false information concerning his age for the purpose of purchasing beer, wine, or liquor.' Failing to display this sign is itself a misdemeanor. Relevant statutes: SC Code Sections 61-4-70 and 61-6-1530."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 18,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 18,
+         "text": {
+          "paragraphs": [
+           "Selling to a minor does not just risk your job -- it can change the minor's life. A conviction can create a criminal record, and a second or subsequent alcohol violation makes a student ineligible for major South Carolina scholarships: the Palmetto Fellows Scholarship for one year, the SC HOPE Scholarship for the next academic year, and the SC LIFE Scholarship for the following terms. Understanding these stakes is part of why refusing an underage sale always outranks making one. Relevant statutes: SC Code Sections 59-104-20, 61-4-100, and 61-6-4085."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 19,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 19,
+         "interactive": {
+          "question": "Today is July 6, 2026. A customer's ID shows a date of birth of September 2, 2005. Can you sell them alcohol?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. Yes, 2005 means they are 21",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. No -- they turn 21 on September 2, 2026, which is after today, so they are still under 21",
+            "is_correct": true
+           },
+           {
+            "id": "opt_c",
+            "label": "C. Yes, if they also show a second ID",
+            "is_correct": false
+           },
+           {
+            "id": "opt_d",
+            "label": "D. Only after 9 p.m.",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "The required date of birth today is July 6, 2005. A birth date of September 2, 2005 is after that, so the customer is still under 21 until September 2, 2026. Refuse the sale.",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 20,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 20,
+         "interactive": {
+          "question": "A customer hands you a license. The photo hair and face look different, the card feels bumpy around the birth date, and the person cannot recall their own ZIP code. What should you do?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. Sell; the card is probably fine",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. Refuse the sale, and hold the ID and notify a manager per house policy",
+            "is_correct": true
+           },
+           {
+            "id": "opt_c",
+            "label": "C. Sell but only beer",
+            "is_correct": false
+           },
+           {
+            "id": "opt_d",
+            "label": "D. Ask them to sign for it",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "Multiple warning signs -- mismatched photo, tampered feel, and failure to answer a basic verifying question -- mean you do not sell. Decline, and follow house policy on holding the ID and notifying a manager.",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 21,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 21,
+         "interactive": {
+          "question": "An adult guest orders a beer, then immediately slides it to a visibly underage companion at the table. What is the correct response?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. Nothing; the adult bought it legally",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. Remove or refuse the drink -- transferring alcohol to someone under 21 is illegal, and you may not keep serving the pair for that purpose",
+            "is_correct": true
+           },
+           {
+            "id": "opt_c",
+            "label": "C. Charge the underage guest for it",
+            "is_correct": false
+           },
+           {
+            "id": "opt_d",
+            "label": "D. Ask them to move tables",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "Buying or transferring alcohol to a person under 21 for consumption is unlawful (a 'straw purchase'). Interrupt the transfer, refuse further service for that purpose, and involve a manager if needed.",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 22,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 22,
+         "text": {
+          "paragraphs": [
+           "Underage drinking can harm education and future opportunities; some offenses may affect scholarship eligibility. Refusing a sale protects their future. References: SC Code § 59-104-20; § 61-4-100; § 61-6-4085; Reg. 62-900.95."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 23,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 23,
+         "text": {
+          "paragraphs": [
            "Your responsibility includes making decisions that follow the law and company policies. Refusing a sale may feel uncomfortable, but it is necessary. Staying calm and confident helps you handle these situations correctly. Doing the right thing protects you, your employer, and others in the environment."
           ],
           "instruction": "Read the following, then click Next."
@@ -4000,13 +4409,13 @@
        ]
       },
       {
-       "order_index": 8,
+       "order_index": 24,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 8,
+         "order_index": 24,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -4046,13 +4455,13 @@
        ]
       },
       {
-       "order_index": 9,
+       "order_index": 25,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 9,
+         "order_index": 25,
          "text": {
           "paragraphs": [
            "Minors may attempt to buy alcohol using fake or borrowed identification. Stay alert and follow proper ID-checking steps. If something does not seem right, take time to verify. Do not rush. Careful checking helps prevent illegal sales and protects you from making a costly mistake."
@@ -4063,13 +4472,13 @@
        ]
       },
       {
-       "order_index": 10,
+       "order_index": 26,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 10,
+         "order_index": 26,
          "text": {
           "paragraphs": [
            "Managers are a resource when situations become difficult. If a customer becomes pushy or confrontational, ask for help. You are not expected to handle every situation alone. Team support helps ensure rules are followed consistently and safely across the business."
@@ -4080,13 +4489,13 @@
        ]
       },
       {
-       "order_index": 11,
+       "order_index": 27,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 11,
+         "order_index": 27,
          "text": {
           "paragraphs": [
            "Consistency is key to preventing underage sales. Apply the same process to every customer. Do not make exceptions based on pressure or assumptions. Following the same steps each time reduces risk. Consistent actions help protect you and ensure compliance with South Carolina alcohol laws."
@@ -4097,13 +4506,13 @@
        ]
       },
       {
-       "order_index": 12,
+       "order_index": 28,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 12,
+         "order_index": 28,
          "interactive": {
           "question": "A customer appears young but insists they are 21. You are unsure and the line is growing. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -4138,13 +4547,13 @@
        ]
       },
       {
-       "order_index": 13,
+       "order_index": 29,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 13,
+         "order_index": 29,
          "text": {
           "paragraphs": [
            "In South Carolina, alcohol servers are legally responsible for following state laws when selling or serving alcohol. This includes refusing sales to minors and not serving intoxicated individuals. You are accountable for your actions during every shift. Failing to follow the law can result in penalties for you and your employer. Understanding your responsibility helps you make better decisions in real situations."
@@ -4155,13 +4564,13 @@
        ]
       },
       {
-       "order_index": 14,
+       "order_index": 30,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 14,
+         "order_index": 30,
          "text": {
           "paragraphs": [
            "Selling alcohol to a person under 21 is illegal in South Carolina. This applies even if the customer appears older or presents questionable identification. You are expected to verify age before completing a sale. If you fail to do so, you may face legal consequences. Following proper ID procedures helps you avoid violations and stay compliant with the law."
@@ -4172,13 +4581,13 @@
        ]
       },
       {
-       "order_index": 15,
+       "order_index": 31,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 15,
+         "order_index": 31,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -4213,13 +4622,13 @@
        ]
       },
       {
-       "order_index": 16,
+       "order_index": 32,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 16,
+         "order_index": 32,
          "text": {
           "paragraphs": [
            "Serving alcohol to an intoxicated person is also prohibited. You must recognize signs of impairment and stop service when necessary. Continuing to serve someone who is clearly intoxicated increases risk. It can lead to harm, including accidents or injuries. Your role includes monitoring customers and making decisions that protect safety."
@@ -4230,13 +4639,13 @@
        ]
       },
       {
-       "order_index": 17,
+       "order_index": 33,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 17,
+         "order_index": 33,
          "text": {
           "paragraphs": [
            "Legal responsibility applies to both individual servers and the business. Even if a manager is present, you are still accountable for your actions. You cannot ignore the law because of pressure or instructions from others. Each server must follow legal requirements during every transaction. Personal accountability is part of responsible alcohol service."
@@ -4247,13 +4656,13 @@
        ]
       },
       {
-       "order_index": 18,
+       "order_index": 34,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 18,
+         "order_index": 34,
          "text": {
           "paragraphs": [
            "Criminal penalties may apply if laws are broken. These penalties depend on the situation and the violation. Selling to a minor or serving an intoxicated person can result in charges. Legal consequences can affect your record and future employment. Following the law helps you avoid these outcomes and protects your professional reputation."
@@ -4264,13 +4673,13 @@
        ]
       },
       {
-       "order_index": 19,
+       "order_index": 35,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 19,
+         "order_index": 35,
          "text": {
           "paragraphs": [
            "Administrative penalties may impact the business. This can include fines or actions taken against the establishment’s license. These penalties can affect all employees. Even one violation can cause problems for the entire operation. Your actions contribute to the overall compliance of the business."
@@ -4281,13 +4690,13 @@
        ]
       },
       {
-       "order_index": 20,
+       "order_index": 36,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 20,
+         "order_index": 36,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -4317,13 +4726,13 @@
        ]
       },
       {
-       "order_index": 21,
+       "order_index": 37,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 21,
+         "order_index": 37,
          "text": {
           "paragraphs": [
            "Civil liability may occur if someone is harmed after being served alcohol illegally. This could involve injuries or damages linked to alcohol service. While you may not see immediate effects, your actions can contribute to serious outcomes. Preventing illegal service helps reduce the risk of harm and legal claims."
@@ -4334,13 +4743,13 @@
        ]
       },
       {
-       "order_index": 22,
+       "order_index": 38,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 22,
+         "order_index": 38,
          "text": {
           "paragraphs": [
            "Law enforcement and regulatory agencies monitor alcohol sales. This may include compliance checks or investigations. You are expected to follow the law at all times, not just when being observed. Consistent compliance helps you avoid violations and ensures your workplace meets state requirements."
@@ -4351,13 +4760,13 @@
        ]
       },
       {
-       "order_index": 23,
+       "order_index": 39,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 23,
+         "order_index": 39,
          "text": {
           "paragraphs": [
            "Making the correct decision in the moment is critical. If you are unsure about a situation, stop and verify. Ask for identification or involve a manager. Do not guess or take shortcuts. Taking a few extra seconds to follow proper steps can prevent serious legal consequences."
@@ -4368,13 +4777,13 @@
        ]
       },
       {
-       "order_index": 24,
+       "order_index": 40,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 24,
+         "order_index": 40,
          "interactive": {
           "question": "A customer cannot provide valid identification but insists they are over 21 and becomes frustrated. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -4409,13 +4818,13 @@
        ]
       },
       {
-       "order_index": 25,
+       "order_index": 41,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 25,
+         "order_index": 41,
          "text": {
           "paragraphs": [
            "Practical rule: verify ID consistently for anyone who might be underage; if no valid ID, refuse the sale."
@@ -4426,13 +4835,13 @@
        ]
       },
       {
-       "order_index": 26,
+       "order_index": 42,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 26,
+         "order_index": 42,
          "text": {
           "paragraphs": [
            "Brief definition: 'appears underage' means anyone who could reasonably be under 21. When in doubt, verify ID."
@@ -4443,13 +4852,13 @@
        ]
       },
       {
-       "order_index": 27,
+       "order_index": 43,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 27,
+         "order_index": 43,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -4484,13 +4893,13 @@
        ]
       },
       {
-       "order_index": 28,
+       "order_index": 44,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 28,
+         "order_index": 44,
          "text": {
           "paragraphs": [
            "Failing to check ID is one of the most common reasons for underage sales. Even if a customer is actually 21, you can still face consequences if you did not verify their age. The law requires proper ID checking, not assumptions. Taking the extra step protects you and your workplace."
@@ -4501,13 +4910,13 @@
        ]
       },
       {
-       "order_index": 29,
+       "order_index": 45,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 29,
+         "order_index": 45,
          "text": {
           "paragraphs": [
            "Consistency: use the same ID-checking process every time; avoid exceptions."
@@ -4518,13 +4927,13 @@
        ]
       },
       {
-       "order_index": 30,
+       "order_index": 46,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 30,
+         "order_index": 46,
          "text": {
           "paragraphs": [
            "Busy environments can create pressure to move quickly. Long lines or impatient customers may tempt you to skip steps. Do not let this affect your decisions. Taking a few seconds to check ID is always worth it. Speed should never replace proper procedure when alcohol is involved."
@@ -4535,13 +4944,13 @@
        ]
       },
       {
-       "order_index": 31,
+       "order_index": 47,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 31,
+         "order_index": 47,
          "text": {
           "paragraphs": [
            "Checking ID also protects minors from harm. Preventing access to alcohol reduces the risk of unsafe behavior and poor decisions. Your role is not just about following rules. You are helping create a safer environment by stopping illegal sales before they happen."
@@ -4552,13 +4961,13 @@
        ]
       },
       {
-       "order_index": 32,
+       "order_index": 48,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 32,
+         "order_index": 48,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -4593,13 +5002,13 @@
        ]
       },
       {
-       "order_index": 33,
+       "order_index": 49,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 33,
+         "order_index": 49,
          "text": {
           "paragraphs": [
            "If a customer refuses to show ID, you must refuse the sale. There are no exceptions to this rule. A valid ID is required to verify age. Do not accept verbal confirmation or pressure from the customer. Following this rule protects you from making an illegal sale."
@@ -4610,13 +5019,13 @@
        ]
       },
       {
-       "order_index": 34,
+       "order_index": 50,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 34,
+         "order_index": 50,
          "text": {
           "paragraphs": [
            "Managers and coworkers can support you when enforcing ID rules. If a situation becomes difficult, ask for help. You are not expected to handle confrontational situations alone. Team support helps ensure rules are followed consistently and safely across the workplace."
@@ -4627,13 +5036,13 @@
        ]
       },
       {
-       "order_index": 35,
+       "order_index": 51,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 35,
+         "order_index": 51,
          "text": {
           "paragraphs": [
            "Building the habit of always checking ID makes your job easier. When it becomes routine, you are less likely to make mistakes. Strong habits reduce risk and improve consistency. Over time, this approach helps protect you, your employer, and your customers."
@@ -4644,13 +5053,13 @@
        ]
       },
       {
-       "order_index": 36,
+       "order_index": 52,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 36,
+         "order_index": 52,
          "interactive": {
           "question": "A customer looks about 25 and says they forgot their ID. They insist they are old enough. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -4685,13 +5094,13 @@
        ]
       },
       {
-       "order_index": 37,
+       "order_index": 53,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 37,
+         "order_index": 53,
          "text": {
           "paragraphs": [
            "In South Carolina, you must verify a customer’s age using valid identification before selling alcohol when required. Not all IDs are acceptable. You are responsible for knowing which forms are valid. Accepting the wrong ID can lead to an illegal sale. Always take time to review identification carefully before completing a transaction."
@@ -4702,13 +5111,13 @@
        ]
       },
       {
-       "order_index": 38,
+       "order_index": 54,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 38,
+         "order_index": 54,
          "text": {
           "paragraphs": [
            "Valid identification must be government-issued and include key details. This includes a photo, date of birth, and identifying information. The ID must allow you to confirm the customer is at least 21 years old. If any required element is missing or unclear, you should not accept the ID."
@@ -4719,13 +5128,13 @@
        ]
       },
       {
-       "order_index": 39,
+       "order_index": 55,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 39,
+         "order_index": 55,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -4760,13 +5169,13 @@
        ]
       },
       {
-       "order_index": 40,
+       "order_index": 56,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 40,
+         "order_index": 56,
          "text": {
           "paragraphs": [
            "Common valid forms of identification include a driver’s license issued by a U.S. state. These IDs are widely used and contain the required information. You should still examine them closely. Do not assume an ID is valid just because it looks familiar. Always verify the details before completing a sale."
@@ -4777,13 +5186,13 @@
        ]
       },
       {
-       "order_index": 41,
+       "order_index": 57,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 41,
+         "order_index": 57,
          "text": {
           "paragraphs": [
            "State-issued identification cards are also acceptable. These are issued to individuals who do not drive but still need official identification. They include similar features to a driver’s license. As with all IDs, check the photo, date of birth, and expiration date before accepting it."
@@ -4794,13 +5203,13 @@
        ]
       },
       {
-       "order_index": 42,
+       "order_index": 58,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 42,
+         "order_index": 58,
          "text": {
           "paragraphs": [
            "Military identification may also be presented. These IDs are issued by the U.S. government and include identifying information. Review the ID carefully to confirm it belongs to the person presenting it. If you are unsure how to verify it, ask a manager for assistance before proceeding."
@@ -4811,13 +5220,13 @@
        ]
       },
       {
-       "order_index": 43,
+       "order_index": 59,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 43,
+         "order_index": 59,
          "text": {
           "paragraphs": [
            "Expired identification is not valid for alcohol sales. Even if the date of birth shows the customer is over 21, an expired ID should not be accepted. Expiration dates must be current. Always check this detail as part of your standard ID verification process."
@@ -4828,13 +5237,13 @@
        ]
       },
       {
-       "order_index": 44,
+       "order_index": 60,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 44,
+         "order_index": 60,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -4869,13 +5278,13 @@
        ]
       },
       {
-       "order_index": 45,
+       "order_index": 61,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 45,
+         "order_index": 61,
          "text": {
           "paragraphs": [
            "You must compare the photo on the ID to the person presenting it. Look at facial features, not just hair or clothing. If the photo does not match, do not accept the ID. This step helps prevent the use of borrowed identification and reduces the risk of illegal sales."
@@ -4886,13 +5295,13 @@
        ]
       },
       {
-       "order_index": 46,
+       "order_index": 62,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 46,
+         "order_index": 62,
          "text": {
           "paragraphs": [
            "Always check the date of birth carefully. Confirm that the customer is at least 21 years old on the day of the sale. Take your time and do the math if needed. Mistakes in age calculation can lead to violations. Accuracy is essential when verifying eligibility."
@@ -4903,13 +5312,13 @@
        ]
       },
       {
-       "order_index": 47,
+       "order_index": 63,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 47,
+         "order_index": 63,
          "text": {
           "paragraphs": [
            "If you are unsure about an ID, do not guess. Ask for help from a manager or follow company procedures. It is better to delay a sale than to make a mistake. Taking extra time ensures you are following the law and protects you from potential penalties."
@@ -4920,13 +5329,13 @@
        ]
       },
       {
-       "order_index": 48,
+       "order_index": 64,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 48,
+         "order_index": 64,
          "interactive": {
           "question": "A customer presents an ID that appears valid, but it is expired. They insist it should still be accepted. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -4961,13 +5370,13 @@
        ]
       },
       {
-       "order_index": 49,
+       "order_index": 65,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 49,
+         "order_index": 65,
          "text": {
           "paragraphs": [
            "Follow a step-by-step ID routine whenever verification is needed; consistency prevents mistakes."
@@ -4978,13 +5387,13 @@
        ]
       },
       {
-       "order_index": 50,
+       "order_index": 66,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 50,
+         "order_index": 66,
          "text": {
           "paragraphs": [
            "Start by asking for identification before completing the sale. Do this early in the interaction to avoid confusion later. Be polite but direct. Customers should expect this step. Asking clearly and confidently sets the tone and helps prevent pushback. This first step is critical to a smooth and compliant process."
@@ -4995,13 +5404,13 @@
        ]
       },
       {
-       "order_index": 51,
+       "order_index": 67,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 51,
+         "order_index": 67,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -5036,13 +5445,13 @@
        ]
       },
       {
-       "order_index": 52,
+       "order_index": 68,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 52,
+         "order_index": 68,
          "text": {
           "paragraphs": [
            "Once you receive the ID, hold it in your hand. Do not try to verify it from a distance. Holding the ID allows you to examine details more closely. Take your time. A quick glance is not enough. Careful inspection helps you catch issues that could lead to an illegal sale."
@@ -5053,13 +5462,13 @@
        ]
       },
       {
-       "order_index": 53,
+       "order_index": 69,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 53,
+         "order_index": 69,
          "text": {
           "paragraphs": [
            "Check the overall condition of the ID. Look for signs of damage, wear, or tampering. If the ID appears altered or unusual, do not accept it. Even small issues can indicate a problem. If something does not look right, trust your judgment and follow your procedures."
@@ -5070,13 +5479,13 @@
        ]
       },
       {
-       "order_index": 54,
+       "order_index": 70,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 54,
+         "order_index": 70,
          "text": {
           "paragraphs": [
            "Verify the photo by comparing the face on the ID to the person in front of you. Focus on facial features, not clothing or hairstyle. If the photo does not clearly match the person, you should not proceed with the sale. This step helps prevent the use of borrowed IDs."
@@ -5087,13 +5496,13 @@
        ]
       },
       {
-       "order_index": 55,
+       "order_index": 71,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 55,
+         "order_index": 71,
          "text": {
           "paragraphs": [
            "Check the date of birth carefully. Confirm the customer is at least 21 years old. Take a moment to calculate if needed. Do not rush this step. Mistakes here can lead to serious consequences. Accuracy is more important than speed during ID verification."
@@ -5104,13 +5513,13 @@
        ]
       },
       {
-       "order_index": 56,
+       "order_index": 72,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 56,
+         "order_index": 72,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -5145,13 +5554,13 @@
        ]
       },
       {
-       "order_index": 57,
+       "order_index": 73,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 57,
+         "order_index": 73,
          "text": {
           "paragraphs": [
            "Look at the expiration date next. An expired ID is not valid for alcohol sales. Even if the customer is over 21, you must refuse the sale if the ID is expired. Always include this step in your process to avoid accepting invalid identification."
@@ -5162,13 +5571,13 @@
        ]
       },
       {
-       "order_index": 58,
+       "order_index": 74,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 58,
+         "order_index": 74,
          "text": {
           "paragraphs": [
            "Check for any signs of alteration. This may include mismatched fonts, peeling surfaces, or unclear printing. These signs can indicate a fake or tampered ID. If you notice anything unusual, do not accept the ID. Follow your procedures and involve a manager if needed."
@@ -5179,13 +5588,13 @@
        ]
       },
       {
-       "order_index": 59,
+       "order_index": 75,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 59,
+         "order_index": 75,
          "text": {
           "paragraphs": [
            "Take your time during the entire process. Rushing increases the chance of mistakes. Even in busy situations, slow down enough to complete each step correctly. A few extra seconds can prevent serious legal consequences. Consistency and attention to detail are key to proper ID checking."
@@ -5196,13 +5605,13 @@
        ]
       },
       {
-       "order_index": 60,
+       "order_index": 76,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 60,
+         "order_index": 76,
          "text": {
           "paragraphs": [
            "Following a step-by-step process makes ID checking easier and more reliable. When you use the same routine every time, you reduce risk and improve accuracy. This protects you, your employer, and your customers. Building strong habits ensures you stay compliant during every shift."
@@ -5213,13 +5622,13 @@
        ]
       },
       {
-       "order_index": 61,
+       "order_index": 77,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 61,
+         "order_index": 77,
          "text": {
           "paragraphs": [
            "After checking the basic details on an ID, continue the process by confirming it is genuine. A valid ID must be more than just correct information. It must also be authentic. This step helps prevent the use of fake or altered identification. Taking time here protects you from making an illegal sale."
@@ -5230,13 +5639,13 @@
        ]
       },
       {
-       "order_index": 62,
+       "order_index": 78,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 62,
+         "order_index": 78,
          "text": {
           "paragraphs": [
            "Look closely at the physical features of the ID. Pay attention to texture, thickness, and overall quality. Government-issued IDs are consistent in appearance. If something feels off, do not ignore it. Trust your instincts and take extra time to review the ID carefully before continuing."
@@ -5247,13 +5656,13 @@
        ]
       },
       {
-       "order_index": 63,
+       "order_index": 79,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 63,
+         "order_index": 79,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -5288,13 +5697,13 @@
        ]
       },
       {
-       "order_index": 64,
+       "order_index": 80,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 64,
+         "order_index": 80,
          "text": {
           "paragraphs": [
            "Check the information across the ID for consistency. Names, dates, and other details should align correctly. If something does not match or seems unusual, do not accept the ID. Inconsistencies are a strong warning sign that the ID may not be valid."
@@ -5305,13 +5714,13 @@
        ]
       },
       {
-       "order_index": 65,
+       "order_index": 81,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 65,
+         "order_index": 81,
          "text": {
           "paragraphs": [
            "Ask simple questions if needed. For example, you may ask the customer to confirm their birthdate or address. A person using a fake ID may hesitate or give incorrect answers. This step can help you confirm whether the ID belongs to the person presenting it."
@@ -5322,13 +5731,13 @@
        ]
       },
       {
-       "order_index": 66,
+       "order_index": 82,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 66,
+         "order_index": 82,
          "text": {
           "paragraphs": [
            "Watch the customer’s behavior during the process. Nervousness, rushing, or avoiding eye contact may indicate a problem. While behavior alone is not proof, it can support your decision to take a closer look. Stay calm and focused as you complete your checks."
@@ -5339,13 +5748,13 @@
        ]
       },
       {
-       "order_index": 67,
+       "order_index": 83,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 67,
+         "order_index": 83,
          "text": {
           "paragraphs": [
            "If the ID passes all checks, you may proceed with the sale. Only complete the transaction after you are confident the ID is valid and the customer is at least 21. Never rush this decision. Confidence in your verification process is essential."
@@ -5356,13 +5765,13 @@
        ]
       },
       {
-       "order_index": 68,
+       "order_index": 84,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 68,
+         "order_index": 84,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -5397,13 +5806,13 @@
        ]
       },
       {
-       "order_index": 69,
+       "order_index": 85,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 69,
+         "order_index": 85,
          "text": {
           "paragraphs": [
            "Do not return to the sale once you have decided to refuse it. Changing your decision can lead to mistakes. Stay firm and consistent. If needed, step away and ask for assistance. Your safety and compliance are the priority in every situation."
@@ -5414,13 +5823,13 @@
        ]
       },
       {
-       "order_index": 70,
+       "order_index": 86,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 70,
+         "order_index": 86,
          "interactive": {
           "question": "A customer presents an ID that looks real, but the print appears blurry and the edges seem uneven. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -5455,13 +5864,13 @@
        ]
       },
       {
-       "order_index": 71,
+       "order_index": 87,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 71,
+         "order_index": 87,
          "interactive": {
           "question": "A customer correctly answers questions about their ID, but you still feel unsure about its authenticity. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -5496,13 +5905,13 @@
        ]
       },
       {
-       "order_index": 72,
+       "order_index": 88,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 72,
+         "order_index": 88,
          "interactive": {
           "question": "A customer becomes frustrated when you take extra time to check their ID carefully. What is the best response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -5537,13 +5946,13 @@
        ]
       },
       {
-       "order_index": 73,
+       "order_index": 89,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 73,
+         "order_index": 89,
          "text": {
           "paragraphs": [
            "Accurately verifying age is required before selling alcohol in South Carolina. You must confirm that a customer is at least 21 years old. This is done by checking the date of birth on a valid ID. Guessing or estimating is not acceptable. Taking time to verify age protects you from making an illegal sale."
@@ -5554,13 +5963,13 @@
        ]
       },
       {
-       "order_index": 74,
+       "order_index": 90,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 74,
+         "order_index": 90,
          "text": {
           "paragraphs": [
            "Age verification starts by locating the date of birth on the ID. This is usually clearly labeled. Do not assume the location. Take a moment to find it and read it carefully. Misreading numbers can lead to mistakes. Always confirm you are looking at the correct date before making a decision."
@@ -5571,13 +5980,13 @@
        ]
       },
       {
-       "order_index": 75,
+       "order_index": 91,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 75,
+         "order_index": 91,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -5612,13 +6021,13 @@
        ]
       },
       {
-       "order_index": 76,
+       "order_index": 92,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 76,
+         "order_index": 92,
          "text": {
           "paragraphs": [
            "A simple way to verify age is to subtract 21 years from today’s date. This gives you the latest acceptable birthdate for legal sales. If the customer was born on or before that date, they are eligible. If their birthdate is after that date, they are underage and you must refuse the sale."
@@ -5629,13 +6038,13 @@
        ]
       },
       {
-       "order_index": 77,
+       "order_index": 93,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 77,
+         "order_index": 93,
          "text": {
           "paragraphs": [
            "Pay close attention to both the year and the exact date. A customer may have turned 21 recently or may still be underage by a few days. You must confirm that they have already reached their 21st birthday. Being close is not enough. They must be fully 21 on the day of the sale."
@@ -5646,13 +6055,13 @@
        ]
       },
       {
-       "order_index": 78,
+       "order_index": 94,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 78,
+         "order_index": 94,
          "text": {
           "paragraphs": [
            "Do not rush the calculation. Take a moment to confirm the numbers. Mistakes often happen when servers move too quickly. Even during busy times, accuracy is critical. A small error in reading or calculating can lead to a serious violation."
@@ -5663,13 +6072,13 @@
        ]
       },
       {
-       "order_index": 79,
+       "order_index": 95,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 79,
+         "order_index": 95,
          "text": {
           "paragraphs": [
            "Some IDs may format the date differently. For example, the order of month, day, and year may vary. Always take time to understand the format before making a decision. Misreading the format can lead to incorrect age verification."
@@ -5680,13 +6089,13 @@
        ]
       },
       {
-       "order_index": 80,
+       "order_index": 96,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 80,
+         "order_index": 96,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -5721,13 +6130,13 @@
        ]
       },
       {
-       "order_index": 81,
+       "order_index": 97,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 81,
+         "order_index": 97,
          "text": {
           "paragraphs": [
            "If you are unsure about the age calculation, stop and double-check. You can also ask a manager for assistance. It is better to pause than to make a mistake. Taking extra time helps ensure you are following the law and protects you from penalties."
@@ -5738,13 +6147,13 @@
        ]
       },
       {
-       "order_index": 82,
+       "order_index": 98,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 82,
+         "order_index": 98,
          "text": {
           "paragraphs": [
            "Consistency: use the same verification process for everyone; avoid exceptions."
@@ -5755,13 +6164,13 @@
        ]
       },
       {
-       "order_index": 83,
+       "order_index": 99,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 83,
+         "order_index": 99,
          "text": {
           "paragraphs": [
            "Remember, you are responsible for the final decision. Even if a customer insists they are old enough, you must verify it yourself. Do not rely on statements or pressure. Only complete the sale when you are confident the customer is legally 21 or older."
@@ -5772,13 +6181,13 @@
        ]
       },
       {
-       "order_index": 84,
+       "order_index": 100,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 84,
+         "order_index": 100,
          "interactive": {
           "question": "Today’s date is June 1. A customer’s date of birth is June 5, 2005. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -5813,13 +6222,13 @@
        ]
       },
       {
-       "order_index": 85,
+       "order_index": 101,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 85,
+         "order_index": 101,
          "text": {
           "paragraphs": [
            "Fake identification is commonly used by minors attempting to buy alcohol. As a server in South Carolina, you are responsible for identifying and refusing fake IDs. Accepting one can lead to an illegal sale and serious consequences. Learning how to spot red flags helps you make better decisions and stay compliant with the law."
@@ -5830,13 +6239,13 @@
        ]
       },
       {
-       "order_index": 86,
+       "order_index": 102,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 86,
+         "order_index": 102,
          "text": {
           "paragraphs": [
            "A fake ID may look real at first glance. That is why you must slow down and inspect it carefully. Do not rely on a quick check. Take time to examine details and confirm authenticity. Careful inspection helps you detect problems that could lead to violations."
@@ -5847,13 +6256,13 @@
        ]
       },
       {
-       "order_index": 87,
+       "order_index": 103,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 87,
+         "order_index": 103,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -5888,13 +6297,13 @@
        ]
       },
       {
-       "order_index": 88,
+       "order_index": 104,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 88,
+         "order_index": 104,
          "text": {
           "paragraphs": [
            "Look closely at the photo on the ID. Compare it to the person presenting it. Pay attention to facial features, not just hair or clothing. If the photo does not clearly match the customer, do not accept the ID. This is a common sign of borrowed or fake identification."
@@ -5905,13 +6314,13 @@
        ]
       },
       {
-       "order_index": 89,
+       "order_index": 105,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 89,
+         "order_index": 105,
          "text": {
           "paragraphs": [
            "Check the information for consistency. Names, dates, and other details should align correctly. If something does not match or seems unusual, it may be a fake ID. Even small inconsistencies can indicate a problem. Always take time to review all details carefully."
@@ -5922,13 +6331,13 @@
        ]
       },
       {
-       "order_index": 90,
+       "order_index": 106,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 90,
+         "order_index": 106,
          "text": {
           "paragraphs": [
            "Examine the physical condition of the ID. Government-issued IDs are made with consistent materials and quality. If the ID feels too thin, too thick, or damaged, it may not be valid. Trust your observations and follow your procedures if something seems off."
@@ -5939,13 +6348,13 @@
        ]
       },
       {
-       "order_index": 91,
+       "order_index": 107,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 91,
+         "order_index": 107,
          "text": {
           "paragraphs": [
            "Look for signs of tampering. This may include scratched surfaces, lifted corners, or altered numbers. These changes are often used to modify birthdates. If you notice any signs of alteration, you must refuse the sale. Never ignore these warning signs."
@@ -5956,13 +6365,13 @@
        ]
       },
       {
-       "order_index": 92,
+       "order_index": 108,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 92,
+         "order_index": 108,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -5997,13 +6406,13 @@
        ]
       },
       {
-       "order_index": 93,
+       "order_index": 109,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 93,
+         "order_index": 109,
          "text": {
           "paragraphs": [
            "You can ask simple questions to help confirm identity. Ask the customer to state their birthdate or address. If their answers do not match the ID, this is a strong warning sign. Use this step when you are unsure, but always rely on the ID itself as your main source."
@@ -6014,13 +6423,13 @@
        ]
       },
       {
-       "order_index": 94,
+       "order_index": 110,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 94,
+         "order_index": 110,
          "text": {
           "paragraphs": [
            "If you believe an ID is fake, do not accept it. Refuse the sale and follow your workplace procedures. Stay calm and professional. Do not argue with the customer. Your goal is to enforce the law while maintaining a safe environment."
@@ -6031,13 +6440,13 @@
        ]
       },
       {
-       "order_index": 95,
+       "order_index": 111,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 95,
+         "order_index": 111,
          "text": {
           "paragraphs": [
            "If you are unsure, ask a manager for assistance. It is better to pause than to make a mistake. Team support helps ensure correct decisions. Protecting yourself and your workplace should always come first when handling questionable identification."
@@ -6048,13 +6457,13 @@
        ]
       },
       {
-       "order_index": 96,
+       "order_index": 112,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 96,
+         "order_index": 112,
          "interactive": {
           "question": "A customer presents an ID with a clear photo, but the birthdate looks scratched and altered. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -6089,13 +6498,13 @@
        ]
       },
       {
-       "order_index": 97,
+       "order_index": 113,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 97,
+         "order_index": 113,
          "text": {
           "paragraphs": [
            "When you suspect an ID may be fake, your role is to slow down and follow proper procedures. Do not ignore warning signs. Accepting a fake ID can lead to an illegal sale and serious consequences. You are responsible for verifying identity and age before completing any alcohol transaction in South Carolina."
@@ -6106,13 +6515,13 @@
        ]
       },
       {
-       "order_index": 98,
+       "order_index": 114,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 98,
+         "order_index": 114,
          "text": {
           "paragraphs": [
            "If something feels off about an ID, trust your judgment. You are not required to prove it is fake. You only need to decide whether you can confidently verify it as valid. If you cannot confirm it, you must not proceed with the sale. This protects you from making a mistake."
@@ -6123,13 +6532,13 @@
        ]
       },
       {
-       "order_index": 99,
+       "order_index": 115,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 99,
+         "order_index": 115,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -6164,13 +6573,13 @@
        ]
       },
       {
-       "order_index": 100,
+       "order_index": 116,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 100,
+         "order_index": 116,
          "text": {
           "paragraphs": [
            "Ask the customer simple questions if needed. For example, ask them to confirm their birthdate or address. A person using a fake ID may hesitate or give incorrect answers. This can help support your decision, but the ID itself must still be your primary source for verification."
@@ -6181,13 +6590,13 @@
        ]
       },
       {
-       "order_index": 101,
+       "order_index": 117,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 101,
+         "order_index": 117,
          "text": {
           "paragraphs": [
            "Watch how the customer behaves. Nervous actions, rushing you, or avoiding eye contact may indicate a problem. These behaviors alone do not prove the ID is fake, but they can support your decision to take a closer look. Stay calm and focused during the interaction."
@@ -6198,13 +6607,13 @@
        ]
       },
       {
-       "order_index": 102,
+       "order_index": 118,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 102,
+         "order_index": 118,
          "text": {
           "paragraphs": [
            "If you cannot confirm the ID is valid, you must refuse the sale. Do not take risks. The law requires you to verify age with valid identification. If you are unsure, that means you cannot verify it. Refusing the sale is the correct and safe decision."
@@ -6215,13 +6624,13 @@
        ]
       },
       {
-       "order_index": 103,
+       "order_index": 119,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 103,
+         "order_index": 119,
          "text": {
           "paragraphs": [
            "Stay professional when refusing a sale. Use a calm tone and clear language. Avoid arguing or accusing the customer. You can simply state that you are unable to accept the ID. Keeping the interaction respectful helps prevent escalation and keeps the situation under control."
@@ -6232,13 +6641,13 @@
        ]
       },
       {
-       "order_index": 104,
+       "order_index": 120,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 104,
+         "order_index": 120,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -6273,13 +6682,13 @@
        ]
       },
       {
-       "order_index": 105,
+       "order_index": 121,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 105,
+         "order_index": 121,
          "text": {
           "paragraphs": [
            "Do not return to the sale once you have refused it. Changing your decision increases risk and can lead to mistakes. Stay firm. If the customer continues to push, repeat your decision and involve management if necessary. Consistency is key to maintaining compliance."
@@ -6290,13 +6699,13 @@
        ]
       },
       {
-       "order_index": 106,
+       "order_index": 122,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 106,
+         "order_index": 122,
          "text": {
           "paragraphs": [
            "Never accept pressure from customers or coworkers to override your decision. You are responsible for the sale. Even in busy situations, you must follow proper procedures. Protecting yourself and your workplace is more important than completing a transaction."
@@ -6307,13 +6716,13 @@
        ]
       },
       {
-       "order_index": 107,
+       "order_index": 123,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 107,
+         "order_index": 123,
          "text": {
           "paragraphs": [
            "If a situation becomes difficult or confrontational, step away and ask for help. Managers are there to support you. Your safety matters. Do not engage in arguments. Following escalation procedures helps keep everyone safe and ensures rules are enforced properly."
@@ -6324,13 +6733,13 @@
        ]
       },
       {
-       "order_index": 108,
+       "order_index": 124,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 108,
+         "order_index": 124,
          "interactive": {
           "question": "A customer presents an ID that seems valid, but their answers do not match the information. They become impatient and ask you to hurry. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -6365,13 +6774,13 @@
        ]
       },
       {
-       "order_index": 109,
+       "order_index": 125,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 109,
+         "order_index": 125,
          "text": {
           "paragraphs": [
            "Refusing underage sales is a required part of your role in South Carolina. You must not sell alcohol to anyone under 21 or anyone who cannot provide valid ID. This decision protects you, your employer, and the public. Even if it feels uncomfortable, refusing the sale is the correct action. Confidence in this step helps prevent mistakes and supports compliance."
@@ -6382,13 +6791,13 @@
        ]
       },
       {
-       "order_index": 110,
+       "order_index": 126,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 110,
+         "order_index": 126,
          "text": {
           "paragraphs": [
            "Refusing a sale should always be done clearly and professionally. Use simple, direct language and avoid long explanations. You do not need to argue or justify the law. State your decision and stay consistent. Keeping your response short and firm helps reduce confusion and prevents the situation from escalating further."
@@ -6399,13 +6808,13 @@
        ]
       },
       {
-       "order_index": 111,
+       "order_index": 127,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 111,
+         "order_index": 127,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -6440,13 +6849,13 @@
        ]
       },
       {
-       "order_index": 112,
+       "order_index": 128,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 112,
+         "order_index": 128,
          "text": {
           "paragraphs": [
            "Customers may react with frustration when refused. This is common and should be expected. Stay calm and do not take it personally. Your role is to enforce the law, not to win an argument. Remaining composed helps you manage the situation safely and professionally."
@@ -6457,13 +6866,13 @@
        ]
       },
       {
-       "order_index": 113,
+       "order_index": 129,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 113,
+         "order_index": 129,
          "text": {
           "paragraphs": [
            "Avoid arguing with the customer. Arguing can make the situation worse and increase risk. Instead, repeat your decision if needed and keep your tone steady. Do not engage in back-and-forth discussion. Staying consistent helps end the interaction more quickly and safely."
@@ -6474,13 +6883,13 @@
        ]
       },
       {
-       "order_index": 114,
+       "order_index": 130,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 114,
+         "order_index": 130,
          "text": {
           "paragraphs": [
            "If a customer becomes more upset, create space and avoid escalation. Do not raise your voice or respond emotionally. Focus on staying professional and following your procedures. Keeping distance when needed helps maintain safety for you and others in the area."
@@ -6491,13 +6900,13 @@
        ]
       },
       {
-       "order_index": 115,
+       "order_index": 131,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 115,
+         "order_index": 131,
          "text": {
           "paragraphs": [
            "Involve a manager when a situation becomes difficult. Managers are there to support you and handle escalations. Asking for help shows good judgment. It also helps ensure the situation is handled correctly and consistently with company policies."
@@ -6508,13 +6917,13 @@
        ]
       },
       {
-       "order_index": 116,
+       "order_index": 132,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 116,
+         "order_index": 132,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -6549,13 +6958,13 @@
        ]
       },
       {
-       "order_index": 117,
+       "order_index": 133,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 117,
+         "order_index": 133,
          "text": {
           "paragraphs": [
            "Never change your decision after refusing a sale. Once you determine the customer is underage or cannot provide valid ID, the sale must not happen. Going back on your decision can lead to mistakes and legal consequences. Stay firm and consistent every time."
@@ -6566,13 +6975,13 @@
        ]
       },
       {
-       "order_index": 118,
+       "order_index": 134,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 118,
+         "order_index": 134,
          "text": {
           "paragraphs": [
            "Do not let pressure from customers or coworkers influence your decision. You are responsible for the sale. Even during busy shifts, you must follow the law. Taking shortcuts can lead to serious consequences. Staying consistent protects you and your workplace from violations."
@@ -6583,13 +6992,13 @@
        ]
       },
       {
-       "order_index": 119,
+       "order_index": 135,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 119,
+         "order_index": 135,
          "text": {
           "paragraphs": [
            "Refusing underage sales supports a safer environment. It helps prevent harm and reduces risk in your community. Your actions make a difference in real situations. Taking your role seriously helps protect others and reinforces responsible alcohol service standards."
@@ -6600,13 +7009,13 @@
        ]
       },
       {
-       "order_index": 120,
+       "order_index": 136,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 120,
+         "order_index": 136,
          "interactive": {
           "question": "A customer without ID becomes loud and insists you serve them because others are waiting. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -6641,13 +7050,13 @@
        ]
       },
       {
-       "order_index": 121,
+       "order_index": 137,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 121,
+         "order_index": 137,
          "interactive": {
           "question": "A customer looks young but says they are 21. You feel unsure and the line is getting long. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -6682,13 +7091,13 @@
        ]
       },
       {
-       "order_index": 122,
+       "order_index": 138,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 122,
+         "order_index": 138,
          "interactive": {
           "question": "A customer presents an ID that is expired but shows they are over 21. They insist it should still work. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -6723,13 +7132,13 @@
        ]
       },
       {
-       "order_index": 123,
+       "order_index": 139,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 123,
+         "order_index": 139,
          "interactive": {
           "question": "A customer gives an ID, but the photo does not clearly match their face. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -6764,13 +7173,13 @@
        ]
       },
       {
-       "order_index": 124,
+       "order_index": 140,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 124,
+         "order_index": 140,
          "interactive": {
           "question": "A customer becomes impatient while you are checking their ID and asks you to hurry. What is the best response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -6805,13 +7214,13 @@
        ]
       },
       {
-       "order_index": 125,
+       "order_index": 141,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 125,
+         "order_index": 141,
          "interactive": {
           "question": "A customer cannot answer basic questions about their ID and avoids eye contact. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -6846,13 +7255,13 @@
        ]
       },
       {
-       "order_index": 126,
+       "order_index": 142,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 126,
+         "order_index": 142,
          "interactive": {
           "question": "A customer without ID becomes loud and pressures you to serve them anyway. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
