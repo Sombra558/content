@@ -1995,6 +1995,15 @@
           ],
           "body": "In this unit we will discuss the following topics:"
          }
+        },
+        {
+         "order_index": 1,
+         "image": {
+          "placeholder": true,
+          "asset_id": "sc-img-standard-drink",
+          "alt": "Chart of standard drink equivalents: 12 oz beer, 5 oz wine, 1.5 oz distilled spirits.",
+          "status": "pending"
+         }
         }
        ]
       },
@@ -2134,6 +2143,153 @@
          },
          "interactive": {
           "content_structure": [
+           "Several factors change how quickly alcohol raises a person's blood alcohol concentration (BAC): {{item_1}} {{item_2}} {{item_3}} {{item_4}} {{item_5}} Because these vary from person to person, the same number of drinks affects guests differently."
+          ],
+          "reveal_items": [
+           {
+            "id": "item_1",
+            "title": "Body weight",
+            "revealed_text": "A person with lower body weight generally reaches a higher BAC from the same amount of alcohol."
+           },
+           {
+            "id": "item_2",
+            "title": "Biological sex",
+            "revealed_text": "Differences in body composition and enzymes mean alcohol often affects women faster than men."
+           },
+           {
+            "id": "item_3",
+            "title": "Rate of drinking",
+            "revealed_text": "Drinking quickly raises BAC faster than the body can process the alcohol."
+           },
+           {
+            "id": "item_4",
+            "title": "Food in the stomach",
+            "revealed_text": "Food slows alcohol absorption; drinking on an empty stomach raises BAC faster."
+           },
+           {
+            "id": "item_5",
+            "title": "Drink strength and carbonation",
+            "revealed_text": "Stronger drinks and carbonated mixers can raise BAC more quickly."
+           }
+          ]
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 7,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 7,
+         "text": {
+          "paragraphs": [
+           "Alcohol interacts dangerously with many prescription, over-the-counter, and illegal drugs. Sedatives, opioids, antihistamines, and other depressants can multiply alcohol's effects, so a guest may appear far more impaired than their number of drinks suggests. You cannot know what a guest has taken, so judge impairment by observed behavior, not just drink count."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 8,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 8,
+         "text": {
+          "paragraphs": [
+           "Tolerance means a regular heavy drinker may not look as impaired as their BAC actually is. Tolerance does not make a person safe to drive -- it only masks the signs. Never use a guest's apparent 'ability to handle it' as a reason to keep serving; rely on drink count, time, and behavior."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 9,
+       "min_time": 3,
+       "content_type": "Text",
+       "content_type_unique_id": "text",
+       "contents": [
+        {
+         "order_index": 9,
+         "text": {
+          "paragraphs": [
+           "In South Carolina, a blood alcohol concentration of 0.08% or higher means a driver is inferred to be under the influence, and a BAC between 0.05% and 0.08% can be weighed with other evidence. Standard drinks raise BAC in predictable ways, which is why pacing and cutting off service matter. Relevant statutes: SC Code Sections 56-5-2930 and 56-5-2933."
+          ],
+          "instruction": "Read the following, then click Next."
+         }
+        },
+        {
+         "order_index": 1,
+         "image": {
+          "placeholder": true,
+          "asset_id": "sc-img-bac-chart",
+          "alt": "Chart relating number of standard drinks and body weight to estimated blood alcohol concentration.",
+          "status": "pending"
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 10,
+       "min_time": 3,
+       "content_type": "Multiple",
+       "content_type_unique_id": "multiple",
+       "contents": [
+        {
+         "order_index": 10,
+         "interactive": {
+          "question": "Two guests each had three drinks in an hour. One appears far more impaired than the other. What is the best explanation for a server to keep in mind?",
+          "instruction": "Read the scenario, then select the best answer.",
+          "options": [
+           {
+            "id": "opt_a",
+            "label": "A. The calmer guest is safe to keep serving",
+            "is_correct": false
+           },
+           {
+            "id": "opt_b",
+            "label": "B. Factors like body weight, food, drinking rate, tolerance, and medications change how alcohol affects each person, so judge impairment by behavior",
+            "is_correct": true
+           },
+           {
+            "id": "opt_c",
+            "label": "C. They must have miscounted their drinks",
+            "is_correct": false
+           },
+           {
+            "id": "opt_d",
+            "label": "D. BAC is the same for everyone after three drinks",
+            "is_correct": false
+           }
+          ],
+          "feedback": {
+           "correct": "BAC and visible impairment vary with body weight, biological sex, food, drinking rate, tolerance, and any drugs taken. Always judge impairment by observed behavior, not just the number of drinks.",
+           "incorrect": "Incorrect."
+          }
+         }
+        }
+       ]
+      },
+      {
+       "order_index": 11,
+       "min_time": 3,
+       "content_type": "Completion",
+       "content_type_unique_id": "completion",
+       "contents": [
+        {
+         "order_index": 11,
+         "text": {
+          "instruction": "Click each item to learn more."
+         },
+         "interactive": {
+          "content_structure": [
            "Alcohol affects the brain in stages. Early signs include {{item_1}} and {{item_2}}. As drinking continues, people may show {{item_3}} and {{item_4}}. At higher levels, you may see {{item_5}} and {{item_6}}. These signs help you decide when to slow or stop service."
           ],
           "reveal_items": [
@@ -2173,13 +2329,13 @@
        ]
       },
       {
-       "order_index": 7,
+       "order_index": 12,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 7,
+         "order_index": 12,
          "text": {
           "paragraphs": [
            "Not everyone reacts to alcohol the same way. Body size, gender, and health all play a role. Food in the stomach can slow absorption. Medications may increase effects. Experience with alcohol may change how signs appear. Always judge each guest individually."
@@ -2190,13 +2346,13 @@
        ]
       },
       {
-       "order_index": 8,
+       "order_index": 13,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 8,
+         "order_index": 13,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -2231,13 +2387,13 @@
        ]
       },
       {
-       "order_index": 9,
+       "order_index": 14,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 9,
+         "order_index": 14,
          "text": {
           "paragraphs": [
            "Alcohol impacts coordination and decision-making. Guests may take risks they normally avoid. Reaction time slows. This increases the chance of injury or unsafe behavior. As a server, you must recognize these changes early. Acting sooner helps prevent problems."
@@ -2248,13 +2404,13 @@
        ]
       },
       {
-       "order_index": 10,
+       "order_index": 15,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 10,
+         "order_index": 15,
          "text": {
           "paragraphs": [
            "As intoxication increases, behavior may change. Some guests become louder or more emotional. Others may become quiet or withdrawn. Physical signs often appear with behavior changes. Watch for patterns, not just one sign. Consistent observation is key to safe service."
@@ -2265,13 +2421,13 @@
        ]
       },
       {
-       "order_index": 11,
+       "order_index": 16,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 11,
+         "order_index": 16,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -2311,13 +2467,13 @@
        ]
       },
       {
-       "order_index": 12,
+       "order_index": 17,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 12,
+         "order_index": 17,
          "interactive": {
           "question": "A guest orders several drinks quickly. Within a short time, you notice slower speech and unsteady movement. The guest insists they feel fine and asks for another drink. Based on alcohol absorption and effects, what is the safest action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -2352,13 +2508,13 @@
        ]
       },
       {
-       "order_index": 13,
+       "order_index": 18,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 13,
+         "order_index": 18,
          "text": {
           "paragraphs": [
            "Blood Alcohol Concentration (BAC) measures how much alcohol is in a person’s bloodstream. It is shown as a percentage. For example, 0.08% means alcohol is present in the blood at that level. As BAC increases, impairment increases. Servers do not measure BAC directly, but understanding it helps explain behavior and risk."
@@ -2369,13 +2525,13 @@
        ]
       },
       {
-       "order_index": 14,
+       "order_index": 19,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 14,
+         "order_index": 19,
          "text": {
           "paragraphs": [
            "BAC rises when alcohol enters the bloodstream faster than the body can process it. The liver removes alcohol at a steady rate. Drinking multiple beverages quickly causes BAC to increase. This leads to stronger effects and higher impairment. Timing and pace matter as much as total drinks consumed."
@@ -2386,13 +2542,13 @@
        ]
       },
       {
-       "order_index": 15,
+       "order_index": 20,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 15,
+         "order_index": 20,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -2432,13 +2588,13 @@
        ]
       },
       {
-       "order_index": 16,
+       "order_index": 21,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 16,
+         "order_index": 21,
          "text": {
           "paragraphs": [
            "A standard drink is a way to measure alcohol content. Different beverages can contain similar amounts of alcohol. Beer, wine, and liquor vary in size but may have equal alcohol levels. Understanding standard drinks helps you track how much alcohol a guest consumes, even with different beverage types."
@@ -2449,13 +2605,13 @@
        ]
       },
       {
-       "order_index": 17,
+       "order_index": 22,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 17,
+         "order_index": 22,
          "text": {
           "paragraphs": [
            "Not all drinks are equal in strength. A large pour or strong mix can contain more alcohol than one standard drink. Guests may not realize how much they are consuming. As a server, you should recognize when drinks are stronger than usual. This helps prevent over-service."
@@ -2466,13 +2622,13 @@
        ]
       },
       {
-       "order_index": 18,
+       "order_index": 23,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 18,
+         "order_index": 23,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -2512,13 +2668,13 @@
        ]
       },
       {
-       "order_index": 19,
+       "order_index": 24,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 19,
+         "order_index": 24,
          "text": {
           "paragraphs": [
            "BAC does not decrease quickly. Time is the only factor that lowers BAC. Coffee, food, or cold showers do not speed up the process. These may make a person feel more alert, but impairment remains. Never rely on myths when making service decisions."
@@ -2529,13 +2685,13 @@
        ]
       },
       {
-       "order_index": 20,
+       "order_index": 25,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 20,
+         "order_index": 25,
          "text": {
           "paragraphs": [
            "As BAC rises, judgment and coordination decline. Guests may take risks or ignore consequences. This increases the chance of harm. Servers must focus on behavior, not just drink count. Recognizing patterns early allows you to slow or stop service before problems occur."
@@ -2546,13 +2702,13 @@
        ]
       },
       {
-       "order_index": 21,
+       "order_index": 26,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 21,
+         "order_index": 26,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -2592,13 +2748,13 @@
        ]
       },
       {
-       "order_index": 22,
+       "order_index": 27,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 22,
+         "order_index": 27,
          "text": {
           "paragraphs": [
            "Tracking drinks helps you estimate risk, but it is not exact. Two guests may drink the same amount and show different effects. Always combine drink tracking with observation. This approach improves accuracy and supports compliance with South Carolina service responsibilities."
@@ -2609,13 +2765,13 @@
        ]
       },
       {
-       "order_index": 23,
+       "order_index": 28,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 23,
+         "order_index": 28,
          "text": {
           "paragraphs": [
            "Servers play a key role in preventing over-service. Understanding BAC and standard drinks helps guide decisions. You are responsible for noticing changes and taking action. Slowing service, offering alternatives, or stopping alcohol service may be necessary to protect the guest and others."
@@ -2626,13 +2782,13 @@
        ]
       },
       {
-       "order_index": 24,
+       "order_index": 29,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 24,
+         "order_index": 29,
          "interactive": {
           "question": "A guest orders two strong mixed drinks in a short time. You notice faster speech and reduced coordination. The guest asks for another drink right away. Based on BAC and standard drink understanding, what is the safest action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -2667,13 +2823,13 @@
        ]
       },
       {
-       "order_index": 25,
+       "order_index": 30,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 25,
+         "order_index": 30,
          "text": {
           "paragraphs": [
            "BAC is affected by more than just how much a person drinks. Individual factors change how alcohol is absorbed and processed. As a server, you must understand these differences. This helps explain why two guests may show different levels of impairment after similar drinking. Always focus on behavior and risk, not assumptions."
@@ -2684,13 +2840,13 @@
        ]
       },
       {
-       "order_index": 26,
+       "order_index": 31,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 26,
+         "order_index": 31,
          "text": {
           "paragraphs": [
            "Body weight plays a major role in BAC. People with lower body weight usually reach higher BAC levels faster. There is less body mass to absorb the alcohol. Heavier individuals may show effects more slowly, but they can still become impaired. Never assume someone is safe based on size alone."
@@ -2701,13 +2857,13 @@
        ]
       },
       {
-       "order_index": 27,
+       "order_index": 32,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 27,
+         "order_index": 32,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -2742,13 +2898,13 @@
        ]
       },
       {
-       "order_index": 28,
+       "order_index": 33,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 28,
+         "order_index": 33,
          "text": {
           "paragraphs": [
            "Food in the stomach slows alcohol absorption. Drinking on an empty stomach allows alcohol to enter the bloodstream faster. This can lead to quicker intoxication. Guests who have not eaten are at higher risk. As a server, you should be aware of how eating patterns affect alcohol impact."
@@ -2759,13 +2915,13 @@
        ]
       },
       {
-       "order_index": 29,
+       "order_index": 34,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 29,
+         "order_index": 34,
          "text": {
           "paragraphs": [
            "The rate of drinking is one of the biggest factors affecting BAC. Drinking multiple beverages quickly causes alcohol to build up in the bloodstream. Slower drinking gives the body time to process alcohol. Fast consumption increases the risk of impairment and unsafe behavior."
@@ -2776,13 +2932,13 @@
        ]
       },
       {
-       "order_index": 30,
+       "order_index": 35,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 30,
+         "order_index": 35,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -2817,13 +2973,13 @@
        ]
       },
       {
-       "order_index": 31,
+       "order_index": 36,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 31,
+         "order_index": 36,
          "text": {
           "paragraphs": [
            "Medications and drugs can increase alcohol’s effects. Prescription, over-the-counter, and illegal drugs may interact with alcohol. These interactions can cause stronger impairment or unexpected behavior. As a server, you may not know what a guest has taken. Focus on visible signs and changes."
@@ -2834,13 +2990,13 @@
        ]
       },
       {
-       "order_index": 32,
+       "order_index": 37,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 32,
+         "order_index": 37,
          "text": {
           "paragraphs": [
            "Tolerance refers to how a person responds to alcohol over time. Some people appear less affected after drinking. This does not mean alcohol is not impacting them. Their BAC may still be high. Tolerance can hide visible signs, making careful observation even more important."
@@ -2851,13 +3007,13 @@
        ]
       },
       {
-       "order_index": 33,
+       "order_index": 38,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 33,
+         "order_index": 38,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -2892,13 +3048,13 @@
        ]
       },
       {
-       "order_index": 34,
+       "order_index": 39,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 34,
+         "order_index": 39,
          "text": {
           "paragraphs": [
            "Environmental factors can also influence alcohol effects. Heat, fatigue, and stress may increase impairment. Loud or crowded settings may make it harder to notice signs. Stay alert and focused on each guest. Your awareness helps prevent over-service."
@@ -2909,13 +3065,13 @@
        ]
       },
       {
-       "order_index": 35,
+       "order_index": 40,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 35,
+         "order_index": 40,
          "text": {
           "paragraphs": [
            "Understanding BAC factors helps you make better service decisions. You cannot measure BAC directly, but you can recognize risk. Combine drink tracking with observation. When in doubt, slow service or stop serving alcohol. Protecting the guest and others is your responsibility."
@@ -2926,13 +3082,13 @@
        ]
       },
       {
-       "order_index": 36,
+       "order_index": 41,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 36,
+         "order_index": 41,
          "interactive": {
           "question": "A guest has been drinking slowly but mentions they have not eaten all day. After two drinks, you notice quicker mood changes and reduced coordination. The guest asks for another drink. What is the safest action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -2967,13 +3123,13 @@
        ]
       },
       {
-       "order_index": 37,
+       "order_index": 42,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 37,
+         "order_index": 42,
          "text": {
           "paragraphs": [
            "Alcohol elimination is the process of removing alcohol from the body. This happens mainly in the liver. The liver breaks down alcohol at a steady rate. Once alcohol is in the bloodstream, the body must process it over time. This process cannot be rushed or skipped."
@@ -2984,13 +3140,13 @@
        ]
       },
       {
-       "order_index": 38,
+       "order_index": 43,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 38,
+         "order_index": 43,
          "text": {
           "paragraphs": [
            "On average, the body eliminates about one standard drink per hour. This rate can vary slightly by person. However, it does not speed up significantly. Drinking faster than this rate causes alcohol to build up in the bloodstream. This leads to increasing impairment."
@@ -3001,13 +3157,13 @@
        ]
       },
       {
-       "order_index": 39,
+       "order_index": 44,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 39,
+         "order_index": 44,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3042,13 +3198,13 @@
        ]
       },
       {
-       "order_index": 40,
+       "order_index": 45,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 40,
+         "order_index": 45,
          "text": {
           "paragraphs": [
            "Many people believe certain actions can reduce intoxication quickly. These are common myths. While some actions may make a person feel more alert, they do not lower BAC. Servers must understand the difference between feeling better and being less impaired."
@@ -3059,13 +3215,13 @@
        ]
       },
       {
-       "order_index": 41,
+       "order_index": 46,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 41,
+         "order_index": 46,
          "text": {
           "paragraphs": [
            "Coffee is a common example. It may increase alertness, but it does not remove alcohol from the body. A guest may seem more awake but still be impaired. This can increase risk because they may believe they are safe when they are not."
@@ -3076,13 +3232,13 @@
        ]
       },
       {
-       "order_index": 42,
+       "order_index": 47,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 42,
+         "order_index": 47,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3117,13 +3273,13 @@
        ]
       },
       {
-       "order_index": 43,
+       "order_index": 48,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 43,
+         "order_index": 48,
          "text": {
           "paragraphs": [
            "Food can slow alcohol absorption if eaten before or during drinking. However, once alcohol is in the bloodstream, food does not remove it. Guests may think eating after drinking will sober them up. This is not accurate."
@@ -3134,13 +3290,13 @@
        ]
       },
       {
-       "order_index": 44,
+       "order_index": 49,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 44,
+         "order_index": 49,
          "text": {
           "paragraphs": [
            "Fresh air may help a person feel better, but it does not reduce BAC. A guest may appear more stable after stepping outside. However, impairment remains. Always rely on observed signs, not temporary improvements."
@@ -3151,13 +3307,13 @@
        ]
       },
       {
-       "order_index": 45,
+       "order_index": 50,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 45,
+         "order_index": 50,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3192,13 +3348,13 @@
        ]
       },
       {
-       "order_index": 46,
+       "order_index": 51,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 46,
+         "order_index": 51,
          "text": {
           "paragraphs": [
            "As a server, you must act based on facts, not myths. If a guest shows signs of intoxication, you should slow or stop alcohol service. Do not rely on claims that they have “sobered up.” Your responsibility is to prevent harm."
@@ -3209,13 +3365,13 @@
        ]
       },
       {
-       "order_index": 47,
+       "order_index": 52,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 47,
+         "order_index": 52,
          "text": {
           "paragraphs": [
            "Understanding elimination helps you make safer decisions. Alcohol takes time to leave the body. Guests cannot speed up this process. Your actions can reduce risk by limiting further alcohol service and offering safer alternatives."
@@ -3226,13 +3382,13 @@
        ]
       },
       {
-       "order_index": 48,
+       "order_index": 53,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 48,
+         "order_index": 53,
          "interactive": {
           "question": "A guest drinks several beverages and then orders coffee. They say they are fine to continue drinking because the coffee “sobers them up.” What is the safest response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3267,13 +3423,13 @@
        ]
       },
       {
-       "order_index": 49,
+       "order_index": 54,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 49,
+         "order_index": 54,
          "text": {
           "paragraphs": [
            "Alcohol can interact with many types of drugs. These include prescription, over-the-counter, and illegal substances. When combined, effects can become stronger or unpredictable. As a server, you may not know what a guest has taken. Focus on recognizing unusual or increased impairment and respond appropriately."
@@ -3284,13 +3440,13 @@
        ]
       },
       {
-       "order_index": 50,
+       "order_index": 55,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 50,
+         "order_index": 55,
          "text": {
           "paragraphs": [
            "Drug interactions can increase intoxication quickly. A person may appear impaired after only one or two drinks. This can happen even if they normally handle alcohol well. These situations require careful observation and early action to prevent harm."
@@ -3301,13 +3457,13 @@
        ]
       },
       {
-       "order_index": 51,
+       "order_index": 56,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 51,
+         "order_index": 56,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3347,13 +3503,13 @@
        ]
       },
       {
-       "order_index": 52,
+       "order_index": 57,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 52,
+         "order_index": 57,
          "text": {
           "paragraphs": [
            "Some prescription medications warn against alcohol use. These include drugs for pain, anxiety, sleep, and mood. Mixing alcohol with these medications can cause stronger sedation or confusion. Guests may not always follow warnings, so you must rely on what you observe."
@@ -3364,13 +3520,13 @@
        ]
       },
       {
-       "order_index": 53,
+       "order_index": 58,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 53,
+         "order_index": 58,
          "text": {
           "paragraphs": [
            "Over-the-counter medications can also affect alcohol response. Cold medicines and antihistamines may increase drowsiness. Even common medications can change how alcohol affects the body. Do not assume OTC use is harmless when combined with alcohol."
@@ -3381,13 +3537,13 @@
        ]
       },
       {
-       "order_index": 54,
+       "order_index": 59,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 54,
+         "order_index": 59,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3427,13 +3583,13 @@
        ]
       },
       {
-       "order_index": 55,
+       "order_index": 60,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 55,
+         "order_index": 60,
          "text": {
           "paragraphs": [
            "Illegal drugs can create dangerous combinations with alcohol. Effects may include confusion, aggression, or extreme drowsiness. These reactions can appear suddenly. As a server, you must respond quickly if a guest shows unusual or severe impairment."
@@ -3444,13 +3600,13 @@
        ]
       },
       {
-       "order_index": 56,
+       "order_index": 61,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 56,
+         "order_index": 61,
          "text": {
           "paragraphs": [
            "Mixing alcohol with stimulants can be especially risky. A guest may feel alert but still be impaired. This can lead to risky decisions. The masking effect makes it harder to judge intoxication. Focus on behavior and coordination, not energy level."
@@ -3461,13 +3617,13 @@
        ]
       },
       {
-       "order_index": 57,
+       "order_index": 62,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 57,
+         "order_index": 62,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3502,13 +3658,13 @@
        ]
       },
       {
-       "order_index": 58,
+       "order_index": 63,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 58,
+         "order_index": 63,
          "text": {
           "paragraphs": [
            "Drug and alcohol interactions can increase the chance of injury or illness. Guests may lose coordination or awareness. This creates safety risks for them and others. Early intervention helps prevent serious outcomes."
@@ -3519,13 +3675,13 @@
        ]
       },
       {
-       "order_index": 59,
+       "order_index": 64,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 59,
+         "order_index": 64,
          "text": {
           "paragraphs": [
            "If you suspect drug interaction, slow or stop alcohol service. Offer water or non-alcoholic options. Involve a manager if needed. Stay calm and professional. Your goal is to reduce risk and keep the situation safe."
@@ -3536,13 +3692,13 @@
        ]
       },
       {
-       "order_index": 60,
+       "order_index": 65,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 60,
+         "order_index": 65,
          "interactive": {
           "question": "A guest has one drink but shows strong drowsiness and poor coordination. They mention taking medication earlier. They ask for another drink. What is the safest action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3577,13 +3733,13 @@
        ]
       },
       {
-       "order_index": 61,
+       "order_index": 66,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 61,
+         "order_index": 66,
          "interactive": {
           "question": "A guest drinks two beers quickly on an empty stomach. Within a short time, you notice faster speech and reduced coordination. The guest asks for another drink. What is the safest action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3618,13 +3774,13 @@
        ]
       },
       {
-       "order_index": 62,
+       "order_index": 67,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 62,
+         "order_index": 67,
          "interactive": {
           "question": "A guest has consumed multiple drinks over time. They order coffee and say they are fine to keep drinking. You still notice poor coordination. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3659,13 +3815,13 @@
        ]
       },
       {
-       "order_index": 63,
+       "order_index": 68,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 63,
+         "order_index": 68,
          "interactive": {
           "question": "A guest orders strong mixed drinks back to back. They appear alert but show poor judgment and risk-taking behavior. What is the best response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3700,13 +3856,13 @@
        ]
       },
       {
-       "order_index": 64,
+       "order_index": 69,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 64,
+         "order_index": 69,
          "interactive": {
           "question": "A guest has one drink but shows strong drowsiness and slow reactions. They mention taking medication earlier. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3741,13 +3897,13 @@
        ]
       },
       {
-       "order_index": 65,
+       "order_index": 70,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 65,
+         "order_index": 70,
          "interactive": {
           "question": "A guest drinks slowly but has not eaten all day. After two drinks, they show mood changes and poor coordination. What is the safest action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3782,13 +3938,13 @@
        ]
       },
       {
-       "order_index": 66,
+       "order_index": 71,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 66,
+         "order_index": 71,
          "interactive": {
           "question": "A guest says they “feel fine” after several drinks. You observe slurred speech and unsteady walking. What should guide your decision?",
           "instruction": "Read the scenario, then select the best answer.",
