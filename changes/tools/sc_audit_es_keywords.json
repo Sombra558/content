@@ -1,0 +1,168 @@
+{
+  "key laws: permitting/licensing": [
+    "permiso",
+    "permisos",
+    "licencia",
+    "licencias"
+  ],
+  "key laws: DUI": [
+    "bajo la influencia",
+    "dui"
+  ],
+  "key laws: concealed weapons": [
+    "arma oculta",
+    "armas ocultas",
+    "concealable weapons"
+  ],
+  "physiological effects / BAC": [
+    "concentración de alcohol en sangre",
+    "bac"
+  ],
+  "factors affecting BAC": [
+    "factores que afectan",
+    "afectan el bac",
+    "afectan la concentración"
+  ],
+  "drug interactions": [
+    "recetados",
+    "medicamentos",
+    "interacción con drogas",
+    "venta libre"
+  ],
+  "individual tolerance": [
+    "tolerancia"
+  ],
+  "role refusing sale to minors": [
+    "rechace",
+    "rechazar",
+    "menor de 21",
+    "menores de edad"
+  ],
+  "life consequences to minors": [
+    "beca",
+    "becas",
+    "antecedentes penales",
+    "consecuencias"
+  ],
+  "seek help / problem drinking": [
+    "consumo problemático",
+    "pedir ayuda",
+    "intervención"
+  ],
+  "check ID procedure": [
+    "verificación de identidad",
+    "verificar la identificación",
+    "revisar la id"
+  ],
+  "fake/illegal ID": [
+    "identificación falsa",
+    "identificación alterada",
+    "identificación ilegal"
+  ],
+  "ID anyone appearing underage": [
+    "parezca menor",
+    "edad aparente",
+    "sin importar la edad aparente"
+  ],
+  "penalized for underage sale": [
+    "prima facie",
+    "$200",
+    "delito menor"
+  ],
+  "signs of intoxication": [
+    "señales de intoxicación",
+    "visiblemente intoxicado"
+  ],
+  "manager as resource": [
+    "gerente",
+    "gerencia",
+    "administrador"
+  ],
+  "business/marketing/liability/standard drink": [
+    "bebida estándar",
+    "responsabilidad por licor",
+    "marketing responsable"
+  ],
+  "recent SC enforcement stats": [
+    "413",
+    "muertes",
+    "scdps",
+    "fars"
+  ],
+  "state laws + consequences (sale to minors/intox)": [
+    "al ser condenado",
+    "multa de entre"
+  ],
+  "server penalties for sale to minors": [
+    "prima facie",
+    "multa de entre $200"
+  ],
+  "calc required DOB": [
+    "menos 21 años",
+    "reste 21 años",
+    "restarle 21 años"
+  ],
+  "three valid ID forms": [
+    "licencia de conducir",
+    "tarjeta de identificación",
+    "pasaporte"
+  ],
+  "locate DOB on ID": [
+    "fecha de nacimiento",
+    "dob"
+  ],
+  "apply DOB comparison": [
+    "compare",
+    "fecha de nacimiento requerida",
+    "compárela"
+  ],
+  "vertical vs horizontal license": [
+    "vertical",
+    "horizontal"
+  ],
+  "refusal techniques": [
+    "rechazar el servicio",
+    "negativa",
+    "negar otra bebida"
+  ],
+  "escalation procedures": [
+    "escalamiento",
+    "escalar",
+    "involucrar a un gerente"
+  ],
+  "house policies / incident reporting": [
+    "política del establecimiento",
+    "políticas internas",
+    "informe de incidente"
+  ],
+  "ongoing training / refreshers": [
+    "capacitación de repaso",
+    "repasos",
+    "autoevaluaciones",
+    "módulos digitales"
+  ],
+  "implied consent": [
+    "consentimiento implícito"
+  ],
+  "open container": [
+    "contenedor abierto"
+  ],
+  "MYDORWAY certificate": [
+    "mydorway"
+  ],
+  "scholarship consequences": [
+    "palmetto fellows",
+    "sc hope",
+    "sc life"
+  ],
+  "liquor liability insurance": [
+    "responsabilidad por licor",
+    "$1 millón",
+    "seguro"
+  ],
+  "drive-thru/curbside promo": [
+    "drive-thru",
+    "curb service",
+    "7-202.5"
+  ]
+}

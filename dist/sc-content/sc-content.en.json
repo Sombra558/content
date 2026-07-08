@@ -255,7 +255,7 @@
          },
          "interactive": {
           "content_structure": [
-           "South Carolina alcohol laws are enforced by agencies such as SLED (South Carolina Law Enforcement Division) and local authorities, while ABL (Alcohol Beverage Licensing) manages licenses and permits. These laws control who can sell alcohol, when to serve, and where alcohol is allowed. Businesses must follow license rules and maintain legal compliance. After completing training and program requirements, participants may access certificates and state resources through the MYDORWAY portal when applicable. As a server, you are responsible for understanding these rules and making safe, legal decisions during every shift."
+           "South Carolina alcohol laws are enforced by {{item_1}} such as SLED (South Carolina Law Enforcement Division) and {{item_2}}, while ABL (Alcohol Beverage Licensing) manages licenses and permits. These laws control {{item_3}} alcohol, {{item_4}}, and {{item_5}}. Businesses must follow {{item_6}} and maintain {{item_7}}. After completing training and program requirements, participants may access certificates and state resources through the MYDORWAY portal when applicable. As a server, you are responsible for understanding these rules and making safe, legal decisions during every shift."
           ],
           "reveal_items": [
            {
