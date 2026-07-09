@@ -1534,23 +1534,23 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Las infracciones penales pueden incluir {{item_1}}, servir alcohol a {{item_2}}, ignorar {{item_3}}, realizar {{item_4}} o reprobar {{item_5}}. Estas acciones violan la ley de Carolina del Sur y pueden resultar en sanciones. Mantenerse alerta y seguir los procedimientos ayuda a evitar que se produzcan estas infracciones."
+                      "Las infracciones penales pueden incluir {{item_1}}, servir alcohol a {{item_2}}, ignorar {{item_3}}, realizar {{item_4}} o no cumplir {{item_5}}. Estas acciones violan la ley de Carolina del Sur y pueden resultar en sanciones. Mantenerse alerta y seguir los procedimientos te ayuda a evitar que se produzcan estas infracciones."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "venta de menores de edad",
-                        "revealed_text": "venta de menores de edad"
+                        "title": "venta a menores de edad",
+                        "revealed_text": "venta a menores de edad"
                       },
                       {
                         "id": "item_2",
-                        "title": "persona intoxicada",
-                        "revealed_text": "persona intoxicada"
+                        "title": "una persona intoxicada",
+                        "revealed_text": "una persona intoxicada"
                       },
                       {
                         "id": "item_3",
-                        "title": "leyes de identificación",
-                        "revealed_text": "leyes de identificación"
+                        "title": "los protocolos de identificación",
+                        "revealed_text": "los protocolos de identificación"
                       },
                       {
                         "id": "item_4",
@@ -1559,8 +1559,8 @@
                       },
                       {
                         "id": "item_5",
-                        "title": "deberes legales",
-                        "revealed_text": "deberes legales"
+                        "title": "con sus deberes legales",
+                        "revealed_text": "con sus deberes legales"
                       }
                     ]
                   }
@@ -1611,7 +1611,7 @@
                   "order_index": 61,
                   "text": {
                     "paragraphs": [
-                      "Los tres tipos de responsabilidad pueden surgir de un solo incidente. Por ejemplo, una venta a menores de edad podría dar lugar a cargos penales, una demanda y sanciones por licencia. Por eso cada decisión es importante. Seguir los procedimientos adecuados reduce el riesgo y lo protege a usted y a su empleador de múltiples formas de responsabilidad."
+                      "Los tres tipos de responsabilidad pueden surgir de un solo incidente. Por ejemplo, una venta a menores de edad podría dar lugar a cargos penales, una demanda y sanciones por licencia. Por eso cada decisión es importante. Seguir los procedimientos adecuados reduce el riesgo y te protege a ti y a tu empleador de múltiples formas de responsabilidad."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -1631,7 +1631,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Las consecuencias pueden incluir {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}} y {{item_5}}. Estos resultados pueden afectar sus ingresos, su carrera y sus oportunidades futuras. Comprender el impacto ayuda a reforzar por qué el servicio responsable de alcohol es fundamental en cada situación."
+                      "Las consecuencias pueden incluir {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}} y {{item_5}}. Estos resultados pueden afectar tus ingresos, tu carrera y tus oportunidades futuras. Comprender el impacto te ayuda a reforzar por qué el servicio responsable de alcohol es fundamental en cada situación."
                     ],
                     "reveal_items": [
                       {
@@ -1674,7 +1674,7 @@
                   "order_index": 63,
                   "text": {
                     "paragraphs": [
-                      "Se espera que los servidores sigan tanto la ley estatal como las políticas del lugar de trabajo. Las políticas están diseñadas para ayudar a prevenir violaciones. Ignorar estas reglas aumenta el riesgo. Si no está seguro de una situación, consulte con un gerente antes de actuar. Tomarse un momento para verificar puede evitar consecuencias graves."
+                      "Se espera que los servidores sigan tanto la ley estatal como las políticas del lugar de trabajo. Las políticas están diseñadas para ayudar a prevenir violaciones. Ignorar estas reglas aumenta el riesgo. Si no estás seguro de una situación, consulta con un gerente antes de actuar. Tomarse un momento para verificar puede evitar consecuencias graves."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -1708,7 +1708,7 @@
                   "order_index": 65,
                   "text": {
                     "paragraphs": [
-                      "Los gerentes y compañeros de trabajo son recursos cuando se manejan situaciones difíciles. Si una situación parece incierta o riesgosa, involucre a la gerencia desde el principio. No intente manejar problemas complejos solo. El soporte del equipo ayuda a garantizar decisiones correctas y reduce la posibilidad de cometer errores que podrían generar responsabilidad."
+                      "Los gerentes y compañeros de trabajo son recursos cuando se manejan situaciones difíciles. Si una situación parece incierta o riesgosa, involucra a la gerencia desde el principio. No intentes manejar problemas complejos tú solo. El soporte del equipo te ayuda a garantizar decisiones correctas y reduce la posibilidad de cometer errores que podrían generar responsabilidad."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -1728,18 +1728,18 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Para reducir la responsabilidad, siempre {{item_1}}, marque {{item_2}}, rechace {{item_3}}, involucre a {{item_4}} y documente {{item_5}}. Estos pasos respaldan el cumplimiento y lo protegen de riesgos. Los hábitos constantes son la mejor defensa contra las consecuencias legales en el servicio de alcohol."
+                      "Para reducir la responsabilidad, siempre {{item_1}}, verifique {{item_2}}, niegue {{item_3}}, involucra a {{item_4}} y documente {{item_5}}. Estos pasos respaldan el cumplimiento y te protegen de riesgos. Los hábitos constantes son la mejor defensa contra las consecuencias legales en el servicio de alcohol."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "seguir las leyes",
-                        "revealed_text": "seguir las leyes"
+                        "title": "debes seguir las leyes",
+                        "revealed_text": "debes seguir las leyes"
                       },
                       {
                         "id": "item_2",
-                        "title": "identificación válida",
-                        "revealed_text": "identificación válida"
+                        "title": "que la identificación sea válida",
+                        "revealed_text": "que la identificación sea válida"
                       },
                       {
                         "id": "item_3",
@@ -1748,8 +1748,8 @@
                       },
                       {
                         "id": "item_4",
-                        "title": "gestión",
-                        "revealed_text": "gestión"
+                        "title": "a un gerente",
+                        "revealed_text": "a un gerente"
                       },
                       {
                         "id": "item_5",
@@ -1770,7 +1770,7 @@
                 {
                   "order_index": 67,
                   "interactive": {
-                    "question": "Atiende a un cliente que muestra claros signos de intoxicación. Posteriormente, se ven involucrados en un accidente tras abandonar el negocio. ¿Qué tipo de consecuencias podrían resultar?",
+                    "question": "Atiendes a un cliente que muestra claros signos de intoxicación. Posteriormente, se ve involucrado en un accidente tras abandonar el negocio. ¿Qué tipo de consecuencias podrían resultar?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -1811,12 +1811,12 @@
                 {
                   "order_index": 68,
                   "interactive": {
-                    "question": "Un cliente que parece menor de 21 años intenta pedir alcohol pero no tiene una identificación. Insisten en que tienen edad suficiente. ¿Qué deberías hacer?",
+                    "question": "Un cliente que parece menor de 21 años intenta pedir alcohol pero no tiene una identificación. Insiste en que tiene edad suficiente. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sírvales si parecen confiados.",
+                        "label": "A. Servir si parece confiado.",
                         "is_correct": false
                       },
                       {
@@ -1831,7 +1831,7 @@
                       },
                       {
                         "id": "opt_d",
-                        "label": "D. Sirva una bebida y controle",
+                        "label": "D. Servir una bebida y controlar",
                         "is_correct": false
                       }
                     ],
@@ -1852,12 +1852,12 @@
                 {
                   "order_index": 69,
                   "interactive": {
-                    "question": "Un cliente presenta una identificación que parece dañada y no coincide claramente con su apariencia. Insisten en que es válido. ¿Cuál es la mejor acción?",
+                    "question": "Un cliente presenta una identificación que parece dañada y no coincide claramente con su apariencia. Insiste en que es válida. ¿Cuál es la mejor acción?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Aceptar la identificación y entregar",
+                        "label": "A. Aceptar la identificación y servir",
                         "is_correct": false
                       },
                       {
@@ -1867,7 +1867,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Ignorar el daño y continuar",
+                        "label": "C. Ignorar el daño y servir",
                         "is_correct": false
                       },
                       {
@@ -1897,7 +1897,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Antes de dar el servicio, siempre debes {{item_1}}, confirmar {{item_2}}, detectar una {{item_3}}, rechazar {{item_4}} y sigue la {{item_5}}. Estos pasos se aplican a todos los clientes. Saltarse cualquier parte del proceso aumenta el riesgo de violaciones y consecuencias legales. La coherencia es clave para cumplir."
+                      "Antes de dar el servicio, siempre debes {{item_1}}, confirmar {{item_2}}, detectar una {{item_3}}, rechazar una {{item_4}} y sigue la {{item_5}}. Estos pasos se aplican a todos los clientes. Saltarse cualquier parte del proceso aumenta el riesgo de violaciones y consecuencias legales. La coherencia es clave para cumplir."
                     ],
                     "reveal_items": [
                       {
@@ -1959,7 +1959,7 @@
                       },
                       {
                         "id": "opt_d",
-                        "label": "D. Pregúnteles si se sienten bien y sirva.",
+                        "label": "D. Preguntar si se siente bien y servir",
                         "is_correct": false
                       }
                     ],
@@ -2022,7 +2022,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "El alcohol es un {{item_1}} que ralentiza el sistema nervioso central. Afecta al cerebro y al cuerpo al mismo tiempo. Como servidor, usted debe comprender cómo el alcohol cambia el comportamiento. Esto le ayuda a tomar decisiones de servicio seguras. Los efectos pueden aparecer rápida o lentamente según la persona. Esté siempre atento a los cambios, no sólo al recuento de bebidas."
+                      "El alcohol es un {{item_1}} que ralentiza el sistema nervioso central. Afecta al cerebro y al cuerpo al mismo tiempo. Como servidor, debes comprender cómo el alcohol cambia el comportamiento. Esto te ayuda a tomar decisiones de servicio seguras. Los efectos pueden aparecer rápida o lentamente según la persona. Debes estar atento a los cambios, no sólo al recuento de bebidas."
                     ],
                     "reveal_items": [
                       {
@@ -2065,7 +2065,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "El alcohol se mueve por el cuerpo siguiendo un camino predecible. Primero, es {{item_1}} . Luego ingresa al {{item_2}} . A continuación, pasa al {{item_3}} . De allí ingresa al {{item_4}} . Finalmente llega al {{item_5}} , donde comienza el deterioro. Conocer este camino ayuda a explicar por qué beber más rápido aumenta el riesgo."
+                      "El alcohol se mueve por el cuerpo siguiendo un camino predecible. Primero, es {{item_1}} . Luego ingresa al {{item_2}} . A continuación, pasa al {{item_3}} . De allí ingresa a la {{item_4}} . Finalmente llega al {{item_5}} , donde comienza el deterioro. Conocer este camino ayuda a explicar por qué beber más rápido aumenta el riesgo."
                     ],
                     "reveal_items": [
                       {
@@ -2108,7 +2108,7 @@
                   "order_index": 4,
                   "text": {
                     "paragraphs": [
-                      "El alcohol interactúa de forma peligrosa con muchos medicamentos recetados, de venta libre y drogas ilegales. Los sedantes, opioides, antihistamínicos y otros depresores pueden multiplicar los efectos del alcohol, por lo que un cliente puede parecer mucho más incapacitado de lo que sugiere su número de bebidas. Usted no puede saber qué ha tomado un cliente, así que evalúe la incapacidad por la conducta observada, no solo por la cuenta de bebidas."
+                      "El alcohol interactúa de forma peligrosa con muchos medicamentos recetados, de venta libre y drogas ilegales. Los sedantes, opioides, antihistamínicos y otros depresores pueden multiplicar los efectos del alcohol, por lo que un cliente puede parecer mucho más incapacitado de lo que sugiere su número de bebidas. Tú no puedes saber qué ha tomado un cliente, así que evalúa la incapacidad por la conducta observada, no solo por la cuenta de bebidas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2205,7 +2205,7 @@
                   "order_index": 8,
                   "text": {
                     "paragraphs": [
-                      "La tolerancia significa que una persona que bebe mucho con regularidad puede no parecer tan incapacitada como realmente indica su BAC. La tolerancia no vuelve segura a una persona para conducir; solo enmascara las señales. Nunca use la aparente 'capacidad para aguantar' de un cliente como razón para seguir sirviendo; apóyese en el conteo de bebidas, el tiempo y la conducta."
+                      "La tolerancia significa que una persona que bebe mucho con regularidad puede no parecer tan incapacitada como realmente indica su BAC. La tolerancia no vuelve segura a una persona para conducir; solo enmascara las señales. Nunca uses la aparente 'capacidad para aguantar' de un cliente como razón para seguir sirviendo; apóyate en el conteo de bebidas, el tiempo y la conducta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2222,7 +2222,7 @@
                   "order_index": 9,
                   "text": {
                     "paragraphs": [
-                      "En Carolina del Sur, una concentración de alcohol en sangre de 0.08% o más crea una inferencia de que el conductor estaba bajo la influencia, y un BAC entre 0.05% y 0.08% puede considerarse junto con otras pruebas. Las bebidas estándar elevan el BAC de maneras predecibles, por eso importan el ritmo del consumo y cortar el servicio a tiempo. Estatutos aplicables: SC Code §§ 56-5-2930 y 56-5-2933."
+                      "En Carolina del Sur, si un conductor tiene una concentración de alcohol en sangre de 0.08% o más, así como un BAC de entre 0.05% y 0.08% se considera que está bajo la influencia alcohólica. Las bebidas estándar elevan el BAC de maneras predecibles, por eso importan tanto el ritmo de consumo como detener el servicio a tiempo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2292,7 +2292,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "El alcohol afecta el cerebro en etapas. Los primeros signos incluyen {{item_1}} y {{item_2}} . A medida que continúa bebiendo, las personas pueden mostrar {{item_3}} y {{item_4}} . En niveles más altos, es posible que vea {{item_5}} y {{item_6}} . Estas señales le ayudan a decidir cuándo reducir la velocidad o detener el servicio."
+                      "El alcohol afecta el cerebro en etapas. Los primeros signos incluyen {{item_1}} y {{item_2}} . A medida que continúan bebiendo, las personas pueden mostrar {{item_3}} y {{item_4}} . En niveles más altos, es posible que veas {{item_5}} y {{item_6}} . Estas señales te ayudan a decidir cuándo reducir la velocidad o detener el servicio."
                     ],
                     "reveal_items": [
                       {
@@ -2340,7 +2340,7 @@
                   "order_index": 12,
                   "text": {
                     "paragraphs": [
-                      "El alcohol afecta la coordinación y la toma de decisiones. Los invitados pueden correr riesgos que normalmente evitan. El tiempo de reacción se ralentiza. Esto aumenta la posibilidad de sufrir lesiones o comportamientos inseguros. Como servidor, usted debe reconocer estos cambios con anticipación. Actuar antes ayuda a prevenir problemas."
+                      "El alcohol afecta la coordinación y la toma de decisiones. Los invitados pueden correr riesgos que normalmente evitan. El tiempo de reacción se ralentiza. Esto aumenta la posibilidad de sufrir lesiones o comportamientos inseguros. Como servidor, debes reconocer estos cambios con anticipación. Actuar antes te ayuda a prevenir problemas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2398,7 +2398,7 @@
                   "order_index": 14,
                   "text": {
                     "paragraphs": [
-                      "A medida que aumenta la intoxicación, el comportamiento puede cambiar. Algunos invitados se vuelven más ruidosos o más emocionales. Otros pueden volverse callados o retraídos. Los signos físicos suelen aparecer con cambios de comportamiento. Esté atento a los patrones, no solo a una señal. La observación constante es clave para un servicio seguro."
+                      "A medida que aumenta la intoxicación, el comportamiento puede cambiar. Algunos invitados se vuelven más ruidosos o más emocionales. Otros pueden volverse callados o retraídos. Los signos físicos suelen aparecer con cambios de comportamiento. Debes estar atento a los patrones, no solo a una señal. La observación constante es clave para un servicio seguro."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2415,7 +2415,7 @@
                   "order_index": 15,
                   "text": {
                     "paragraphs": [
-                      "Una bebida estándar es una forma de medir el contenido de alcohol. Diferentes bebidas pueden contener cantidades similares de alcohol. La cerveza, el vino y los licores varían en tamaño, pero pueden tener niveles de alcohol iguales. Comprender las bebidas estándar le ayuda a realizar un seguimiento de la cantidad de alcohol que consume un huésped, incluso con diferentes tipos de bebidas."
+                      "Una bebida estándar es una forma de medir el contenido de alcohol. Diferentes bebidas pueden contener cantidades similares de alcohol. La cerveza, el vino y los licores varían en tamaño, pero pueden tener niveles de alcohol iguales. Comprender las bebidas estándar te ayuda a realizar un seguimiento de la cantidad de alcohol que consume un huésped, incluso con diferentes tipos de bebidas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2435,7 +2435,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Los signos físicos comunes incluyen {{item_1}} , {{item_2}} y {{item_3}} . Es posible que notes {{item_4}} o {{item_5}} . Estos signos suelen aparecer juntos. Reconocer múltiples indicadores ayuda a confirmar la intoxicación. Utilice estas observaciones para guiar sus decisiones de servicio."
+                      "Los signos físicos comunes incluyen {{item_1}} , {{item_2}} y {{item_3}} . Es posible que notes {{item_4}} o {{item_5}} . Estos signos suelen aparecer juntos. Reconocer múltiples indicadores te ayuda a confirmar la intoxicación. Utiliza estas observaciones para guiar tus decisiones de servicio."
                     ],
                     "reveal_items": [
                       {
@@ -2477,12 +2477,12 @@
                 {
                   "order_index": 17,
                   "interactive": {
-                    "question": "Un invitado pide rápidamente varias bebidas. Al poco tiempo, nota un habla más lenta y movimientos inestables. El invitado insiste en que se siente bien y pide otra bebida. Según la absorción y los efectos del alcohol, ¿Cuál es la acción más segura?",
+                    "question": "Un invitado pide rápidamente varias bebidas. Al poco tiempo, notas un habla más lenta y movimientos inestables. El invitado insiste en que se siente bien y pide otra bebida. Según la absorción y los efectos del alcohol, ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirva una bebida más lentamente.",
+                        "label": "A. Servir una bebida más lentamente.",
                         "is_correct": false
                       },
                       {
@@ -2556,7 +2556,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "BAC se ve afectado por varios factores clave. El {{item_1}} afecta la forma en que se distribuye el alcohol. {{item_2}} puede influir en la velocidad de procesamiento. Beber con un {{item_3}} aumenta la absorción. {{item_4}} afecta la cantidad de alcohol que se consume. Beber {{item_5}} aumenta el BAC más rápido. Estos factores explican por qué los huéspedes responden de manera diferente."
+                      "BAC se ve afectado por varios factores clave. El {{item_1}} afecta la forma en que se distribuye el alcohol. El {{item_2}} puede influir en la velocidad de procesamiento. Beber con un {{item_3}} aumenta la absorción. {{item_4}} afecta la cantidad de alcohol que se consume. Beber {{item_5}} aumenta el BAC más rápido. Estos factores explican por qué los huéspedes responden de manera diferente."
                     ],
                     "reveal_items": [
                       {
@@ -2599,7 +2599,7 @@
                   "order_index": 21,
                   "text": {
                     "paragraphs": [
-                      "No todas las bebidas tienen la misma fuerza. Un vertido grande o una mezcla fuerte puede contener más alcohol que una bebida estándar. Es posible que los invitados no se den cuenta de cuánto están consumiendo. Como camarero, debes reconocer cuando las bebidas son más fuertes de lo habitual. Esto ayuda a evitar el exceso de servicio."
+                      "No todas las bebidas tienen la misma fuerza. Un vertido grande o una mezcla fuerte puede contener más alcohol que una bebida estándar. Es posible que los invitados no se den cuenta de cuánto están consumiendo. Como camarero, debes reconocer cuando las bebidas son más fuertes de lo habitual. Esto te ayuda a evitar el exceso de servicio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2616,7 +2616,7 @@
                   "order_index": 22,
                   "text": {
                     "paragraphs": [
-                      "El seguimiento de las bebidas le ayuda a estimar el riesgo, pero no es exacto. Dos invitados pueden beber la misma cantidad y mostrar efectos diferentes. Combine siempre el seguimiento de las bebidas con la observación. Este enfoque mejora la precisión y respalda el cumplimiento de las responsabilidades de servicio de Carolina del Sur."
+                      "El seguimiento de las bebidas le ayuda a estimar el riesgo, pero no es exacto. Dos invitados pueden beber la misma cantidad y mostrar efectos diferentes. Combina siempre el seguimiento de las bebidas con la observación. Este enfoque mejora la precisión y respalda el cumplimiento de las responsabilidades de servicio de Carolina del Sur."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2679,7 +2679,7 @@
                   "order_index": 24,
                   "text": {
                     "paragraphs": [
-                      "El BAC no disminuye rápidamente. El tiempo es el único factor que reduce el BAC. El café, la comida o las duchas frías no aceleran el proceso. Estos pueden hacer que una persona se sienta más alerta, pero el deterioro persiste. Nunca confíe en mitos al tomar decisiones sobre servicios."
+                      "El BAC no disminuye rápidamente. El tiempo es el único factor que reduce el BAC. El café, la comida o las duchas frías no aceleran el proceso. Estos pueden hacer que una persona se sienta más alerta, pero el deterioro persiste. Nunca confíes en mitos al tomar decisiones sobre servicios."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2696,7 +2696,7 @@
                   "order_index": 25,
                   "text": {
                     "paragraphs": [
-                      "A medida que aumenta el BAC, el juicio y la coordinación disminuyen. Los invitados pueden correr riesgos o ignorar las consecuencias. Esto aumenta la posibilidad de daño. Los camareros deben centrarse en el comportamiento, no sólo en el recuento de bebidas. Reconocer patrones tempranamente le permite ralentizar o detener el servicio antes de que ocurran problemas."
+                      "A medida que aumenta el BAC, el juicio y la coordinación disminuyen. Los invitados pueden correr riesgos o ignorar las consecuencias. Esto aumenta la posibilidad de daño. Los camareros deben centrarse en el comportamiento, no sólo en el recuento de bebidas. Reconocer patrones tempranamente te permite ralentizar o detener el servicio antes de que ocurran problemas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2759,7 +2759,7 @@
                   "order_index": 27,
                   "text": {
                     "paragraphs": [
-                      "La comida en el estómago retarda la absorción de alcohol. Beber con el estómago vacío permite que el alcohol ingrese más rápido al torrente sanguíneo. Esto puede provocar una intoxicación más rápida. Los invitados que no han comido corren mayor riesgo. Como mesero, debe ser consciente de cómo los patrones alimentarios afectan el impacto del alcohol."
+                      "La comida en el estómago retarda la absorción de alcohol. Beber con el estómago vacío permite que el alcohol ingrese más rápido al torrente sanguíneo. Esto puede provocar una intoxicación más rápida. Los invitados que no han comido corren mayor riesgo. Como mesero, debes ser consciente de cómo los patrones alimentarios afectan el impacto del alcohol."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2776,7 +2776,7 @@
                   "order_index": 28,
                   "text": {
                     "paragraphs": [
-                      "Los servidores desempeñan un papel clave en la prevención del exceso de servicio. Comprender el BAC y las bebidas estándar ayuda a orientar las decisiones. Usted es responsable de notar los cambios y tomar medidas. Puede ser necesario ralentizar el servicio, ofrecer alternativas o suspender el servicio de alcohol para proteger al huésped y a otras personas."
+                      "Los servidores desempeñan un papel clave en la prevención del exceso de servicio. Comprender el BAC y las bebidas estándar te ayuda a orientar las decisiones. Tú eres responsable de notar los cambios y tomar medidas. Puede ser necesario ralentizar el servicio, ofrecer alternativas o suspender el servicio de alcohol para proteger al huésped y a otras personas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2797,22 +2797,22 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirva otra bebida con hielo extra.",
+                        "label": "A. Servir otra bebida con hielo extra.",
                         "is_correct": false
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Ofrecer agua y servicio lento.",
+                        "label": "B. Ofrecer agua y ralentizar el servicio.",
                         "is_correct": true
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Ignore las señales y continúe con el servicio",
+                        "label": "C. Ignorar las señales y continuar con el servicio",
                         "is_correct": false
                       },
                       {
                         "id": "opt_d",
-                        "label": "D. Sugerir cambiar a cerveza y continuar.",
+                        "label": "D. Sugerir cambiar a cerveza y continuar con el servicio.",
                         "is_correct": false
                       }
                     ],
@@ -2834,7 +2834,7 @@
                   "order_index": 30,
                   "text": {
                     "paragraphs": [
-                      "El BAC se ve afectado por algo más que la cantidad que bebe una persona. Los factores individuales cambian la forma en que se absorbe y procesa el alcohol. Como servidor, debes comprender estas diferencias. Esto ayuda a explicar por qué dos invitados pueden mostrar diferentes niveles de deterioro después de beber de manera similar. Concéntrese siempre en el comportamiento y el riesgo, no en suposiciones."
+                      "El BAC se ve afectado por algo más que la cantidad que bebe una persona. Los factores individuales cambian la forma en que se absorbe y procesa el alcohol. Como servidor, debes comprender estas diferencias. Esto explica por qué dos invitados pueden mostrar diferentes niveles de deterioro después de beber de manera similar. Concéntrate siempre en el comportamiento y el riesgo, no en suposiciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2851,7 +2851,7 @@
                   "order_index": 31,
                   "text": {
                     "paragraphs": [
-                      "El peso corporal juega un papel importante en el BAC. Las personas con menor peso corporal suelen alcanzar niveles más altos de BAC más rápidamente. Hay menos masa corporal para absorber el alcohol. Las personas más pesadas pueden mostrar los efectos más lentamente, pero aun así pueden verse afectados. Nunca asuma que alguien está seguro basándose únicamente en su tamaño."
+                      "El peso corporal juega un papel importante en el BAC. Las personas con menor peso corporal suelen alcanzar niveles más altos de BAC más rápidamente. Hay menos masa corporal para absorber el alcohol. Las personas más pesadas pueden mostrar los efectos más lentamente, pero aun así pueden verse afectados. Nunca asumas que alguien está seguro basándote únicamente en su tamaño."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -16948,7 +16948,7 @@
             },
             {
               "order_index": 6,
-              "question": "Atiende a un cliente que muestra claros signos de intoxicación. Posteriormente, se ven involucrados en un accidente tras abandonar el negocio. ¿Qué tipo de consecuencias podrían resultar?",
+              "question": "Atiendes a un cliente que muestra claros signos de intoxicación. Posteriormente, se ve involucrado en un accidente tras abandonar el negocio. ¿Qué tipo de consecuencias podrían resultar?",
               "options": [
                 {
                   "order_index": 0,
@@ -17286,11 +17286,11 @@
             },
             {
               "order_index": 19,
-              "question": "Un cliente que parece menor de 21 años intenta pedir alcohol pero no tiene una identificación. Insisten en que tienen edad suficiente. ¿Qué deberías hacer?",
+              "question": "Un cliente que parece menor de 21 años intenta pedir alcohol pero no tiene una identificación. Insiste en que tiene edad suficiente. ¿Qué deberías hacer?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sírvales si parecen confiados.",
+                  "label": "A. Servir si parece confiado.",
                   "is_correct": false
                 },
                 {
@@ -17305,18 +17305,18 @@
                 },
                 {
                   "order_index": 3,
-                  "label": "D. Sirva una bebida y controle",
+                  "label": "D. Servir una bebida y controlar",
                   "is_correct": false
                 }
               ]
             },
             {
               "order_index": 20,
-              "question": "Un invitado pide rápidamente varias bebidas. Al poco tiempo, nota un habla más lenta y movimientos inestables. El invitado insiste en que se siente bien y pide otra bebida. Según la absorción y los efectos del alcohol, ¿Cuál es la acción más segura?",
+              "question": "Un invitado pide rápidamente varias bebidas. Al poco tiempo, notas un habla más lenta y movimientos inestables. El invitado insiste en que se siente bien y pide otra bebida. Según la absorción y los efectos del alcohol, ¿Cuál es la acción más segura?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirva una bebida más lentamente.",
+                  "label": "A. Servir una bebida más lentamente.",
                   "is_correct": false
                 },
                 {
@@ -17576,22 +17576,22 @@
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirva otra bebida con hielo extra.",
+                  "label": "A. Servir otra bebida con hielo extra.",
                   "is_correct": false
                 },
                 {
                   "order_index": 1,
-                  "label": "B. Ofrecer agua y servicio lento.",
+                  "label": "B. Ofrecer agua y ralentizar el servicio.",
                   "is_correct": true
                 },
                 {
                   "order_index": 2,
-                  "label": "C. Ignore las señales y continúe con el servicio",
+                  "label": "C. Ignorar las señales y continuar con el servicio",
                   "is_correct": false
                 },
                 {
                   "order_index": 3,
-                  "label": "D. Sugerir cambiar a cerveza y continuar.",
+                  "label": "D. Sugerir cambiar a cerveza y continuar con el servicio.",
                   "is_correct": false
                 }
               ]
@@ -17825,7 +17825,7 @@
                 },
                 {
                   "order_index": 3,
-                  "label": "D. Pregúnteles si se sienten bien y sirva.",
+                  "label": "D. Preguntar si se siente bien y servir",
                   "is_correct": false
                 }
               ]
@@ -18820,11 +18820,11 @@
             },
             {
               "order_index": 78,
-              "question": "Un cliente presenta una identificación que parece dañada y no coincide claramente con su apariencia. Insisten en que es válido. ¿Cuál es la mejor acción?",
+              "question": "Un cliente presenta una identificación que parece dañada y no coincide claramente con su apariencia. Insiste en que es válida. ¿Cuál es la mejor acción?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Aceptar la identificación y entregar",
+                  "label": "A. Aceptar la identificación y servir",
                   "is_correct": false
                 },
                 {
@@ -18834,7 +18834,7 @@
                 },
                 {
                   "order_index": 2,
-                  "label": "C. Ignorar el daño y continuar",
+                  "label": "C. Ignorar el daño y servir",
                   "is_correct": false
                 },
                 {
