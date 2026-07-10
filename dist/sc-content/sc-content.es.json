@@ -2909,7 +2909,7 @@
                   "order_index": 33,
                   "text": {
                     "paragraphs": [
-                      "Los medicamentos y las drogas pueden aumentar los efectos del alcohol. Las drogas recetadas, de venta libre e ilegales pueden interactuar con el alcohol. Estas interacciones pueden causar un deterioro más fuerte o un comportamiento inesperado. Como camarero, es posible que no sepas lo que ha tomado un invitado. Concéntrese en los signos y cambios visibles."
+                      "Los medicamentos y las drogas pueden aumentar los efectos del alcohol. Las drogas recetadas, de venta libre e ilegales pueden interactuar con el alcohol. Estas interacciones pueden causar un deterioro más fuerte o un comportamiento inesperado. Como camarero, es posible que no sepas lo que ha tomado un invitado. Concéntrate en los signos y cambios visibles."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2946,7 +2946,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Los patrones de consumo de alcohol afectan fuertemente el BAC. El consumo de bebidas en {{item_1}} aumenta los niveles rápidamente. Tomar varias bebidas {{item_2}} aumenta el riesgo. Las bebidas más fuertes aumentan BAC {{item_3}} . Mezclar alcohol con {{item_4}} puede enmascarar los efectos. Estos patrones le ayudan a identificar situaciones de alto riesgo de forma temprana."
+                      "Los patrones de consumo de alcohol afectan fuertemente el BAC. El consumo de bebidas en {{item_1}} aumenta los niveles rápidamente. Tomar varias bebidas {{item_2}} aumenta el riesgo. Las bebidas más fuertes aumentan BAC {{item_3}} . Mezclar alcohol con {{item_4}} puede enmascarar los efectos. Estos patrones te ayudan a identificar situaciones de alto riesgo de forma temprana."
                     ],
                     "reveal_items": [
                       {
@@ -2956,8 +2956,8 @@
                       },
                       {
                         "id": "item_2",
-                        "title": "de espaldas",
-                        "revealed_text": "de espaldas"
+                        "title": "en forma consecutiva",
+                        "revealed_text": "en forma consecutiva"
                       },
                       {
                         "id": "item_3",
@@ -2984,7 +2984,7 @@
                   "order_index": 36,
                   "text": {
                     "paragraphs": [
-                      "Los factores ambientales también pueden influir en los efectos del alcohol. El calor, la fatiga y el estrés pueden aumentar el deterioro. Los entornos ruidosos o llenos de gente pueden hacer que sea más difícil notar las señales. Manténgase alerta y concentrado en cada huésped. Su conocimiento ayuda a prevenir el exceso de servicio."
+                      "Los factores ambientales también pueden influir en los efectos del alcohol. El calor, la fatiga y el estrés pueden aumentar el deterioro. Los entornos ruidosos o llenos de gente pueden hacer que sea más difícil notar las señales. Mantente alerta y concentrado en cada huésped. Tu conocimiento ayuda a prevenir el exceso de servicio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3021,7 +3021,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "La tolerancia puede ser engañosa. Un invitado puede parecer {{item_1}} pero aun así estar afectado. Es posible que muestre menos {{item_2}} a pesar de un nivel alto de BAC. El tiempo de reacción aún puede ser {{item_3}} . El juicio aún puede ser {{item_4}} . Nunca confíe en la tolerancia para decidir si continuar con el servicio."
+                      "La tolerancia puede ser engañosa. Un invitado puede parecer {{item_1}} pero aun así estar afectado. Es posible que muestre menos {{item_2}} a pesar de un nivel alto de BAC. El tiempo de reacción aún puede ser {{item_3}} . El juicio aún puede ser {{item_4}} . Nunca confíes en la tolerancia para decidir si continuar con el servicio."
                     ],
                     "reveal_items": [
                       {
@@ -3076,7 +3076,7 @@
                   "order_index": 40,
                   "text": {
                     "paragraphs": [
-                      "Comprender los factores BAC le ayuda a tomar mejores decisiones de servicio. No se puede medir el BAC directamente, pero se puede reconocer el riesgo. Combine el seguimiento de bebidas con la observación. En caso de duda, ralentice el servicio o deje de servir alcohol. Proteger al huésped y a los demás es su responsabilidad."
+                      "Comprender los factores BAC te ayuda a tomar mejores decisiones de servicio. No se puede medir el BAC directamente, pero se puede reconocer el riesgo. Combina el seguimiento de bebidas con la observación. En caso de duda, ralentiza el servicio o deja de servir alcohol. Proteger al huésped y a los demás es tu responsabilidad."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3097,7 +3097,7 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirva otra bebida ya que la ingesta es baja.",
+                        "label": "A. Servir otra bebida ya que la ingesta es baja.",
                         "is_correct": false
                       },
                       {
@@ -3107,7 +3107,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Reducir o detener el servicio de alcohol según las señales",
+                        "label": "C. Ralentizar o detener el servicio de alcohol según las señales",
                         "is_correct": true
                       },
                       {
@@ -3151,7 +3151,7 @@
                   "order_index": 43,
                   "text": {
                     "paragraphs": [
-                      "El café es un ejemplo común. Puede aumentar el estado de alerta, pero no elimina el alcohol del cuerpo. Un huésped puede parecer más despierto pero aún así estar afectado. Esto puede aumentar el riesgo porque pueden creer que están a salvo cuando no lo están."
+                      "El café es un ejemplo común. Puede aumentar el estado de alerta, pero no elimina el alcohol del cuerpo. Un huésped puede parecer más despierto pero aún así estar afectado. Esto puede aumentar el riesgo porque puede creer que está a salvo cuando no lo está."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3301,7 +3301,7 @@
                   "order_index": 49,
                   "text": {
                     "paragraphs": [
-                      "El aire fresco puede ayudar a una persona a sentirse mejor, pero no reduce el BAC. Un invitado puede parecer más estable después de salir. Sin embargo, el deterioro persiste. Confíe siempre en las señales observadas, no en mejoras temporales."
+                      "El aire fresco puede ayudar a una persona a sentirse mejor, pero no reduce el BAC. Un invitado puede parecer más estable después de salir. Sin embargo, el deterioro persiste. Confía siempre en las señales observadas, no en mejoras temporales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3321,7 +3321,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Las falsas creencias pueden conducir a comportamientos inseguros. Un huésped puede sentirse {{item_1}} después del café pero aún así estar afectado. Pueden pensar que pueden {{item_2}} , lo cual es peligroso. Las señales visibles como {{item_3}} y {{item_4}} siguen siendo importantes. Confía siempre en lo que observas."
+                      "Las falsas creencias pueden conducir a comportamientos inseguros. Un huésped puede sentirse {{item_1}} después del café pero aún así estar afectado. Puede pensar que puede {{item_2}} , lo cual es peligroso. Las señales visibles como {{item_3}} y {{item_4}} siguen siendo importantes. Confía siempre en lo que observas."
                     ],
                     "reveal_items": [
                       {
@@ -3359,7 +3359,7 @@
                   "order_index": 51,
                   "text": {
                     "paragraphs": [
-                      "Comprender la eliminación le ayuda a tomar decisiones más seguras. El alcohol tarda en salir del cuerpo. Los invitados no pueden acelerar este proceso. Tus acciones pueden reducir el riesgo al limitar el servicio de alcohol y ofrecer alternativas más seguras."
+                      "Comprender la eliminación te ayuda a tomar decisiones más seguras. El alcohol tarda en salir del cuerpo. Los invitados no pueden acelerar este proceso. Tus acciones pueden reducir el riesgo al limitar el servicio de alcohol y ofrecer alternativas más seguras."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3376,7 +3376,7 @@
                   "order_index": 52,
                   "text": {
                     "paragraphs": [
-                      "El alcohol puede interactuar con muchos tipos de drogas. Estos incluyen sustancias recetadas, de venta libre y ilegales. Cuando se combinan, los efectos pueden volverse más fuertes o impredecibles. Como camarero, es posible que no sepas lo que ha tomado un invitado. Concéntrese en reconocer un deterioro inusual o aumentado y responda de manera adecuada."
+                      "El alcohol puede interactuar con muchos tipos de drogas. Estos incluyen sustancias recetadas, de venta libre e ilegales. Cuando se combinan, los efectos pueden volverse más fuertes o impredecibles. Como camarero, es posible que no sepas lo que ha tomado un invitado. Concéntrate en reconocer un deterioro inusual o aumentado y responde de manera adecuada."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3392,17 +3392,17 @@
                 {
                   "order_index": 53,
                   "interactive": {
-                    "question": "Un invitado bebe varias bebidas y luego pide café. Dicen que pueden seguir bebiendo porque el café “les devuelve la sobriedad”. ¿Cuál es la respuesta más segura?",
+                    "question": "Un invitado bebe varias bebidas y luego pide café. Dice que puede seguir bebiendo porque el café “le devuelve la sobriedad”. ¿Cuál es la respuesta más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirve otra bebida ya que tomaron café.",
+                        "label": "A. Servir otra bebida ya que tomaron café.",
                         "is_correct": false
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Permitir tiempo y continuar con el servicio normal",
+                        "label": "B. Dar tiempo y continuar con el servicio normal",
                         "is_correct": false
                       },
                       {
@@ -3434,7 +3434,7 @@
                   "order_index": 54,
                   "text": {
                     "paragraphs": [
-                      "Las interacciones medicamentosas pueden aumentar la intoxicación rápidamente. Una persona puede parecer afectada después de sólo uno o dos tragos. Esto puede suceder incluso si normalmente toleran bien el alcohol. Estas situaciones requieren una observación cuidadosa y una acción temprana para prevenir daños."
+                      "Las interacciones medicamentosas pueden aumentar la intoxicación rápidamente. Una persona puede parecer afectada después de sólo uno o dos tragos. Esto puede suceder incluso si normalmente tolera bien el alcohol. Estas situaciones requieren una observación cuidadosa y una acción temprana para prevenir daños."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3451,7 +3451,7 @@
                   "order_index": 55,
                   "text": {
                     "paragraphs": [
-                      "Algunos medicamentos recetados advierten contra el consumo de alcohol. Estos incluyen medicamentos para el dolor, la ansiedad, el sueño y el estado de ánimo. Mezclar alcohol con estos medicamentos puede provocar una sedación más fuerte o confusión. Es posible que los invitados no siempre sigan las advertencias, por lo que debe confiar en lo que observe."
+                      "Algunos medicamentos recetados advierten contra el consumo de alcohol. Estos incluyen medicamentos para el dolor, la ansiedad, el sueño y el estado de ánimo. Mezclar alcohol con estos medicamentos puede provocar una sedación más fuerte o confusión. Es posible que los invitados no siempre sigan las advertencias, por lo que debes confiar en lo que observes."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3514,7 +3514,7 @@
                   "order_index": 57,
                   "text": {
                     "paragraphs": [
-                      "Los medicamentos de venta libre también pueden afectar la respuesta al alcohol. Los medicamentos para el resfriado y los antihistamínicos pueden aumentar la somnolencia. Incluso los medicamentos comunes pueden cambiar la forma en que el alcohol afecta al cuerpo. No asuma que el uso de medicamentos sin receta es inofensivo cuando se combina con alcohol."
+                      "Los medicamentos de venta libre también pueden afectar la respuesta al alcohol. Los medicamentos para el resfriado y los antihistamínicos pueden aumentar la somnolencia. Incluso los medicamentos comunes pueden cambiar la forma en que el alcohol afecta al cuerpo. No asumas que el uso de medicamentos sin receta es inofensivo cuando se combina con alcohol."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3531,7 +3531,7 @@
                   "order_index": 58,
                   "text": {
                     "paragraphs": [
-                      "Las drogas ilegales pueden crear combinaciones peligrosas con el alcohol. Los efectos pueden incluir confusión, agresión o somnolencia extrema. Estas reacciones pueden aparecer repentinamente. Como mesero, debe responder rápidamente si un huésped muestra una discapacidad inusual o grave."
+                      "Las drogas ilegales pueden crear combinaciones peligrosas con el alcohol. Los efectos pueden incluir confusión, agresión o somnolencia extrema. Estas reacciones pueden aparecer repentinamente. Como mesero debes responder rápidamente si un huésped muestra una discapacidad inusual o grave."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3594,7 +3594,7 @@
                   "order_index": 60,
                   "text": {
                     "paragraphs": [
-                      "Mezclar alcohol con estimulantes puede resultar especialmente riesgoso. Un huésped puede sentirse alerta pero aun así estar afectado. Esto puede llevar a decisiones arriesgadas. El efecto de enmascaramiento hace que sea más difícil juzgar la intoxicación. Concéntrese en el comportamiento y la coordinación, no en el nivel de energía."
+                      "Mezclar alcohol con estimulantes puede resultar especialmente riesgoso. Un huésped puede sentirse alerta pero aun así estar afectado. Esto puede llevar a decisiones arriesgadas. El efecto de enmascaramiento hace que sea más difícil juzgar la intoxicación. Concéntrate en el comportamiento y la coordinación, no en el nivel de energía."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3631,7 +3631,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Algunas combinaciones ocultan un verdadero deterioro. Un invitado puede parecer {{item_1}} pero aún tener {{item_2}} . Pueden mostrar {{item_3}} pero {{item_4}} . Estas señales contradictorias aumentan el riesgo. Confíe siempre en varias señales antes de continuar con las decisiones de servicio."
+                      "Algunas combinaciones ocultan un verdadero deterioro. Un invitado puede parecer {{item_1}} pero aún tener {{item_2}} . Puede mostrar {{item_3}} pero {{item_4}} . Estas señales contradictorias aumentan el riesgo. Confía siempre en varias señales antes de continuar con las decisiones de servicio."
                     ],
                     "reveal_items": [
                       {
@@ -3669,7 +3669,7 @@
                   "order_index": 63,
                   "text": {
                     "paragraphs": [
-                      "Si sospechas una interacción con drogas, reduzca la velocidad o suspenda el servicio de alcohol. Ofrece agua u opciones sin alcohol. Involucra a un gerente si es necesario. Mantén la calma y profesional. Tu objetivo es reducir el riesgo y mantener la situación segura."
+                      "Si sospechas una interacción con drogas, reduce la velocidad o suspende el servicio de alcohol. Ofrece agua u opciones sin alcohol. Involucra a un gerente si es necesario. Mantén la calma y sé profesional. Tu objetivo es reducir el riesgo y mantener la situación segura."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3702,12 +3702,12 @@
                 {
                   "order_index": 65,
                   "interactive": {
-                    "question": "Un invitado toma una copa pero muestra fuerte somnolencia y mala coordinación. Mencionan tomar medicación antes. Piden otra bebida. ¿Cuál es la acción más segura?",
+                    "question": "Un invitado toma una copa pero muestra fuerte somnolencia y mala coordinación. Menciona tomar medicación antes. Piden otra bebida. ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirva otra bebida ya que la ingesta es baja.",
+                        "label": "A. Servir otra bebida ya que la ingesta es baja.",
                         "is_correct": false
                       },
                       {
@@ -3743,17 +3743,17 @@
                 {
                   "order_index": 66,
                   "interactive": {
-                    "question": "Un invitado bebe rápidamente dos cervezas en ayunas. Al poco tiempo, notará un habla más rápida y una coordinación reducida. El invitado pide otra bebida. ¿Cuál es la acción más segura?",
+                    "question": "Un invitado bebe rápidamente dos cervezas en ayunas. Al poco tiempo, notas un habla más rápida y una coordinación reducida. El invitado pide otra bebida. ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirva otra bebida lentamente.",
+                        "label": "A. Servir otra bebida lentamente.",
                         "is_correct": false
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Ofrecer agua y servicio lento.",
+                        "label": "B. Ofrecer agua y ralentizar el servicio.",
                         "is_correct": true
                       },
                       {
@@ -3763,7 +3763,7 @@
                       },
                       {
                         "id": "opt_d",
-                        "label": "D. Sugerir cambiar de bebida y continuar.",
+                        "label": "D. Sugerir cambiar de bebida y continuar con el servicio.",
                         "is_correct": false
                       }
                     ],
@@ -3784,12 +3784,12 @@
                 {
                   "order_index": 67,
                   "interactive": {
-                    "question": "Un huésped ha consumido varias bebidas a lo largo del tiempo. Piden café y dicen que están bien para seguir bebiendo. Aún notas mala coordinación. ¿Qué deberías hacer?",
+                    "question": "Un huésped ha consumido varias bebidas a lo largo del tiempo. Pide café y dice que está bien para seguir bebiendo. Aún notas mala coordinación. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirve otra bebida ya que tomaron café.",
+                        "label": "A. Servir otra bebida ya que tomaron café.",
                         "is_correct": false
                       },
                       {
@@ -3825,7 +3825,7 @@
                 {
                   "order_index": 68,
                   "interactive": {
-                    "question": "Un invitado pide bebidas mezcladas fuertes seguidas. Parecen alerta pero muestran falta de juicio y comportamiento de riesgo. ¿Cuál es la mejor respuesta?",
+                    "question": "Un invitado pide varias bebidas fuertes mezcladas en forma consecutiva. Parece alerta pero muestra falta de juicio y comportamiento de riesgo. ¿Cuál es la mejor respuesta?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -3840,7 +3840,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. En su lugar, sirva una bebida más suave.",
+                        "label": "C. Servir una bebida más suave.",
                         "is_correct": false
                       },
                       {
@@ -3866,12 +3866,12 @@
                 {
                   "order_index": 69,
                   "interactive": {
-                    "question": "Un invitado toma una copa pero muestra una fuerte somnolencia y reacciones lentas. Mencionan tomar medicación antes. ¿Qué deberías hacer?",
+                    "question": "Un invitado toma una copa pero muestra una fuerte somnolencia y reacciones lentas. Menciona tomar medicación antes. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirva otra bebida ya que la ingesta es baja.",
+                        "label": "A. Servir otra bebida ya que la ingesta es baja.",
                         "is_correct": false
                       },
                       {
@@ -3907,12 +3907,12 @@
                 {
                   "order_index": 70,
                   "interactive": {
-                    "question": "Un invitado bebe lentamente pero no ha comido en todo el día. Después de dos tragos, muestran cambios de humor y mala coordinación. ¿Cuál es la acción más segura?",
+                    "question": "Un invitado bebe lentamente pero no ha comido en todo el día. Después de dos tragos muestra cambios de humor y mala coordinación. ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sirva otra bebida ya que el ritmo es lento.",
+                        "label": "A. Servir otra bebida ya que el ritmo es lento.",
                         "is_correct": false
                       },
                       {
@@ -3948,7 +3948,7 @@
                 {
                   "order_index": 71,
                   "interactive": {
-                    "question": "Un invitado dice que “se siente bien” después de varias copas. Observa dificultad para hablar y caminar inestable. ¿Qué debería guiar su decisión?",
+                    "question": "Un invitado dice que “se siente bien” después de varias copas. Observas que tiene dificultad para hablar y caminar inestable. ¿Qué debería guiar su decisión?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -4024,7 +4024,7 @@
                   "order_index": 1,
                   "text": {
                     "paragraphs": [
-                      "En Carolina del Sur debe verificar la edad del cliente con una identificación válida con foto emitida por el gobierno antes de vender alcohol. Las tres formas que verá con más frecuencia son una licencia de conducir válida, una tarjeta de identificación estatal y un pasaporte válido (una identificación militar también es aceptable). El documento no debe estar vencido, debe tener foto y debe mostrar claramente la fecha de nacimiento. Si no está seguro de que la identificación sea válida y pertenezca al cliente, no complete la venta."
+                      "En Carolina del Sur debes verificar la edad del cliente con una identificación con foto emitida por el gobierno y que sea válida antes de vender alcohol. Las tres formas que verás con más frecuencia son una licencia de conducir válida, una tarjeta de identificación estatal y un pasaporte válido (una identificación militar también es aceptable). El documento no debe estar vencido, debe tener foto y debe mostrar claramente la fecha de nacimiento. Si no estás seguro de que la identificación sea válida y pertenezca al cliente, niega la venta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4041,7 +4041,7 @@
                   "order_index": 2,
                   "text": {
                     "paragraphs": [
-                      "Una identificación falsa o alterada es una de las formas más comunes en que un menor intenta obtener servicio. Revise la tarjeta físicamente: sienta si hay grosor desigual, bultos o desprendimiento alrededor de la foto y la fecha de nacimiento. Busque texto borroso, tipografías que no coinciden, hologramas ausentes o apagados y bordes que hayan sido abiertos o pegados de nuevo. Compare la foto, la estatura y la descripción con la persona. Haga una pregunta de verificación que el verdadero titular respondería de inmediato, como su segundo nombre, código postal o signo zodiacal según la fecha de nacimiento mostrada."
+                      "Una identificación falsa o alterada es una de las formas más comunes en que un menor intenta obtener servicio. Revisa la tarjeta físicamente: siente si hay grosor desigual, bultos o desprendimiento alrededor de la foto y la fecha de nacimiento. Busca texto borroso, tipografías que no coinciden, hologramas ausentes o apagados y bordes que hayan sido abiertos o pegados de nuevo. Compara la foto, la estatura y la descripción con la persona. Haz una pregunta de verificación que el verdadero titular respondería de inmediato, como su segundo nombre, código postal o signo zodiacal según la fecha de nacimiento mostrada."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4117,7 +4117,7 @@
                   "order_index": 5,
                   "text": {
                     "paragraphs": [
-                      "Si determina que una ID es falsa, alterada, prestada o pertenece a otra persona, no venda alcohol. Siga la política de su establecimiento: rechace la venta con cortesía y, según las reglas internas, retenga la ID y notifique a un gerente. Nunca discuta ni acuse a la persona en voz alta. Documente lo ocurrido si su establecimiento exige un informe de incidente. Rechazar la venta lo protege de responsabilidad penal."
+                      "Si determinas que una ID es falsa, alterada, prestada o pertenece a otra persona, no vendas alcohol. Siga la política de su establecimiento: niega la venta con cortesía y, según las reglas internas, retén la ID y notifica a un gerente. Nunca discutas ni acuses a la persona en voz alta. Documenta lo ocurrido si tu establecimiento exige un informe de incidente. Negarte a la venta te protege de responsabilidad penal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4151,7 +4151,7 @@
                   "order_index": 7,
                   "text": {
                     "paragraphs": [
-                      "Toda identificación válida muestra una fecha de nacimiento. En una licencia de conducir de Carolina del Sur aparece cerca del nombre y la foto, etiquetada como 'DOB'. Lea siempre la fecha de nacimiento directamente de la tarjeta en lugar de confiar en la palabra del cliente o en una mirada rápida a la foto. Confirme la fecha de nacimiento, la fecha de vencimiento y que la foto coincida con la persona que tiene delante."
+                      "Toda identificación válida muestra una fecha de nacimiento. En una licencia de conducir de Carolina del Sur aparece cerca del nombre y la foto, etiquetada como 'DOB'. Debes leer siempre la fecha de nacimiento directamente de la tarjeta en lugar de confiar en la palabra del cliente o en una mirada rápida a la foto. Confirma la fecha de nacimiento, la fecha de vencimiento y que la foto coincida con la persona que tiene delante."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4177,7 +4177,7 @@
                   "order_index": 8,
                   "text": {
                     "paragraphs": [
-                      "Carolina del Sur emite licencias de conducir y tarjetas de identificación verticales a personas menores de 21 años, y licencias horizontales a personas de 21 años o más. La orientación vertical es una señal visual inmediata de que el titular era menor de 21 años cuando se emitió la tarjeta, por lo que debe revisar cuidadosamente la fecha de nacimiento. Nunca confíe solo en la orientación: siempre confirme la fecha real de nacimiento, porque una persona con licencia vertical puede haber cumplido 21 años después y las tarjetas pueden alterarse."
+                      "Carolina del Sur emite licencias de conducir y tarjetas de identificación verticales a personas menores de 21 años, y licencias horizontales a personas de 21 años o más. La orientación vertical es una señal visual inmediata de que el titular era menor de 21 años cuando se emitió la tarjeta, por lo que debes revisar cuidadosamente la fecha de nacimiento. Nunca confíes solo en la orientación: siempre confirma la fecha real de nacimiento, porque una persona con licencia vertical puede haber cumplido 21 años después y las tarjetas pueden alterarse."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4229,7 +4229,7 @@
                   "order_index": 10,
                   "text": {
                     "paragraphs": [
-                      "Una vez que conozca la fecha de nacimiento requerida, compárela con la fecha de nacimiento impresa en la identificación. Si la fecha de nacimiento de la ID es esa fecha o anterior, el cliente tiene la edad suficiente. Si es posterior, el cliente es menor de 21 años y usted debe rechazar la venta. Haga el cálculo siempre; no estime la edad por la apariencia y no redondee porque un cliente 'parece suficientemente mayor'."
+                      "Una vez que conozcas la fecha de nacimiento requerida, compárala con la fecha de nacimiento impresa en la identificación. Si la fecha de nacimiento de la ID es esa fecha o anterior, el cliente tiene la edad suficiente. Si es posterior, el cliente es menor de 21 años y debes negarte a hacer la venta. Debes realizar el cálculo siempre; no estime la edad por la apariencia y no redondes porque un cliente 'parece suficientemente mayor'."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4246,7 +4246,7 @@
                   "order_index": 11,
                   "text": {
                     "paragraphs": [
-                      "Carolina del Sur exige verificaciones de ID consistentes. Una regla de la casa común y defendible es revisar la ID de cualquier persona que parezca menor de 30 años (algunos establecimientos usan 35 o 40), pero la práctica más segura es revisar a todos los clientes, siempre, sin importar la edad aparente. Las verificaciones consistentes lo protegen personalmente: no exigir identificación para verificar la edad es prueba prima facie de una venta ilegal según la ley de Carolina del Sur."
+                      "Carolina del Sur exige verificaciones de ID consistentes. Una regla de la casa común y defendible es revisar la ID de cualquier persona que parezca menor de 30 años (algunos establecimientos usan 35 o 40), pero la práctica más segura es revisar a todos los clientes, siempre, sin importar la edad aparente. Las verificaciones consistentes te protegen personalmente: no exigir identificación para verificar la edad es prueba prima facie de una venta ilegal según la ley de Carolina del Sur."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4352,7 +4352,7 @@
                   "order_index": 15,
                   "text": {
                     "paragraphs": [
-                      "Vender alcohol a una persona menor de 21 años es un delito menor en Carolina del Sur, y la sanción recae sobre la persona que hizo la venta: usted. Una primera infracción conlleva una multa de $200 a $300 o hasta 30 días de cárcel, o ambas. Una segunda o posterior infracción conlleva una multa de $400 a $500 o hasta 30 días de cárcel, o ambas. Debido a que no revisar la ID es prueba prima facie de la infracción, revisar todas las identificaciones es su mejor protección legal. Estatutos aplicables: SC Code §§ 61-4-50 y 61-6-4080."
+                      "Vender alcohol a una persona menor de 21 años es un delito menor en Carolina del Sur, y la sanción recae sobre la persona que hizo la venta: en este caso tú. Una primera infracción conlleva una multa de $200 a $300 o hasta 30 días de cárcel, o ambas. Una segunda o posterior infracción conlleva una multa de $400 a $500 o hasta 30 días de cárcel, o ambas. Debido a que no revisar la ID es prueba prima facie de la infracción, revisar todas las identificaciones es tu mejor protección legal. Estatutos aplicables: SC Code §§ 61-4-50 y 61-6-4080."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4386,7 +4386,7 @@
                   "order_index": 17,
                   "text": {
                     "paragraphs": [
-                      "También es ilegal comprar, transferir o entregar cerveza, vino o licor a una persona menor de 21 años para su consumo. Esto incluye a un cliente mayor de edad que compra una bebida para pasársela a un amigo menor en la barra. Las sanciones siguen la misma escala que una venta ilegal. Esté atento a las 'compras por tercero' en las que un cliente pide para un acompañante menor de edad. Estatutos aplicables: SC Code §§ 61-4-90, 61-6-4070 y 61-6-4075."
+                      "También es ilegal comprar, transferir o entregar cerveza, vino o licor a una persona menor de 21 años para su consumo. Esto incluye a un cliente mayor de edad que compra una bebida para pasársela a un amigo menor en la barra. Las sanciones siguen la misma escala que una venta ilegal. Debes estar atento a las 'compras por tercero' en las que un cliente pide para un acompañante menor de edad. Estatutos aplicables: SC Code §§ 61-4-90, 61-6-4070 y 61-6-4075."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11279,7 +11279,7 @@
                   "order_index": 50,
                   "text": {
                     "paragraphs": [
-                      "Escucha sin discutir. Deja que el cliente hable, pero no participes en el debate. Reconocer lo que dicen sin aceptar continuar con el servicio. Esto ayuda a reducir la tensión mientras mantienes tu decisión."
+                      "Escucha sin discutir. Deja que el cliente hable, pero no participes en el debate. Atiende lo que dice, pero sin aceptar continuar con el servicio. Esto ayuda a reducir la tensión mientras mantienes tu decisión."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11333,7 +11333,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Utilice un lenguaje corporal como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas señales ayudan a reducir la tensión y mantener el control."
+                      "Utiliza un lenguaje corporal como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas señales ayudan a reducir la tensión y a mantener el control."
                     ],
                     "reveal_items": [
                       {
@@ -11594,7 +11594,7 @@
                   "order_index": 62,
                   "text": {
                     "paragraphs": [
-                      "Involucrar a la gerencia desde el principio cuando un cliente se vuelve conflictivo. No esperes a que la situación empeore aún más. Los gerentes son responsables de manejar situaciones de mayor riesgo y apoyar las decisiones del personal."
+                      "Involucra a la gerencia desde el principio cuando un cliente se vuelve conflictivo. No esperes a que la situación empeore aún más. Los gerentes son responsables de manejar situaciones de mayor riesgo y apoyar las decisiones del personal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11611,7 +11611,7 @@
                   "order_index": 63,
                   "text": {
                     "paragraphs": [
-                      "Si un cliente se niega a irse o se vuelve problemático, sigue los procedimientos de su establecimiento. Esto puede incluir contactar a la administración o seguridad. No intentes manejar situaciones graves tú solo."
+                      "Si un cliente se niega a irse o se vuelve problemático, sigue los procedimientos de tu establecimiento. Esto puede incluir contactar a la administración o seguridad. No intentes manejar situaciones graves tú solo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11628,7 +11628,7 @@
                   "order_index": 64,
                   "text": {
                     "paragraphs": [
-                      "Ten en cuenta a otros clientes. Los enfrentamientos pueden afectar a todo el entorno. Debes ser profesional y evita crear una escena. Tus acciones ayudan a mantener el orden y proteger la experiencia de los demás."
+                      "Ten en cuenta a otros clientes. Los enfrentamientos pueden afectar a todo el entorno. Debes ser profesional y evita crear una escena. Tus acciones ayudan a mantener el orden y a proteger la experiencia de los demás."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11749,7 +11749,7 @@
                   "order_index": 68,
                   "text": {
                     "paragraphs": [
-                      "Debes involucrar a la gerencia cada vez que te sientas inseguro o presionado. No intentes manejar una situación grave solo. Los gerentes son responsables de apoyar al personal y tomar decisiones de nivel superior. Traerlos temprano ayuda a mantener el control y demuestra que se están siguiendo los procedimientos adecuados."
+                      "Debes involucrar a la gerencia cada vez que te sientas inseguro o presionado. No intentes manejar una situación grave solo. Los gerentes son responsables de apoyar al personal y tomar decisiones de nivel superior. Traerlos temprano te ayuda a mantener el control y demuestra que estás siguiendo los procedimientos adecuados."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -16818,7 +16818,7 @@
           "questions": [
             {
               "order_index": 1,
-              "question": "Un invitado pide bebidas mezcladas fuertes seguidas. Parecen alerta pero muestran falta de juicio y comportamiento de riesgo. ¿Cuál es la mejor respuesta?",
+              "question": "Un invitado pide varias bebidas fuertes mezcladas en forma consecutiva. Parece alerta pero muestra falta de juicio y comportamiento de riesgo. ¿Cuál es la mejor respuesta?",
               "options": [
                 {
                   "order_index": 0,
@@ -16832,7 +16832,7 @@
                 },
                 {
                   "order_index": 2,
-                  "label": "C. En su lugar, sirva una bebida más suave.",
+                  "label": "C. Servir una bebida más suave.",
                   "is_correct": false
                 },
                 {
@@ -17026,11 +17026,11 @@
             },
             {
               "order_index": 9,
-              "question": "Un invitado bebe lentamente pero no ha comido en todo el día. Después de dos tragos, muestran cambios de humor y mala coordinación. ¿Cuál es la acción más segura?",
+              "question": "Un invitado bebe lentamente pero no ha comido en todo el día. Después de dos tragos muestra cambios de humor y mala coordinación. ¿Cuál es la acción más segura?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirva otra bebida ya que el ritmo es lento.",
+                  "label": "A. Servir otra bebida ya que el ritmo es lento.",
                   "is_correct": false
                 },
                 {
@@ -17104,11 +17104,11 @@
             },
             {
               "order_index": 12,
-              "question": "Un huésped ha consumido varias bebidas a lo largo del tiempo. Piden café y dicen que están bien para seguir bebiendo. Aún notas mala coordinación. ¿Qué deberías hacer?",
+              "question": "Un huésped ha consumido varias bebidas a lo largo del tiempo. Pide café y dice que está bien para seguir bebiendo. Aún notas mala coordinación. ¿Qué deberías hacer?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirve otra bebida ya que tomaron café.",
+                  "label": "A. Servir otra bebida ya que tomaron café.",
                   "is_correct": false
                 },
                 {
@@ -17780,16 +17780,16 @@
             },
             {
               "order_index": 38,
-              "question": "Un invitado bebe rápidamente dos cervezas en ayunas. Al poco tiempo, notará un habla más rápida y una coordinación reducida. El invitado pide otra bebida. ¿Cuál es la acción más segura?",
+              "question": "Un invitado bebe rápidamente dos cervezas en ayunas. Al poco tiempo, notas un habla más rápida y una coordinación reducida. El invitado pide otra bebida. ¿Cuál es la acción más segura?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirva otra bebida lentamente.",
+                  "label": "A. Servir otra bebida lentamente.",
                   "is_correct": false
                 },
                 {
                   "order_index": 1,
-                  "label": "B. Ofrecer agua y servicio lento.",
+                  "label": "B. Ofrecer agua y ralentizar el servicio.",
                   "is_correct": true
                 },
                 {
@@ -17799,7 +17799,7 @@
                 },
                 {
                   "order_index": 3,
-                  "label": "D. Sugerir cambiar de bebida y continuar.",
+                  "label": "D. Sugerir cambiar de bebida y continuar con el servicio.",
                   "is_correct": false
                 }
               ]
@@ -18274,7 +18274,7 @@
             },
             {
               "order_index": 57,
-              "question": "Un invitado dice que “se siente bien” después de varias copas. Observa dificultad para hablar y caminar inestable. ¿Qué debería guiar su decisión?",
+              "question": "Un invitado dice que “se siente bien” después de varias copas. Observas que tiene dificultad para hablar y caminar inestable. ¿Qué debería guiar su decisión?",
               "options": [
                 {
                   "order_index": 0,
@@ -18508,11 +18508,11 @@
             },
             {
               "order_index": 66,
-              "question": "Un invitado toma una copa pero muestra fuerte somnolencia y mala coordinación. Mencionan tomar medicación antes. Piden otra bebida. ¿Cuál es la acción más segura?",
+              "question": "Un invitado toma una copa pero muestra fuerte somnolencia y mala coordinación. Menciona tomar medicación antes. Piden otra bebida. ¿Cuál es la acción más segura?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirva otra bebida ya que la ingesta es baja.",
+                  "label": "A. Servir otra bebida ya que la ingesta es baja.",
                   "is_correct": false
                 },
                 {
@@ -18534,16 +18534,16 @@
             },
             {
               "order_index": 67,
-              "question": "Un invitado bebe varias bebidas y luego pide café. Dicen que pueden seguir bebiendo porque el café “les devuelve la sobriedad”. ¿Cuál es la respuesta más segura?",
+              "question": "Un invitado bebe varias bebidas y luego pide café. Dice que puede seguir bebiendo porque el café “le devuelve la sobriedad”. ¿Cuál es la respuesta más segura?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirve otra bebida ya que tomaron café.",
+                  "label": "A. Servir otra bebida ya que tomaron café.",
                   "is_correct": false
                 },
                 {
                   "order_index": 1,
-                  "label": "B. Permitir tiempo y continuar con el servicio normal",
+                  "label": "B. Dar tiempo y continuar con el servicio normal",
                   "is_correct": false
                 },
                 {
@@ -18612,11 +18612,11 @@
             },
             {
               "order_index": 70,
-              "question": "Un invitado toma una copa pero muestra una fuerte somnolencia y reacciones lentas. Mencionan tomar medicación antes. ¿Qué deberías hacer?",
+              "question": "Un invitado toma una copa pero muestra una fuerte somnolencia y reacciones lentas. Menciona tomar medicación antes. ¿Qué deberías hacer?",
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirva otra bebida ya que la ingesta es baja.",
+                  "label": "A. Servir otra bebida ya que la ingesta es baja.",
                   "is_correct": false
                 },
                 {
@@ -18668,7 +18668,7 @@
               "options": [
                 {
                   "order_index": 0,
-                  "label": "A. Sirva otra bebida ya que la ingesta es baja.",
+                  "label": "A. Servir otra bebida ya que la ingesta es baja.",
                   "is_correct": false
                 },
                 {
@@ -18678,7 +18678,7 @@
                 },
                 {
                   "order_index": 2,
-                  "label": "C. Reducir o detener el servicio de alcohol según las señales",
+                  "label": "C. Ralentizar o detener el servicio de alcohol según las señales",
                   "is_correct": true
                 },
                 {
