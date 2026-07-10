@@ -5204,7 +5204,7 @@
                   "order_index": 51,
                   "text": {
                     "paragraphs": [
-                      "Los gerentes y compañeros de trabajo pueden ayudarlo a hacer cumplir las reglas de identificación. Si una situación se vuelve difícil, pida ayuda. No se espera que usted maneje situaciones de confrontación solo. El apoyo del equipo ayuda a garantizar que las reglas se sigan de manera consistente y segura en todo el lugar de trabajo."
+                      "Los gerentes y compañeros de trabajo pueden ayudarte a hacer cumplir las reglas de identificación. Si una situación se vuelve difícil, pide ayuda. No se espera que manejes situaciones de confrontación tu solo. El apoyo del equipo ayuda a garantizar que las reglas se sigan de manera consistente y segura en todo el lugar de trabajo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5221,7 +5221,7 @@
                   "order_index": 52,
                   "text": {
                     "paragraphs": [
-                      "Desarrollar el hábito de verificar siempre la identificación facilita su trabajo. Cuando se vuelve rutinario, es menos probable que cometa errores. Los hábitos fuertes reducen el riesgo y mejoran la consistencia. Con el tiempo, este enfoque ayudará a protegerlo a usted, a su empleador y a sus clientes."
+                      "Desarrollar el hábito de verificar siempre la identificación facilita tu trabajo. Cuando se vuelve rutinario, es menos probable que cometas errores. Los hábitos fuertes reducen el riesgo y mejoran la consistencia. Con el tiempo, este enfoque ayudará a protegerte a ti, a tu empleador y a tus clientes."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5242,7 +5242,7 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Complete la venta según la apariencia.",
+                        "label": "A. Completar la venta según la apariencia.",
                         "is_correct": false
                       },
                       {
@@ -5252,7 +5252,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Pídele a un compañero de trabajo que decida",
+                        "label": "C. Pedir a un compañero de trabajo que decida",
                         "is_correct": false
                       },
                       {
@@ -5316,7 +5316,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Una identificación válida debe incluir {{item_1}} , {{item_2}} , {{item_3}} y {{item_4}} . Estas funciones ayudan a confirmar la identidad y la edad. Si alguno de estos elementos falta o aparece alterado, no se deberá aceptar el DNI."
+                      "Una identificación válida debe incluir {{item_1}} , {{item_2}} , {{item_3}} y {{item_4}} . Estas funciones te ayudan a confirmar la identidad y la edad. Si alguno de estos elementos falta o aparece alterado, no se deberás aceptar el DNI."
                     ],
                     "reveal_items": [
                       {
@@ -5354,7 +5354,7 @@
                   "order_index": 57,
                   "text": {
                     "paragraphs": [
-                      "Las formas de identificación válidas comunes incluyen una licencia de conducir emitida por un estado de EE. UU. Estas identificaciones se utilizan ampliamente y contienen la información requerida. Aún así debes examinarlos de cerca. No asuma que una identificación es válida solo porque le resulta familiar. Siempre verifique los detalles antes de completar una venta."
+                      "Las formas de identificación válidas comunes incluyen una licencia de conducir emitida por un estado de EE. UU. Estas identificaciones se utilizan ampliamente y contienen la información requerida. Aún así debes examinarlos de cerca. asumas que una identificación es válida solo porque te resulta familiar. Siempre verifica los detalles antes de completar una venta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5371,7 +5371,7 @@
                   "order_index": 58,
                   "text": {
                     "paragraphs": [
-                      "También se aceptan tarjetas de identificación emitidas por el estado. Estos se emiten a personas que no conducen pero que aún necesitan una identificación oficial. Incluyen características similares a las de una licencia de conducir. Como ocurre con todas las identificaciones, verifique la fotografía, la fecha de nacimiento y la fecha de vencimiento antes de aceptarla."
+                      "También se aceptan tarjetas de identificación emitidas por el estado. Estas se emiten a personas que no conducen pero que necesitan una identificación oficial. Incluyen características similares a las de una licencia de conducir. Como ocurre con todas las identificaciones, verifica la fotografía, la fecha de nacimiento y la fecha de vencimiento antes de aceptarla."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5388,7 +5388,7 @@
                   "order_index": 59,
                   "text": {
                     "paragraphs": [
-                      "También se podrá presentar identificación militar. Estas identificaciones son emitidas por el gobierno de EE. UU. e incluyen información de identificación. Revisa atentamente el documento de identidad para confirmar que pertenece a la persona que lo presenta. Si no está seguro de cómo verificarlo, solicite ayuda a un gerente antes de continuar."
+                      "También se podrá aceptar identificación militar. Estas identificaciones son emitidas por el gobierno de EE. UU. e incluyen información de identificación. Revisa atentamente el documento de identidad para confirmar que pertenece a la persona que lo presenta. Si no está seguro de cómo verificarlo, solicita ayuda a un gerente antes de continuar."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5405,7 +5405,7 @@
                   "order_index": 60,
                   "text": {
                     "paragraphs": [
-                      "La identificación válida debe ser emitida por el gobierno e incluir detalles clave. Esto incluye una fotografía, fecha de nacimiento e información de identificación. La identificación debe permitirle confirmar que el cliente tiene al menos 21 años. Si algún elemento requerido falta o no está claro, no debe aceptar la identificación."
+                      "La identificación válida debe ser emitida por el gobierno e incluir detalles clave. Esto incluye una fotografía, fecha de nacimiento e información de identificación. La identificación debe permitirte confirmar que el cliente tiene al menos 21 años. Si algún elemento requerido falta o no está claro, no debes aceptar la identificación."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
