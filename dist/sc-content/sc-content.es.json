@@ -4134,7 +4134,7 @@
                   "order_index": 6,
                   "text": {
                     "paragraphs": [
-                      "Prevenir la venta de alcohol a menores de edad es una responsabilidad fundamental en Carolina del Sur. Vender a un menor es ilegal y puede tener graves consecuencias tanto para el servidor como para la empresa. Sus acciones impactan directamente la seguridad, el cumplimiento y la seguridad laboral. Cada decisión de venta importa. Cumplir la ley lo protege a usted, a su lugar de trabajo y a su comunidad de daños evitables."
+                      "Prevenir la venta de alcohol a menores de edad es una responsabilidad fundamental en Carolina del Sur. Vender a un menor es ilegal y puede tener graves consecuencias tanto para el servidor como para la empresa. Tus acciones impactan directamente la seguridad, el cumplimiento y la seguridad laboral. Cada decisión de venta importa. Cumplir la ley te protege a ti, a tu lugar de trabajo y a tu comunidad de daños evitables."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4263,7 +4263,7 @@
                   "order_index": 12,
                   "text": {
                     "paragraphs": [
-                      "Los menores enfrentan mayores riesgos cuando se trata de alcohol. Sus cuerpos y sus habilidades para tomar decisiones aún se están desarrollando. El consumo de alcohol a una edad temprana aumenta las posibilidades de comportamientos inseguros y lesiones. Impedir el acceso reduce estos riesgos. Como servidor, usted desempeña un papel clave a la hora de limitar los daños al negarse a vender cuando sea necesario y seguir los procedimientos adecuados en todo momento."
+                      "Los menores enfrentan mayores riesgos cuando se trata de alcohol. Sus cuerpos y sus habilidades para tomar decisiones aún se están desarrollando. El consumo de alcohol a una edad temprana aumenta las posibilidades de comportamientos inseguros y lesiones. Impedir el acceso reduce estos riesgos. Como servidor, tu desempeñas un papel clave a la hora de limitar los daños al negarse a vender cuando sea necesario y seguir los procedimientos adecuados en todo momento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4280,7 +4280,7 @@
                   "order_index": 13,
                   "text": {
                     "paragraphs": [
-                      "Verificar la identificación es una de las formas más efectivas de prevenir la venta a menores de edad. Debes verificar la edad cuando exista alguna duda. Nunca confíes únicamente en la apariencia. Los controles de identificación consistentes reducen los errores. Incluso un fallo puede dar lugar a una infracción. Haga de la verificación de identidad una parte rutinaria de su proceso de servicio."
+                      "Verificar la identificación es una de las formas más efectivas de prevenir la venta a menores de edad. Debes verificar la edad cuando exista alguna duda. Nunca confíes únicamente en la apariencia. Los controles de identificación consistentes reducen los errores. Incluso un fallo puede dar lugar a una infracción. Haz de la verificación de identidad una parte rutinaria de tu proceso de servicio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4436,7 +4436,7 @@
                 {
                   "order_index": 20,
                   "interactive": {
-                    "question": "Hoy es 6 de julio de 2026. La identificación de un cliente muestra fecha de nacimiento del 2 de septiembre de 2005. ¿Puede venderle alcohol?",
+                    "question": "Hoy es 6 de julio de 2026. La identificación de un cliente muestra fecha de nacimiento del 2 de septiembre de 2005. ¿Puedes venderle alcohol?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -4477,17 +4477,17 @@
                 {
                   "order_index": 21,
                   "interactive": {
-                    "question": "Un cliente le entrega una licencia. El cabello y el rostro de la foto se ven distintos, la tarjeta se siente abultada alrededor de la fecha de nacimiento y la persona no puede recordar su propio código postal. ¿Qué debe hacer?",
+                    "question": "Un cliente te entrega una licencia. El cabello y el rostro de la foto se ven distintos, la tarjeta se siente abultada alrededor de la fecha de nacimiento y la persona no puede recordar su propio código postal. ¿Qué debes hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Vender; probablemente la tarjeta está bien",
+                        "label": "A. Vender, probablemente la tarjeta está bien",
                         "is_correct": false
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Rechazar la venta y retener la ID y avisar a un gerente según la política del establecimiento",
+                        "label": "B. Negar la venta, retener la ID y avisar a un gerente según la política del establecimiento",
                         "is_correct": true
                       },
                       {
@@ -4523,12 +4523,12 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Nada; el adulto la compró legalmente",
+                        "label": "A. Nada, el adulto la compró legalmente",
                         "is_correct": false
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Retirar o rechazar la bebida; transferir alcohol a una persona menor de 21 años es ilegal y no puede seguir sirviendo a la pareja con ese fin",
+                        "label": "B. Retirar la bebida, transferir alcohol a una persona menor de 21 años es ilegal y no puede seguir sirviendo a la pareja con ese fin",
                         "is_correct": true
                       },
                       {
@@ -4560,7 +4560,7 @@
                   "order_index": 23,
                   "text": {
                     "paragraphs": [
-                      "El consumo de alcohol entre menores de edad puede tener efectos a largo plazo. Puede afectar la educación, el juicio y las oportunidades futuras. El consumo temprano de alcohol está relacionado con un mayor comportamiento de riesgo. Además de consecuencias legales, ciertas infracciones relacionadas con alcohol pueden afectar oportunidades educativas y, en algunos casos, la elegibilidad para ciertas becas estatales. Al negarse a vender, puede estar evitando daños graves. Su función va más allá de completar una transacción. Estás ayudando a proteger el futuro de alguien. Referencias: SC Code § 59-104-20; § 61-4-100; § 61-6-4085; Reg. 62-900.95."
+                      "El consumo de alcohol entre menores de edad puede tener efectos a largo plazo. Puede afectar la educación, el juicio y las oportunidades futuras. El consumo temprano de alcohol está relacionado con un mayor comportamiento de riesgo. Además de consecuencias legales, ciertas infracciones relacionadas con alcohol pueden afectar oportunidades educativas y, en algunos casos, la elegibilidad para ciertas becas estatales. Al negarte a vender, puedes estar evitando daños graves. Tu función va más allá de completar una transacción. Estás ayudando a proteger el futuro de alguien. Referencias: SC Code § 59-104-20; § 61-4-100; § 61-6-4085; Reg. 62-900.95."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4577,7 +4577,7 @@
                   "order_index": 24,
                   "text": {
                     "paragraphs": [
-                      "Su responsabilidad incluye tomar decisiones que cumplan con la ley y las políticas de la empresa. Negarse a vender puede resultar incómodo, pero es necesario. Mantener la calma y la confianza te ayuda a manejar estas situaciones correctamente. Hacer lo correcto lo protege a usted, a su empleador y a otras personas en el entorno."
+                      "Tu responsabilidad incluye tomar decisiones que cumplan con la ley y las políticas de la empresa. Negarte a vender puede resultar incómodo, pero es necesario. Mantener la calma y la confianza te ayuda a manejar estas situaciones correctamente. Hacer lo correcto te protege a ti, a tu empleador y a otras personas en el entorno."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4640,7 +4640,7 @@
                   "order_index": 26,
                   "text": {
                     "paragraphs": [
-                      "Los menores pueden intentar comprar alcohol utilizando una identificación falsa o prestada. Manténgase alerta y siga los pasos adecuados de verificación de identidad. Si algo no parece correcto, tómate el tiempo para verificarlo. No te apresures. Una verificación cuidadosa ayuda a prevenir ventas ilegales y te protege de cometer un error costoso."
+                      "Los menores pueden intentar comprar alcohol utilizando una identificación falsa o prestada. Mantente alerta y sigue los pasos adecuados de verificación de identidad. Si algo no parece correcto, tómate el tiempo para verificarlo. No te apresures. Una verificación cuidadosa ayuda a prevenir ventas ilegales y te protege de cometer un error costoso."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4657,7 +4657,7 @@
                   "order_index": 27,
                   "text": {
                     "paragraphs": [
-                      "Los gerentes son un recurso cuando las situaciones se vuelven difíciles. Si un cliente se vuelve agresivo o conflictivo, pida ayuda. No se espera que usted maneje todas las situaciones solo. El soporte del equipo ayuda a garantizar que las reglas se sigan de manera consistente y segura en toda la empresa."
+                      "Los gerentes son un recurso cuando las situaciones se vuelven difíciles. Si un cliente se vuelve agresivo o conflictivo, pide ayuda. No se espera que tú manejes todas las situaciones solo. El soporte del equipo ayuda a garantizar que las reglas se sigan de manera consistente y segura en toda la empresa."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4674,7 +4674,7 @@
                   "order_index": 28,
                   "text": {
                     "paragraphs": [
-                      "La coherencia es clave para prevenir las ventas a menores de edad. Aplicar el mismo proceso a cada cliente. No haga excepciones basadas en presiones o suposiciones. Seguir los mismos pasos cada vez reduce el riesgo. Las acciones constantes ayudan a protegerlo y garantizar el cumplimiento de las leyes sobre alcohol de Carolina del Sur."
+                      "La coherencia es clave para prevenir las ventas a menores de edad. Aplicar el mismo proceso a cada cliente. No hagas excepciones basadas en presiones o suposiciones. Seguir los mismos pasos cada vez reduce el riesgo. Las acciones constantes ayudan a protegerte y garantizar el cumplimiento de las leyes sobre alcohol de Carolina del Sur."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4690,12 +4690,12 @@
                 {
                   "order_index": 29,
                   "interactive": {
-                    "question": "Un cliente parece joven pero insiste en que tiene 21 años. Usted no está seguro y la fila está creciendo. ¿Qué deberías hacer?",
+                    "question": "Un cliente parece joven pero insiste en que tiene 21 años. Tú no estás seguro y la fila está creciendo. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Completa la venta rápidamente",
+                        "label": "A. Completar la venta rápidamente",
                         "is_correct": false
                       },
                       {
@@ -4732,7 +4732,7 @@
                   "order_index": 30,
                   "text": {
                     "paragraphs": [
-                      "En Carolina del Sur, los servidores de alcohol son legalmente responsables de seguir las leyes estatales al vender o servir alcohol. Esto incluye negarse a vender a menores y no atender a personas en estado de ebriedad. Tú eres responsable de sus acciones durante cada turno. El incumplimiento de la ley puede resultar en sanciones para ti y tu empleador. Comprender tu responsabilidad te ayuda a tomar mejores decisiones en situaciones reales."
+                      "En Carolina del Sur, los servidores de alcohol son legalmente responsables de seguir las leyes estatales al vender o servir alcohol. Esto incluye negarse a vender a menores y no atender a personas en estado de ebriedad. Tú eres responsable de tus acciones durante cada turno. El incumplimiento de la ley puede resultar en sanciones para ti y tu empleador. Comprender tu responsabilidad te ayuda a tomar mejores decisiones en situaciones reales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4749,7 +4749,7 @@
                   "order_index": 31,
                   "text": {
                     "paragraphs": [
-                      "La ley de Carolina del Sur exige que no se venda ni se sirva alcohol a menores de 21 años. Las infracciones pueden dar lugar a sanciones tanto para el que sirve como para el establecimiento. Esto puede incluir multas u otras consecuencias. Se requiere seguir la ley. Protege su trabajo y garantiza que su lugar de trabajo cumpla con los requisitos estatales."
+                      "La ley de Carolina del Sur exige que no se venda ni se sirva alcohol a menores de 21 años. Las infracciones pueden dar lugar a sanciones tanto para el que sirve como para el establecimiento. Esto puede incluir multas u otras consecuencias. Se requiere seguir la ley. Protege tu trabajo garantizando que tu lugar de trabajo cumpla con los requisitos estatales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4807,7 +4807,7 @@
                   "order_index": 33,
                   "text": {
                     "paragraphs": [
-                      "También está prohibido servir alcohol a una persona en estado de ebriedad. Debe reconocer los signos de deterioro y suspender el servicio cuando sea necesario. Continuar sirviendo a alguien que está claramente intoxicado aumenta el riesgo. Puede provocar daños, incluidos accidentes o lesiones. Su función incluye monitorear a los clientes y tomar decisiones que protejan la seguridad."
+                      "También está prohibido servir alcohol a una persona en estado de ebriedad. Debes reconocer los signos de deterioro y suspender el servicio cuando sea necesario. Continuar sirviendo a alguien que está claramente intoxicado aumenta el riesgo. Puede provocar daños, incluidos accidentes o lesiones. Tu función incluye monitorear a los clientes y tomar decisiones que protejan la seguridad."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4824,7 +4824,7 @@
                   "order_index": 34,
                   "text": {
                     "paragraphs": [
-                      "La responsabilidad legal se aplica tanto a los servidores individuales como a la empresa. Incluso si un gerente está presente, usted sigue siendo responsable de sus acciones. No se puede ignorar la ley por presión o instrucciones de otros. Cada servidor debe seguir los requisitos legales durante cada transacción. La responsabilidad personal es parte del servicio responsable de alcohol."
+                      "La responsabilidad legal se aplica tanto a los servidores individuales como a la empresa. Incluso si un gerente está presente, sigues siendo responsable de tus acciones. No se puede ignorar la ley por presión o instrucciones de otros. Cada servidor debe seguir los requisitos legales durante cada transacción. La responsabilidad personal es parte del servicio responsable de alcohol."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4841,7 +4841,7 @@
                   "order_index": 35,
                   "text": {
                     "paragraphs": [
-                      "Se pueden aplicar sanciones penales si se infringen las leyes. Estas sanciones dependen de la situación y de la infracción. Vender a un menor o servir a una persona en estado de ebriedad puede resultar en cargos. Las consecuencias legales pueden afectar su historial y su empleo futuro. Cumplir la ley le ayuda a evitar estos resultados y protege su reputación profesional."
+                      "Se pueden aplicar sanciones penales si se infringen las leyes. Estas sanciones dependen de la situación y de la infracción. Vender a un menor o servir a una persona en estado de ebriedad puede resultar en cargos. Las consecuencias legales pueden afectar tu historial y tu empleo futuro. Cumplir la ley te ayuda a evitar estos resultados y protege tu reputación profesional."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4858,7 +4858,7 @@
                   "order_index": 36,
                   "text": {
                     "paragraphs": [
-                      "Las sanciones administrativas pueden afectar el negocio. Esto puede incluir multas o acciones tomadas contra la licencia del establecimiento. Estas sanciones pueden afectar a todos los empleados. Incluso una infracción puede causar problemas en toda la operación. Sus acciones contribuyen al cumplimiento general del negocio."
+                      "Las sanciones administrativas pueden afectar el negocio. Esto puede incluir multas o acciones tomadas contra la licencia del establecimiento. Estas sanciones pueden afectar a todos los empleados. Incluso una infracción puede causar problemas en toda la operación. Tus acciones contribuyen al cumplimiento general del negocio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4878,7 +4878,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Los tipos de responsabilidad pueden ser {{item_1}} por infringir las leyes, {{item_2}} si se produce un daño y {{item_3}} en contra de la empresa. Comprender estas categorías le ayuda a ver cómo una decisión puede afectar múltiples áreas. Mantener el cumplimiento reduce el riesgo en todos los niveles de responsabilidad."
+                      "Los tipos de responsabilidad pueden ser {{item_1}} por infringir las leyes, {{item_2}} si se produce un daño y {{item_3}} en contra de la empresa. Comprender estas categorías te ayuda a comprender cómo una decisión puede afectar múltiples áreas. Mantener el cumplimiento reduce el riesgo en todos los niveles de responsabilidad."
                     ],
                     "reveal_items": [
                       {
@@ -4911,7 +4911,7 @@
                   "order_index": 38,
                   "text": {
                     "paragraphs": [
-                      "Puede surgir responsabilidad civil si alguien resulta perjudicado después de que se le haya servido alcohol ilegalmente. Esto podría implicar lesiones o daños relacionados con el servicio de alcohol. Si bien es posible que no vea efectos inmediatos, sus acciones pueden contribuir a generar resultados graves. Prevenir el servicio ilegal ayuda a reducir el riesgo de daños y demandas legales."
+                      "Puede surgir responsabilidad civil si alguien resulta perjudicado después de que se le haya servido alcohol ilegalmente. Esto podría implicar lesiones o daños relacionados con el servicio de alcohol. Si bien es posible que no veas efectos inmediatos, tus acciones pueden contribuir a generar resultados graves. Prevenir el servicio ilegal ayuda a reducir el riesgo de daños y demandas legales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11119,7 +11119,7 @@
                   "order_index": 44,
                   "text": {
                     "paragraphs": [
-                      "Mantenga siempre un tono tranquilo y firme. Evita alzar la voz o mostrar frustración. Es posible que los clientes ya estén discapacitados o emocionales. Un tono tranquilo ayuda a evitar que la situación empeore y demuestra profesionalismo."
+                      "Mantén siempre un tono tranquilo y firme. Evita alzar la voz o mostrar frustración. Es posible que los clientes ya estén discapacitados o emocionales. Un tono tranquilo ayuda a evitar que la situación empeore y demuestra profesionalismo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11829,7 +11829,7 @@
                   "order_index": 71,
                   "text": {
                     "paragraphs": [
-                      "Debes mantenerte al tanto del cliente mientras esperas ayuda. No le des la espalda ni pierdas de vista su comportamiento. Las situaciones pueden cambiar rápidamente, especialmente en el caso de personas ebrias. Estar alerta te permite responder si la situación empeora aún más antes de que llegue el soporte."
+                      "Debes mantenerte al tanto del cliente mientras esperas ayuda. No le des la espalda ni pierdas de vista su comportamiento. Las situaciones pueden cambiar rápidamente, especialmente en el caso de personas ebrias. Estar alerta te permite responder adecuadamente si la situación empeora antes de que llegue el soporte."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
