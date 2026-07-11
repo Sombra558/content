@@ -5425,7 +5425,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "No acepte un ID que esté {{item_1}} , {{item_2}} , {{item_3}} o {{item_4}} . Estos problemas dificultan la confirmación de la identidad y la edad. Si no puede verificar con confianza la identificación, debe negarse a hacer la venta. Protegerse es más importante que completar una transacción."
+                      "No aceptes un ID que esté {{item_1}} , {{item_2}} , {{item_3}} o {{item_4}} . Estos problemas dificultan la confirmación de la identidad y la edad. Si no puedes verificar con confianza la identificación, debes negarte a hacer la venta. Protegerte es más importante que completar una transacción."
                     ],
                     "reveal_items": [
                       {
@@ -5463,7 +5463,7 @@
                   "order_index": 62,
                   "text": {
                     "paragraphs": [
-                      "Debes comparar la fotografía del documento de identidad con la de la persona que lo presenta. Observe los rasgos faciales, no sólo el cabello o la ropa. Si la foto no coincide, no acepte el DNI. Este paso ayuda a prevenir el uso de identificación prestada y reduce el riesgo de ventas ilegales."
+                      "Debes comparar la fotografía del documento de identidad con el rostro de la persona que lo presenta. Observa los rasgos faciales, no sólo el cabello o la ropa. Si la foto no coincide, no aceptes el DNI. Este paso ayuda a prevenir el uso de identificación prestada y reduce el riesgo de ventas ilegales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5480,7 +5480,7 @@
                   "order_index": 63,
                   "text": {
                     "paragraphs": [
-                      "La identificación vencida no es válida para la venta de alcohol. Incluso si la fecha de nacimiento muestra que el cliente tiene más de 21 años, no se debe aceptar una identificación vencida. Las fechas de vencimiento deben estar actualizadas. Siempre verifique este detalle como parte de su proceso de verificación de identidad estándar."
+                      "La identificación vencida no es válida para la venta de alcohol. Incluso si la fecha de nacimiento muestra que el cliente tiene más de 21 años, no se debe aceptar una identificación caducada. Las fecha de vencimiento deben estar actualizada. Siempre verifica este detalle como parte de su proceso de verificación de identidad estándar."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5497,7 +5497,7 @@
                   "order_index": 64,
                   "text": {
                     "paragraphs": [
-                      "Si no está seguro de una identificación, no la adivine. Pida ayuda a un gerente o siga los procedimientos de la empresa. Es mejor retrasar una venta que cometer un error. Tomarse más tiempo garantiza el cumplimiento de la ley y lo protege de posibles sanciones."
+                      "Si no estás seguro de una identificación, no la adivines. Pide ayuda a un gerente o sigue los procedimientos de la empresa. Es mejor retrasar una venta que cometer un error. Tomarse más tiempo garantiza el cumplimiento de la ley y te protege de posibles sanciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5513,12 +5513,12 @@
                 {
                   "order_index": 65,
                   "interactive": {
-                    "question": "Un cliente presenta una identificación que parece válida, pero está vencida. Insisten en que aún así debería aceptarse. ¿Qué deberías hacer?",
+                    "question": "Un cliente presenta una identificación que parece válida, pero está vencida. Insiste en que aún así deberías aceptarla. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Acéptalo porque la fecha de nacimiento es correcta.",
+                        "label": "A. Aceptarla porque la fecha de nacimiento es correcta.",
                         "is_correct": false
                       },
                       {
@@ -5555,7 +5555,7 @@
                   "order_index": 66,
                   "text": {
                     "paragraphs": [
-                      "Siga una rutina paso a paso para verificar ID cada vez que sea necesario; la consistencia evita errores."
+                      "Sigue una rutina paso a paso para verificar ID cada vez que sea necesario: la consistencia evita errores."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5572,7 +5572,7 @@
                   "order_index": 67,
                   "text": {
                     "paragraphs": [
-                      "Empiece por pedir una identificación antes de completar la venta. Haga esto al principio de la interacción para evitar confusiones más adelante. Sea cortés pero directo. Los clientes deben esperar este paso. Preguntar con claridad y confianza marca la pauta y ayuda a evitar el rechazo. Este primer paso es fundamental para un proceso fluido y conforme."
+                      "Empieza por pedir una identificación antes de completar la venta. Haga esto al principio de la interacción para evitar confusiones más adelante. Sé cortés pero, directo. Los clientes deben esperar este paso. Preguntar con claridad y confianza marca la pauta y ayuda a evitar el rechazo. Este primer paso es fundamental para un proceso fluido y conforme."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5630,7 +5630,7 @@
                   "order_index": 69,
                   "text": {
                     "paragraphs": [
-                      "Una vez que reciba la identificación, sostenla en tu mano. No intentes verificarlo desde la distancia. Mantener la identificación te permite examinar los detalles más de cerca. Tómate tu tiempo. Un vistazo rápido no es suficiente. Una inspección cuidadosa te ayudará a detectar problemas que podrían conducir a una venta ilegal."
+                      "Una vez que recibas la identificación, sostenla en tu mano. No intentes verificarla desde la distancia. Mantener la identificación te permite examinar los detalles más de cerca. Tómate tu tiempo. Un vistazo rápido no es suficiente. Una inspección cuidadosa te ayudará a detectar problemas que podrían conducir a una venta ilegal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5647,7 +5647,7 @@
                   "order_index": 70,
                   "text": {
                     "paragraphs": [
-                      "Verifique el estado general del documento de identidad. Busque signos de daño, desgaste o manipulación. Si la identificación parece alterada o inusual, no la acepte. Incluso los pequeños problemas pueden indicar un problema. Si algo no parece correcto, confíe en su criterio y siga sus procedimientos."
+                      "Verifica el estado general del documento de identidad. Busca signos de daño, desgaste o manipulación. Si la identificación parece alterada o inusual, no la aceptes. Incluso los pequeños problemas pueden indicar un problema mayor. Si algo no parece correcto, confía en tu criterio y sigue los procedimientos."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5664,7 +5664,7 @@
                   "order_index": 71,
                   "text": {
                     "paragraphs": [
-                      "Verifique la foto comparando el rostro en la identificación con la persona que tiene delante. Concéntrese en los rasgos faciales, no en la ropa ni el peinado. Si la foto no coincide claramente con la persona, no proceda con la venta. Este paso ayuda a prevenir el uso de identificaciones prestadas."
+                      "Verifica la foto comparando el rostro en la identificación con la persona que tienes delante. Concéntrate en los rasgos faciales, no en la ropa ni el peinado. Si la foto no coincide claramente con la persona, no procedas con la venta. Este paso ayuda a prevenir el uso de identificaciones prestadas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5933,7 +5933,7 @@
                   "order_index": 84,
                   "text": {
                     "paragraphs": [
-                      "Mire la fecha de vencimiento a continuación. Una identificación vencida no es válida para la venta de alcohol. Aunque el cliente sea mayor de 21 años, deberá rechazar la venta si el DNI está caducado. Incluya siempre este paso en su proceso para evitar aceptar una identificación no válida."
+                      "Mira la fecha de vencimiento a continuación. Una identificación vencida no es válida para la venta de alcohol. Aunque el cliente sea mayor de 21 años, deberás negar la venta si el DNI está caducado. Incluye siempre este paso en tu proceso de verificación para evitar aceptar una identificación no válida."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
