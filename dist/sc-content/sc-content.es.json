@@ -5756,7 +5756,7 @@
                   "order_index": 75,
                   "text": {
                     "paragraphs": [
-                      "Compruebe si hay signos de alteración. Esto puede incluir fuentes que no coinciden, superficies despegadas o impresiones poco claras. Estos signos pueden indicar una identificación falsa o manipulada. Si nota algo inusual, no acepte la identificación. Siga sus procedimientos e involucre a un gerente si es necesario."
+                      "Compruebe si hay signos de alteración. Esto puede incluir fuentes que no coinciden, superficies despegadas o impresiones poco claras. Estos signos pueden indicar una identificación falsa o manipulada. Si notas algo inusual, no aceptes la identificación. Sigue tus procedimientos e involucra a un gerente si es necesario."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5790,7 +5790,7 @@
                   "order_index": 77,
                   "text": {
                     "paragraphs": [
-                      "Seguir un proceso paso a paso hace que la verificación de identidad sea más fácil y confiable. Cuando utiliza la misma rutina cada vez, reduce el riesgo y mejora la precisión. Esto lo protege a usted, a su empleador y a sus clientes. Desarrollar hábitos sólidos garantiza el cumplimiento durante cada turno."
+                      "Seguir un proceso paso a paso hace que la verificación de identidad sea más fácil y confiable. Cuando utilizas la misma rutina cada vez, reduce el riesgo y mejora la precisión. Esto te protege a ti, a tu empleador y a tus clientes. Desarrollar hábitos sólidos garantiza el cumplimiento durante cada turno."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5807,7 +5807,7 @@
                   "order_index": 78,
                   "text": {
                     "paragraphs": [
-                      "Después de verificar los detalles básicos de una identificación, continúe el proceso confirmando que sea genuina. Una identificación válida debe ser más que solo información correcta. También debe ser auténtico. Este paso ayuda a prevenir el uso de identificación falsa o alterada. Tomarse el tiempo aquí lo protege de realizar una venta ilegal."
+                      "Después de verificar los detalles básicos de una identificación, continúa el proceso confirmando que sea genuina. Una identificación válida debe ser más que solo información correcta. También debe ser auténtica. Este paso ayuda a prevenir el uso de identificación falsa o alterada. Tomarse el tiempo aquí te protege de realizar una venta ilegal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5844,7 +5844,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Busque signos de una identificación falsa como {{item_1}} , {{item_2}} , {{item_3}} y {{item_4}} . Estos problemas pueden indicar que la identificación ha sido alterada o no es legítima."
+                      "Busca signos de una identificación falsa como {{item_1}} , {{item_2}} , {{item_3}} y {{item_4}} . Estos problemas pueden indicar que la identificación ha sido alterada o no es legítima."
                     ],
                     "reveal_items": [
                       {
@@ -5882,7 +5882,7 @@
                   "order_index": 81,
                   "text": {
                     "paragraphs": [
-                      "Verifique la coherencia de la información en el ID. Los nombres, fechas y otros detalles deben alinearse correctamente. Si algo no coincide o parece inusual, no acepte la identificación. Las inconsistencias son una fuerte señal de advertencia de que la identificación puede no ser válida."
+                      "Verifica la coherencia de la información en el ID. Los nombres, fechas y otros detalles deben alinearse correctamente. Si algo no coincide o parece inusual, no aceptes la identificación. Las inconsistencias son una fuerte señal de advertencia de que la identificación puede no ser válida."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6131,7 +6131,7 @@
                   "order_index": 90,
                   "text": {
                     "paragraphs": [
-                      "Si la identificación pasa todas las comprobaciones, podrá continuar con la venta. Complete la transacción únicamente después de estar seguro de que la identificación es válida y que el cliente tiene al menos 21 años. Nunca se apresure a tomar esta decisión. La confianza en su proceso de verificación es esencial."
+                      "Si la identificación pasa todas las comprobaciones, podrás continuar con la venta. Completa la transacción únicamente después de que estés seguro de que la identificación es válida y que el cliente tiene al menos 21 años. Nunca te apresures a tomar esta decisión. La confianza en tu proceso de verificación es esencial."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
