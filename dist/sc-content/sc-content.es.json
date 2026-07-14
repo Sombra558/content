@@ -46,7 +46,7 @@
                   "order_index": 1,
                   "text": {
                     "paragraphs": [
-                      "Carolina del Sur emite distintos permisos según lo que vende un negocio y cuándo lo vende. Un permiso PBW (On-Premises Beer & Wine Permit) permite vender cerveza y vino para consumo en el local y para llevar, hasta seis días por semana, las veinticuatro horas del día. Las ventas en domingo solo se permiten si el condado aprobó una opción local. Un permiso PO7 (7-Day On-Premises Beer & Wine Permit) permite vender cerveza y vino siete días por semana, excepto los domingos de 2 a. m. a 10 a. m., y solo se emite en condados que aprobaron las ventas dominicales por referéndum. Conocer el permiso de tu establecimiento te indica exactamente qué puede servir y cuándo. Estatutos aplicables: SC Code §§ 61-4-120, 61-4-510 y 61-4-630."
+                      "Carolina del Sur emite distintos permisos según lo que vende un negocio y cuándo lo vende. Un permiso PBW (On-Premises Beer & Wine Permit) permite vender cerveza y vino para consumo en el local y para llevar, hasta seis días por semana, las veinticuatro horas del día. Las ventas en domingo solo se permiten si el condado aprobó una opción local. Un permiso PO7 (7-Day On-Premises Beer & Wine Permit) permite vender cerveza y vino siete días por semana, excepto los domingos de 2 a. m. a 10 a. m., y solo se emite en condados que aprobaron las ventas dominicales por referéndum. Conocer el permiso de tu establecimiento te indica exactamente qué puedes servir y cuándo. Estatutos aplicables: SC Code §§ 61-4-120, 61-4-510 y 61-4-630."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -80,7 +80,7 @@
                   "order_index": 3,
                   "text": {
                     "paragraphs": [
-                      "Todo titular de permiso debe exhibir sus licencias de alcohol en un lugar claramente visible dentro del establecimiento. Esto permite que reguladores, fuerzas del orden y el público confirmen que el negocio está autorizado para vender alcohol. Como servidor, debes saber dónde están exhibidos los permisos de su establecimiento. Referencia: SC Code of Regulations 7-200.3."
+                      "Todo titular de permiso debe exhibir sus licencias de alcohol en un lugar claramente visible dentro del establecimiento. Esto permite que reguladores, fuerzas del orden y el público confirmen que el negocio está autorizado para vender alcohol. Como servidor, debes saber dónde están exhibidos los permisos de tu establecimiento. Referencia: SC Code of Regulations 7-200.3."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -553,7 +553,7 @@
                   "order_index": 20,
                   "text": {
                     "paragraphs": [
-                      "Regla rápida: reste 21 años a la fecha de hoy; si la fecha de nacimiento es igual o anterior, es legal. Si es posterior, niegue la venta."
+                      "Regla rápida: resta 21 años a la fecha de hoy; si la fecha de nacimiento es igual o anterior, es legal. Si es posterior, niega la venta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -570,7 +570,7 @@
                   "order_index": 21,
                   "text": {
                     "paragraphs": [
-                      "Regla práctica: verifique ID consistente para cualquier persona que podría ser menor; si no hay ID válida, niegue la venta. Referencias: SC Code § 61-4-50; § 61-6-4080; Reg. 7-200.4."
+                      "Regla práctica: verifica ID de forma consistente para cualquier persona que podría ser menor; si no hay ID válida, niega la venta. Referencias: SC Code § 61-4-50; § 61-6-4080; Reg. 7-200.4."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -650,7 +650,7 @@
                   "order_index": 24,
                   "text": {
                     "paragraphs": [
-                      "Es aceptable identificación oficial con foto y vigente (por ejemplo, licencia). Rechace IDs alterados o vencidos."
+                      "Es aceptable identificación oficial con foto y vigente (por ejemplo, licencia). Rechaza IDs alterados o vencidos."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -1098,7 +1098,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Servicio responsable significa {{item_1}}, {{item_2}}, rechazar {{item_3}}, apoyar {{item_4}} y prevenir {{item_5}}. Estos pasos se alinean con la ley de Carolina del Sur y las expectativas de capacitación. Aplicarlos constantemente le ayuda a evitar infracciones y contribuir a un entorno más seguro para todos."
+                      "Servicio responsable significa {{item_1}}, {{item_2}}, rechazar {{item_3}}, apoyar {{item_4}} y prevenir {{item_5}}. Estos pasos se alinean con la ley de Carolina del Sur y las expectativas de capacitación. Aplicarlos constantemente te ayuda a evitar infracciones y contribuir a un entorno más seguro para todos."
                     ],
                     "reveal_items": [
                       {
@@ -1376,7 +1376,7 @@
                   "order_index": 52,
                   "text": {
                     "paragraphs": [
-                      "También debes comprender tus límites legales como servidor. No eres agente de la ley. No intente detener, registrar o confrontar a los clientes. Céntrate en las responsabilidades de servicio y la seguridad. En caso de duda, da un paso atrás e involucra a alguien con la autoridad adecuada para manejar la situación."
+                      "También debes comprender tus límites legales como servidor. No eres agente de la ley. No intentes detener, registrar o confrontar a los clientes. Céntrate en las responsabilidades de servicio y la seguridad. En caso de duda, da un paso atrás e involucra a alguien con la autoridad adecuada para manejar la situación."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -1728,7 +1728,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Para reducir la responsabilidad, siempre {{item_1}}, verifique {{item_2}}, niegue {{item_3}}, involucra a {{item_4}} y documente {{item_5}}. Estos pasos respaldan el cumplimiento y te protegen de riesgos. Los hábitos constantes son la mejor defensa contra las consecuencias legales en el servicio de alcohol."
+                      "Para reducir la responsabilidad, siempre {{item_1}}, verifica {{item_2}}, niega {{item_3}}, involucra a {{item_4}} y documenta {{item_5}}. Estos pasos respaldan el cumplimiento y te protegen de riesgos. Los hábitos constantes son la mejor defensa contra las consecuencias legales en el servicio de alcohol."
                     ],
                     "reveal_items": [
                       {
@@ -2272,7 +2272,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "El BAC y la incapacidad visible varían según el peso corporal, el sexo biológico, la comida, la velocidad de consumo, la tolerancia y cualquier droga o medicamento ingerido. Siempre evalúe la incapacidad por la conducta observada, no solo por la cantidad de bebidas.",
+                      "correct": "El BAC y la incapacidad visible varían según el peso corporal, el sexo biológico, la comida, la velocidad de consumo, la tolerancia y cualquier droga o medicamento ingerido. Siempre evalúa la incapacidad por la conducta observada, no solo por la cantidad de bebidas.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -2616,7 +2616,7 @@
                   "order_index": 22,
                   "text": {
                     "paragraphs": [
-                      "El seguimiento de las bebidas le ayuda a estimar el riesgo, pero no es exacto. Dos invitados pueden beber la misma cantidad y mostrar efectos diferentes. Combina siempre el seguimiento de las bebidas con la observación. Este enfoque mejora la precisión y respalda el cumplimiento de las responsabilidades de servicio de Carolina del Sur."
+                      "El seguimiento de las bebidas te ayuda a estimar el riesgo, pero no es exacto. Dos invitados pueden beber la misma cantidad y mostrar efectos diferentes. Combina siempre el seguimiento de las bebidas con la observación. Este enfoque mejora la precisión y respalda el cumplimiento de las responsabilidades de servicio de Carolina del Sur."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2817,7 +2817,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Reducir el servicio y ofrecer agua ayuda a reducir el riesgo. Las bebidas fuertes aumentan el BAC rápidamente, especialmente en poco tiempo. Reconocer los primeros signos y ajustar el servicio respalda el servicio responsable de alcohol y se alinea con su función.",
+                      "correct": "Reducir el servicio y ofrecer agua ayuda a reducir el riesgo. Las bebidas fuertes aumentan el BAC rápidamente, especialmente en poco tiempo. Reconocer los primeros signos y ajustar el servicio respalda el servicio responsable de alcohol y se alinea con tu función.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -3679,28 +3679,11 @@
             {
               "order_index": 64,
               "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 64,
-                  "text": {
-                    "paragraphs": [
-                      "Si sospecha una interacción con drogas, reduzca o suspenda el servicio de alcohol. Ofrezca agua u opciones sin alcohol. Involucre a un gerente si es necesario. Mantenga la calma y actúe con profesionalismo. Su objetivo es reducir el riesgo y mantener la situación segura."
-                    ],
-                    "instruction": "Read the following, then click Next."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 65,
-              "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 65,
+                  "order_index": 64,
                   "interactive": {
                     "question": "Un invitado toma una copa pero muestra fuerte somnolencia y mala coordinación. Menciona tomar medicación antes. Piden otra bebida. ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3735,13 +3718,13 @@
               ]
             },
             {
-              "order_index": 66,
+              "order_index": 65,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 66,
+                  "order_index": 65,
                   "interactive": {
                     "question": "Un invitado bebe rápidamente dos cervezas en ayunas. Al poco tiempo, notas un habla más rápida y una coordinación reducida. El invitado pide otra bebida. ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3776,13 +3759,13 @@
               ]
             },
             {
-              "order_index": 67,
+              "order_index": 66,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 67,
+                  "order_index": 66,
                   "interactive": {
                     "question": "Un huésped ha consumido varias bebidas a lo largo del tiempo. Pide café y dice que está bien para seguir bebiendo. Aún notas mala coordinación. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3817,13 +3800,13 @@
               ]
             },
             {
-              "order_index": 68,
+              "order_index": 67,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 68,
+                  "order_index": 67,
                   "interactive": {
                     "question": "Un invitado pide varias bebidas fuertes mezcladas en forma consecutiva. Parece alerta pero muestra falta de juicio y comportamiento de riesgo. ¿Cuál es la mejor respuesta?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3858,13 +3841,13 @@
               ]
             },
             {
-              "order_index": 69,
+              "order_index": 68,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 69,
+                  "order_index": 68,
                   "interactive": {
                     "question": "Un invitado toma una copa pero muestra una fuerte somnolencia y reacciones lentas. Menciona tomar medicación antes. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3899,13 +3882,13 @@
               ]
             },
             {
-              "order_index": 70,
+              "order_index": 69,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 70,
+                  "order_index": 69,
                   "interactive": {
                     "question": "Un invitado bebe lentamente pero no ha comido en todo el día. Después de dos tragos muestra cambios de humor y mala coordinación. ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3940,15 +3923,15 @@
               ]
             },
             {
-              "order_index": 71,
+              "order_index": 70,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 71,
+                  "order_index": 70,
                   "interactive": {
-                    "question": "Un invitado dice que “se siente bien” después de varias copas. Observas que tiene dificultad para hablar y caminar inestable. ¿Qué debería guiar su decisión?",
+                    "question": "Un invitado dice que “se siente bien” después de varias copas. Observas que tiene dificultad para hablar y caminar inestable. ¿Qué debería guiar tu decisión?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
