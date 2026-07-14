@@ -7497,7 +7497,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Las señales de intoxicación suelen aparecer en cuatro áreas: {{item_1}} {{item_2}} {{item_3}} {{item_4}} Observe los cambios con el tiempo, no solo un momento aislado."
+                      "Las señales de intoxicación suelen aparecer en cuatro áreas: {{item_1}} {{item_2}} {{item_3}} {{item_4}} Observa los cambios con el tiempo, no solo un momento aislado."
                     ],
                     "reveal_items": [
                       {
@@ -7544,7 +7544,7 @@
                   "order_index": 2,
                   "text": {
                     "paragraphs": [
-                      "Reconocer temprano el consumo problemático permite actuar antes de que un cliente se convierta en un peligro para sí mismo o para otros. Observe a los clientes que beben rápido, piden rondas una tras otra, se vuelven más ruidosos o más retraídos, o piden bebidas a pesar de señales claras de incapacidad. Detectar estos patrones a tiempo le da margen para ralentizar el servicio, ofrecer comida o agua y prepararse para rechazar más alcohol."
+                      "Reconocer temprano el consumo problemático te permite actuar antes de que un cliente se convierta en un peligro para sí mismo o para otros. Observa a los clientes que beben rápido, piden rondas una tras otra, se vuelven más ruidosos, más retraídos o piden bebidas a pesar de señales claras de incapacidad. Detectar estos patrones a tiempo te da margen para ralentizar el servicio, ofrecer comida o agua y prepararte para negarte a servir más alcohol."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -7561,7 +7561,7 @@
                   "order_index": 3,
                   "text": {
                     "paragraphs": [
-                      "Debe saber cuándo y dónde pedir ayuda. Si el consumo de un cliente se vuelve un problema de seguridad, involucre de inmediato a su gerente o al personal de seguridad y organice transporte seguro cuando haga falta. Los servidores suelen ser la primera línea de defensa contra daños relacionados con el alcohol, así que advertir temprano es una señal de profesionalismo, no de debilidad. Nunca permita que un cliente visiblemente intoxicado conduzca."
+                      "Debe saber cuándo y dónde pedir ayuda. Si el consumo de un cliente se vuelve un problema de seguridad, involucra de inmediato a tu gerente o al personal de seguridad y organice transporte seguro cuando haga falta. Los servidores suelen ser la primera línea de defensa contra daños relacionados con el alcohol, así que advertir temprano es una señal de profesionalismo, no de debilidad. Nunca permitas que un cliente visiblemente intoxicado conduzca."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -7577,7 +7577,7 @@
                 {
                   "order_index": 4,
                   "interactive": {
-                    "question": "Un cliente arrastra las palabras, se balancea en el taburete y acaba de tirar un vaso al intentar alcanzar su bebida. ¿Qué debe hacer?",
+                    "question": "Un cliente arrastra las palabras, se balancea en el taburete y acaba de tirar un vaso al intentar alcanzar su bebida. ¿Qué debes hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -7619,7 +7619,7 @@
                   "order_index": 5,
                   "text": {
                     "paragraphs": [
-                      "Intoxicación significa que una persona ha consumido suficiente alcohol como para afectar sus capacidades físicas o mentales normales. Esto afecta el juicio, la coordinación y el tiempo de reacción. En Carolina del Sur, no se debe servir a alguien que esté demasiado ebrio. Tu responsabilidad es reconocer el deterioro a tiempo y actuar antes de que cree un riesgo para el huésped, tu equipo o el público."
+                      "Intoxicación significa que una persona ha consumido suficiente alcohol como para afectar sus capacidades físicas o mentales normales. Esto afecta el juicio, la coordinación y el tiempo de reacción. En Carolina del Sur, no se debe servir a alguien que esté demasiado ebrio. Tu responsabilidad es reconocer el deterioro a tiempo y actuar antes de que se cree un riesgo para el huésped, tu equipo o el público."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -7682,7 +7682,7 @@
                       {
                         "id": "item_5",
                         "title": "tomar riesgos",
-                        "revealed_text": "tomar riesgos"
+                        "revealed_text": "tomar riesgos innecesarios"
                       }
                     ]
                   }
@@ -7779,7 +7779,7 @@
                   "order_index": 11,
                   "text": {
                     "paragraphs": [
-                      "En etapas posteriores, la intoxicación se vuelve evidente y grave. Los invitados pueden tropezar, dejar caer objetos o tener problemas para mantenerse en pie. El habla puede ser difícil de entender. Pueden aparecer cambios emocionales como agresión o tristeza. En este punto, al huésped no se le debe servir alcohol bajo ninguna circunstancia. Se requiere acción inmediata para gestionar la situación de forma segura."
+                      "En etapas posteriores, la intoxicación se vuelve evidente y grave. El invitado puede tropezar, dejar caer objetos o tener problemas para mantenerse en pie. El habla puede ser difícil de entender. Pueden aparecer cambios emocionales como agresión o tristeza. En este punto, al huésped no le debes servir alcohol bajo ninguna circunstancia. Se requiere acción inmediata para gestionar la situación de forma segura."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -7879,23 +7879,23 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Tu responsabilidad es reconocer y responder adecuadamente en cada etapa. Tome medidas mediante {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos pasos ayudan a evitar el exceso de servicio y a cumplir con las leyes y las políticas para servir alcohol de Carolina del Sur."
+                      "Tu responsabilidad es reconocer y responder adecuadamente en cada etapa. Toma medidas como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos pasos te ayudan a evitar el exceso de servicio y a cumplir con las leyes y las políticas para servir alcohol de Carolina del Sur."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
                         "title": "servicio lento",
-                        "revealed_text": "servicio lento"
+                        "revealed_text": "ralentizar el servicio"
                       },
                       {
                         "id": "item_2",
                         "title": "ofreciendo agua",
-                        "revealed_text": "ofreciendo agua"
+                        "revealed_text": "ofrecer agua"
                       },
                       {
                         "id": "item_3",
                         "title": "espaciar bebidas",
-                        "revealed_text": "espaciar bebidas"
+                        "revealed_text": "espaciar las bebidas"
                       },
                       {
                         "id": "item_4",
@@ -7963,7 +7963,7 @@
                   "order_index": 17,
                   "text": {
                     "paragraphs": [
-                      "Los signos físicos de intoxicación son cambios visibles en la forma en que una persona se mueve, habla o se comporta. Estas señales te ayudan a identificar el deterioro sin depender de lo que diga el huésped. En Carolina del Sur, reconocer estos signos es fundamental porque no se debe servir a alguien que esté demasiado intoxicado. Tu decisión debe basarse en lo que observa, no en suposiciones."
+                      "Los signos físicos de intoxicación son cambios visibles en la forma en que una persona se mueve, habla o se comporta. Estas señales te ayudan a identificar el nivel de deterioro sin depender de lo que diga el huésped. En Carolina del Sur, reconocer estos signos es fundamental porque no se debe servir a alguien que esté demasiado intoxicado. Tu decisión debe basarse en lo que observas, no en suposiciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9938,13 +9938,13 @@
                   "text": {
                     "bullet_points": [
                       "5A. Cuándo Rechazar el Servicio + Justificación Legal.",
-                      "5B. Rechazo del Servicio Paso a Paso (Parte 1).",
-                      "5C. Rechazo del Servicio Paso a Paso (Parte 2).",
+                      "5B. Negación del Servicio Paso a Paso (Parte 1).",
+                      "5C. Negación del Servicio Paso a Paso (Parte 2).",
                       "5D. Técnicas de Comunicación y Desescalada.",
                       "5E. Manejo de Clientes Difíciles o Confrontacionales.",
                       "5F. Procedimientos de Escalamiento + Involucrar a la Gerencia.",
                       "5G. Alternativas (Comida, Agua, Transporte).",
-                      "5H. Protegerte Legalmente + Documentación."
+                      "5H. Protegerse Legalmente + Documentación."
                     ],
                     "body": "En esta unidad discutiremos los siguientes temas:"
                   }
