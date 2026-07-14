@@ -7675,8 +7675,8 @@
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "hablar arrastrado",
-                        "revealed_text": "hablar arrastrado"
+                        "title": "leve balanceo",
+                        "revealed_text": "leve balanceo"
                       },
                       {
                         "id": "item_2",
@@ -7908,13 +7908,13 @@
                       },
                       {
                         "id": "item_3",
-                        "title": "bebidas sin alcohol",
-                        "revealed_text": "bebidas sin alcohol"
+                        "title": "retirar el alcohol",
+                        "revealed_text": "retirar el alcohol"
                       },
                       {
                         "id": "item_4",
-                        "title": "involucrar a un gerente",
-                        "revealed_text": "involucrar a un gerente"
+                        "title": "alertar al gerente",
+                        "revealed_text": "alertar al gerente"
                       },
                       {
                         "id": "item_5",
@@ -8029,8 +8029,8 @@
                       },
                       {
                         "id": "item_3",
-                        "title": "beber rapido",
-                        "revealed_text": "beber rapido"
+                        "title": "beber rápido",
+                        "revealed_text": "beber rápido"
                       },
                       {
                         "id": "item_4",
@@ -8252,8 +8252,8 @@
                       },
                       {
                         "id": "item_3",
-                        "title": "ofrecer bebidas sin alcohol",
-                        "revealed_text": "ofrecer bebidas sin alcohol"
+                        "title": "ofrecer alternativas",
+                        "revealed_text": "ofrecer alternativas"
                       },
                       {
                         "id": "item_4",
@@ -8443,8 +8443,8 @@
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "beber rapido",
-                        "revealed_text": "beber rapido"
+                        "title": "beber rápido",
+                        "revealed_text": "beber rápido"
                       },
                       {
                         "id": "item_2",
@@ -8727,8 +8727,8 @@
                       },
                       {
                         "id": "item_5",
-                        "title": "ofrecer bebidas sin alcohol",
-                        "revealed_text": "ofrecer bebidas sin alcohol"
+                        "title": "verificar el estado del cliente",
+                        "revealed_text": "verificar el estado del cliente"
                       }
                     ]
                   }
@@ -8807,8 +8807,8 @@
                       },
                       {
                         "id": "item_5",
-                        "title": "comida",
-                        "revealed_text": "comida"
+                        "title": "pausas",
+                        "revealed_text": "pausas"
                       }
                     ]
                   }
@@ -8872,18 +8872,18 @@
                       },
                       {
                         "id": "item_2",
-                        "title": "rechazar pedidos",
-                        "revealed_text": "rechazar pedidos"
+                        "title": "rechazar shots",
+                        "revealed_text": "rechazar shots"
                       },
                       {
                         "id": "item_3",
-                        "title": "ofrecer agua",
-                        "revealed_text": "ofrecer agua"
+                        "title": "cambiar a agua",
+                        "revealed_text": "cambiar a agua"
                       },
                       {
                         "id": "item_4",
-                        "title": "servicio final",
-                        "revealed_text": "servicio final"
+                        "title": "terminar el servicio",
+                        "revealed_text": "terminar el servicio"
                       },
                       {
                         "id": "item_5",
@@ -9231,8 +9231,8 @@
                       },
                       {
                         "id": "item_5",
-                        "title": "ofrecer bebidas no alcohólicas",
-                        "revealed_text": "ofrecer bebidas no alcohólicas"
+                        "title": "dejar de servir alcohol",
+                        "revealed_text": "dejar de servir alcohol"
                       }
                     ]
                   }
@@ -9274,8 +9274,8 @@
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "cambios de humor muy bruscos",
-                        "revealed_text": "cambios de humor muy bruscos"
+                        "title": "cambios rápidos",
+                        "revealed_text": "cambios rápidos"
                       },
                       {
                         "id": "item_2",
