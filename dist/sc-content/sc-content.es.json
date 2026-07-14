@@ -7561,7 +7561,7 @@
                   "order_index": 3,
                   "text": {
                     "paragraphs": [
-                      "Debe saber cuándo y dónde pedir ayuda. Si el consumo de un cliente se vuelve un problema de seguridad, involucra de inmediato a tu gerente o al personal de seguridad y organice transporte seguro cuando haga falta. Los servidores suelen ser la primera línea de defensa contra daños relacionados con el alcohol, así que advertir temprano es una señal de profesionalismo, no de debilidad. Nunca permitas que un cliente visiblemente intoxicado conduzca."
+                      "Debes saber cuándo y dónde pedir ayuda. Si el consumo de un cliente se vuelve un problema de seguridad, involucra de inmediato a tu gerente o al personal de seguridad y organiza transporte seguro cuando haga falta. Los servidores suelen ser la primera línea de defensa contra daños relacionados con el alcohol, así que advertir temprano es una señal de profesionalismo, no de debilidad. Nunca permitas que un cliente visiblemente intoxicado conduzca."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -7602,7 +7602,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "El habla arrastrada, el balanceo y la pérdida de coordinación son señales claras de intoxicación. Detenga el servicio de alcohol, ofrezca agua o comida, involucre a un gerente y ayude a organizar transporte seguro.",
+                      "correct": "El habla arrastrada, el balanceo y la pérdida de coordinación son señales claras de intoxicación. Detén el servicio de alcohol, ofrece agua o comida, involucra a un gerente y ayuda a organizar transporte seguro.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -7946,7 +7946,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Estos signos muestran un claro deterioro físico y mental. La intoxicación en etapa intermedia incluye dificultad para hablar, mala coordinación y confusión. En este punto, debe suspender o limitar significativamente el servicio de alcohol para evitar una mayor intoxicación y cumplir con la ley.",
+                      "correct": "Estos signos muestran un claro deterioro físico y mental. La intoxicación en etapa intermedia incluye dificultad para hablar, mala coordinación y confusión. En este punto, debes suspender o limitar significativamente el servicio de alcohol para evitar una mayor intoxicación y cumplir con la ley.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -8290,7 +8290,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Los tropiezos, la dificultad para hablar y la pérdida de coordinación son claros signos físicos de intoxicación. Seguir sirviendo alcohol sería peligroso e ilegal. Debe detener el servicio y tomar medidas para gestionar la situación de manera responsable.",
+                      "correct": "Los tropiezos, la dificultad para hablar y la pérdida de coordinación son claros signos físicos de intoxicación. Seguir sirviendo alcohol sería peligroso e ilegal. Debes detener el servicio y tomar medidas para gestionar la situación de manera responsable.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -8547,7 +8547,7 @@
                   "order_index": 38,
                   "text": {
                     "paragraphs": [
-                      "No todos los invitados ebrios actúan de la misma manera. Algunos pueden volverse callados y retraídos, mientras que otros se vuelven ruidosos y perturbadores. Ambos pueden verse afectados. Debe observar patrones de comportamiento a lo largo del tiempo y buscar múltiples señales antes de tomar una decisión sobre el servicio."
+                      "No todos los invitados ebrios actúan de la misma manera. Algunos pueden volverse callados y retraídos, mientras que otros se vuelven ruidosos y perturbadores. Ambos pueden verse afectados. Debes observar patrones de comportamiento a lo largo del tiempo y buscar múltiples señales antes de tomar una decisión sobre el servicio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -8567,7 +8567,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Cuando observe señales conductuales, responda de forma adecuada. Tome medidas como {{item_1}}, {{item_2}}, {{item_3}} e {{item_4}} y {{item_5}}. Estas medidas ayudan a prevenir el servicio excesivo y favorecen un entorno seguro y conforme a la normativa."
+                      "Cuando observes señales conductuales, responde de forma adecuada. Toma medidas como {{item_1}}, {{item_2}}, {{item_3}} e {{item_4}} y {{item_5}}. Estas medidas ayudan a prevenir el servicio excesivo y favorecen un entorno seguro y conforme a la normativa."
                     ],
                     "reveal_items": [
                       {
@@ -8634,7 +8634,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "El comportamiento argumentativo, el discurso en voz alta y la falta de juicio son claros signos conductuales de intoxicación. Continuar sirviendo alcohol aumentaría el riesgo y podría ser ilegal. Debe detener el servicio y tomar medidas para gestionar la situación de forma segura.",
+                      "correct": "El comportamiento argumentativo, el discurso en voz alta y la falta de juicio son claros signos conductuales de intoxicación. Continuar sirviendo alcohol aumentaría el riesgo y podría ser ilegal. Debes detener el servicio y tomar medidas para gestionar la situación de forma segura.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -8651,7 +8651,7 @@
                   "order_index": 41,
                   "text": {
                     "paragraphs": [
-                      "Los factores de riesgo ambientales e individuales afectan la rapidez con la que una persona se intoxica. Estos factores pueden aumentar o disminuir el deterioro, incluso si dos personas beben la misma cantidad. En Carolina del Sur, se deben reconocer estos riesgos para evitar el exceso de servicio. Su función es ajustar el servicio según las condiciones, no solo el número de bebidas."
+                      "Los factores de riesgo ambientales e individuales afectan la rapidez con la que una persona se intoxica. Estos factores pueden aumentar o disminuir el deterioro, incluso si dos personas beben la misma cantidad. En Carolina del Sur, se deben reconocer estos riesgos para evitar el exceso de servicio. Tu función es ajustar el servicio según las condiciones, no solo el número de bebidas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -8668,7 +8668,7 @@
                   "order_index": 42,
                   "text": {
                     "paragraphs": [
-                      "La tolerancia individual varía de persona a persona. Algunos invitados pueden mostrar signos de intoxicación después de beber menos, mientras que otros pueden parecer menos afectados. La tolerancia no previene el deterioro. Un huésped con alta tolerancia aún puede no estar seguro. Confíe siempre en el comportamiento observado, no en suposiciones sobre la experiencia con el alcohol."
+                      "La tolerancia individual varía de persona a persona. Algunos invitados pueden mostrar signos de intoxicación después de beber menos, mientras que otros pueden parecer menos afectados. La tolerancia no previene el deterioro. Un huésped con alta tolerancia aún puede no estar seguro. Confía siempre en el comportamiento observado, no en suposiciones sobre la experiencia con el alcohol."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -8748,7 +8748,7 @@
                   "order_index": 45,
                   "text": {
                     "paragraphs": [
-                      "Los medicamentos y las drogas pueden aumentar los efectos del alcohol. Las sustancias recetadas, de venta libre e ilegales pueden interactuar con el alcohol de maneras impredecibles. Esto puede provocar un deterioro más rápido o más fuerte. Es posible que no siempre sepa lo que ha consumido un huésped, así que debes estar atento a cambios inusuales o rápidos en el comportamiento."
+                      "Los medicamentos y las drogas pueden aumentar los efectos del alcohol. Las sustancias recetadas, de venta libre e ilegales pueden interactuar con el alcohol de maneras impredecibles. Esto puede provocar un deterioro más rápido o más fuerte. Es posible que no siempre sepas lo que ha consumido un huésped, así que debes estar atento a cambios inusuales o rápidos en el comportamiento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -8891,7 +8891,7 @@
                   "order_index": 50,
                   "text": {
                     "paragraphs": [
-                      "La fatiga y el estrés también pueden aumentar los efectos del alcohol. Un huésped cansado o estresado puede verse afectado más rápidamente. Estos factores no siempre son visibles, pero pueden afectar el comportamiento. Preste atención a las señales de cambios rápidos, incluso si el huésped no ha consumido muchas bebidas."
+                      "La fatiga y el estrés también pueden aumentar los efectos del alcohol. Un huésped cansado o estresado puede verse afectado más rápidamente. Estos factores no siempre son visibles, pero pueden afectar el comportamiento. Presta atención a las señales de cambios rápidos, incluso si el huésped no ha consumido muchas bebidas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9012,7 +9012,7 @@
                   "order_index": 54,
                   "text": {
                     "paragraphs": [
-                      "Comience a monitorear a los invitados desde su primer trago. No espere hasta que aparezcan signos de intoxicación. Realice un seguimiento de la rapidez con la que se piden y consumen las bebidas. Preste atención a los cambios de comportamiento a lo largo del tiempo. La conciencia temprana le permite hacer pequeños ajustes que previenen problemas mayores más adelante en el turno."
+                      "Comienza a monitorear a los invitados desde su primer trago. No esperes hasta que aparezcan signos de intoxicación. Realiza un seguimiento de la rapidez con la que se piden y consumen las bebidas. Presta atención a los cambios de comportamiento a lo largo del tiempo. La conciencia temprana te permite hacer pequeños ajustes que previenen problemas mayores más adelante en el turno."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9075,7 +9075,7 @@
                   "order_index": 56,
                   "text": {
                     "paragraphs": [
-                      "Servir una bebida a la vez le ayuda a mantener el control. Evite entregar varias bebidas alcohólicas a un invitado a la vez. Esto reduce la posibilidad de un consumo rápido. También le da tiempo para observar el comportamiento entre bebidas y tomar mejores decisiones sobre la continuidad del servicio."
+                      "Servir una bebida a la vez te ayuda a mantener el control. Evita entregar varias bebidas alcohólicas a un invitado a la vez. Esto reduce la posibilidad de un consumo rápido. También te da tiempo para observar el comportamiento entre bebidas y tomar mejores decisiones sobre la continuidad del servicio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9092,7 +9092,7 @@
                   "order_index": 57,
                   "text": {
                     "paragraphs": [
-                      "Ofrezca comida siempre que sea posible. Los alimentos ralentizan la absorción de alcohol y reducen la velocidad de la intoxicación. Sugiera aperitivos o comidas, especialmente si un invitado bebe rápidamente. Esta es una forma sencilla y eficaz de apoyar un consumo más seguro sin limitar directamente al huésped."
+                      "Ofrece comida siempre que sea posible. Los alimentos ralentizan la absorción de alcohol y reducen la velocidad de la intoxicación. Sugiere aperitivos o comidas, especialmente si un invitado bebe rápidamente. Esta es una forma sencilla y eficaz de apoyar un consumo más seguro sin limitar directamente al huésped."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9499,7 +9499,7 @@
                   "order_index": 71,
                   "text": {
                     "paragraphs": [
-                      "Sepa cuándo actuar. Debe actuar tan pronto como observe signos claros de intoxicación o comportamiento de riesgo. Esperar demasiado puede generar condiciones inseguras. Actuar temprano le permite manejar la situación con calma y reduce la posibilidad de conflicto."
+                      "Sé cuándo actuar. Debes actuar tan pronto como observes signos claros de intoxicación o comportamiento de riesgo. Esperar demasiado puede generar condiciones inseguras. Actuar temprano te permite manejar la situación con calma y reduce la posibilidad de conflicto."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9666,7 +9666,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Los pedidos repetidos, los cambios de humor y el ignorar los límites son signos claros de problemas con el alcohol y de una creciente intoxicación. Debe detener el servicio de alcohol e involucrar a la gerencia para manejar la situación de manera segura y cumplir con la ley de Carolina del Sur.",
+                      "correct": "Los pedidos repetidos, los cambios de humor y el ignorar los límites son signos claros de problemas con el alcohol y de una creciente intoxicación. Debes detener el servicio de alcohol e involucrar a la gerencia para manejar la situación de manera segura y cumplir con la ley de Carolina del Sur.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -9871,7 +9871,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "El comportamiento argumentativo y la negativa a seguir los límites son signos de intoxicación. Debe detener el servicio e involucrar a la gerencia.",
+                      "correct": "El comportamiento argumentativo y la negativa a seguir los límites son signos de intoxicación. Debes detener el servicio e involucrar a la gerencia.",
                       "incorrect": "Incorrecto."
                     }
                   }
