@@ -2909,7 +2909,7 @@
                   "order_index": 33,
                   "text": {
                     "paragraphs": [
-                      "Los medicamentos y las drogas pueden aumentar los efectos del alcohol. Las drogas recetadas, de venta libre e ilegales pueden interactuar con el alcohol. Estas interacciones pueden causar un deterioro más fuerte o un comportamiento inesperado. Como camarero, es posible que no sepas lo que ha tomado un invitado. Concéntrate en los signos y cambios visibles."
+                      "La tasa de consumo de alcohol es uno de los factores más importantes que afectan el BAC. Beber varias bebidas rápidamente hace que el alcohol se acumule en el torrente sanguíneo. Beber más lentamente le da al cuerpo tiempo para procesar el alcohol. El consumo rápido aumenta el riesgo de deterioro y comportamiento inseguro."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -2919,28 +2919,11 @@
             {
               "order_index": 34,
               "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 34,
-                  "text": {
-                    "paragraphs": [
-                      "La tasa de consumo de alcohol es uno de los factores más importantes que afectan el BAC. Beber varias bebidas rápidamente hace que el alcohol se acumule en el torrente sanguíneo. Beber más lentamente le da al cuerpo tiempo para procesar el alcohol. El consumo rápido aumenta el riesgo de deterioro y comportamiento inseguro."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 35,
-              "min_time": 3,
               "content_type": "Completion",
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 35,
+                  "order_index": 34,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -2975,13 +2958,13 @@
               ]
             },
             {
-              "order_index": 36,
+              "order_index": 35,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 36,
+                  "order_index": 35,
                   "text": {
                     "paragraphs": [
                       "Los factores ambientales también pueden influir en los efectos del alcohol. El calor, la fatiga y el estrés pueden aumentar el deterioro. Los entornos ruidosos o llenos de gente pueden hacer que sea más difícil notar las señales. Mantente alerta y concentrado en cada huésped. Tu conocimiento ayuda a prevenir el exceso de servicio."
@@ -2992,13 +2975,13 @@
               ]
             },
             {
-              "order_index": 37,
+              "order_index": 36,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 37,
+                  "order_index": 36,
                   "text": {
                     "paragraphs": [
                       "La tolerancia se refiere a cómo una persona responde al alcohol a lo largo del tiempo. Algunas personas parecen menos afectadas después de beber. Esto no significa que el alcohol no les esté afectando. Es posible que su BAC aún esté alto. La tolerancia puede ocultar signos visibles, lo que hace que la observación cuidadosa sea aún más importante."
@@ -3009,13 +2992,13 @@
               ]
             },
             {
-              "order_index": 38,
+              "order_index": 37,
               "min_time": 3,
               "content_type": "Completion",
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 38,
+                  "order_index": 37,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -3050,13 +3033,13 @@
               ]
             },
             {
-              "order_index": 39,
+              "order_index": 38,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 39,
+                  "order_index": 38,
                   "text": {
                     "paragraphs": [
                       "La eliminación del alcohol es el proceso de eliminar el alcohol del cuerpo. Esto sucede principalmente en el hígado. El hígado descompone el alcohol a un ritmo constante. Una vez que el alcohol llega al torrente sanguíneo, el cuerpo debe procesarlo con el tiempo. Este proceso no se puede apresurar ni omitir."
@@ -3067,13 +3050,13 @@
               ]
             },
             {
-              "order_index": 40,
+              "order_index": 39,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 40,
+                  "order_index": 39,
                   "text": {
                     "paragraphs": [
                       "Comprender los factores BAC te ayuda a tomar mejores decisiones de servicio. No se puede medir el BAC directamente, pero se puede reconocer el riesgo. Combina el seguimiento de bebidas con la observación. En caso de duda, ralentiza el servicio o deja de servir alcohol. Proteger al huésped y a los demás es tu responsabilidad."
@@ -3084,13 +3067,13 @@
               ]
             },
             {
-              "order_index": 41,
+              "order_index": 40,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 41,
+                  "order_index": 40,
                   "interactive": {
                     "question": "Un invitado ha estado bebiendo lentamente pero menciona que no ha comido en todo el día. Después de dos tragos, notas cambios de humor más rápidos y una coordinación reducida. El invitado pide otra bebida. ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3125,13 +3108,13 @@
               ]
             },
             {
-              "order_index": 42,
+              "order_index": 41,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 42,
+                  "order_index": 41,
                   "text": {
                     "paragraphs": [
                       "En promedio, el cuerpo elimina aproximadamente una bebida estándar por hora. Esta tarifa puede variar ligeramente según la persona. Sin embargo, no se acelera significativamente. Beber más rápido que este ritmo hace que el alcohol se acumule en el torrente sanguíneo. Esto conduce a un deterioro cada vez mayor."
@@ -3142,13 +3125,13 @@
               ]
             },
             {
-              "order_index": 43,
+              "order_index": 42,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 43,
+                  "order_index": 42,
                   "text": {
                     "paragraphs": [
                       "El café es un ejemplo común. Puede aumentar el estado de alerta, pero no elimina el alcohol del cuerpo. Un huésped puede parecer más despierto pero aún así estar afectado. Esto puede aumentar el riesgo porque puede creer que está a salvo cuando no lo está."
@@ -3159,13 +3142,13 @@
               ]
             },
             {
-              "order_index": 44,
+              "order_index": 43,
               "min_time": 3,
               "content_type": "Completion",
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 44,
+                  "order_index": 43,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -3200,13 +3183,13 @@
               ]
             },
             {
-              "order_index": 45,
+              "order_index": 44,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 45,
+                  "order_index": 44,
                   "text": {
                     "paragraphs": [
                       "Mucha gente cree que ciertas acciones pueden reducir rápidamente la intoxicación. Estos son mitos comunes. Si bien algunas acciones pueden hacer que una persona se sienta más alerta, no reducen el BAC. Los servidores deben comprender la diferencia entre sentirse mejor y estar menos afectado."
@@ -3217,13 +3200,13 @@
               ]
             },
             {
-              "order_index": 46,
+              "order_index": 45,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 46,
+                  "order_index": 45,
                   "text": {
                     "paragraphs": [
                       "Los alimentos pueden retardar la absorción del alcohol si se comen antes o durante la bebida. Sin embargo, una vez que el alcohol llega al torrente sanguíneo, los alimentos no lo eliminan. Los invitados pueden pensar que comer después de beber les ayudará a recuperar la sobriedad. Esto no es exacto."
@@ -3234,13 +3217,13 @@
               ]
             },
             {
-              "order_index": 47,
+              "order_index": 46,
               "min_time": 3,
               "content_type": "Completion",
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 47,
+                  "order_index": 46,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -3275,13 +3258,13 @@
               ]
             },
             {
-              "order_index": 48,
+              "order_index": 47,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 48,
+                  "order_index": 47,
                   "text": {
                     "paragraphs": [
                       "Como servidor, debes actuar basándote en hechos, no en mitos. Si un huésped muestra signos de intoxicación, debes reducir la velocidad o suspender el servicio de alcohol. No confíes en afirmaciones de que ya se les pasó el efecto del alcohol. Tu responsabilidad es prevenir daños."
@@ -3292,13 +3275,13 @@
               ]
             },
             {
-              "order_index": 49,
+              "order_index": 48,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 49,
+                  "order_index": 48,
                   "text": {
                     "paragraphs": [
                       "El aire fresco puede ayudar a una persona a sentirse mejor, pero no reduce el BAC. Un invitado puede parecer más estable después de salir. Sin embargo, el deterioro persiste. Confía siempre en las señales observadas, no en mejoras temporales."
@@ -3309,13 +3292,13 @@
               ]
             },
             {
-              "order_index": 50,
+              "order_index": 49,
               "min_time": 3,
               "content_type": "Completion",
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 50,
+                  "order_index": 49,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -3350,13 +3333,13 @@
               ]
             },
             {
-              "order_index": 51,
+              "order_index": 50,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 51,
+                  "order_index": 50,
                   "text": {
                     "paragraphs": [
                       "Comprender la eliminación te ayuda a tomar decisiones más seguras. El alcohol tarda en salir del cuerpo. Los invitados no pueden acelerar este proceso. Tus acciones pueden reducir el riesgo al limitar el servicio de alcohol y ofrecer alternativas más seguras."
@@ -3367,13 +3350,13 @@
               ]
             },
             {
-              "order_index": 52,
+              "order_index": 51,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 52,
+                  "order_index": 51,
                   "text": {
                     "paragraphs": [
                       "El alcohol puede interactuar con muchos tipos de drogas. Estos incluyen sustancias recetadas, de venta libre e ilegales. Cuando se combinan, los efectos pueden volverse más fuertes o impredecibles. Como camarero, es posible que no sepas lo que ha tomado un invitado. Concéntrate en reconocer un deterioro inusual o aumentado y responde de manera adecuada."
@@ -3384,13 +3367,13 @@
               ]
             },
             {
-              "order_index": 53,
+              "order_index": 52,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 53,
+                  "order_index": 52,
                   "interactive": {
                     "question": "Un invitado bebe varias bebidas y luego pide café. Dice que puede seguir bebiendo porque el café “le devuelve la sobriedad”. ¿Cuál es la respuesta más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3425,13 +3408,13 @@
               ]
             },
             {
-              "order_index": 54,
+              "order_index": 53,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 54,
+                  "order_index": 53,
                   "text": {
                     "paragraphs": [
                       "Las interacciones medicamentosas pueden aumentar la intoxicación rápidamente. Una persona puede parecer afectada después de sólo uno o dos tragos. Esto puede suceder incluso si normalmente tolera bien el alcohol. Estas situaciones requieren una observación cuidadosa y una acción temprana para prevenir daños."
@@ -3442,13 +3425,13 @@
               ]
             },
             {
-              "order_index": 55,
+              "order_index": 54,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 55,
+                  "order_index": 54,
                   "text": {
                     "paragraphs": [
                       "Algunos medicamentos recetados advierten contra el consumo de alcohol. Estos incluyen medicamentos para el dolor, la ansiedad, el sueño y el estado de ánimo. Mezclar alcohol con estos medicamentos puede provocar una sedación más fuerte o confusión. Es posible que los invitados no siempre sigan las advertencias, por lo que debes confiar en lo que observes."
@@ -3459,13 +3442,13 @@
               ]
             },
             {
-              "order_index": 56,
+              "order_index": 55,
               "min_time": 3,
               "content_type": "Completion",
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 56,
+                  "order_index": 55,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -3505,13 +3488,13 @@
               ]
             },
             {
-              "order_index": 57,
+              "order_index": 56,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 57,
+                  "order_index": 56,
                   "text": {
                     "paragraphs": [
                       "Los medicamentos de venta libre también pueden afectar la respuesta al alcohol. Los medicamentos para el resfriado y los antihistamínicos pueden aumentar la somnolencia. Incluso los medicamentos comunes pueden cambiar la forma en que el alcohol afecta al cuerpo. No asumas que el uso de medicamentos sin receta es inofensivo cuando se combina con alcohol."
@@ -3522,13 +3505,13 @@
               ]
             },
             {
-              "order_index": 58,
+              "order_index": 57,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 58,
+                  "order_index": 57,
                   "text": {
                     "paragraphs": [
                       "Las drogas ilegales pueden crear combinaciones peligrosas con el alcohol. Los efectos pueden incluir confusión, agresión o somnolencia extrema. Estas reacciones pueden aparecer repentinamente. Como mesero debes responder rápidamente si un huésped muestra una discapacidad inusual o grave."
@@ -3539,13 +3522,13 @@
               ]
             },
             {
-              "order_index": 59,
+              "order_index": 58,
               "min_time": 3,
               "content_type": "Completion",
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 59,
+                  "order_index": 58,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -3585,13 +3568,13 @@
               ]
             },
             {
-              "order_index": 60,
+              "order_index": 59,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 60,
+                  "order_index": 59,
                   "text": {
                     "paragraphs": [
                       "Mezclar alcohol con estimulantes puede resultar especialmente riesgoso. Un huésped puede sentirse alerta pero aun así estar afectado. Esto puede llevar a decisiones arriesgadas. El efecto de enmascaramiento hace que sea más difícil juzgar la intoxicación. Concéntrate en el comportamiento y la coordinación, no en el nivel de energía."
@@ -3602,13 +3585,13 @@
               ]
             },
             {
-              "order_index": 61,
+              "order_index": 60,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 61,
+                  "order_index": 60,
                   "text": {
                     "paragraphs": [
                       "Las interacciones entre drogas y alcohol pueden aumentar las posibilidades de sufrir lesiones o enfermedades. Los invitados pueden perder la coordinación o la conciencia. Esto crea riesgos de seguridad para ellos y otros. La intervención temprana ayuda a prevenir resultados graves."
@@ -3619,13 +3602,13 @@
               ]
             },
             {
-              "order_index": 62,
+              "order_index": 61,
               "min_time": 3,
               "content_type": "Completion",
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 62,
+                  "order_index": 61,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -3660,13 +3643,13 @@
               ]
             },
             {
-              "order_index": 63,
+              "order_index": 62,
               "min_time": 3,
               "content_type": "Text",
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 63,
+                  "order_index": 62,
                   "text": {
                     "paragraphs": [
                       "Si sospechas una interacción con drogas, reduce la velocidad o suspende el servicio de alcohol. Ofrece agua u opciones sin alcohol. Involucra a un gerente si es necesario. Mantén la calma y sé profesional. Tu objetivo es reducir el riesgo y mantener la situación segura."
@@ -3677,13 +3660,13 @@
               ]
             },
             {
-              "order_index": 64,
+              "order_index": 63,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 64,
+                  "order_index": 63,
                   "interactive": {
                     "question": "Un invitado toma una copa pero muestra fuerte somnolencia y mala coordinación. Menciona tomar medicación antes. Piden otra bebida. ¿Cuál es la acción más segura?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3718,95 +3701,13 @@
               ]
             },
             {
-              "order_index": 65,
+              "order_index": 64,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 65,
-                  "interactive": {
-                    "question": "Un invitado bebe rápidamente dos cervezas en ayunas. Al poco tiempo, notas un habla más rápida y una coordinación reducida. El invitado pide otra bebida. ¿Cuál es la acción más segura?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Servir otra bebida lentamente.",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Ofrecer agua y ralentizar el servicio.",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Ignorar el comportamiento y continuar con el servicio",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Sugerir cambiar de bebida y continuar con el servicio.",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "Beber con el estómago vacío aumenta rápidamente el BAC. Reducir la velocidad del servicio y ofrecer agua ayuda a reducir el riesgo y evita mayores daños.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 66,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 66,
-                  "interactive": {
-                    "question": "Un huésped ha consumido varias bebidas a lo largo del tiempo. Pide café y dice que está bien para seguir bebiendo. Aún notas mala coordinación. ¿Qué deberías hacer?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Servir otra bebida ya que tomaron café.",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Dar tiempo y continuar con el servicio",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Detener el servicio de alcohol basándose en señales",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Ofrecer comida y continuar con el servicio de alcohol.",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "El café no reduce el BAC. El huésped sigue afectado. Detener el servicio es la acción más segura y responsable.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 67,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 67,
+                  "order_index": 64,
                   "interactive": {
                     "question": "Un invitado pide varias bebidas fuertes mezcladas en forma consecutiva. Parece alerta pero muestra falta de juicio y comportamiento de riesgo. ¿Cuál es la mejor respuesta?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -3841,95 +3742,13 @@
               ]
             },
             {
-              "order_index": 68,
+              "order_index": 65,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 68,
-                  "interactive": {
-                    "question": "Un invitado toma una copa pero muestra una fuerte somnolencia y reacciones lentas. Menciona tomar medicación antes. ¿Qué deberías hacer?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Servir otra bebida ya que la ingesta es baja.",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Ofrecer comida y continuar con el servicio.",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Detener el servicio de alcohol debido a la discapacidad",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Ignorar la medicación y continuar",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "Las interacciones medicamentosas pueden aumentar rápidamente los efectos del alcohol. Incluso una sola bebida puede causar un fuerte deterioro. Detenga el servicio para evitar daños.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 69,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 69,
-                  "interactive": {
-                    "question": "Un invitado bebe lentamente pero no ha comido en todo el día. Después de dos tragos muestra cambios de humor y mala coordinación. ¿Cuál es la acción más segura?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Servir otra bebida ya que el ritmo es lento.",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Ofrecer comida y continuar con el servicio.",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Detener o disminuir el servicio de alcohol",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Ignore las señales y continúe",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "La falta de alimento aumenta la absorción. Incluso beber lentamente puede provocar deterioro. Ajustar el servicio ayuda a evitar el exceso de servicio.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 70,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 70,
+                  "order_index": 65,
                   "interactive": {
                     "question": "Un invitado dice que “se siente bien” después de varias copas. Observas que tiene dificultad para hablar y caminar inestable. ¿Qué debería guiar tu decisión?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",

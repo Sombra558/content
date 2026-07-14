@@ -2982,7 +2982,7 @@
          "order_index": 36,
          "text": {
           "paragraphs": [
-           "Medications and drugs can increase alcohol’s effects. Prescription, over-the-counter, and illegal drugs may interact with alcohol. These interactions can cause stronger impairment or unexpected behavior. As a server, you may not know what a guest has taken. Focus on visible signs and changes."
+           "Tolerance refers to how a person responds to alcohol over time. Some people appear less affected after drinking. This does not mean alcohol is not impacting them. Their BAC may still be high. Tolerance can hide visible signs, making careful observation even more important."
           ],
           "instruction": "Read the following, then click Next."
          }
@@ -2992,28 +2992,11 @@
       {
        "order_index": 37,
        "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 37,
-         "text": {
-          "paragraphs": [
-           "Tolerance refers to how a person responds to alcohol over time. Some people appear less affected after drinking. This does not mean alcohol is not impacting them. Their BAC may still be high. Tolerance can hide visible signs, making careful observation even more important."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 38,
-       "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 38,
+         "order_index": 37,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3048,13 +3031,13 @@
        ]
       },
       {
-       "order_index": 39,
+       "order_index": 38,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 39,
+         "order_index": 38,
          "text": {
           "paragraphs": [
            "Environmental factors can also influence alcohol effects. Heat, fatigue, and stress may increase impairment. Loud or crowded settings may make it harder to notice signs. Stay alert and focused on each guest. Your awareness helps prevent over-service."
@@ -3065,13 +3048,13 @@
        ]
       },
       {
-       "order_index": 40,
+       "order_index": 39,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 40,
+         "order_index": 39,
          "text": {
           "paragraphs": [
            "Understanding BAC factors helps you make better service decisions. You cannot measure BAC directly, but you can recognize risk. Combine drink tracking with observation. When in doubt, slow service or stop serving alcohol. Protecting the guest and others is your responsibility."
@@ -3082,13 +3065,13 @@
        ]
       },
       {
-       "order_index": 41,
+       "order_index": 40,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 41,
+         "order_index": 40,
          "interactive": {
           "question": "A guest has been drinking slowly but mentions they have not eaten all day. After two drinks, you notice quicker mood changes and reduced coordination. The guest asks for another drink. What is the safest action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3123,13 +3106,13 @@
        ]
       },
       {
-       "order_index": 42,
+       "order_index": 41,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 42,
+         "order_index": 41,
          "text": {
           "paragraphs": [
            "Alcohol elimination is the process of removing alcohol from the body. This happens mainly in the liver. The liver breaks down alcohol at a steady rate. Once alcohol is in the bloodstream, the body must process it over time. This process cannot be rushed or skipped."
@@ -3140,13 +3123,13 @@
        ]
       },
       {
-       "order_index": 43,
+       "order_index": 42,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 43,
+         "order_index": 42,
          "text": {
           "paragraphs": [
            "On average, the body eliminates about one standard drink per hour. This rate can vary slightly by person. However, it does not speed up significantly. Drinking faster than this rate causes alcohol to build up in the bloodstream. This leads to increasing impairment."
@@ -3157,13 +3140,13 @@
        ]
       },
       {
-       "order_index": 44,
+       "order_index": 43,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 44,
+         "order_index": 43,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3198,13 +3181,13 @@
        ]
       },
       {
-       "order_index": 45,
+       "order_index": 44,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 45,
+         "order_index": 44,
          "text": {
           "paragraphs": [
            "Many people believe certain actions can reduce intoxication quickly. These are common myths. While some actions may make a person feel more alert, they do not lower BAC. Servers must understand the difference between feeling better and being less impaired."
@@ -3215,13 +3198,13 @@
        ]
       },
       {
-       "order_index": 46,
+       "order_index": 45,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 46,
+         "order_index": 45,
          "text": {
           "paragraphs": [
            "Coffee is a common example. It may increase alertness, but it does not remove alcohol from the body. A guest may seem more awake but still be impaired. This can increase risk because they may believe they are safe when they are not."
@@ -3232,13 +3215,13 @@
        ]
       },
       {
-       "order_index": 47,
+       "order_index": 46,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 47,
+         "order_index": 46,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3273,13 +3256,13 @@
        ]
       },
       {
-       "order_index": 48,
+       "order_index": 47,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 48,
+         "order_index": 47,
          "text": {
           "paragraphs": [
            "Food can slow alcohol absorption if eaten before or during drinking. However, once alcohol is in the bloodstream, food does not remove it. Guests may think eating after drinking will sober them up. This is not accurate."
@@ -3290,13 +3273,13 @@
        ]
       },
       {
-       "order_index": 49,
+       "order_index": 48,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 49,
+         "order_index": 48,
          "text": {
           "paragraphs": [
            "Fresh air may help a person feel better, but it does not reduce BAC. A guest may appear more stable after stepping outside. However, impairment remains. Always rely on observed signs, not temporary improvements."
@@ -3307,13 +3290,13 @@
        ]
       },
       {
-       "order_index": 50,
+       "order_index": 49,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 50,
+         "order_index": 49,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3348,13 +3331,13 @@
        ]
       },
       {
-       "order_index": 51,
+       "order_index": 50,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 51,
+         "order_index": 50,
          "text": {
           "paragraphs": [
            "As a server, you must act based on facts, not myths. If a guest shows signs of intoxication, you should slow or stop alcohol service. Do not rely on claims that they have “sobered up.” Your responsibility is to prevent harm."
@@ -3365,13 +3348,13 @@
        ]
       },
       {
-       "order_index": 52,
+       "order_index": 51,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 52,
+         "order_index": 51,
          "text": {
           "paragraphs": [
            "Understanding elimination helps you make safer decisions. Alcohol takes time to leave the body. Guests cannot speed up this process. Your actions can reduce risk by limiting further alcohol service and offering safer alternatives."
@@ -3382,13 +3365,13 @@
        ]
       },
       {
-       "order_index": 53,
+       "order_index": 52,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 53,
+         "order_index": 52,
          "interactive": {
           "question": "A guest drinks several beverages and then orders coffee. They say they are fine to continue drinking because the coffee “sobers them up.” What is the safest response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3423,13 +3406,13 @@
        ]
       },
       {
-       "order_index": 54,
+       "order_index": 53,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 54,
+         "order_index": 53,
          "text": {
           "paragraphs": [
            "Alcohol can interact with many types of drugs. These include prescription, over-the-counter, and illegal substances. When combined, effects can become stronger or unpredictable. As a server, you may not know what a guest has taken. Focus on recognizing unusual or increased impairment and respond appropriately."
@@ -3440,13 +3423,13 @@
        ]
       },
       {
-       "order_index": 55,
+       "order_index": 54,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 55,
+         "order_index": 54,
          "text": {
           "paragraphs": [
            "Drug interactions can increase intoxication quickly. A person may appear impaired after only one or two drinks. This can happen even if they normally handle alcohol well. These situations require careful observation and early action to prevent harm."
@@ -3457,13 +3440,13 @@
        ]
       },
       {
-       "order_index": 56,
+       "order_index": 55,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 56,
+         "order_index": 55,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3503,13 +3486,13 @@
        ]
       },
       {
-       "order_index": 57,
+       "order_index": 56,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 57,
+         "order_index": 56,
          "text": {
           "paragraphs": [
            "Some prescription medications warn against alcohol use. These include drugs for pain, anxiety, sleep, and mood. Mixing alcohol with these medications can cause stronger sedation or confusion. Guests may not always follow warnings, so you must rely on what you observe."
@@ -3520,13 +3503,13 @@
        ]
       },
       {
-       "order_index": 58,
+       "order_index": 57,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 58,
+         "order_index": 57,
          "text": {
           "paragraphs": [
            "Over-the-counter medications can also affect alcohol response. Cold medicines and antihistamines may increase drowsiness. Even common medications can change how alcohol affects the body. Do not assume OTC use is harmless when combined with alcohol."
@@ -3537,13 +3520,13 @@
        ]
       },
       {
-       "order_index": 59,
+       "order_index": 58,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 59,
+         "order_index": 58,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3583,13 +3566,13 @@
        ]
       },
       {
-       "order_index": 60,
+       "order_index": 59,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 60,
+         "order_index": 59,
          "text": {
           "paragraphs": [
            "Illegal drugs can create dangerous combinations with alcohol. Effects may include confusion, aggression, or extreme drowsiness. These reactions can appear suddenly. As a server, you must respond quickly if a guest shows unusual or severe impairment."
@@ -3600,13 +3583,13 @@
        ]
       },
       {
-       "order_index": 61,
+       "order_index": 60,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 61,
+         "order_index": 60,
          "text": {
           "paragraphs": [
            "Mixing alcohol with stimulants can be especially risky. A guest may feel alert but still be impaired. This can lead to risky decisions. The masking effect makes it harder to judge intoxication. Focus on behavior and coordination, not energy level."
@@ -3617,13 +3600,13 @@
        ]
       },
       {
-       "order_index": 62,
+       "order_index": 61,
        "min_time": 3,
        "content_type": "Completion",
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 62,
+         "order_index": 61,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -3658,13 +3641,13 @@
        ]
       },
       {
-       "order_index": 63,
+       "order_index": 62,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 63,
+         "order_index": 62,
          "text": {
           "paragraphs": [
            "Drug and alcohol interactions can increase the chance of injury or illness. Guests may lose coordination or awareness. This creates safety risks for them and others. Early intervention helps prevent serious outcomes."
@@ -3675,13 +3658,13 @@
        ]
       },
       {
-       "order_index": 64,
+       "order_index": 63,
        "min_time": 3,
        "content_type": "Text",
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 64,
+         "order_index": 63,
          "text": {
           "paragraphs": [
            "If you suspect drug interaction, slow or stop alcohol service. Offer water or non-alcoholic options. Involve a manager if needed. Stay calm and professional. Your goal is to reduce risk and keep the situation safe."
@@ -3692,13 +3675,13 @@
        ]
       },
       {
-       "order_index": 65,
+       "order_index": 64,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 65,
+         "order_index": 64,
          "interactive": {
           "question": "A guest has one drink but shows strong drowsiness and poor coordination. They mention taking medication earlier. They ask for another drink. What is the safest action?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3733,95 +3716,13 @@
        ]
       },
       {
-       "order_index": 66,
+       "order_index": 65,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 66,
-         "interactive": {
-          "question": "A guest drinks two beers quickly on an empty stomach. Within a short time, you notice faster speech and reduced coordination. The guest asks for another drink. What is the safest action?",
-          "instruction": "Read the scenario, then select the best answer.",
-          "options": [
-           {
-            "id": "opt_a",
-            "label": "A. Serve another drink slowly",
-            "is_correct": false
-           },
-           {
-            "id": "opt_b",
-            "label": "B. Offer water and slow service",
-            "is_correct": true
-           },
-           {
-            "id": "opt_c",
-            "label": "C. Ignore behavior and continue service",
-            "is_correct": false
-           },
-           {
-            "id": "opt_d",
-            "label": "D. Suggest switching drinks and continue",
-            "is_correct": false
-           }
-          ],
-          "feedback": {
-           "correct": "Drinking on an empty stomach increases BAC quickly. Slowing service and offering water helps reduce risk and prevents further impairment.",
-           "incorrect": "Incorrect."
-          }
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 67,
-       "min_time": 3,
-       "content_type": "Multiple",
-       "content_type_unique_id": "multiple",
-       "contents": [
-        {
-         "order_index": 67,
-         "interactive": {
-          "question": "A guest has consumed multiple drinks over time. They order coffee and say they are fine to keep drinking. You still notice poor coordination. What should you do?",
-          "instruction": "Read the scenario, then select the best answer.",
-          "options": [
-           {
-            "id": "opt_a",
-            "label": "A. Serve another drink since they had coffee",
-            "is_correct": false
-           },
-           {
-            "id": "opt_b",
-            "label": "B. Allow time and continue service",
-            "is_correct": false
-           },
-           {
-            "id": "opt_c",
-            "label": "C. Stop alcohol service based on signs",
-            "is_correct": true
-           },
-           {
-            "id": "opt_d",
-            "label": "D. Offer food and continue alcohol service",
-            "is_correct": false
-           }
-          ],
-          "feedback": {
-           "correct": "Coffee does not reduce BAC. The guest remains impaired. Stopping service is the safest and most responsible action.",
-           "incorrect": "Incorrect."
-          }
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 68,
-       "min_time": 3,
-       "content_type": "Multiple",
-       "content_type_unique_id": "multiple",
-       "contents": [
-        {
-         "order_index": 68,
+         "order_index": 65,
          "interactive": {
           "question": "A guest orders strong mixed drinks back to back. They appear alert but show poor judgment and risk-taking behavior. What is the best response?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -3856,95 +3757,13 @@
        ]
       },
       {
-       "order_index": 69,
+       "order_index": 66,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 69,
-         "interactive": {
-          "question": "A guest has one drink but shows strong drowsiness and slow reactions. They mention taking medication earlier. What should you do?",
-          "instruction": "Read the scenario, then select the best answer.",
-          "options": [
-           {
-            "id": "opt_a",
-            "label": "A. Serve another drink since intake is low",
-            "is_correct": false
-           },
-           {
-            "id": "opt_b",
-            "label": "B. Offer food and continue service",
-            "is_correct": false
-           },
-           {
-            "id": "opt_c",
-            "label": "C. Stop alcohol service based on impairment",
-            "is_correct": true
-           },
-           {
-            "id": "opt_d",
-            "label": "D. Ignore medication and continue",
-            "is_correct": false
-           }
-          ],
-          "feedback": {
-           "correct": "Drug interactions can increase alcohol effects quickly. Even one drink may cause strong impairment. Stop service to prevent harm.",
-           "incorrect": "Incorrect."
-          }
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 70,
-       "min_time": 3,
-       "content_type": "Multiple",
-       "content_type_unique_id": "multiple",
-       "contents": [
-        {
-         "order_index": 70,
-         "interactive": {
-          "question": "A guest drinks slowly but has not eaten all day. After two drinks, they show mood changes and poor coordination. What is the safest action?",
-          "instruction": "Read the scenario, then select the best answer.",
-          "options": [
-           {
-            "id": "opt_a",
-            "label": "A. Serve another drink since pace is slow",
-            "is_correct": false
-           },
-           {
-            "id": "opt_b",
-            "label": "B. Offer food and continue service",
-            "is_correct": false
-           },
-           {
-            "id": "opt_c",
-            "label": "C. Stop or slow alcohol service",
-            "is_correct": true
-           },
-           {
-            "id": "opt_d",
-            "label": "D. Ignore signs and continue",
-            "is_correct": false
-           }
-          ],
-          "feedback": {
-           "correct": "Lack of food increases absorption. Even slow drinking can lead to impairment. Adjusting service helps prevent over-service.",
-           "incorrect": "Incorrect."
-          }
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 71,
-       "min_time": 3,
-       "content_type": "Multiple",
-       "content_type_unique_id": "multiple",
-       "contents": [
-        {
-         "order_index": 71,
+         "order_index": 66,
          "interactive": {
           "question": "A guest says they “feel fine” after several drinks. You observe slurred speech and unsteady walking. What should guide your decision?",
           "instruction": "Read the scenario, then select the best answer.",
