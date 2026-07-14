@@ -10123,7 +10123,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "La negativa debe ser calmada, firme y respetuosa. Repita el límite, ofrezca alternativas e involucre a un gerente cuando el cliente se resista o escale la situación.",
+                      "correct": "La negativa debe ser calmada, firme y respetuosa. Repite el límite, ofrece alternativas e involucra a un gerente cuando el cliente se resista o escale la situación.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -10274,7 +10274,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "La negativa lo protege de {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Tomar la decisión correcta puede resultar incómodo, pero evita consecuencias graves. Elegir rechazar a dar el servicio siempre es más seguro que arriesgarte a cometer una infracción."
+                      "La negativa te protege de {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Tomar la decisión correcta puede resultar incómodo, pero evita consecuencias graves. Elegir rechazar a dar el servicio siempre es más seguro que arriesgarte a cometer una infracción."
                     ],
                     "reveal_items": [
                       {
@@ -10317,7 +10317,7 @@
                   "order_index": 14,
                   "text": {
                     "paragraphs": [
-                      "Rechazar el servicio funciona mejor cuando se hace con calma, firmeza y respeto. Usa un lenguaje claro como: 'No puedo servirle otra bebida alcohólica esta noche' y evite debatir o culpar al cliente. Ofrezca agua, comida, una bebida sin alcohol o ayuda para organizar transporte. Tu objetivo es terminar el servicio de alcohol de forma segura mientras preservas la dignidad y reduces el conflicto."
+                      "Rechazar el servicio funciona mejor cuando se hace con calma, firmeza y respeto. Usa un lenguaje claro como: 'No puedo servirle otra bebida alcohólica esta noche' y evita debatir o culpar al cliente. Ofrece agua, comida, una bebida sin alcohol o ayuda para organizar transporte. Tu objetivo es terminar el servicio de alcohol de forma segura mientras preservas la dignidad y reduces el conflicto."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10371,33 +10371,33 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Use siempre los mismos pasos de escalamiento: {{item_1}} {{item_2}} {{item_3}} {{item_4}} {{item_5}} Un proceso consistente protege a clientes, personal y negocio."
+                      "Usa siempre los mismos pasos de escalamiento: {{item_1}} {{item_2}} {{item_3}} {{item_4}} {{item_5}} Un proceso consistente protege a clientes, personal y negocio."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
                         "title": "Pausar el servicio",
-                        "revealed_text": "Deje de servir alcohol mientras evalúa la situación."
+                        "revealed_text": "Deja de servir alcohol mientras evalúas la situación."
                       },
                       {
                         "id": "item_2",
                         "title": "Ofrecer alternativas",
-                        "revealed_text": "Ofrezca agua, comida, bebidas sin alcohol o tiempo para descansar."
+                        "revealed_text": "Ofrece agua, comida, bebidas sin alcohol o tiempo para descansar."
                       },
                       {
                         "id": "item_3",
                         "title": "Involucrar a un gerente",
-                        "revealed_text": "Llame a un gerente o supervisor cuando el cliente se resista, se altere o requiera una negativa formal."
+                        "revealed_text": "Llama a un gerente o supervisor cuando el cliente se resista, se altere o requiera una negativa formal."
                       },
                       {
                         "id": "item_4",
                         "title": "Organizar transporte seguro",
-                        "revealed_text": "Ayude al cliente a conseguir transporte, pedir un rideshare o taxi, o contactar a un amigo sobrio."
+                        "revealed_text": "Ayuda al cliente a conseguir transporte, pedir un rideshare o taxi, o contactar a un amigo sobrio."
                       },
                       {
                         "id": "item_5",
                         "title": "Documentar el incidente",
-                        "revealed_text": "Complete un informe de incidente según la política del establecimiento."
+                        "revealed_text": "Completa un informe de incidente según la política del establecimiento."
                       }
                     ]
                   }
@@ -10438,7 +10438,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Detener el servicio es solo una parte del servicio responsable. Escale la situación, involucre a gerencia o seguridad, organice transporte seguro cuando sea posible y documente el incidente según la política del establecimiento.",
+                      "correct": "Detener el servicio es solo una parte del servicio responsable. Escala la situación, involucra a gerencia o seguridad, organiza transporte seguro cuando sea posible y documenta el incidente según la política del establecimiento.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -10753,7 +10753,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "El primer paso es observar y confirmar los signos de intoxicación. Una evaluación precisa garantiza que su decisión de rechazo sea apropiada y esté basada en pruebas claras.",
+                      "correct": "El primer paso es observar y confirmar los signos de intoxicación. Una evaluación precisa garantiza que tu decisión de rechazo sea apropiada y esté basada en pruebas claras.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -10947,7 +10947,7 @@
                   "order_index": 38,
                   "text": {
                     "paragraphs": [
-                      "Paso 12: Mantenga una distancia segura. No abarrotar al cliente ni invadir su espacio. Colócate donde puedas salir si es necesario. Tu seguridad siempre es lo primero. Evita el contacto físico a menos que sea absolutamente necesario y lo indique la política."
+                      "Paso 12: Mantén una distancia segura. No abarrotar al cliente ni invadir su espacio. Colócate donde puedas salir si es necesario. Tu seguridad siempre es lo primero. Evita el contacto físico a menos que sea absolutamente necesario y lo indique la política."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11497,7 +11497,7 @@
                   "order_index": 59,
                   "text": {
                     "paragraphs": [
-                      "Establezca límites claros. Repita cortesmente pero firmemente a tu negativa si es necesario. Mantén tu mensaje consistente. Cambiar demasiado la redacción o el tono puede crear confusión e invitar a la oposición."
+                      "Establece límites claros. Repite cortésmente pero firmemente tu negativa si es necesario. Mantén tu mensaje consistente. Cambiar demasiado la redacción o el tono puede crear confusión e invitar a la oposición."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11678,7 +11678,7 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Argumentar para defender su decisión",
+                        "label": "A. Argumentar para defender tu decisión",
                         "is_correct": false
                       },
                       {
@@ -11829,7 +11829,7 @@
                   "order_index": 72,
                   "text": {
                     "paragraphs": [
-                      "Siga en todo momento los procedimientos de escalamiento específicos de su establecimiento. Estos pueden incluir notificar a un supervisor, llamar a seguridad o alertar a otros miembros del personal. Conocer estos pasos de antemano garantiza una respuesta más rápida y organizada durante situaciones estresantes."
+                      "Sigue en todo momento los procedimientos de escalamiento específicos de tu establecimiento. Estos pueden incluir notificar a un supervisor, llamar a seguridad o alertar a otros miembros del personal. Conocer estos pasos de antemano garantiza una respuesta más rápida y organizada durante situaciones estresantes."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11892,7 +11892,7 @@
                   "order_index": 74,
                   "text": {
                     "paragraphs": [
-                      "Una vez que llegue la gerencia, permítales tomar la iniciativa. No interrumpa ni intente anular sus decisiones. Da un paso atrás pero mantente disponible si necesitan información. Esto mantiene la comunicación clara y garantiza que la situación se maneje de manera coordinada."
+                      "Una vez que llegue la gerencia, permíteles tomar la iniciativa. No interrumpas ni intentes anular sus decisiones. Da un paso atrás pero mantente disponible si necesitan información. Esto mantiene la comunicación clara y garantiza que la situación se maneje de manera coordinada."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11993,12 +11993,12 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Intentar eliminar físicamente al cliente usted mismo.",
+                        "label": "A. Intentar eliminar físicamente al cliente tú mismo.",
                         "is_correct": false
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Ignorar el comportamiento y continúe trabajando.",
+                        "label": "B. Ignorar el comportamiento y continúa trabajando.",
                         "is_correct": false
                       },
                       {
@@ -12067,7 +12067,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Ofrezca opciones seguras como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas opciones pueden ayudar a reducir el riesgo y apoyar al cliente sin violar las leyes de servicio."
+                      "Ofrece opciones seguras como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas opciones pueden ayudar a reducir el riesgo y apoyar al cliente sin violar las leyes de servicio."
                     ],
                     "reveal_items": [
                       {
@@ -12425,7 +12425,7 @@
                   "order_index": 94,
                   "text": {
                     "paragraphs": [
-                      "Siga siempre las políticas de tu establecimiento. Estas políticas están diseñadas para cumplir con los requisitos legales. Ignorarlas puede aumentar tu riesgo. Las políticas también proporcionan pasos claros para manejar situaciones difíciles. Seguirlas demuestra que actuaste apropiadamente."
+                      "Sigue siempre las políticas de tu establecimiento. Estas políticas están diseñadas para cumplir con los requisitos legales. Ignorarlas puede aumentar tu riesgo. Las políticas también proporcionan pasos claros para manejar situaciones difíciles. Seguirlas demuestra que actuaste apropiadamente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
