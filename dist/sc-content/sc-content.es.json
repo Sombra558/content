@@ -882,9 +882,7 @@
                   "order_index": 33,
                   "text": {
                     "paragraphs": [
-                      "Recordatorio: observa señales claras de intoxicación y actúa temprano.",
-                      "Puntos clave: habla arrastrada, mal equilibrio, reacciones lentas, comportamiento ruidoso, ojos vidriosos.",
-                      "Acción: si observas múltiples señales, reduce o detén el servicio y busca apoyo de la gerencia."
+                      "La intoxicación afecta el juicio, la coordinación y el tiempo de reacción. Los clientes no siempre se dan cuenta de cuánto están afectados. Es tu responsabilidad observar el comportamiento y tomar decisiones según lo que ves. No te bases en lo que el cliente diga sobre su estado. Concéntrate en señales claras y actúa temprano para evitar que la intoxicación empeore."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -904,7 +902,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Signos clave de intoxicación: {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}} y {{item_5}}. Actúe temprano."
+                      "Los signos comunes de intoxicación incluyen {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}} y {{item_5}}. Estas señales pueden aparecer de forma gradual. Observar los cambios con el tiempo te ayuda a identificar cuándo un invitado se está deteriorando. Reconocer estos indicadores a tiempo te permite ralentizar o detener el servicio antes de que la situación empeore."
                     ],
                     "reveal_items": [
                       {
