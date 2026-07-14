@@ -12953,7 +12953,7 @@
                   "order_index": 2,
                   "text": {
                     "paragraphs": [
-                      "Convierta la capacitación continua en un hábito: completa repasos cuando tu empleador los ofrezca, vuelva a revisar periódicamente tus habilidades para verificar ID y rechazar el servicio, y manténgase atento a actualizaciones en la ley de alcohol de Carolina del Sur. Los empleadores que mantienen certificados a todos sus servidores también reducen su requisito de seguro de responsabilidad por licor, por lo que tu capacitación continua beneficia directamente al negocio."
+                      "Convierte la capacitación continua en un hábito: completa repasos cuando tu empleador los ofrezca, vuelve a revisar periódicamente tus habilidades para verificar ID y rechazar el servicio, y mantente atento a actualizaciones en la ley de alcohol de Carolina del Sur. Los empleadores que mantienen certificados a todos sus servidores también reducen su requisito de seguro de responsabilidad por licor, por lo que tu capacitación continua beneficia directamente al negocio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13161,7 +13161,7 @@
                       {
                         "id": "item_2",
                         "title": "seguir la política",
-                        "revealed_text": "siga la política"
+                        "revealed_text": "sigue la política"
                       },
                       {
                         "id": "item_3",
@@ -13176,7 +13176,7 @@
                       {
                         "id": "item_5",
                         "title": "pide ayuda",
-                        "revealed_text": "pida ayuda"
+                        "revealed_text": "pide ayuda"
                       }
                     ]
                   }
@@ -13234,7 +13234,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Las leyes y reglas cambian con el tiempo. Mantenerse al día mediante capacitación de repaso y consultar fuentes autorizadas de Carolina del Sur o a su gerente forma parte de una conducta profesional responsable y continua.",
+                      "correct": "Las leyes y reglas cambian con el tiempo. Mantenerse al día mediante capacitación de repaso y consultar fuentes autorizadas de Carolina del Sur o a tu gerente forma parte de una conducta profesional responsable y continua.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -13462,7 +13462,7 @@
                   "order_index": 22,
                   "text": {
                     "paragraphs": [
-                      "La consistencia es crítica en el servicio de alcohol. Todos los miembros del equipo deben seguir las mismas reglas en todo momento. Las decisiones inconsistentes confunden a los clientes y aumentan el riesgo. Cuando todos siguen los mismos estándares, es más fácil hacer cumplir las políticas y evitar conflictos. La coherencia también fortalece la credibilidad de su equipo."
+                      "La consistencia es crítica en el servicio de alcohol. Todos los miembros del equipo deben seguir las mismas reglas en todo momento. Las decisiones inconsistentes confunden a los clientes y aumentan el riesgo. Cuando todos siguen los mismos estándares, es más fácil hacer cumplir las políticas y evitar conflictos. La coherencia también fortalece la credibilidad de tu equipo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13709,7 +13709,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Involucrar a un gerente ayuda a manejar los conflictos de manera segura y respalda su decisión de rechazar el servicio. La responsabilidad del equipo garantiza que las situaciones se gestionen adecuadamente.",
+                      "correct": "Involucrar a un gerente ayuda a manejar los conflictos de manera segura y respalda tu decisión de rechazar el servicio. La responsabilidad del equipo garantiza que las situaciones se gestionen adecuadamente.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -13903,7 +13903,7 @@
                   "order_index": 40,
                   "text": {
                     "paragraphs": [
-                      "Aún debe rechazar el servicio cuando sea necesario, incluso durante las promociones. Un descuento o especial no cambia la ley. No atender a menores de edad ni a clientes en estado de ebriedad bajo ninguna circunstancia. Las promociones nunca deben anular tu responsabilidad de seguir las leyes estatales y proteger la seguridad del cliente."
+                      "Aún debes rechazar el servicio cuando sea necesario, incluso durante las promociones. Un descuento o especial no cambia la ley. No atender a menores de edad ni a clientes en estado de ebriedad bajo ninguna circunstancia. Las promociones nunca deben anular tu responsabilidad de seguir las leyes estatales y proteger la seguridad del cliente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14298,7 +14298,7 @@
                   "order_index": 55,
                   "text": {
                     "paragraphs": [
-                      "Comprender las bebidas estándar es parte de las expectativas del servicio responsable de alcohol. Apoya su papel en el reconocimiento de la intoxicación y la prevención de situaciones peligrosas. Combinado con la observación y el buen juicio, le ayuda a tomar mejores decisiones durante su turno y reduce la posibilidad de sufrir daños."
+                      "Comprender las bebidas estándar es parte de las expectativas del servicio responsable de alcohol. Apoya tu papel en el reconocimiento de la intoxicación y la prevención de situaciones peligrosas. Combinado con la observación y el buen juicio, te ayuda a tomar mejores decisiones durante tu turno y reduce la posibilidad de sufrir daños."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14711,7 +14711,7 @@
                 {
                   "order_index": 70,
                   "interactive": {
-                    "question": "No está seguro de si un cliente está ebrio. ¿Cuál es el mejor siguiente paso?",
+                    "question": "No estás seguro de si un cliente está ebrio. ¿Cuál es el mejor siguiente paso?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -14736,7 +14736,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Cuando no esté seguro, busque ayuda. Los gerentes pueden brindar orientación y ayudar a tomar la decisión correcta.",
+                      "correct": "Cuando no estés seguro, busca ayuda. Los gerentes pueden brindar orientación y ayudar a tomar la decisión correcta.",
                       "incorrect": "Incorrecto."
                     }
                   }
