@@ -26,7 +26,7 @@
                   "text": {
                     "bullet_points": [
                       "1A. Descripción General de las Leyes de Alcohol de CS + Licencias y Permisos.",
-                      "1B. Leyes de Ventas a Menores, Sanciones y Responsabilidad del Servidor.",
+                      "1B. Leyes de Ventas a Menores de Edad, Sanciones y Responsabilidad del Servidor.",
                       "1C. Servicio a Personas Intoxicadas + Leyes DUI y Consecuencias.",
                       "1D. Armas Ocultas + Autoridad Legal + Descripción General de Aplicación.",
                       "1E. Responsabilidad Criminal, Civil, Administrativa + Consecuencias Reales."
@@ -633,7 +633,7 @@
                   "order_index": 23,
                   "text": {
                     "paragraphs": [
-                      "Advertencia: vender a menores puede conllevar sanciones para el servidor y el establecimiento. Verifica siempre la ID. Referencias: SC Code § 61-4-50; § 61-6-4080."
+                      "Advertencia: vender a menores de edad puede conllevar sanciones para el servidor y el establecimiento. Verifica siempre la ID. Referencias: SC Code § 61-4-50; § 61-6-4080."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3981,7 +3981,7 @@
                   "content_type": "unit_introduction",
                   "text": {
                     "bullet_points": [
-                      "3A. Importancia de Prevenir Ventas a Menores + Impacto en la Vida.",
+                      "3A. Importancia de Prevenir Ventas a Menores de Edad + Impacto en la Vida.",
                       "3B. Leyes, Sanciones y Responsabilidad del Servidor.",
                       "3C. Verificar Identificación de Cualquiera que Parezca Menor (Regla Siempre).",
                       "3D. Formas Válidas de Identificación + Requisitos Legales.",
@@ -3990,7 +3990,7 @@
                       "3G. Cálculo de Fecha de Nacimiento y Verificación de Edad.",
                       "3H. Detección de Identificaciones Falsas (Características de Seguridad y Señales de Alerta).",
                       "3I. Manejo de Identificaciones Sospechosas o Falsas.",
-                      "3J. Rechazo de Ventas a Menores + Manejo de Conflictos."
+                      "3J. Rechazo de Ventas a Menores de Edad + Manejo de Conflictos."
                     ],
                     "body": "En esta unidad discutiremos los siguientes temas:"
                   }
@@ -4246,7 +4246,7 @@
                   "order_index": 12,
                   "text": {
                     "paragraphs": [
-                      "Los menores enfrentan mayores riesgos cuando se trata de alcohol. Sus cuerpos y sus habilidades para tomar decisiones aún se están desarrollando. El consumo de alcohol a una edad temprana aumenta las posibilidades de comportamientos inseguros y lesiones. Impedir el acceso reduce estos riesgos. Como servidor, tú desempeñas un papel clave a la hora de limitar los daños al negarse a vender cuando sea necesario y seguir los procedimientos adecuados en todo momento."
+                      "Los menores de edad enfrentan mayores riesgos cuando se trata de alcohol. Sus cuerpos y sus habilidades para tomar decisiones aún se están desarrollando. El consumo de alcohol a una edad temprana aumenta las posibilidades de comportamientos inseguros y lesiones. Impedir el acceso reduce estos riesgos. Como servidor, tú desempeñas un papel clave a la hora de limitar los daños al negarse a vender cuando sea necesario y seguir los procedimientos adecuados en todo momento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4623,7 +4623,7 @@
                   "order_index": 26,
                   "text": {
                     "paragraphs": [
-                      "Los menores pueden intentar comprar alcohol utilizando una identificación falsa o prestada. Mantente alerta y sigue los pasos adecuados de verificación de identidad. Si algo no parece correcto, tómate el tiempo para verificarlo. No te apresures. Una verificación cuidadosa ayuda a prevenir ventas ilegales y te protege de cometer un error costoso."
+                      "Los menores de edad pueden intentar comprar alcohol utilizando una identificación falsa o prestada. Mantente alerta y sigue los pasos adecuados de verificación de identidad. Si algo no parece correcto, tómate el tiempo para verificarlo. No te apresures. Una verificación cuidadosa ayuda a prevenir ventas ilegales y te protege de cometer un error costoso."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4715,7 +4715,7 @@
                   "order_index": 30,
                   "text": {
                     "paragraphs": [
-                      "En Carolina del Sur, los servidores de alcohol son legalmente responsables de seguir las leyes estatales al vender o servir alcohol. Esto incluye negarse a vender a menores y no atender a personas en estado de ebriedad. Tú eres responsable de tus acciones durante cada turno. El incumplimiento de la ley puede resultar en sanciones para ti y tu empleador. Comprender tu responsabilidad te ayuda a tomar mejores decisiones en situaciones reales."
+                      "En Carolina del Sur, los servidores de alcohol son legalmente responsables de seguir las leyes estatales al vender o servir alcohol. Esto incluye negarse a vender a menores de edad y no atender a personas en estado de ebriedad. Tú eres responsable de tus acciones durante cada turno. El incumplimiento de la ley puede resultar en sanciones para ti y tu empleador. Comprender tu responsabilidad te ayuda a tomar mejores decisiones en situaciones reales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5112,7 +5112,7 @@
                   "order_index": 48,
                   "text": {
                     "paragraphs": [
-                      "Verificar la identificación también protege a los menores de cualquier daño. Prevenir el acceso al alcohol reduce el riesgo de comportamientos inseguros y malas decisiones. Tu papel no se trata sólo de seguir reglas. Estás ayudando a crear un entorno más seguro al detener las ventas ilegales antes de que ocurran."
+                      "Verificar la identificación también protege a los menores de edad de cualquier daño. Prevenir el acceso al alcohol reduce el riesgo de comportamientos inseguros y malas decisiones. Tu papel no se trata sólo de seguir reglas. Estás ayudando a crear un entorno más seguro al detener las ventas ilegales antes de que ocurran."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6315,7 +6315,7 @@
                   "order_index": 99,
                   "text": {
                     "paragraphs": [
-                      "Los menores suelen utilizar identificación falsa cuando intentan comprar alcohol. Como servidor en Carolina del Sur, tú eres responsable de reconocer y rechazar identificaciones falsas. Aceptar una puede conllevar una venta ilegal y graves consecuencias. Aprender a detectar señales de alerta te ayudará a tomar mejores decisiones y cumplir con la ley."
+                      "Los menores de edad suelen utilizar identificación falsa cuando intentan comprar alcohol. Como servidor en Carolina del Sur, tú eres responsable de reconocer y rechazar identificaciones falsas. Aceptar una puede conllevar una venta ilegal y graves consecuencias. Aprender a detectar señales de alerta te ayudará a tomar mejores decisiones y cumplir con la ley."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9961,7 +9961,7 @@
                   "order_index": 1,
                   "text": {
                     "paragraphs": [
-                      "Rechazar el servicio: obligación legal y profesional—no sirvas a menores ni a personas visiblemente intoxicadas."
+                      "Rechazar el servicio: obligación legal y profesional—no sirvas a menores de edad ni a personas visiblemente intoxicadas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12362,7 +12362,7 @@
                   "order_index": 92,
                   "text": {
                     "paragraphs": [
-                      "Tú puedes ser considerado responsable por el servicio ilegal de alcohol. Esto incluye atender a menores o personas en estado de ebriedad. Incluso un error puede dar lugar a sanciones o la pérdida del empleo. Comprender tu función te ayuda a tomar decisiones más seguras. El cumplimiento constante te protege a ti y a tu empleador."
+                      "Tú puedes ser considerado responsable por el servicio ilegal de alcohol. Esto incluye atender a menores de edad o personas en estado de ebriedad. Incluso un error puede dar lugar a sanciones o la pérdida del empleo. Comprender tu función te ayuda a tomar decisiones más seguras. El cumplimiento constante te protege a ti y a tu empleador."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12983,8 +12983,8 @@
                       },
                       {
                         "id": "item_2",
-                        "title": "menores",
-                        "revealed_text": "menores"
+                        "title": "menores de edad",
+                        "revealed_text": "menores de edad"
                       },
                       {
                         "id": "item_3",
@@ -16111,7 +16111,7 @@
                   "order_index": 47,
                   "text": {
                     "paragraphs": [
-                      "Las fuerzas del orden desempeñan un papel clave en la supervisión del servicio de alcohol en Carolina del Sur. Las agencias monitorean los establecimientos para garantizar que se cumplan las leyes. Esto incluye impedir las ventas a menores y a personas en estado de ebriedad. La supervisión ayuda a proteger la seguridad pública y mantener la rendición de cuentas. Los servidores deben esperar que la aplicación de la ley sea activa y continua. Comprender esto ayuda a reforzar la importancia de seguir los procedimientos adecuados en cada turno."
+                      "Las fuerzas del orden desempeñan un papel clave en la supervisión del servicio de alcohol en Carolina del Sur. Las agencias monitorean los establecimientos para garantizar que se cumplan las leyes. Esto incluye impedir las ventas a menores de edad y a personas en estado de ebriedad. La supervisión ayuda a proteger la seguridad pública y mantener la rendición de cuentas. Los servidores deben esperar que la aplicación de la ley sea activa y continua. Comprender esto ayuda a reforzar la importancia de seguir los procedimientos adecuados en cada turno."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
