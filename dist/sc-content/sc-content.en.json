@@ -3964,7 +3964,7 @@
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 7,
+         "order_index": 0,
          "text": {
           "paragraphs": [
            "Every valid ID shows a date of birth. On a South Carolina driver's license it appears near the name and photo, labeled 'DOB.' Always read the date of birth directly from the card rather than trusting the customer's word or a quick glance at the photo. Confirm the birth date, the expiration date, and that the photo matches the person in front of you."
@@ -3990,7 +3990,7 @@
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 8,
+         "order_index": 0,
          "text": {
           "paragraphs": [
            "South Carolina issues vertical (portrait) driver's licenses and ID cards to people under 21, and horizontal (landscape) licenses to people 21 and older. A vertical orientation is an immediate visual signal that the holder was under 21 when the card was issued, so you must check the date of birth carefully. Never rely on orientation alone -- always confirm the actual date of birth, because a person with a vertical license may have since turned 21, and cards can be altered."
@@ -4016,7 +4016,7 @@
        "content_type_unique_id": "text",
        "contents": [
         {
-         "order_index": 9,
+         "order_index": 0,
          "text": {
           "paragraphs": [
            "To sell alcohol legally, the customer must be at least 21 years old today. The fastest check is to take today's date and subtract 21 years -- this gives the 'required date of birth.' Anyone born on or before that date is 21 or older; anyone born after it is under 21 and cannot be sold alcohol. For example, if today is July 6, 2026, the required date of birth is July 6, 2005: a customer must have been born on or before July 6, 2005."
@@ -4110,7 +4110,7 @@
        "content_type_unique_id": "completion",
        "contents": [
         {
-         "order_index": 14,
+         "order_index": 0,
          "text": {
           "instruction": "Click each item to learn more."
          },
@@ -7050,88 +7050,6 @@
         {
          "order_index": 138,
          "interactive": {
-          "question": "A customer looks young but says they are 21. You feel unsure and the line is getting long. What should you do?",
-          "instruction": "Read the scenario, then select the best answer.",
-          "options": [
-           {
-            "id": "opt_a",
-            "label": "A. Complete the sale quickly",
-            "is_correct": false
-           },
-           {
-            "id": "opt_b",
-            "label": "B. Skip the ID check",
-            "is_correct": false
-           },
-           {
-            "id": "opt_c",
-            "label": "C. Ask another customer",
-            "is_correct": false
-           },
-           {
-            "id": "opt_d",
-            "label": "D. Request valid ID before selling",
-            "is_correct": true
-           }
-          ],
-          "feedback": {
-           "correct": "You must verify age when unsure. Checking valid ID is required and protects you from making an illegal sale.",
-           "incorrect": "Incorrect."
-          }
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 139,
-       "min_time": 3,
-       "content_type": "Multiple",
-       "content_type_unique_id": "multiple",
-       "contents": [
-        {
-         "order_index": 139,
-         "interactive": {
-          "question": "A customer presents an ID that is expired but shows they are over 21. They insist it should still work. What should you do?",
-          "instruction": "Read the scenario, then select the best answer.",
-          "options": [
-           {
-            "id": "opt_a",
-            "label": "A. Accept the ID anyway",
-            "is_correct": false
-           },
-           {
-            "id": "opt_b",
-            "label": "B. Ignore the expiration date",
-            "is_correct": false
-           },
-           {
-            "id": "opt_c",
-            "label": "C. Refuse the sale due to expired ID",
-            "is_correct": true
-           },
-           {
-            "id": "opt_d",
-            "label": "D. Ask a coworker to decide",
-            "is_correct": false
-           }
-          ],
-          "feedback": {
-           "correct": "Expired IDs are not valid. You must use a current, valid ID to verify age before completing the sale.",
-           "incorrect": "Incorrect."
-          }
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 140,
-       "min_time": 3,
-       "content_type": "Multiple",
-       "content_type_unique_id": "multiple",
-       "contents": [
-        {
-         "order_index": 140,
-         "interactive": {
           "question": "A customer gives an ID, but the photo does not clearly match their face. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
           "options": [
@@ -7165,54 +7083,13 @@
        ]
       },
       {
-       "order_index": 141,
+       "order_index": 139,
        "min_time": 3,
        "content_type": "Multiple",
        "content_type_unique_id": "multiple",
        "contents": [
         {
-         "order_index": 141,
-         "interactive": {
-          "question": "A customer becomes impatient while you are checking their ID and asks you to hurry. What is the best response?",
-          "instruction": "Read the scenario, then select the best answer.",
-          "options": [
-           {
-            "id": "opt_a",
-            "label": "A. Rush the process",
-            "is_correct": false
-           },
-           {
-            "id": "opt_b",
-            "label": "B. Skip steps to move faster",
-            "is_correct": false
-           },
-           {
-            "id": "opt_c",
-            "label": "C. Continue checking carefully",
-            "is_correct": true
-           },
-           {
-            "id": "opt_d",
-            "label": "D. Ignore the ID",
-            "is_correct": false
-           }
-          ],
-          "feedback": {
-           "correct": "You must complete all ID-checking steps. Rushing increases the risk of mistakes and can lead to violations.",
-           "incorrect": "Incorrect."
-          }
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 142,
-       "min_time": 3,
-       "content_type": "Multiple",
-       "content_type_unique_id": "multiple",
-       "contents": [
-        {
-         "order_index": 142,
+         "order_index": 139,
          "interactive": {
           "question": "A customer cannot answer basic questions about their ID and avoids eye contact. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
@@ -7240,47 +7117,6 @@
           ],
           "feedback": {
            "correct": "Inconsistent answers and behavior are warning signs. If you cannot confirm the ID is valid, you must refuse the sale.",
-           "incorrect": "Incorrect."
-          }
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 143,
-       "min_time": 3,
-       "content_type": "Multiple",
-       "content_type_unique_id": "multiple",
-       "contents": [
-        {
-         "order_index": 143,
-         "interactive": {
-          "question": "A customer without ID becomes loud and pressures you to serve them anyway. What should you do?",
-          "instruction": "Read the scenario, then select the best answer.",
-          "options": [
-           {
-            "id": "opt_a",
-            "label": "A. Serve them to avoid conflict",
-            "is_correct": false
-           },
-           {
-            "id": "opt_b",
-            "label": "B. Argue with the customer",
-            "is_correct": false
-           },
-           {
-            "id": "opt_c",
-            "label": "C. Refuse the sale and involve a manager",
-            "is_correct": true
-           },
-           {
-            "id": "opt_d",
-            "label": "D. Walk away without responding",
-            "is_correct": false
-           }
-          ],
-          "feedback": {
-           "correct": "You must refuse the sale and involve a manager if needed. Staying calm and following procedure helps manage the situation safely.",
            "incorrect": "Incorrect."
           }
          }

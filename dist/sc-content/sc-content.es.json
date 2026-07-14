@@ -3843,7 +3843,7 @@
                   "order_index": 1,
                   "text": {
                     "paragraphs": [
-                      "En Carolina del Sur debes verificar la edad del cliente con una identificación con foto emitida por el gobierno y que sea válida antes de vender alcohol. Las tres formas que verás con más frecuencia son una licencia de conducir válida, una tarjeta de identificación estatal y un pasaporte válido (una identificación militar también es aceptable). El documento no debe estar vencido, debe tener foto y debe mostrar claramente la fecha de nacimiento. Si no estás seguro de que la identificación sea válida y pertenezca al cliente, niega la venta."
+                      "Prevenir la venta de alcohol a menores de edad es una responsabilidad fundamental en Carolina del Sur. Vender a un menor es ilegal y puede tener graves consecuencias tanto para el servidor como para la empresa. Tus acciones impactan directamente la seguridad, el cumplimiento y la seguridad laboral. Cada decisión de venta importa. Cumplir la ley te protege a ti, a tu lugar de trabajo y a tu comunidad de daños evitables."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3860,7 +3860,7 @@
                   "order_index": 2,
                   "text": {
                     "paragraphs": [
-                      "Una identificación falsa o alterada es una de las formas más comunes en que un menor intenta obtener servicio. Revisa la tarjeta físicamente: siente si hay grosor desigual, bultos o desprendimiento alrededor de la foto y la fecha de nacimiento. Busca texto borroso, tipografías que no coinciden, hologramas ausentes o apagados y bordes que hayan sido abiertos o pegados de nuevo. Compara la foto, la estatura y la descripción con la persona. Haz una pregunta de verificación que el verdadero titular respondería de inmediato, como su segundo nombre, código postal o signo zodiacal según la fecha de nacimiento mostrada."
+                      "Los menores de edad enfrentan mayores riesgos cuando se trata de alcohol. Sus cuerpos y sus habilidades para tomar decisiones aún se están desarrollando. El consumo de alcohol a una edad temprana aumenta las posibilidades de comportamientos inseguros y lesiones. Impedir el acceso reduce estos riesgos. Como servidor, tú desempeñas un papel clave a la hora de limitar los daños al negarse a vender cuando sea necesario y seguir los procedimientos adecuados en todo momento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3918,8 +3918,7 @@
                   "order_index": 4,
                   "text": {
                     "paragraphs": [
-                      "Recordatorio breve: localiza la fecha de nacimiento (DOB) en la identificación, confirma el año y calcula si el cliente tiene al menos 21 años.",
-                      "Consejo rápido: no asumas la ubicación; verifícala y revisa la fecha de vencimiento. Si algo falta o no está claro, rechaza la venta."
+                      "La ley de Carolina del Sur exige que no se venda ni se sirva alcohol a menores de 21 años. Las infracciones pueden dar lugar a sanciones tanto para el que sirve como para el establecimiento. Esto puede incluir multas u otras consecuencias. Se requiere seguir la ley. Protege tu trabajo garantizando que tu lugar de trabajo cumpla con los requisitos estatales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3936,7 +3935,7 @@
                   "order_index": 5,
                   "text": {
                     "paragraphs": [
-                      "Si determinas que una ID es falsa, alterada, prestada o pertenece a otra persona, no vendas alcohol. Sigue la política de tu establecimiento: niega la venta con cortesía y, según las reglas internas, retén la ID y notifica a un gerente. Nunca discutas ni acuses a la persona en voz alta. Documenta lo ocurrido si tu establecimiento exige un informe de incidente. Negarte a la venta te protege de responsabilidad penal."
+                      "Verificar la identificación es una de las formas más efectivas de prevenir la venta a menores de edad. Debes verificar la edad cuando exista alguna duda. Nunca confíes únicamente en la apariencia. Los controles de identificación consistentes reducen los errores. Incluso un fallo puede dar lugar a una infracción. Haz de la verificación de identidad una parte rutinaria de tu proceso de servicio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3953,7 +3952,7 @@
                   "order_index": 6,
                   "text": {
                     "paragraphs": [
-                      "Prevenir la venta de alcohol a menores de edad es una responsabilidad fundamental en Carolina del Sur. Vender a un menor es ilegal y puede tener graves consecuencias tanto para el servidor como para la empresa. Tus acciones impactan directamente la seguridad, el cumplimiento y la seguridad laboral. Cada decisión de venta importa. Cumplir la ley te protege a ti, a tu lugar de trabajo y a tu comunidad de daños evitables."
+                      "En Carolina del Sur debes verificar la edad del cliente con una identificación con foto emitida por el gobierno y que sea válida antes de vender alcohol. Las tres formas que verás con más frecuencia son una licencia de conducir válida, una tarjeta de identificación estatal y un pasaporte válido (una identificación militar también es aceptable). El documento no debe estar vencido, debe tener foto y debe mostrar claramente la fecha de nacimiento. Si no estás seguro de que la identificación sea válida y pertenezca al cliente, niega la venta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -3967,7 +3966,7 @@
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 7,
+                  "order_index": 0,
                   "text": {
                     "paragraphs": [
                       "Toda identificación válida muestra una fecha de nacimiento. En una licencia de conducir de Carolina del Sur aparece cerca del nombre y la foto, etiquetada como 'DOB'. Debes leer siempre la fecha de nacimiento directamente de la tarjeta en lugar de confiar en la palabra del cliente o en una mirada rápida a la foto. Confirma la fecha de nacimiento, la fecha de vencimiento y que la foto coincida con la persona que tiene delante."
@@ -3993,7 +3992,7 @@
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 8,
+                  "order_index": 0,
                   "text": {
                     "paragraphs": [
                       "Carolina del Sur emite licencias de conducir y tarjetas de identificación verticales a personas menores de 21 años, y licencias horizontales a personas de 21 años o más. La orientación vertical es una señal visual inmediata de que el titular era menor de 21 años cuando se emitió la tarjeta, por lo que debes revisar cuidadosamente la fecha de nacimiento. Nunca confíes solo en la orientación: siempre confirma la fecha real de nacimiento, porque una persona con licencia vertical puede haber cumplido 21 años después y las tarjetas pueden alterarse."
@@ -4019,7 +4018,7 @@
               "content_type_unique_id": "text",
               "contents": [
                 {
-                  "order_index": 9,
+                  "order_index": 0,
                   "text": {
                     "paragraphs": [
                       "Para vender alcohol legalmente, el cliente debe tener al menos 21 años hoy. La verificación más rápida es tomar la fecha de hoy y restarle 21 años; eso da la 'fecha de nacimiento requerida'. Cualquier persona nacida en esa fecha o antes tiene 21 años o más; cualquiera nacida después de esa fecha es menor de 21 años y no puede recibir alcohol. Por ejemplo, si hoy es 6 de julio de 2026, la fecha de nacimiento requerida es 6 de julio de 2005: el cliente debe haber nacido en esa fecha o antes."
@@ -4082,7 +4081,7 @@
                   "order_index": 12,
                   "text": {
                     "paragraphs": [
-                      "Los menores de edad enfrentan mayores riesgos cuando se trata de alcohol. Sus cuerpos y sus habilidades para tomar decisiones aún se están desarrollando. El consumo de alcohol a una edad temprana aumenta las posibilidades de comportamientos inseguros y lesiones. Impedir el acceso reduce estos riesgos. Como servidor, tú desempeñas un papel clave a la hora de limitar los daños al negarse a vender cuando sea necesario y seguir los procedimientos adecuados en todo momento."
+                      "Una identificación falsa o alterada es una de las formas más comunes en que un menor intenta obtener servicio. Revisa la tarjeta físicamente: siente si hay grosor desigual, bultos o desprendimiento alrededor de la foto y la fecha de nacimiento. Busca texto borroso, tipografías que no coinciden, hologramas ausentes o apagados y bordes que hayan sido abiertos o pegados de nuevo. Compara la foto, la estatura y la descripción con la persona. Haz una pregunta de verificación que el verdadero titular respondería de inmediato, como su segundo nombre, código postal o signo zodiacal según la fecha de nacimiento mostrada."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4099,7 +4098,7 @@
                   "order_index": 13,
                   "text": {
                     "paragraphs": [
-                      "Verificar la identificación es una de las formas más efectivas de prevenir la venta a menores de edad. Debes verificar la edad cuando exista alguna duda. Nunca confíes únicamente en la apariencia. Los controles de identificación consistentes reducen los errores. Incluso un fallo puede dar lugar a una infracción. Haz de la verificación de identidad una parte rutinaria de tu proceso de servicio."
+                      "Si determinas que una ID es falsa, alterada, prestada o pertenece a otra persona, no vendas alcohol. Sigue la política de tu establecimiento: niega la venta con cortesía y, según las reglas internas, retén la ID y notifica a un gerente. Nunca discutas ni acuses a la persona en voz alta. Documenta lo ocurrido si tu establecimiento exige un informe de incidente. Negarte a la venta te protege de responsabilidad penal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4113,7 +4112,7 @@
               "content_type_unique_id": "completion",
               "contents": [
                 {
-                  "order_index": 14,
+                  "order_index": 0,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -4379,7 +4378,7 @@
                   "order_index": 23,
                   "text": {
                     "paragraphs": [
-                      "El consumo de alcohol entre menores de edad puede tener efectos a largo plazo. Puede afectar la educación, el juicio y las oportunidades futuras. El consumo temprano de alcohol está relacionado con un mayor comportamiento de riesgo. Además de consecuencias legales, ciertas infracciones relacionadas con alcohol pueden afectar oportunidades educativas y, en algunos casos, la elegibilidad para ciertas becas estatales. Al negarte a vender, puedes estar evitando daños graves. Tu función va más allá de completar una transacción. Estás ayudando a proteger el futuro de alguien. Referencias: SC Code § 59-104-20; § 61-4-100; § 61-6-4085; Reg. 62-900.95."
+                      "El consumo de alcohol entre menores de edad puede perjudicar la educación y las oportunidades futuras; algunas infracciones pueden afectar la elegibilidad para becas. Negarte a una venta protege su futuro. Referencias: SC Code § 59-104-20; § 61-4-100; § 61-6-4085; Reg. 62-900.95."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4568,7 +4567,7 @@
                   "order_index": 31,
                   "text": {
                     "paragraphs": [
-                      "La ley de Carolina del Sur exige que no se venda ni se sirva alcohol a menores de 21 años. Las infracciones pueden dar lugar a sanciones tanto para el que sirve como para el establecimiento. Esto puede incluir multas u otras consecuencias. Se requiere seguir la ley. Protege tu trabajo garantizando que tu lugar de trabajo cumpla con los requisitos estatales."
+                      "Vender alcohol a una persona menor de 21 años es ilegal en Carolina del Sur. Esto aplica incluso si el cliente parece mayor o presenta una identificación cuestionable. Se espera que verifiques la edad antes de completar una venta. Si no lo haces, puedes enfrentar consecuencias legales. Seguir los procedimientos de identificación adecuados te ayuda a evitar infracciones y cumplir con la ley."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4822,7 +4821,7 @@
                   "order_index": 42,
                   "text": {
                     "paragraphs": [
-                      "En Carolina del Sur, debes verificar la identificación de cualquier persona que parezca menor de edad. Esta regla ayuda a prevenir ventas ilegales y te protege de infracciones. No se puede confiar en conjeturas o suposiciones. Si tienes alguna duda sobre la edad de un cliente, debes verificarla. Los controles de identificación constantes son una parte clave del servicio responsable de alcohol."
+                      "Regla práctica: verifica la ID de forma consistente para cualquier persona que pueda ser menor de edad; si no hay una identificación válida, niega la venta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4839,7 +4838,7 @@
                   "order_index": 43,
                   "text": {
                     "paragraphs": [
-                      "Vender alcohol a una persona menor de 21 años es ilegal en Carolina del Sur. Esto aplica incluso si el cliente parece mayor o presenta una identificación cuestionable. Se espera que verifiques la edad antes de completar una venta. Si no lo haces, puedes enfrentar consecuencias legales. Seguir los procedimientos de identificación adecuados te ayuda a evitar infracciones y cumplir con la ley."
+                      "Definición breve: ‘parece menor de edad’ → cualquier persona que razonablemente podría tener menos de 21 años. En caso de duda, verifica la ID."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4897,7 +4896,7 @@
                   "order_index": 45,
                   "text": {
                     "paragraphs": [
-                      "Definición breve: ‘parece menor de edad’ → cualquier persona que razonablemente podría tener menos de 21 años. En caso de duda, verifica la ID."
+                      "No verificar la identificación es una de las razones más comunes para las ventas a menores de edad. Incluso si un cliente tiene 21 años, aún puedes enfrentar consecuencias si no verificas su edad. La ley exige una verificación de identidad adecuada, no suposiciones. Este paso adicional te protege a ti y a tu lugar de trabajo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4914,7 +4913,7 @@
                   "order_index": 46,
                   "text": {
                     "paragraphs": [
-                      "La coherencia es fundamental. Debes aplicar el mismo proceso de verificación de identificación a cada cliente que parezca menor de edad. No hagas excepciones con clientes habituales, compañeros de trabajo o clientes que parezcan dignos de confianza. Trata todas las situaciones por igual. Esto reduce el riesgo y te ayuda a cumplir con las normas durante cada turno."
+                      "Consistencia: utiliza el mismo proceso de verificación de identificación siempre; evita las excepciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4968,23 +4967,23 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Al verificar la edad con el documento de identidad, debes tomarte tu {{item_4}} para {{item_1}} y {{item_2}} para verificar {{item_3}}. Estos pasos te ayudan a confirmar que el cliente cumple la edad legal antes de continuar con la venta."
+                      "Al verificar la identificación, concéntrate en la {{item_1}} , confirma que la persona tenga {{item_2}} , verifica que la {{item_3}} y toma tu {{item_4}} . Estos pasos te ayudarán a garantizar que estés tomando una decisión correcta y legal antes de completar la venta."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "encontrar la fecha de nacimiento",
-                        "revealed_text": "encontrar la fecha de nacimiento"
+                        "title": "fecha de nacimiento",
+                        "revealed_text": "fecha de nacimiento"
                       },
                       {
                         "id": "item_2",
-                        "title": "compararla",
-                        "revealed_text": "compararla"
+                        "title": "21+ años",
+                        "revealed_text": "21+ años"
                       },
                       {
                         "id": "item_3",
-                        "title": "que tiene 21 años o más",
-                        "revealed_text": "que tiene 21 años o más"
+                        "title": "identificación sea válida",
+                        "revealed_text": "identificación sea válida"
                       },
                       {
                         "id": "item_4",
@@ -5115,7 +5114,7 @@
                   "order_index": 55,
                   "text": {
                     "paragraphs": [
-                      "No verificar la identificación es una de las razones más comunes para las ventas a menores de edad. Incluso si un cliente tiene 21 años, aún puedes enfrentar consecuencias si no verificas su edad. La ley exige una verificación de identidad adecuada, no suposiciones. Este paso adicional te protege a ti y a tu lugar de trabajo."
+                      "La identificación válida debe ser emitida por el gobierno e incluir detalles clave. Esto incluye una fotografía, fecha de nacimiento e información de identificación. La identificación debe permitirte confirmar que el cliente tiene al menos 21 años. Si algún elemento requerido falta o no está claro, no debes aceptar la identificación."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5224,7 +5223,7 @@
                   "order_index": 60,
                   "text": {
                     "paragraphs": [
-                      "La identificación válida debe ser emitida por el gobierno e incluir detalles clave. Esto incluye una fotografía, fecha de nacimiento e información de identificación. La identificación debe permitirte confirmar que el cliente tiene al menos 21 años. Si algún elemento requerido falta o no está claro, no debes aceptar la identificación."
+                      "La identificación vencida no es válida para la venta de alcohol. Incluso si la fecha de nacimiento muestra que el cliente tiene más de 21 años, no se debe aceptar una identificación caducada. Las fecha de vencimiento deben estar actualizada. Siempre verifica este detalle como parte de tu proceso de verificación de identidad estándar."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5299,7 +5298,7 @@
                   "order_index": 63,
                   "text": {
                     "paragraphs": [
-                      "La identificación vencida no es válida para la venta de alcohol. Incluso si la fecha de nacimiento muestra que el cliente tiene más de 21 años, no se debe aceptar una identificación caducada. Las fecha de vencimiento deben estar actualizada. Siempre verifica este detalle como parte de tu proceso de verificación de identidad estándar."
+                      "Siempre verifica cuidadosamente la fecha de nacimiento. Confirmar que el cliente tiene al menos 21 años el día de la venta. Tómate tu tiempo y haz los cálculos si es necesario. Los errores en el cálculo de la edad pueden dar lugar a infracciones. La precisión es esencial al verificar la elegibilidad."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5500,7 +5499,7 @@
                   "order_index": 72,
                   "text": {
                     "paragraphs": [
-                      "Siempre verifica cuidadosamente la fecha de nacimiento. Confirmar que el cliente tiene al menos 21 años el día de la venta. Tómate tu tiempo y haz los cálculos si es necesario. Los errores en el cálculo de la edad pueden dar lugar a infracciones. La precisión es esencial al verificar la elegibilidad."
+                      "Verifica cuidadosamente la fecha de nacimiento. Confirma que el cliente tiene al menos 21 años. Tómate un momento para calcular si es necesario. No apresures este paso. Los errores aquí pueden tener consecuencias graves. La precisión es más importante que la velocidad durante la verificación de identidad."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5520,28 +5519,28 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Para verificar la edad, {{item_1}} , {{item_2}} , compárelo con {{item_3}} y confirme {{item_4}} . Estos pasos le ayudarán a determinar si el cliente tiene permiso legal para comprar alcohol."
+                      "Al verificar la edad con el documento de identidad, debes tomarte tu {{item_4}} para {{item_1}} y {{item_2}} para verificar {{item_3}}. Estos pasos te ayudan a confirmar que el cliente cumple la edad legal antes de continuar con la venta."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "encontrar la fecha de nacimiento en el documento de identidad",
-                        "revealed_text": "encontrar la fecha de nacimiento en el documento de identidad"
+                        "title": "encontrar la fecha de nacimiento",
+                        "revealed_text": "encontrar la fecha de nacimiento"
                       },
                       {
                         "id": "item_2",
-                        "title": "comprobar año",
-                        "revealed_text": "comprobar año"
+                        "title": "compararla",
+                        "revealed_text": "compararla"
                       },
                       {
                         "id": "item_3",
-                        "title": "la fecha de hoy",
-                        "revealed_text": "la fecha de hoy"
+                        "title": "que tiene 21 años o más",
+                        "revealed_text": "que tiene 21 años o más"
                       },
                       {
                         "id": "item_4",
-                        "title": "que la persona tenga 21 años o más",
-                        "revealed_text": "que la persona tenga 21 años o más"
+                        "title": "tiempo",
+                        "revealed_text": "tiempo"
                       }
                     ]
                   }
@@ -5558,7 +5557,7 @@
                   "order_index": 74,
                   "text": {
                     "paragraphs": [
-                      "Verifica cuidadosamente la fecha de nacimiento. Confirma que el cliente tiene al menos 21 años. Tómate un momento para calcular si es necesario. No apresures este paso. Los errores aquí pueden tener consecuencias graves. La precisión es más importante que la velocidad durante la verificación de identidad."
+                      "Mira la fecha de vencimiento a continuación. Una identificación vencida no es válida para la venta de alcohol. Aunque el cliente sea mayor de 21 años, deberás negar la venta si el DNI está caducado. Incluye siempre este paso en tu proceso de verificación para evitar aceptar una identificación no válida."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5752,7 +5751,7 @@
                   "order_index": 84,
                   "text": {
                     "paragraphs": [
-                      "Mira la fecha de vencimiento a continuación. Una identificación vencida no es válida para la venta de alcohol. Aunque el cliente sea mayor de 21 años, deberás negar la venta si el DNI está caducado. Incluye siempre este paso en tu proceso de verificación para evitar aceptar una identificación no válida."
+                      "Si la identificación pasa todas las comprobaciones, podrás continuar con la venta. Completa la transacción únicamente después de que estés seguro de que la identificación es válida y que el cliente tiene al menos 21 años. Nunca te apresures a tomar esta decisión. La confianza en tu proceso de verificación es esencial."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5950,7 +5949,7 @@
                   "order_index": 90,
                   "text": {
                     "paragraphs": [
-                      "Si la identificación pasa todas las comprobaciones, podrás continuar con la venta. Completa la transacción únicamente después de que estés seguro de que la identificación es válida y que el cliente tiene al menos 21 años. Nunca te apresures a tomar esta decisión. La confianza en tu proceso de verificación es esencial."
+                      "Se requiere verificar con precisión la edad antes de vender alcohol en Carolina del Sur. Debes confirmar que un cliente tiene al menos 21 años. Esto se hace verificando la fecha de nacimiento en una identificación válida. No es aceptable adivinar o estimar. Tomarte el tiempo para verificar la edad te protege de realizar una venta ilegal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5967,7 +5966,8 @@
                   "order_index": 91,
                   "text": {
                     "paragraphs": [
-                      "No apresures el cálculo. Tómate un momento para confirmar los números. Los errores suelen ocurrir cuando los servidores se mueven demasiado rápido. Incluso durante las horas punta, la precisión es fundamental. Un pequeño error en la lectura o el cálculo puede dar lugar a una infracción grave."
+                      "La verificación de la edad comienza por localizar la fecha de nacimiento en la identificación. Normalmente está claramente etiquetada. No asumas la ubicación. Tómate un momento para encontrarla y léela con cuidado. Leer mal los números puede provocar errores. Siempre confirma que estás mirando la fecha correcta antes de tomar una decisión.",
+                      "Consejo rápido: no asumas la ubicación; verifícala y revisa la fecha de vencimiento. Si algo falta o no está claro, rechaza la venta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5987,28 +5987,28 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Al verificar la identificación, concéntrate en la {{item_1}} , confirma que la persona tenga {{item_2}} , verifica que la {{item_3}} y toma tu {{item_4}} . Estos pasos te ayudarán a garantizar que estés tomando una decisión correcta y legal antes de completar la venta."
+                      "Para verificar la edad, {{item_1}} , {{item_2}} , compárelo con {{item_3}} y confirme {{item_4}} . Estos pasos le ayudarán a determinar si el cliente tiene permiso legal para comprar alcohol."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "fecha de nacimiento",
-                        "revealed_text": "fecha de nacimiento"
+                        "title": "encontrar la fecha de nacimiento en el documento de identidad",
+                        "revealed_text": "encontrar la fecha de nacimiento en el documento de identidad"
                       },
                       {
                         "id": "item_2",
-                        "title": "21+ años",
-                        "revealed_text": "21+ años"
+                        "title": "comprobar año",
+                        "revealed_text": "comprobar año"
                       },
                       {
                         "id": "item_3",
-                        "title": "identificación sea válida",
-                        "revealed_text": "identificación sea válida"
+                        "title": "la fecha de hoy",
+                        "revealed_text": "la fecha de hoy"
                       },
                       {
                         "id": "item_4",
-                        "title": "tiempo",
-                        "revealed_text": "tiempo"
+                        "title": "que la persona tenga 21 años o más",
+                        "revealed_text": "que la persona tenga 21 años o más"
                       }
                     ]
                   }
@@ -6025,7 +6025,7 @@
                   "order_index": 93,
                   "text": {
                     "paragraphs": [
-                      "Se requiere verificar con precisión la edad antes de vender alcohol en Carolina del Sur. Debes confirmar que un cliente tiene al menos 21 años. Esto se hace verificando la fecha de nacimiento en una identificación válida. No es aceptable adivinar o estimar. Tomarte el tiempo para verificar la edad te protege de realizar una venta ilegal."
+                      "Una forma sencilla de verificar la edad es restar 21 años a la fecha de hoy. Esto te da la fecha de nacimiento más reciente aceptable para ventas legales. Si el cliente nació en esa fecha o antes, es elegible. Si su fecha de nacimiento es posterior a esa fecha, es menor de edad y debes negar la venta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6059,7 +6059,7 @@
                   "order_index": 95,
                   "text": {
                     "paragraphs": [
-                      "Algunas identificaciones pueden formatear la fecha de manera diferente. Por ejemplo, el orden del mes, día y año puede variar. Tómate siempre el tiempo para comprender el formato antes de tomar una decisión. Leer mal el formato puede dar lugar a una verificación de edad incorrecta."
+                      "No apresures el cálculo. Tómate un momento para confirmar los números. Los errores suelen ocurrir cuando los servidores se mueven demasiado rápido. Incluso durante las horas punta, la precisión es fundamental. Un pequeño error en la lectura o el cálculo puede dar lugar a una infracción grave."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6076,7 +6076,7 @@
                   "order_index": 96,
                   "text": {
                     "paragraphs": [
-                      "Si no estás seguro del cálculo de la edad, detente y vuelve a verificar. También puedes pedir ayuda a un gerente. Es mejor hacer una pausa que cometer un error. Tomarte más tiempo ayuda a garantizar que cumplas con la ley y te protege de sanciones."
+                      "Algunas identificaciones pueden formatear la fecha de manera diferente. Por ejemplo, el orden del mes, día y año puede variar. Tómate siempre el tiempo para comprender el formato antes de tomar una decisión. Leer mal el formato puede dar lugar a una verificación de edad incorrecta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6134,7 +6134,7 @@
                   "order_index": 98,
                   "text": {
                     "paragraphs": [
-                      "Consistencia: utiliza el mismo proceso de verificación para todos; evita las excepciones."
+                      "Si no estás seguro del cálculo de la edad, detente y vuelve a verificar. También puedes pedir ayuda a un gerente. Es mejor hacer una pausa que cometer un error. Tomarte más tiempo ayuda a garantizar que cumplas con la ley y te protege de sanciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6151,7 +6151,7 @@
                   "order_index": 99,
                   "text": {
                     "paragraphs": [
-                      "Los menores de edad suelen utilizar identificación falsa cuando intentan comprar alcohol. Como servidor en Carolina del Sur, tú eres responsable de reconocer y rechazar identificaciones falsas. Aceptar una puede conllevar una venta ilegal y graves consecuencias. Aprender a detectar señales de alerta te ayudará a tomar mejores decisiones y cumplir con la ley."
+                      "Consistencia: utiliza el mismo proceso de verificación para todos; evita las excepciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6226,7 +6226,7 @@
                   "order_index": 102,
                   "text": {
                     "paragraphs": [
-                      "Una identificación falsa puede parecer real a primera vista. Por eso debes reducir la velocidad e inspeccionarla con atención. No confíes en una verificación rápida. Tómate el tiempo para examinar los detalles y confirmar la autenticidad. Una inspección cuidadosa te ayuda a detectar problemas que podrían provocar infracciones."
+                      "Los menores de edad suelen utilizar identificación falsa cuando intentan comprar alcohol. Como servidor en Carolina del Sur, tú eres responsable de reconocer y rechazar identificaciones falsas. Aceptar una puede conllevar una venta ilegal y graves consecuencias. Aprender a detectar señales de alerta te ayudará a tomar mejores decisiones y cumplir con la ley."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6243,7 +6243,7 @@
                   "order_index": 103,
                   "text": {
                     "paragraphs": [
-                      "Mira de cerca la foto en la identificación. Compáralo con la persona que lo presenta. Presta atención a los rasgos faciales, no sólo al cabello o la ropa. Si la foto no coincide claramente con el cliente, no aceptes el documento de identidad. Esta es una señal común de identificación prestada o falsa."
+                      "Una identificación falsa puede parecer real a primera vista. Por eso debes reducir la velocidad e inspeccionarla con atención. No confíes en una verificación rápida. Tómate el tiempo para examinar los detalles y confirmar la autenticidad. Una inspección cuidadosa te ayuda a detectar problemas que podrían provocar infracciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6301,7 +6301,7 @@
                   "order_index": 105,
                   "text": {
                     "paragraphs": [
-                      "Verifica la coherencia de la información. Los nombres, fechas y otros detalles deben alinearse correctamente. Si algo no coincide o parece inusual, puede ser una identificación falsa. Incluso las pequeñas inconsistencias pueden indicar un problema. Tómate siempre el tiempo para revisar todos los detalles detenidamente."
+                      "Mira de cerca la foto en la identificación. Compáralo con la persona que lo presenta. Presta atención a los rasgos faciales, no sólo al cabello o la ropa. Si la foto no coincide claramente con el cliente, no aceptes el documento de identidad. Esta es una señal común de identificación prestada o falsa."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6318,7 +6318,7 @@
                   "order_index": 106,
                   "text": {
                     "paragraphs": [
-                      "Examinar el estado físico del documento de identidad. Las identificaciones emitidas por el gobierno están fabricadas con materiales y calidad consistentes. Si la identificación se siente demasiado delgada, demasiado gruesa o dañada, es posible que no sea válida. Confía en tus observaciones y sigue tus procedimientos."
+                      "Verifica la coherencia de la información. Los nombres, fechas y otros detalles deben alinearse correctamente. Si algo no coincide o parece inusual, puede ser una identificación falsa. Incluso las pequeñas inconsistencias pueden indicar un problema. Tómate siempre el tiempo para revisar todos los detalles detenidamente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6335,7 +6335,7 @@
                   "order_index": 107,
                   "text": {
                     "paragraphs": [
-                      "Busca señales de manipulación. Esto puede incluir superficies rayadas, esquinas levantadas o números alterados. Estos cambios se utilizan a menudo para modificar las fechas de nacimiento. Si observas algún signo de alteración, deberás negar la venta. Nunca ignores estas señales de advertencia."
+                      "Examinar el estado físico del documento de identidad. Las identificaciones emitidas por el gobierno están fabricadas con materiales y calidad consistentes. Si la identificación se siente demasiado delgada, demasiado gruesa o dañada, es posible que no sea válida. Confía en tus observaciones y sigue tus procedimientos."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6352,7 +6352,7 @@
                   "order_index": 108,
                   "text": {
                     "paragraphs": [
-                      "Puedes hacer preguntas sencillas para ayudar a confirmar la identidad. Pídele al cliente que indique su fecha de nacimiento o dirección. Si sus respuestas no coinciden con la identificación, esta es una fuerte señal de advertencia. Utiliza este paso cuando no estés seguro, pero confía siempre en la identificación como fuente principal."
+                      "Busca señales de manipulación. Esto puede incluir superficies rayadas, esquinas levantadas o números alterados. Estos cambios se utilizan a menudo para modificar las fechas de nacimiento. Si observas algún signo de alteración, deberás negar la venta. Nunca ignores estas señales de advertencia."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6410,7 +6410,7 @@
                   "order_index": 110,
                   "text": {
                     "paragraphs": [
-                      "Si crees que una identificación es falsa, no debes aceptarla. Niega la venta y sigue los procedimientos de tu lugar de trabajo. Mantén la calma y sé profesional. No discutas con el cliente. Tu objetivo es hacer cumplir la ley manteniendo un entorno seguro."
+                      "Puedes hacer preguntas sencillas para ayudar a confirmar la identidad. Pídele al cliente que indique su fecha de nacimiento o dirección. Si sus respuestas no coinciden con la identificación, esta es una fuerte señal de advertencia. Utiliza este paso cuando no estés seguro, pero confía siempre en la identificación como fuente principal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6427,7 +6427,7 @@
                   "order_index": 111,
                   "text": {
                     "paragraphs": [
-                      "Si no estás seguro, solicita la ayuda a un gerente. Es mejor hacer una pausa que cometer un error. El apoyo del equipo ayuda a garantizar decisiones correctas. Protegerte a ti mismo y a tu lugar de trabajo siempre debe ser lo primero cuando se maneja una identificación cuestionable."
+                      "Si crees que una identificación es falsa, no debes aceptarla. Niega la venta y sigue los procedimientos de tu lugar de trabajo. Mantén la calma y sé profesional. No discutas con el cliente. Tu objetivo es hacer cumplir la ley manteniendo un entorno seguro."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6444,7 +6444,7 @@
                   "order_index": 112,
                   "text": {
                     "paragraphs": [
-                      "Cuando sospechas que una identificación puede ser falsa, tu función es reducir la velocidad y seguir los procedimientos adecuados. No ignores las señales de advertencia. Aceptar una identificación falsa puede dar lugar a una venta ilegal y a graves consecuencias. Tú eres responsable de verificar su identidad y edad antes de completar cualquier transacción de alcohol en Carolina del Sur."
+                      "Si no estás seguro, solicita la ayuda a un gerente. Es mejor hacer una pausa que cometer un error. El apoyo del equipo ayuda a garantizar decisiones correctas. Protegerte a ti mismo y a tu lugar de trabajo siempre debe ser lo primero cuando se maneja una identificación cuestionable."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6502,7 +6502,7 @@
                   "order_index": 114,
                   "text": {
                     "paragraphs": [
-                      "Si algo no funciona con una identificación, confía en tu criterio. No es necesario que demuestres que es falso. Sólo necesitas decidir si puedes verificar con seguridad que es válido. Si no puedes confirmarlo, no deberás continuar con la venta. Esto te protege de cometer un error."
+                      "Cuando sospechas que una identificación puede ser falsa, tu función es reducir la velocidad y seguir los procedimientos adecuados. No ignores las señales de advertencia. Aceptar una identificación falsa puede dar lugar a una venta ilegal y a graves consecuencias. Tú eres responsable de verificar su identidad y edad antes de completar cualquier transacción de alcohol en Carolina del Sur."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6519,7 +6519,7 @@
                   "order_index": 115,
                   "text": {
                     "paragraphs": [
-                      "Haz al cliente preguntas sencillas si es necesario. Por ejemplo, pídele que confirme su fecha de nacimiento o dirección. Una persona que utilice una identificación falsa puede dudar o dar respuestas incorrectas. Esto puede ayudar a respaldar tu decisión, pero la identificación en sí debe seguir siendo su fuente principal de verificación."
+                      "Si algo no funciona con una identificación, confía en tu criterio. No es necesario que demuestres que es falso. Sólo necesitas decidir si puedes verificar con seguridad que es válido. Si no puedes confirmarlo, no deberás continuar con la venta. Esto te protege de cometer un error."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6577,7 +6577,7 @@
                   "order_index": 117,
                   "text": {
                     "paragraphs": [
-                      "Observa cómo se comporta el cliente. Las acciones nerviosas, apresurarse o evitar el contacto visual pueden indicar un problema. Estos comportamientos por sí solos no prueban que la identificación sea falsa, pero pueden respaldar tu decisión de examinarla más de cerca. Mantén la calma y la concentración durante la interacción."
+                      "Haz al cliente preguntas sencillas si es necesario. Por ejemplo, pídele que confirme su fecha de nacimiento o dirección. Una persona que utilice una identificación falsa puede dudar o dar respuestas incorrectas. Esto puede ayudar a respaldar tu decisión, pero la identificación en sí debe seguir siendo su fuente principal de verificación."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6594,7 +6594,7 @@
                   "order_index": 118,
                   "text": {
                     "paragraphs": [
-                      "Si no puedes confirmar que la identificación es válida, deberás negarte a la venta. No corras riesgos. La ley exige que verifiques la edad con una identificación válida. Si no estas seguro, eso significa que no puedes verificarla. Negarte a realizar la venta es la decisión correcta y segura."
+                      "Observa cómo se comporta el cliente. Las acciones nerviosas, apresurarse o evitar el contacto visual pueden indicar un problema. Estos comportamientos por sí solos no prueban que la identificación sea falsa, pero pueden respaldar tu decisión de examinarla más de cerca. Mantén la calma y la concentración durante la interacción."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6611,7 +6611,7 @@
                   "order_index": 119,
                   "text": {
                     "paragraphs": [
-                      "Sé profesional al negarte a una venta. Utiliza un tono tranquilo y un lenguaje claro. Evita discutir o acusar al cliente. Simplemente puedes indicar que no puedes aceptar la identificación. Mantener la interacción respetuosa ayuda a prevenir una escalada y mantiene la situación bajo control."
+                      "Si no puedes confirmar que la identificación es válida, deberás negarte a la venta. No corras riesgos. La ley exige que verifiques la edad con una identificación válida. Si no estas seguro, eso significa que no puedes verificarla. Negarte a realizar la venta es la decisión correcta y segura."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6628,7 +6628,7 @@
                   "order_index": 120,
                   "text": {
                     "paragraphs": [
-                      "No volver a la venta una vez que te hayas negado. Cambiar tu decisión aumenta el riesgo y puede provocar errores. Mantente firme. Si el cliente continúa presionando, repite tu decisión e involucra a la gerencia si es necesario. La firmeza es clave para mantener el cumplimiento."
+                      "Sé profesional al negarte a una venta. Utiliza un tono tranquilo y un lenguaje claro. Evita discutir o acusar al cliente. Simplemente puedes indicar que no puedes aceptar la identificación. Mantener la interacción respetuosa ayuda a prevenir una escalada y mantiene la situación bajo control."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6686,7 +6686,7 @@
                   "order_index": 122,
                   "text": {
                     "paragraphs": [
-                      "Nunca aceptes presiones de clientes o compañeros de trabajo para anular tu decisión. Eres responsable de la venta. Incluso en situaciones de mucha actividad, debes seguir los procedimientos adecuados. Protegerte a ti mismo y a tu lugar de trabajo es más importante que completar una transacción."
+                      "No volver a la venta una vez que te hayas negado. Cambiar tu decisión aumenta el riesgo y puede provocar errores. Mantente firme. Si el cliente continúa presionando, repite tu decisión e involucra a la gerencia si es necesario. La firmeza es clave para mantener el cumplimiento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6703,7 +6703,7 @@
                   "order_index": 123,
                   "text": {
                     "paragraphs": [
-                      "Si una situación se vuelve difícil o conflictiva, aléjate y pide ayuda. Los gerentes están ahí para apoyarte. Tu seguridad importa. No te involucres en discusiones. Seguir los procedimientos de escalada ayuda a mantener a todos seguros y garantiza que las reglas se apliquen correctamente."
+                      "Nunca aceptes presiones de clientes o compañeros de trabajo para anular tu decisión. Eres responsable de la venta. Incluso en situaciones de mucha actividad, debes seguir los procedimientos adecuados. Protegerte a ti mismo y a tu lugar de trabajo es más importante que completar una transacción."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6720,7 +6720,7 @@
                   "order_index": 124,
                   "text": {
                     "paragraphs": [
-                      "Negar una venta siempre debe hacerse de forma clara y profesional. Utiliza un lenguaje sencillo y directo y evita explicaciones largas. No es necesario argumentar ni justificar la ley. Expresa tu decisión y sé coherente. Mantener tu respuesta breve y firme ayuda a reducir la confusión y evita que la situación empeore aún más."
+                      "Si una situación se vuelve difícil o conflictiva, aléjate y pide ayuda. Los gerentes están ahí para apoyarte. Tu seguridad importa. No te involucres en discusiones. Seguir los procedimientos de escalada ayuda a mantener a todos seguros y garantiza que las reglas se apliquen correctamente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6795,7 +6795,7 @@
                   "order_index": 127,
                   "text": {
                     "paragraphs": [
-                      "Los clientes pueden reaccionar con frustración cuando se les rechaza. Esto es común y debería esperarse. Mantén la calma y no te lo tomes como algo personal. Tu papel es hacer cumplir la ley, no ganar una discusión. Mantener la compostura te ayuda a gestionar la situación de forma segura y profesional."
+                      "Negar una venta siempre debe hacerse de forma clara y profesional. Utiliza un lenguaje sencillo y directo y evita explicaciones largas. No es necesario argumentar ni justificar la ley. Expresa tu decisión y sé coherente. Mantener tu respuesta breve y firme ayuda a reducir la confusión y evita que la situación empeore aún más."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6853,7 +6853,7 @@
                   "order_index": 129,
                   "text": {
                     "paragraphs": [
-                      "Evita discutir con el cliente. Discutir puede empeorar la situación y aumentar el riesgo. En su lugar, repite tu decisión si es necesario y mantén el tono firme. No participes en discusiones de ida y vuelta. Mantener la coherencia ayuda a finalizar la interacción de forma más rápida y segura."
+                      "Los clientes pueden reaccionar con frustración cuando se les rechaza. Esto es común y debería esperarse. Mantén la calma y no te lo tomes como algo personal. Tu papel es hacer cumplir la ley, no ganar una discusión. Mantener la compostura te ayuda a gestionar la situación de forma segura y profesional."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6870,7 +6870,7 @@
                   "order_index": 130,
                   "text": {
                     "paragraphs": [
-                      "Si un cliente se molesta más, crea espacio y evita una escalada. No levantes la voz ni respondas emocionalmente. Concéntrate en mantener una actitud profesional y sigue los procedimientos. Conservar la distancia cuando sea necesario ayuda a preservar tu seguridad y la de otras personas en el área."
+                      "Evita discutir con el cliente. Discutir puede empeorar la situación y aumentar el riesgo. En su lugar, repite tu decisión si es necesario y mantén el tono firme. No participes en discusiones de ida y vuelta. Mantener la coherencia ayuda a finalizar la interacción de forma más rápida y segura."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6887,7 +6887,7 @@
                   "order_index": 131,
                   "text": {
                     "paragraphs": [
-                      "Involucra a un gerente cuando una situación se vuelve difícil. Los gerentes están ahí para apoyarte y manejar las escaladas. Pedir ayuda demuestra buen juicio. También ayuda a garantizar que la situación se maneje de manera correcta y coherente con las políticas de la empresa."
+                      "Si un cliente se molesta más, crea espacio y evita una escalada. No levantes la voz ni respondas emocionalmente. Concéntrate en mantener una actitud profesional y sigue los procedimientos. Conservar la distancia cuando sea necesario ayuda a preservar tu seguridad y la de otras personas en el área."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6904,7 +6904,7 @@
                   "order_index": 132,
                   "text": {
                     "paragraphs": [
-                      "Nunca cambies tu decisión después de negarte a una venta. Una vez que determines que el cliente es menor de edad o no puede proporcionar una identificación válida, la venta no debe realizarse. Retroceder en tu decisión puede provocar errores y consecuencias legales. Mantente firme y consistente en todo momento."
+                      "Involucra a un gerente cuando una situación se vuelve difícil. Los gerentes están ahí para apoyarte y manejar las escaladas. Pedir ayuda demuestra buen juicio. También ayuda a garantizar que la situación se maneje de manera correcta y coherente con las políticas de la empresa."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6962,7 +6962,7 @@
                   "order_index": 134,
                   "text": {
                     "paragraphs": [
-                      "No dejes que la presión de los clientes o compañeros de trabajo influya en tu decisión. Eres responsable de la venta. Incluso durante los turnos ocupados, debes respetar la ley. Tomar atajos puede tener graves consecuencias. Mantener la coherencia te protege a ti y a tu lugar de trabajo de infracciones."
+                      "Nunca cambies tu decisión después de negarte a una venta. Una vez que determines que el cliente es menor de edad o no puede proporcionar una identificación válida, la venta no debe realizarse. Retroceder en tu decisión puede provocar errores y consecuencias legales. Mantente firme y consistente en todo momento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6979,7 +6979,7 @@
                   "order_index": 135,
                   "text": {
                     "paragraphs": [
-                      "Rechazar las ventas a menores de edad contribuye a un entorno más seguro. Ayuda a prevenir daños y reduce el riesgo en tu comunidad. Tus acciones marcan la diferencia en situaciones reales. Tomar en serio tu papel ayuda a proteger a los demás y refuerza los estándares responsables del servicio de alcohol."
+                      "No dejes que la presión de los clientes o compañeros de trabajo influya en tu decisión. Eres responsable de la venta. Incluso durante los turnos ocupados, debes respetar la ley. Tomar atajos puede tener graves consecuencias. Mantener la coherencia te protege a ti y a tu lugar de trabajo de infracciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6996,7 +6996,7 @@
                   "order_index": 136,
                   "text": {
                     "paragraphs": [
-                      "Negar las ventas a menores de edad contribuye a un entorno más seguro. Ayuda a prevenir daños y reduce el riesgo en tu comunidad. Tus acciones marcan la diferencia en situaciones reales. Tomar en serio tu papel ayuda a proteger a los demás y refuerza los estándares responsables del servicio de alcohol."
+                      "Rechazar las ventas a menores de edad contribuye a un entorno más seguro. Ayuda a prevenir daños y reduce el riesgo en tu comunidad. Tus acciones marcan la diferencia en situaciones reales. Tomar en serio tu papel ayuda a proteger a los demás y refuerza los estándares responsables del servicio de alcohol."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -7053,88 +7053,6 @@
                 {
                   "order_index": 138,
                   "interactive": {
-                    "question": "Un cliente parece joven pero dice que tiene 21 años. Te sientes inseguro y la fila se hace larga. ¿Qué deberías hacer?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Completar la venta rápidamente",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Omitir la verificación de identificación",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Preguntar a otro cliente",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Solicitar una identificación válida antes de vender",
-                        "is_correct": true
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "Debes verificar la edad cuando no estés seguro. Es necesario verificar una identificación válida y te protege de realizar una venta ilegal.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 139,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 139,
-                  "interactive": {
-                    "question": "Un cliente presenta una identificación caducada pero muestra que tiene más de 21 años. Insiste en que aún debería funcionar. ¿Qué deberías hacer?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Aceptar la identificación de todos modos",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Ignorar la fecha de vencimiento",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Negarse a vender por identificación vencida",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Pedir a un compañero de trabajo que decida",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "Las identificaciones caducadas no son válidas. Debes utilizar una identificación válida y actual para verificar la edad antes de completar la venta.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 140,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 140,
-                  "interactive": {
                     "question": "Un cliente da una identificación, pero la foto no coincide claramente con su rostro. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
@@ -7168,54 +7086,13 @@
               ]
             },
             {
-              "order_index": 141,
+              "order_index": 139,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 141,
-                  "interactive": {
-                    "question": "Un cliente se impacienta mientras revisas su identificación y te pide que te des prisa. ¿Cuál es la mejor respuesta?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Acelerar el proceso",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Saltar pasos para avanzar más rápido",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Continuar revisando cuidadosamente",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Ignorar la identificación",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "Debes completar todos los pasos de verificación de identificación. Las prisas aumentan el riesgo de cometer errores y pueden dar lugar a infracciones.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 142,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 142,
+                  "order_index": 139,
                   "interactive": {
                     "question": "Un cliente no puede responder preguntas básicas sobre su identificación y evita el contacto visual. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -7243,47 +7120,6 @@
                     ],
                     "feedback": {
                       "correct": "Las respuestas y el comportamiento inconsistentes son señales de advertencia. Si no puedes confirmar que la identificación es válida, deberás rechazar la venta.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 143,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 143,
-                  "interactive": {
-                    "question": "Un cliente sin identificación se vuelve ruidoso y te presiona para que lo atiendas de todos modos. ¿Qué deberías hacer?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Servirle para evitar conflictos",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Discutir con el cliente",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Negarse a vender e involucrar a un gerente",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Alejarse sin responder",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "Debes rechazar la venta e involucrar a un gerente si es necesario. Mantener la calma y seguir el procedimiento ayuda a manejar la situación de manera segura.",
                       "incorrect": "Incorrecto."
                     }
                   }
