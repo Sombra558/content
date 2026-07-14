@@ -4117,7 +4117,7 @@
                   "order_index": 5,
                   "text": {
                     "paragraphs": [
-                      "Si determinas que una ID es falsa, alterada, prestada o pertenece a otra persona, no vendas alcohol. Siga la política de su establecimiento: niega la venta con cortesía y, según las reglas internas, retén la ID y notifica a un gerente. Nunca discutas ni acuses a la persona en voz alta. Documenta lo ocurrido si tu establecimiento exige un informe de incidente. Negarte a la venta te protege de responsabilidad penal."
+                      "Si determinas que una ID es falsa, alterada, prestada o pertenece a otra persona, no vendas alcohol. Sigue la política de tu establecimiento: niega la venta con cortesía y, según las reglas internas, retén la ID y notifica a un gerente. Nunca discutas ni acuses a la persona en voz alta. Documenta lo ocurrido si tu establecimiento exige un informe de incidente. Negarte a la venta te protege de responsabilidad penal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4263,7 +4263,7 @@
                   "order_index": 12,
                   "text": {
                     "paragraphs": [
-                      "Los menores enfrentan mayores riesgos cuando se trata de alcohol. Sus cuerpos y sus habilidades para tomar decisiones aún se están desarrollando. El consumo de alcohol a una edad temprana aumenta las posibilidades de comportamientos inseguros y lesiones. Impedir el acceso reduce estos riesgos. Como servidor, tu desempeñas un papel clave a la hora de limitar los daños al negarse a vender cuando sea necesario y seguir los procedimientos adecuados en todo momento."
+                      "Los menores enfrentan mayores riesgos cuando se trata de alcohol. Sus cuerpos y sus habilidades para tomar decisiones aún se están desarrollando. El consumo de alcohol a una edad temprana aumenta las posibilidades de comportamientos inseguros y lesiones. Impedir el acceso reduce estos riesgos. Como servidor, tú desempeñas un papel clave a la hora de limitar los daños al negarse a vender cuando sea necesario y seguir los procedimientos adecuados en todo momento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4306,27 +4306,27 @@
                       {
                         "id": "item_1",
                         "title": "Tocar la tarjeta",
-                        "revealed_text": "Sienta si la tarjeta tiene grosor desigual, bultos o desprendimiento alrededor de la foto y la fecha de nacimiento."
+                        "revealed_text": "Siente si la tarjeta tiene grosor desigual, bultos o desprendimiento alrededor de la foto y la fecha de nacimiento."
                       },
                       {
                         "id": "item_2",
                         "title": "Revisar medidas de seguridad",
-                        "revealed_text": "Busque hologramas, microtexto, tipografías claras y bordes que no hayan sido abiertos ni pegados de nuevo."
+                        "revealed_text": "Busca hologramas, microtexto, tipografías claras y bordes que no hayan sido abiertos ni pegados de nuevo."
                       },
                       {
                         "id": "item_3",
                         "title": "Revisar la fecha de nacimiento",
-                        "revealed_text": "Lea la fecha de nacimiento y compárela con la fecha de nacimiento requerida de hoy (fecha actual menos 21 años)."
+                        "revealed_text": "Lee la fecha de nacimiento y compárala con la fecha de nacimiento requerida de hoy (fecha actual menos 21 años)."
                       },
                       {
                         "id": "item_4",
                         "title": "Comparar foto y descripción",
-                        "revealed_text": "Haga coincidir la foto, la estatura y la descripción con la persona que tiene delante."
+                        "revealed_text": "Haz coincidir la foto, la estatura y la descripción con la persona que tienes delante."
                       },
                       {
                         "id": "item_5",
                         "title": "Decidir",
-                        "revealed_text": "Si algo falla o usted no está seguro, rechace la venta y siga la política del establecimiento."
+                        "revealed_text": "Si algo falla o no estás seguro, rechaza la venta y sigue la política del establecimiento."
                       }
                     ]
                   }
@@ -4420,7 +4420,7 @@
                   "order_index": 19,
                   "text": {
                     "paragraphs": [
-                      "Vender a un menor no solo pone en riesgo su trabajo: puede cambiar la vida del menor. Una condena puede generar antecedentes penales, y una segunda o posterior infracción relacionada con alcohol hace que un estudiante pierda elegibilidad para becas importantes de Carolina del Sur: Palmetto Fellows Scholarship por un año, SC HOPE Scholarship para el siguiente año académico y SC LIFE Scholarship para los períodos siguientes. Entender estas consecuencias es parte de por qué rechazar una venta a un menor siempre está por encima de concretar la venta. Estatutos aplicables: SC Code §§ 59-104-20, 61-4-100 y 61-6-4085."
+                      "Vender a un menor no solo pone en riesgo tu trabajo: puede cambiar la vida del menor. Una condena puede generar antecedentes penales, y una segunda o posterior infracción relacionada con alcohol hace que un estudiante pierda elegibilidad para becas importantes de Carolina del Sur: Palmetto Fellows Scholarship por un año, SC HOPE Scholarship para el siguiente año académico y SC LIFE Scholarship para los períodos siguientes. Entender estas consecuencias es parte de por qué rechazar una venta a un menor siempre está por encima de concretar la venta. Estatutos aplicables: SC Code §§ 59-104-20, 61-4-100 y 61-6-4085."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -4769,7 +4769,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Los servidores pueden enfrentarse a {{item_1}} y posibles {{item_2}} por ventas ilegales. Su empleador puede enfrentar {{item_3}} que impacten el negocio. Las infracciones también pueden provocar {{item_4}} y dañar su historial laboral. Estas consecuencias son graves y evitables cuando se siguen los procedimientos adecuados."
+                      "Los servidores pueden enfrentarse a {{item_1}} y posibles {{item_2}} por ventas ilegales. Tu empleador puede enfrentar {{item_3}} que impacten el negocio. Las infracciones también pueden provocar {{item_4}} y dañar tu historial laboral. Estas consecuencias son graves y evitables cuando se siguen los procedimientos adecuados."
                     ],
                     "reveal_items": [
                       {
@@ -4928,7 +4928,7 @@
                   "order_index": 39,
                   "text": {
                     "paragraphs": [
-                      "Las agencias reguladoras y policiales monitorean las ventas de alcohol. Esto puede incluir controles o investigaciones de cumplimiento. Se espera que usted cumpla la ley en todo momento, no sólo cuando sea observado. El cumplimiento constante te ayuda a evitar infracciones y garantiza que tu lugar de trabajo cumpla con los requisitos estatales."
+                      "Las agencias reguladoras y policiales monitorean las ventas de alcohol. Esto puede incluir controles o investigaciones de cumplimiento. Se espera que cumplas la ley en todo momento, no sólo cuando seas observado. El cumplimiento constante te ayuda a evitar infracciones y garantiza que tu lugar de trabajo cumpla con los requisitos estatales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5204,7 +5204,7 @@
                   "order_index": 51,
                   "text": {
                     "paragraphs": [
-                      "Los gerentes y compañeros de trabajo pueden ayudarte a hacer cumplir las reglas de identificación. Si una situación se vuelve difícil, pide ayuda. No se espera que manejes situaciones de confrontación tu solo. El apoyo del equipo ayuda a garantizar que las reglas se sigan de manera consistente y segura en todo el lugar de trabajo."
+                      "Los gerentes y compañeros de trabajo pueden ayudarte a hacer cumplir las reglas de identificación. Si una situación se vuelve difícil, pide ayuda. No se espera que manejes situaciones de confrontación tú solo. El apoyo del equipo ayuda a garantizar que las reglas se sigan de manera consistente y segura en todo el lugar de trabajo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5480,7 +5480,7 @@
                   "order_index": 63,
                   "text": {
                     "paragraphs": [
-                      "La identificación vencida no es válida para la venta de alcohol. Incluso si la fecha de nacimiento muestra que el cliente tiene más de 21 años, no se debe aceptar una identificación caducada. Las fecha de vencimiento deben estar actualizada. Siempre verifica este detalle como parte de su proceso de verificación de identidad estándar."
+                      "La identificación vencida no es válida para la venta de alcohol. Incluso si la fecha de nacimiento muestra que el cliente tiene más de 21 años, no se debe aceptar una identificación caducada. Las fecha de vencimiento deben estar actualizada. Siempre verifica este detalle como parte de tu proceso de verificación de identidad estándar."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5991,7 +5991,7 @@
                   "order_index": 86,
                   "text": {
                     "paragraphs": [
-                      "No vuelvas a la venta una vez que hayas decidido rechazarla. Cambiar tu decisión puede llevar a errores. Mantente firme y consistente. Si es necesario, aléjate y pida ayuda. Tu seguridad y cumplimiento son la prioridad en cada situación."
+                      "No vuelvas a la venta una vez que hayas decidido rechazarla. Cambiar tu decisión puede llevar a errores. Mantente firme y consistente. Si es necesario, aléjate y pide ayuda. Tu seguridad y cumplimiento son la prioridad en cada situación."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6332,7 +6332,7 @@
                   "order_index": 99,
                   "text": {
                     "paragraphs": [
-                      "Los menores suelen utilizar identificación falsa cuando intentan comprar alcohol. Como servidor en Carolina del Sur, usted es responsable de reconocer y rechazar identificaciones falsas. Aceptar una puede conllevar una venta ilegal y graves consecuencias. Aprender a detectar señales de alerta te ayudará a tomar mejores decisiones y cumplir con la ley."
+                      "Los menores suelen utilizar identificación falsa cuando intentan comprar alcohol. Como servidor en Carolina del Sur, tú eres responsable de reconocer y rechazar identificaciones falsas. Aceptar una puede conllevar una venta ilegal y graves consecuencias. Aprender a detectar señales de alerta te ayudará a tomar mejores decisiones y cumplir con la ley."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6349,7 +6349,7 @@
                   "order_index": 100,
                   "text": {
                     "paragraphs": [
-                      "Recuerda, tú eres responsable de la decisión final. Incluso si un cliente insiste en que tiene edad suficiente, debes verificarlo tú mismo. No confíe en declaraciones o presiones. Completa la venta únicamente cuando estés seguro de que el cliente tiene legalmente 21 años o más."
+                      "Recuerda, tú eres responsable de la decisión final. Incluso si un cliente insiste en que tiene edad suficiente, debes verificarlo tú mismo. No confíes en declaraciones o presiones. Completa la venta únicamente cuando estés seguro de que el cliente tiene legalmente 21 años o más."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6482,7 +6482,7 @@
                   "order_index": 105,
                   "text": {
                     "paragraphs": [
-                      "Verifique la coherencia de la información. Los nombres, fechas y otros detalles deben alinearse correctamente. Si algo no coincide o parece inusual, puede ser una identificación falsa. Incluso las pequeñas inconsistencias pueden indicar un problema. Tómate siempre el tiempo para revisar todos los detalles detenidamente."
+                      "Verifica la coherencia de la información. Los nombres, fechas y otros detalles deben alinearse correctamente. Si algo no coincide o parece inusual, puede ser una identificación falsa. Incluso las pequeñas inconsistencias pueden indicar un problema. Tómate siempre el tiempo para revisar todos los detalles detenidamente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6901,7 +6901,7 @@
                   "order_index": 124,
                   "text": {
                     "paragraphs": [
-                      "Negar una venta siempre debe hacerse de forma clara y profesional. Utiliza un lenguaje sencillo y directo y evita explicaciones largas. No es necesario argumentar ni justificar la ley. Expresa tu decisión y sé coherente. Mantener tu respuesta breve y firme. Mantener su respuesta breve y firme ayuda a reducir la confusión y evita que la situación empeore aún más."
+                      "Negar una venta siempre debe hacerse de forma clara y profesional. Utiliza un lenguaje sencillo y directo y evita explicaciones largas. No es necesario argumentar ni justificar la ley. Expresa tu decisión y sé coherente. Mantener tu respuesta breve y firme ayuda a reducir la confusión y evita que la situación empeore aún más."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6942,7 +6942,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Si no puede confirmar que la identificación es válida, deberá rechazar la venta. Las inconsistencias y la presión son señales de advertencia que requieren que usted detenga la transacción.",
+                      "correct": "Si no puedes confirmar que la identificación es válida, deberás rechazar la venta. Las inconsistencias y la presión son señales de advertencia que requieren que detengas la transacción.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -6996,7 +6996,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Cuando te niegues a vender, di que {{item_1}} , explique que {{item_2}} , quédate {{item_3}} y usa un {{item_4}} . Estos pasos te ayudarán a comunicarte con claridad mientras mantienes el control de la situación."
+                      "Cuando te niegues a vender, di que {{item_1}} , explica que {{item_2}} , quédate {{item_3}} y usa un {{item_4}} . Estos pasos te ayudarán a comunicarte con claridad mientras mantienes el control de la situación."
                     ],
                     "reveal_items": [
                       {
