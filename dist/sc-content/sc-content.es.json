@@ -11,7 +11,7 @@
       "sections": [
         {
           "order_index": 1,
-          "title": "Unidad 1 – Leyes de Alcohol de SC y Responsabilidad Legal",
+          "title": "Unidad 1 – Leyes de Alcohol de CS y Responsabilidad Legal",
           "slides": [
             {
               "order_index": 0,
@@ -5480,7 +5480,7 @@
                   "order_index": 64,
                   "text": {
                     "paragraphs": [
-                      "Si no estás seguro de una identificación, no la adivines. Pide ayuda a un gerente o sigue los procedimientos de la empresa. Es mejor retrasar una venta que cometer un error. Tomarse más tiempo garantiza el cumplimiento de la ley y te protege de posibles sanciones."
+                      "Si no estás seguro de una identificación, no adivines. Pide ayuda a un gerente o sigue los procedimientos de la empresa. Es mejor retrasar una venta que cometer un error. Tomarse más tiempo garantiza el cumplimiento de la ley y te protege de posibles sanciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14870,7 +14870,7 @@
         },
         {
           "order_index": 7,
-          "title": "Unidad 7 — DUI en SC, Cumplimiento y Consecuencias Reales",
+          "title": "Unidad 7 — DUI en CS, Cumplimiento y Consecuencias Reales",
           "slides": [
             {
               "order_index": 0,
@@ -14884,7 +14884,7 @@
                   "content_type": "unit_introduction",
                   "text": {
                     "bullet_points": [
-                      "7A. Estadísticas, Tendencias y Aplicación de DUI en SC.",
+                      "7A. Estadísticas, Tendencias y Aplicación de DUI en CS.",
                       "7B. Lesiones, Fatalidades y Riesgo Relacionados con el Alcohol.",
                       "7C. Impacto en la Comunidad y Seguridad Pública.",
                       "7D. Supervisión de Aplicación de la Ley y Verificaciones de Cumplimiento.",
@@ -15167,7 +15167,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Las estadísticas vuelven a su función: {{item_1}} {{item_2}} {{item_3}} {{item_4}} Cada negativa responsable cambia las cifras."
+                      "Las estadísticas vuelven a tu función: {{item_1}} {{item_2}} {{item_3}} {{item_4}} Cada negativa responsable cambia las cifras."
                     ],
                     "reveal_items": [
                       {
@@ -15615,7 +15615,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "El riesgo aumenta con {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos factores pueden amplificar los efectos del alcohol. Incluso una pequeña cantidad de alcohol puede causar un deterioro más grave en estas condiciones. Manténgase atento tanto al huésped como al entorno."
+                      "El riesgo aumenta con {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos factores pueden amplificar los efectos del alcohol. Incluso una pequeña cantidad de alcohol puede causar un deterioro más grave en estas condiciones. Mantente atento tanto al huésped como al entorno."
                     ],
                     "reveal_items": [
                       {
