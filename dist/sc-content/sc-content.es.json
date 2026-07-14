@@ -6206,7 +6206,7 @@
                   "order_index": 93,
                   "text": {
                     "paragraphs": [
-                      "Se requiere verificar con precisión la edad antes de vender alcohol en Carolina del Sur. Debes confirmar que un cliente tiene al menos 21 años. Esto se hace verificando la fecha de nacimiento en una identificación válida. No es aceptable adivinar o estimar. Tomarse el tiempo para verificar la edad lo protege de realizar una venta ilegal."
+                      "Se requiere verificar con precisión la edad antes de vender alcohol en Carolina del Sur. Debes confirmar que un cliente tiene al menos 21 años. Esto se hace verificando la fecha de nacimiento en una identificación válida. No es aceptable adivinar o estimar. Tomarte el tiempo para verificar la edad te protege de realizar una venta ilegal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6553,7 +6553,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Esté atento a comportamientos como {{item_1}} , {{item_2}} , {{item_3}} y {{item_4}} . Estos comportamientos pueden respaldar su decisión de examinar más de cerca la identificación."
+                      "Esté atento a comportamientos como {{item_1}} , {{item_2}} , {{item_3}} y {{item_4}} . Estos comportamientos pueden respaldar tu decisión de examinar más de cerca la identificación."
                     ],
                     "reveal_items": [
                       {
@@ -7439,7 +7439,7 @@
                 {
                   "order_index": 143,
                   "interactive": {
-                    "question": "Un cliente sin identificación se vuelve ruidoso y te presiona para que lo atienda de todos modos. ¿Qué deberías hacer?",
+                    "question": "Un cliente sin identificación se vuelve ruidoso y te presiona para que lo atiendas de todos modos. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -12970,7 +12970,7 @@
                   "order_index": 2,
                   "text": {
                     "paragraphs": [
-                      "Convierta la capacitación continua en un hábito: complete repasos cuando su empleador los ofrezca, vuelva a revisar periódicamente sus habilidades para verificar ID y rechazar servicio, y manténgase atento a actualizaciones en la ley de alcohol de Carolina del Sur. Los empleadores que mantienen certificados a todos sus servidores también reducen su requisito de seguro de responsabilidad por licor, por lo que su capacitación continua beneficia directamente al negocio."
+                      "Convierta la capacitación continua en un hábito: completa repasos cuando tu empleador los ofrezca, vuelva a revisar periódicamente tus habilidades para verificar ID y rechazar el servicio, y manténgase atento a actualizaciones en la ley de alcohol de Carolina del Sur. Los empleadores que mantienen certificados a todos sus servidores también reducen su requisito de seguro de responsabilidad por licor, por lo que tu capacitación continua beneficia directamente al negocio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12990,7 +12990,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Sus responsabilidades legales principales incluyen: {{item_1}} cuando sea necesario, negar el servicio a {{item_2}} , evitar atender a clientes en {{item_3}} , obedecer las {{item_4}} y respaldar las prácticas de {{item_5}} en todo momento. Estos deberes son esenciales para reducir el riesgo y proteger la seguridad pública."
+                      "Tus responsabilidades legales principales incluyen: {{item_1}} cuando sea necesario, negar el servicio a {{item_2}} , evitar atender a clientes en {{item_3}} , obedecer las {{item_4}} y respaldar las prácticas de {{item_5}} en todo momento. Estos deberes son esenciales para reducir el riesgo y proteger la seguridad pública."
                     ],
                     "reveal_items": [
                       {
@@ -13033,7 +13033,7 @@
                   "order_index": 4,
                   "text": {
                     "paragraphs": [
-                      "Los servidores de alcohol en Carolina del Sur tienen el deber de servir de manera responsable en todo momento. Esto incluye seguir las leyes estatales y las políticas laborales. Cada bebida servida es una decisión que puede afectar la seguridad. Se espera que permanezcas alerta, observes a los clientes y actúes cuando sea necesario. El servicio responsable ayuda a prevenir daños y te protege  de riesgos a ti y a tu empleador."
+                      "Los servidores de alcohol en Carolina del Sur tienen el deber de servir de manera responsable en todo momento. Esto incluye seguir las leyes estatales y las políticas laborales. Cada bebida servida es una decisión que puede afectar la seguridad. Se espera que permanezcas alerta, observes a los clientes y actúes cuando sea necesario. El servicio responsable ayuda a prevenir daños y te protege de riesgos a ti y a tu empleador."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13113,7 +13113,7 @@
                   "order_index": 7,
                   "text": {
                     "paragraphs": [
-                      "El servicio de alcohol requiere una conciencia constante. Debes controlar cuánto bebe cada cliente a lo largo del tiempo. Servir demasiado rápido o ignorar los patrones de consumo puede provocar un exceso de servicio. Preste atención al ritmo y al comportamiento del cliente. Reducir la velocidad del servicio cuando sea necesario ayuda a prevenir la intoxicación y evita que las situaciones se salgan de control."
+                      "El servicio de alcohol requiere una conciencia constante. Debes controlar cuánto bebe cada cliente a lo largo del tiempo. Servir demasiado rápido o ignorar los patrones de consumo puede provocar un exceso de servicio. Presta atención al ritmo y al comportamiento del cliente. Reducir la velocidad del servicio cuando sea necesario ayuda a prevenir la intoxicación y evita que las situaciones se salgan de control."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13130,7 +13130,7 @@
                   "order_index": 8,
                   "text": {
                     "paragraphs": [
-                      "Reconocer la intoxicación es parte de tu trabajo. Debes estar atento a signos físicos y de comportamiento, como dificultad para hablar, mala coordinación o comportamiento inusual. Estos signos pueden aparecer gradualmente. No ignores los primeros indicadores. Actuar antes le brinda más control y reduce la posibilidad de que se desarrolle un problema grave más adelante en el turno."
+                      "Reconocer la intoxicación es parte de tu trabajo. Debes estar atento a signos físicos y de comportamiento, como dificultad para hablar, mala coordinación o comportamiento inusual. Estos signos pueden aparecer gradualmente. No ignores los primeros indicadores. Actuar antes te brinda más control y reduce la posibilidad de que se desarrolle un problema grave más adelante en el turno."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13147,7 +13147,7 @@
                   "order_index": 9,
                   "text": {
                     "paragraphs": [
-                      "Eres el responsable de negar el servicio cuando sea necesario. Esto incluye negar el alcohol a menores de edad y a aquellos que parezcan estar intoxicados. La negativa debe manejarse con calma y profesionalidad. Utiliza un lenguaje claro y evita la confrontación. Si la situación se vuelve difícil, busca el apoyo de un gerente o compañero de trabajo para que te ayuden a mantener el control."
+                      "Eres el responsable de rechazar el servicio cuando sea necesario. Esto incluye negar el alcohol a menores de edad y a aquellos que parezcan estar intoxicados. La negativa debe manejarse con calma y profesionalidad. Utiliza un lenguaje claro y evita la confrontación. Si la situación se vuelve difícil, busca el apoyo de un gerente o compañero de trabajo para que te ayuden a mantener el control."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13178,22 +13178,22 @@
                       {
                         "id": "item_2",
                         "title": "seguir la política",
-                        "revealed_text": "seguir la política"
+                        "revealed_text": "siga la política"
                       },
                       {
                         "id": "item_3",
                         "title": "observar el comportamiento",
-                        "revealed_text": "observar el comportamiento"
+                        "revealed_text": "observa el comportamiento"
                       },
                       {
                         "id": "item_4",
                         "title": "actuar temprano",
-                        "revealed_text": "actuar temprano"
+                        "revealed_text": "actua temprano"
                       },
                       {
                         "id": "item_5",
                         "title": "pide ayuda",
-                        "revealed_text": "pide ayuda"
+                        "revealed_text": "pida ayuda"
                       }
                     ]
                   }
@@ -13210,7 +13210,7 @@
                   "order_index": 11,
                   "text": {
                     "paragraphs": [
-                      "Seguir las políticas de la empresa es parte de su responsabilidad legal. Estas políticas están diseñadas para apoyar el servicio seguro de alcohol y el cumplimiento de las expectativas estatales. Pueden incluir límites de bebidas, procedimientos de identificación y requisitos de presentación de informes. Síguelos siempre, incluso durante las horas punta. La coherencia ayuda a prevenir errores y reduce la responsabilidad."
+                      "Seguir las políticas de la empresa es parte de tu responsabilidad legal. Estas políticas están diseñadas para apoyar el servicio seguro de alcohol y el cumplimiento de las expectativas estatales. Pueden incluir límites de bebidas, procedimientos de identificación y requisitos de presentación de informes. Síguelos siempre, incluso durante las horas puntuales. La coherencia ayuda a prevenir errores y reduce la responsabilidad."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13226,7 +13226,7 @@
                 {
                   "order_index": 12,
                   "interactive": {
-                    "question": "Usted escucha que Carolina del Sur podría haber cambiado una regla sobre horarios de servicio, pero no está seguro. ¿Cuál es la mejor respuesta profesional?",
+                    "question": "Tu escuchas que Carolina del Sur podría haber cambiado una regla sobre horarios de servicio, pero no estás seguro. ¿Cuál es la mejor respuesta profesional?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -13236,7 +13236,7 @@
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Revisar recursos actuales de Carolina del Sur o consultar a su gerente, y completar capacitación de repaso para mantenerse al día",
+                        "label": "B. Revisar los recursos actuales de Carolina del Sur o consultar a tu gerente, y completar la capacitación de repaso para mantenerte al día",
                         "is_correct": true
                       },
                       {
@@ -13268,7 +13268,7 @@
                   "order_index": 13,
                   "text": {
                     "paragraphs": [
-                      "Los servidores de alcohol también desempeñan un papel en la prevención de daños más allá del establecimiento. Un servicio inseguro puede provocar accidentes, lesiones u otros incidentes graves. Sus decisiones afectan no sólo al cliente sino también a otros miembros de la comunidad. Mantenerse alerta y tomar decisiones responsables ayuda a reducir estos riesgos y mantiene a las personas más seguras."
+                      "Los servidores de alcohol también desempeñan un papel en la prevención de daños más allá del establecimiento. Un servicio inseguro puede provocar accidentes, lesiones u otros incidentes graves. Tus decisiones afectan no sólo al cliente sino también a otros miembros de la comunidad. Mantenerte alerta y tomar decisiones responsables ayuda a reducir estos riesgos y mantiene a las personas más seguras."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13285,7 +13285,7 @@
                   "order_index": 14,
                   "text": {
                     "paragraphs": [
-                      "La buena comunicación es parte de un servicio responsable. Hablar clara y respetuosamente con los clientes. Establece control con anticipación si es necesario. Si debes reducir la velocidad o detener el servicio, mantén la calma y sé profesional. Tu tono y enfoque pueden prevenir conflictos. La comunicación clara ayuda a mantener el control y evita que las situaciones empeoren innecesariamente."
+                      "La buena comunicación es parte de un servicio responsable. Hablar claro y respetuosamente con los clientes. Establece control con anticipación si es necesario. Si debes reducir la velocidad o detener el servicio, mantén la calma y sé profesional. Tu tono y enfoque pueden prevenir conflictos. La comunicación clara ayuda a mantener el control y evita que las situaciones empeoren innecesariamente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13305,7 +13305,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Los gerentes ayudan a respaldar un servicio seguro proporcionando {{item_1}} , tomando las {{item_2}} finales, manejando {{item_3}} , haciendo cumplir {{item_4}} y brindando soporte a {{item_5}} . Saber cuándo involucrar a un gerente es una parte fundamental de tu trabajo y ayuda a evitar que las situaciones empeoren."
+                      "Los gerentes ayudan a respaldar un servicio seguro proporcionando {{item_1}} , tomando las {{item_2}} finales, manejando {{item_3}} , haciendo cumplir las {{item_4}} y brindando soporte a {{item_5}} . Saber cuándo involucrar a un gerente es una parte fundamental de tu trabajo y ayuda a evitar que las situaciones empeoren."
                     ],
                     "reveal_items": [
                       {
@@ -13321,7 +13321,7 @@
                       {
                         "id": "item_3",
                         "title": "conflicto",
-                        "revealed_text": "conflicto"
+                        "revealed_text": "conflictos"
                       },
                       {
                         "id": "item_4",
@@ -13348,7 +13348,7 @@
                   "order_index": 16,
                   "text": {
                     "paragraphs": [
-                      "Los gerentes son un recurso clave para los servidores de alcohol en Carolina del Sur. No se espera que manejes todas las situaciones solo. Cuando una situación se vuelve poco clara, difícil o insegura, involucre a un gerente lo antes posible. Proporcionan orientación, apoyan las decisiones y ayudan a garantizar el cumplimiento de las leyes y políticas. Usar a tu gerente como recurso ayuda a reducir el riesgo y protege a todos los involucrados."
+                      "Los gerentes son un recurso clave para los servidores de alcohol en Carolina del Sur. No se espera que manejes todas las situaciones solo. Cuando una situación se vuelve poco clara, difícil o insegura, involucra a un gerente lo antes posible. Proporcionan orientación, apoyan las decisiones y ayudan a garantizar el cumplimiento de las leyes y políticas. Usar a tu gerente como recurso ayuda a reducir el riesgo y protege a todos los involucrados."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13428,7 +13428,7 @@
                   "order_index": 19,
                   "text": {
                     "paragraphs": [
-                      "Debe involucrar a un gerente cuando no esté seguro de la edad, el comportamiento o el nivel de intoxicación de un cliente. No adivines ni corras riesgos. Una segunda opinión ayuda a garantizar que se tome la decisión correcta. Los gerentes están capacitados para manejar estas situaciones y pueden intervenir rápidamente para respaldar resultados seguros."
+                      "Debes involucrar a un gerente cuando no estés seguro de la edad, el comportamiento o el nivel de intoxicación de un cliente. No adivines ni corras riesgos. Una segunda opinión ayuda a garantizar que se tome la decisión correcta. Los gerentes están capacitados para manejar estas situaciones y pueden intervenir rápidamente para respaldar resultados seguros."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13445,7 +13445,7 @@
                   "order_index": 20,
                   "text": {
                     "paragraphs": [
-                      "Los gerentes también ayudan a manejar situaciones difíciles o de confrontación. Si un cliente se molesta o se niega a seguir las reglas, no discuta. Mantenga la calma y traiga un gerente. Esto ayuda a mantener el control y previene la escalada. Los gerentes suelen tener más autoridad y experiencia para manejar estas interacciones de manera segura."
+                      "Los gerentes también ayudan a manejar situaciones difíciles o de confrontación. Si un cliente se molesta o se niega a seguir las reglas, no discutas. Manten la calma y traiga a un gerente. Esto ayuda a mantener el control y previene la escalada. Los gerentes suelen tener más autoridad y experiencia para manejar estas interacciones de manera segura."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13462,7 +13462,7 @@
                   "order_index": 21,
                   "text": {
                     "paragraphs": [
-                      "Apoyar a los compañeros de trabajo es parte de la responsabilidad del equipo. Si notas que un compañero de trabajo está luchando con una situación, ofrécele ayuda o notifique a un gerente. No ignores los problemas potenciales. Una respuesta rápida puede evitar problemas mayores. Todos comparten la responsabilidad de mantener un entorno seguro y que cumpla con las normas."
+                      "Apoyar a los compañeros de trabajo es parte de la responsabilidad del equipo. Si notas que un compañero de trabajo está luchando con una situación, ofrécele ayuda o notifica a un gerente. No ignores los problemas potenciales. Una respuesta rápida puede evitar problemas mayores. Todos comparten la responsabilidad de mantener un entorno seguro y que cumpla con las normas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13496,7 +13496,7 @@
                   "order_index": 23,
                   "text": {
                     "paragraphs": [
-                      "Los gerentes son responsables de hacer cumplir las políticas y garantizar el cumplimiento. Pueden intervenir para detener el servicio, manejar incidentes o apoyar las decisiones del personal. Respete su dirección y comuníquese abiertamente. Seguir las pautas de gestión ayuda a proteger el negocio y garantiza que se sigan prácticas de servicio seguras en todo momento."
+                      "Los gerentes son responsables de hacer cumplir las políticas y garantizar el cumplimiento. Pueden intervenir para detener el servicio, manejar incidentes o apoyar las decisiones del personal. Respeta su dirección y comuníquese abiertamente. Seguir las pautas de gestión ayuda a proteger el negocio y garantiza que se sigan prácticas de servicio seguras en todo momento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13554,7 +13554,7 @@
                   "order_index": 25,
                   "text": {
                     "paragraphs": [
-                      "Los negocios abiertos después de las 5 p. m. que venden alcohol para consumo en el local deben contar con al menos $1 millón en cobertura de responsabilidad por licor. Carolina del Sur permite reducir ese requisito mediante mitigación de riesgo; por ejemplo, una reducción de $100,000 cuando cada servidor completa el SC Alcohol Server Certificate dentro de los 60 días de contratación, o cuando el negocio deja de servir a medianoche, lo que reduce $250,000. Esta es una razón financiera directa por la que su capacitación y servicio responsable importan a su empleador. Estatuto aplicable: SC Code § 61-2-145."
+                      "Los negocios abiertos después de las 5 p. m. que venden alcohol para consumo en el local deben contar con al menos $1 millón en cobertura de responsabilidad por licor. Carolina del Sur permite reducir ese requisito mediante mitigación de riesgo; por ejemplo, una reducción de $100,000 cuando cada servidor completa el SC Alcohol Server Certificate dentro de los 60 días de contratación, o cuando el negocio deja de servir a medianoche, lo que reduce $250,000. Esta es una razón financiera directa por la que tu capacitación y servicio responsable importan a tu empleador. Estatuto aplicable: SC Code § 61-2-145."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13571,7 +13571,7 @@
                   "order_index": 26,
                   "text": {
                     "paragraphs": [
-                      "Si un cliente intoxicado causa daños después, el establecimiento puede compartir responsabilidad civil. Según la ley de Carolina del Sur, un negocio ya no es responsable de más del 50% de los daños de un incidente de DUI, y la responsabilidad puede repartirse entre múltiples partes si así lo decide un jurado. El servicio responsable, como cortar el servicio a clientes intoxicados y rechazar ventas ilegales, es la forma en que usted y su empleador limitan esa exposición. Estatutos aplicables: SC Code §§ 15-38-15 a 15-38-40 y 61-2-147."
+                      "Si un cliente intoxicado causa daños después, el establecimiento puede compartir responsabilidad civil. Según la ley de Carolina del Sur, un negocio ya no es responsable de más del 50% de los daños de un incidente de DUI, y la responsabilidad puede repartirse entre múltiples partes si así lo decide un jurado. El servicio responsable, como cortar el servicio a clientes intoxicados y rechazar ventas ilegales, es la forma en que tu y tu empleador limitan esa exposición. Estatutos aplicables: SC Code §§ 15-38-15 a 15-38-40 y 61-2-147."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13622,7 +13622,7 @@
                   "order_index": 29,
                   "text": {
                     "paragraphs": [
-                      "Cuando complete este curso y apruebe el examen, su Alcohol Server Certificate se emite a través del South Carolina Department of Revenue (SCDOR). Puede acceder a su certificado aprobado y a su número de certificado a través del portal MYDORWAY. Conserve ese número; empleadores y reguladores pueden pedirle que confirme su certificación."
+                      "Cuando complete este curso y apruebe el examen, tu Alcohol Server Certificate se emite a través del South Carolina Department of Revenue (SCDOR). Puede acceder a tu certificado aprobado y a tu número de certificado a través del portal MYDORWAY. Conserva ese número; empleadores y reguladores pueden pedirte que confirmes tu certificación."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13642,7 +13642,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Debe negar el servicio en las siguientes situaciones: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Involucrar a un gerente desde el principio ayuda a prevenir errores y respalda el manejo adecuado de la situación."
+                      "Debes rechazar el servicio en las siguientes situaciones: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Involucrar a un gerente desde el principio ayuda a prevenir errores y respalda el manejo adecuado de la situación."
                     ],
                     "reveal_items": [
                       {
@@ -13711,7 +13711,7 @@
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Ignorar al cliente y alejarse",
+                        "label": "B. Ignorar al cliente y alejarme",
                         "is_correct": false
                       },
                       {
@@ -13823,7 +13823,7 @@
                   "order_index": 36,
                   "text": {
                     "paragraphs": [
-                      "Las decisiones de marketing suelen ser tomadas por la dirección, pero los servidores siguen desempeñando un papel. Debes seguir las reglas de cualquier promoción y aplicarlas de forma segura. Si una promoción parece crear condiciones inseguras, notifique a un gerente. No continúe sirviendo de una manera que aumente el riesgo solo para cumplir objetivos promocionales."
+                      "Las decisiones de marketing suelen ser tomadas por la dirección, pero los servidores siguen desempeñando un papel. Debes seguir las reglas de cualquier promoción y aplicarlas de forma segura. Si una promoción parece crear condiciones inseguras, notifica a un gerente. No continúes sirviendo de una manera que aumente el riesgo solo para cumplir objetivos promocionales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13840,7 +13840,7 @@
                   "order_index": 37,
                   "text": {
                     "paragraphs": [
-                      "Las promociones pueden cambiar el comportamiento de los clientes. Los descuentos o ofertas especiales pueden llevar a los clientes a beber más rápido o pedir más. Debes estar atento a estos patrones. Permanece alerta a signos de intoxicación y ajusta tu servicio. Reducir la velocidad del servicio u ofrecer alternativas ayuda a mantener el control durante promociones ocupadas o de alto riesgo."
+                      "Las promociones pueden cambiar el comportamiento de los clientes. Los descuentos o ofertas especiales pueden llevar a los clientes a beber más rápido o pedir más. Debes estar atento a estos patrones. Permanezca alerta a signos de intoxicación y ajusta tu servicio. Reducir la velocidad del servicio u ofrecer alternativas ayuda a mantener el control durante promociones ocupadas o de alto riesgo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13920,7 +13920,7 @@
                   "order_index": 40,
                   "text": {
                     "paragraphs": [
-                      "Aún debe negar el servicio cuando sea necesario, incluso durante las promociones. Un descuento o especial no cambia la ley. No atender a menores de edad ni a clientes en estado de ebriedad bajo ninguna circunstancia. Las promociones nunca deben anular tu responsabilidad de seguir las leyes estatales y proteger la seguridad del cliente."
+                      "Aún debe rechazar el servicio cuando sea necesario, incluso durante las promociones. Un descuento o especial no cambia la ley. No atender a menores de edad ni a clientes en estado de ebriedad bajo ninguna circunstancia. Las promociones nunca deben anular tu responsabilidad de seguir las leyes estatales y proteger la seguridad del cliente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13937,7 +13937,7 @@
                   "order_index": 41,
                   "text": {
                     "paragraphs": [
-                      "Los gerentes son responsables de establecer las pautas de promoción, pero los servidores deben ayudar a hacerlas cumplir. Si una promoción genera confusión o conflicto, involucre a un gerente. La comunicación clara y el trabajo en equipo ayudan a garantizar que las promociones se lleven a cabo de manera segura y consistente entre todos los miembros del personal."
+                      "Los gerentes son responsables de establecer las pautas de promoción, pero los servidores deben ayudar a hacerlas cumplir. Si una promoción genera confusión o conflicto, debes involucrar a un gerente. La comunicación clara y el trabajo en equipo ayudan a garantizar que las promociones se lleven a cabo de manera segura y consistente entre todos los miembros del personal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13957,7 +13957,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Apoya la promoción responsable mediante {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones ayudan a mantener las promociones seguras y cumpliendo con las normas."
+                      "Apoya la promoción responsable mediante los siguientes métodos: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones ayudan a mantener las promociones seguras y cumpliendo con las normas."
                     ],
                     "reveal_items": [
                       {
@@ -13978,7 +13978,7 @@
                       {
                         "id": "item_4",
                         "title": "negando el servicio cuando sea necesario",
-                        "revealed_text": "negando el servicio cuando sea necesario"
+                        "revealed_text": "rechazando el servicio cuando sea necesario"
                       },
                       {
                         "id": "item_5",
@@ -14031,7 +14031,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Reducir o detener el servicio y monitorear al cliente",
+                        "label": "C. Reducir o detener el servicio y monitorear al cliente.",
                         "is_correct": true
                       },
                       {
@@ -14058,7 +14058,7 @@
                   "order_index": 45,
                   "text": {
                     "paragraphs": [
-                      "El conocimiento estándar de las bebidas ayuda a los camareros a comprender cuánto alcohol consume realmente un cliente. No todas las bebidas son iguales. Los distintos tipos y tamaños de bebidas pueden contener distintas cantidades de alcohol. Saber qué se considera una bebida estándar le ayuda a controlar el consumo y evitar el exceso de servicio. Este conocimiento respalda un servicio seguro y una mejor toma de decisiones durante cada turno."
+                      "El conocimiento estándar de las bebidas ayuda a los camareros a comprender cuánto alcohol consume realmente un cliente. No todas las bebidas son iguales. Los distintos tipos y tamaños de bebidas pueden contener distintas cantidades de alcohol. Saber qué se considera una bebida estándar te ayuda a controlar el consumo y evitar el exceso de servicio. Este conocimiento respalda un servicio seguro y una mejor toma de decisiones durante cada turno."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14075,7 +14075,7 @@
                   "order_index": 46,
                   "text": {
                     "paragraphs": [
-                      "Una bebida estándar es una forma general de medir el contenido de alcohol en diferentes bebidas. Te permite comparar cerveza, vino y licores en la misma escala. Esto le ayuda a realizar un seguimiento de la cantidad de alcohol que ha consumido un cliente, incluso si pide diferentes tipos de bebidas durante su visita."
+                      "Una bebida estándar es una forma general de medir el contenido de alcohol en diferentes bebidas. Te permite comparar cerveza, vino y licores en la misma escala. Esto te ayuda a realizar un seguimiento de la cantidad de alcohol que ha consumido un cliente, incluso si pide diferentes tipos de bebidas durante su visita."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14138,7 +14138,7 @@
                   "order_index": 48,
                   "text": {
                     "paragraphs": [
-                      "El tamaño y la concentración de la bebida pueden variar ampliamente. Un trago grande o una bebida mezclada fuerte puede contener más de una bebida estándar. No asuma que un vaso equivale a una bebida. Considere siempre cómo se prepara la bebida. Esto es especialmente importante al servir cócteles o bebidas especiales."
+                      "El tamaño y la concentración de la bebida pueden variar ampliamente. Un trago grande o una bebida mezclada fuerte puede contener más de una bebida estándar. No asuma que un vaso equivale a una bebida. Considera siempre cómo se prepara la bebida. Esto es especialmente importante al servir cócteles o bebidas especiales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14390,7 +14390,7 @@
                   "order_index": 58,
                   "text": {
                     "paragraphs": [
-                      "La ética en el servicio de alcohol significa hacer lo correcto, incluso cuando no sea la opción más fácil. Esto incluye negar el servicio cuando sea necesario, seguir los procedimientos de identificación y evitar atajos. Las decisiones éticas protegen a los clientes y reducen el riesgo. Tus acciones reflejan tanto tu profesionalismo como tus estándares laborales."
+                      "La ética en el servicio de alcohol significa hacer lo correcto, incluso cuando no sea la opción más fácil. Esto incluye rechazar el servicio cuando sea necesario, seguir los procedimientos de identificación y evitar atajos. Las decisiones éticas protegen a los clientes y reducen el riesgo. Tus acciones reflejan tanto tu profesionalismo como tus estándares laborales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14416,7 +14416,7 @@
                       {
                         "id": "item_1",
                         "title": "Seguridad ante todo",
-                        "revealed_text": "Seguridad ante todo"
+                        "revealed_text": "seguridad ante todo"
                       },
                       {
                         "id": "item_2",
@@ -14567,7 +14567,7 @@
                   "order_index": 65,
                   "text": {
                     "paragraphs": [
-                      "La conducta profesional también incluye cómo se comunica con sus compañeros de trabajo. La comunicación clara y respetuosa ayuda a prevenir errores. Comparta inquietudes de forma rápida y directa. Esto ayuda al equipo a mantenerse alineado y responder a los problemas antes de que se conviertan en problemas graves."
+                      "La conducta profesional también incluye cómo te comunica con tus compañeros de trabajo. La comunicación clara y respetuosa ayuda a prevenir errores. Comparta inquietudes de forma rápida y directa. Esto ayuda al equipo a mantenerse alineado y responder a los problemas antes de que se conviertan en problemas graves."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14630,7 +14630,7 @@
                   "order_index": 67,
                   "text": {
                     "paragraphs": [
-                      "Una cultura laboral positiva fomenta la confianza a la hora de tomar decisiones difíciles. Negar el servicio, retrasar el servicio de alcohol o involucrar a un gerente son parte de un comportamiento responsable. Cuando el personal se siente apoyado, es más probable que actúe de manera que proteja la seguridad y cumpla con la ley."
+                      "Una cultura laboral positiva fomenta la confianza a la hora de tomar decisiones difíciles. Rechazar el servicio, retrasar el servicio de alcohol o involucrar a un gerente son parte de un comportamiento responsable. Cuando el personal se siente apoyado, es más probable que actúe de manera que proteja la seguridad y cumpla con la ley."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -14697,7 +14697,7 @@
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Negar el servicio o solicitar otra identificación válida",
+                        "label": "B. Rechazar el servicio o solicitar otra identificación válida",
                         "is_correct": true
                       },
                       {
@@ -14820,7 +14820,7 @@
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Negar el servicio sin explicación",
+                        "label": "B. Rechazar el servicio sin explicación",
                         "is_correct": false
                       },
                       {
