@@ -9954,14 +9954,14 @@
                   "content_type": "unit_introduction",
                   "text": {
                     "bullet_points": [
-                      "5A. Cuándo Negar el Servicio + Justificación Legal.",
-                      "5B. Negación del Servicio Paso a Paso (Parte 1).",
-                      "5C. Negación del Servicio Paso a Paso (Parte 2).",
+                      "5A. Cuándo Rechazar el Servicio + Justificación Legal.",
+                      "5B. Rechazo del Servicio Paso a Paso (Parte 1).",
+                      "5C. Rechazo del Servicio Paso a Paso (Parte 2).",
                       "5D. Técnicas de Comunicación y Desescalada.",
                       "5E. Manejo de Clientes Difíciles o Confrontacionales.",
                       "5F. Procedimientos de Escalamiento + Involucrar a la Gerencia.",
                       "5G. Alternativas (Comida, Agua, Transporte).",
-                      "5H. Protegerse Legalmente + Documentación."
+                      "5H. Protegerte Legalmente + Documentación."
                     ],
                     "body": "En esta unidad discutiremos los siguientes temas:"
                   }
@@ -9978,7 +9978,7 @@
                   "order_index": 1,
                   "text": {
                     "paragraphs": [
-                      "Negar servicio: obligación legal y profesional—no sirva a menores ni a personas visiblemente intoxicadas."
+                      "Rechazar el servicio: obligación legal y profesional—no sirvas a menores ni a personas visiblemente intoxicadas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9998,7 +9998,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Debes negarte a dar servicio cuando un cliente muestra signos de intoxicación como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Estos signos indican deterioro. Continuar sirviendo aumenta el riesgo. Se espera que reconozcas estos indicadores y actúes antes de que la situación empeore."
+                      "Debes rechazar a dar el servicio cuando un cliente muestra signos de intoxicación como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Estos signos indican deterioro. Continuar sirviendo aumenta el riesgo. Se espera que reconozcas estos indicadores y actúes antes de que la situación empeore."
                     ],
                     "reveal_items": [
                       {
@@ -10041,7 +10041,7 @@
                   "order_index": 3,
                   "text": {
                     "paragraphs": [
-                      "La ley de Carolina del Sur prohíbe vender alcohol a una persona ebria. Esto se aplica incluso si el cliente fue atendido primero en otro lugar. Si están visiblemente deteriorados, deberás negarte a dar el servicio. No importa cómo se emborracharon. Tu responsabilidad comienza en el momento en que interactúas con ellos."
+                      "La ley de Carolina del Sur prohíbe vender alcohol a una persona ebria. Esto se aplica incluso si el cliente fue atendido primero en otro lugar. Si están visiblemente deteriorados, deberás rechazar a dar el servicio. No importa cómo se emborracharon. Tu responsabilidad comienza en el momento en que interactúas con ellos."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10058,7 +10058,7 @@
                   "order_index": 4,
                   "text": {
                     "paragraphs": [
-                      "La justificación legal de la denegación se basa en la protección de la seguridad pública. Servir a una persona ebria aumenta el riesgo de accidentes, lesiones y comportamiento ilegal. Negar el servicio ayuda a prevenir daños y mantiene tu negocio cumpliendo con las leyes estatales. También te proteges de responsabilidad personal."
+                      "La justificación legal de la denegación se basa en la protección de la seguridad pública. Servir a una persona ebria aumenta el riesgo de accidentes, lesiones y comportamiento ilegal. Rechazar el servicio ayuda a prevenir daños y mantiene tu negocio cumpliendo con las leyes estatales. También te proteges de responsabilidad personal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10079,7 +10079,7 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Servir una bebida más y controlar",
+                        "label": "A. Servir una bebida más y controlar la situación ",
                         "is_correct": false
                       },
                       {
@@ -10089,7 +10089,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Negar el servicio y notificar a la gerencia",
+                        "label": "C. Rechazar el servicio y notificar a la gerencia",
                         "is_correct": true
                       },
                       {
@@ -10115,7 +10115,7 @@
                 {
                   "order_index": 6,
                   "interactive": {
-                    "question": "Un cliente se irrita después de que usted le niega otra bebida y dice: 'Conozco al dueño. Sírveme de todos modos'. ¿Qué debe hacer?",
+                    "question": "Un cliente se irrita después de que tu le niegas otra bebida y dice: 'Conozco al dueño. Sírveme de todos modos'. ¿Qué debes hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -10157,7 +10157,7 @@
                   "order_index": 7,
                   "text": {
                     "paragraphs": [
-                      "También debes negar el servicio si un cliente se vuelve problemático o inseguro. Esto incluye comportamiento amenazante, acoso o negativa a seguir las reglas. El servicio de alcohol nunca debe continuar en una situación donde exista el riesgo de dañar al personal u otros clientes."
+                      "También debes rechazar el servicio si un cliente se vuelve problemático o inseguro. Esto incluye comportamiento amenazante, acoso o negativa a seguir las reglas. El servicio de alcohol nunca debe continuar en una situación donde exista el riesgo de dañar al personal u otros clientes."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10174,7 +10174,7 @@
                   "order_index": 8,
                   "text": {
                     "paragraphs": [
-                      "Debes negar el servicio si un cliente es menor de 21 años. Esto incluye cualquier situación en la que no se proporcione una identificación válida. Si no puedes confirmar la edad, no podrás completar la venta. Adivinar o asumir la edad nunca es aceptable. Confía siempre en una verificación de identidad adecuada antes de servir alcohol."
+                      "Debes rechazar el servicio si un cliente es menor de 21 años. Esto incluye cualquier situación en la que no se proporcione una identificación válida. Si no puedes confirmar la edad, no podrás completar la venta. Adivinar o asumir la edad nunca es aceptable. Confía siempre en una verificación de identidad adecuada antes de servir alcohol."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10194,7 +10194,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Debes involucrar a la gerencia al negar el servicio en situaciones como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Los gerentes deben respaldar tu decisión y ayudar a controlar la situación. Nunca sientas que debes enfrentarte solo a estas situaciones difíciles."
+                      "Debes involucrar a la gerencia al rechazar el servicio en situaciones como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Los gerentes deben respaldar tu decisión y ayudar a controlar la situación. Nunca sientas que debes enfrentarte solo a estas situaciones difíciles."
                     ],
                     "reveal_items": [
                       {
@@ -10237,7 +10237,7 @@
                   "order_index": 10,
                   "text": {
                     "paragraphs": [
-                      "La negativa debe ser firme, tranquila y respetuosa. No discutas ni debatas con el cliente. Declara claramente que no puedes atenderle y evita el lenguaje culposo. Mantén un tono profesional y centrado en la política y la seguridad, no en el juicio personal."
+                      "La negativa debe ser firme, tranquila y respetuosa. No discutas ni debatas con el cliente. Declara claramente que no puedes atenderlo y evita el lenguaje culposo. Mantén un tono profesional y centrado en la política y la seguridad, no en el juicio personal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10271,7 +10271,7 @@
                   "order_index": 12,
                   "text": {
                     "paragraphs": [
-                      "Sigue siempre las políticas de tu establecimiento al negar el servicio. Esto puede incluir documentar el incidente o notificar a un supervisor. La aplicación constante ayuda a proteger la empresa y muestra el cumplimiento de las expectativas legales y de capacitación."
+                      "Sigue siempre las políticas de tu establecimiento al rechazar el servicio. Esto puede incluir documentar el incidente o notificar a un supervisor. La aplicación constante ayuda a proteger la empresa y muestra el cumplimiento de las expectativas legales y de capacitación."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10291,7 +10291,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "La negativa lo protege de {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Tomar la decisión correcta puede resultar incómodo, pero evita consecuencias graves. Elegir negarse a dar servicio siempre es más seguro que arriesgarse a cometer una infracción."
+                      "La negativa lo protege de {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Tomar la decisión correcta puede resultar incómodo, pero evita consecuencias graves. Elegir rechazar a dar el servicio siempre es más seguro que arriesgarte a cometer una infracción."
                     ],
                     "reveal_items": [
                       {
@@ -10334,7 +10334,7 @@
                   "order_index": 14,
                   "text": {
                     "paragraphs": [
-                      "Rechazar el servicio funciona mejor cuando se hace con calma, firmeza y respeto. Use lenguaje claro como: 'No puedo servirle otra bebida alcohólica esta noche' y evite debatir o culpar al cliente. Ofrezca agua, comida, una bebida sin alcohol o ayuda para organizar transporte. Su objetivo es terminar el servicio de alcohol de forma segura mientras preserva la dignidad y reduce el conflicto."
+                      "Rechazar el servicio funciona mejor cuando se hace con calma, firmeza y respeto. Usa un lenguaje claro como: 'No puedo servirle otra bebida alcohólica esta noche' y evite debatir o culpar al cliente. Ofrezca agua, comida, una bebida sin alcohol o ayuda para organizar transporte. Tu objetivo es terminar el servicio de alcohol de forma segura mientras preservas la dignidad y reduces el conflicto."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10351,7 +10351,7 @@
                   "order_index": 15,
                   "text": {
                     "paragraphs": [
-                      "Las políticas internas convierten el servicio responsable en un proceso repetible. Una política sólida explica cuándo revisar la ID, cuándo rechazar el servicio, cuándo involucrar a un gerente, cómo evitar que un cliente conduzca y cuándo completar un informe de incidente. Seguir la política lo protege porque demuestra que sus decisiones fueron consistentes, documentadas y basadas en la seguridad, no solo en su juicio personal."
+                      "Las políticas internas convierten el servicio responsable en un proceso repetible. Una política sólida explica cuándo revisar la ID, cuándo rechazar el servicio, cuándo involucrar a un gerente, cómo evitar que un cliente conduzca y cuándo completar un informe de incidente. Seguir la política te protege porque demuestra que tus decisiones fueron consistentes, documentadas y basadas en la seguridad, no solo en su juicio personal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10368,7 +10368,7 @@
                   "order_index": 16,
                   "text": {
                     "paragraphs": [
-                      "En Carolina del Sur, rechazar una venta ilegal o insegura siempre está por encima de concretar la venta o complacer al cliente. Una sola venta nunca vale un cargo penal, la pérdida de su certificado o un accidente que cambie vidas. Las negativas seguras y consistentes son una marca de profesionalismo, no de mala educación, y la cultura de responsabilidad de su establecimiento depende de que cada servidor mantenga esa línea."
+                      "En Carolina del Sur, rechazar una venta ilegal o insegura siempre está por encima de concretar la venta o complacer al cliente. Una sola venta nunca vale un cargo penal, la pérdida de tu certificado o un accidente que cambie vidas. Las negativas seguras y consistentes son una marca de profesionalismo, no de mala educación, y la cultura de responsabilidad de tu establecimiento depende de que cada servidor se mantenga en esa línea."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10440,7 +10440,7 @@
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Seguir los procedimientos de escalamiento: alertar a un gerente o a seguridad, intentar organizar transporte seguro y documentar el incidente",
+                        "label": "B. Seguir los procedimientos de escalamiento: alertar a un gerente o a seguridad, intentar organizar su transporte seguro y documentar el incidente",
                         "is_correct": true
                       },
                       {
@@ -10472,7 +10472,7 @@
                   "order_index": 19,
                   "text": {
                     "paragraphs": [
-                      "Para negarse a dar el servicio debes seguir un proceso claro y consistente. Esto te ayuda a mantener una actitud profesional y reduce los conflictos. Un enfoque paso a paso mantiene tus acciones alineadas con la ley y las políticas de tu lugar de trabajo. También muestra confianza y control en situaciones difíciles."
+                      "Para rechazar a dar el servicio debes seguir un proceso claro y consistente. Esto te ayuda a mantener una actitud profesional y reduce los conflictos. Un enfoque paso a paso mantiene tus acciones alineadas con la ley y las políticas de tu lugar de trabajo. También muestra confianza y control en situaciones difíciles."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10489,7 +10489,7 @@
                   "order_index": 20,
                   "text": {
                     "paragraphs": [
-                      "Paso 1: observar atentamente al cliente. Busque signos de intoxicación o comportamiento que requiera rechazo. No apresures la decisión. Tómate un momento para confirmar lo que estás viendo antes de actuar. La observación precisa es la base de una negativa adecuada."
+                      "Paso 1: observar atentamente al cliente. Busca signos de intoxicación o comportamiento que requiera rechazo. No apresures la decisión. Tómate un momento para confirmar lo que estás viendo antes de actuar. La observación precisa es la base de una negativa adecuada."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10509,7 +10509,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Al observar, debes estar atento a {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas señales te ayudarán a decidir si es necesario negarse a dar el servicio. Concéntrate en lo que el cliente está haciendo en este momento, no en cómo aparecía antes."
+                      "Al observar, debes estar atento a {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas señales te ayudarán a decidir si es necesario rechazar el servicio. Concéntrate en lo que el cliente está haciendo en este momento, no en cómo aparecía antes."
                     ],
                     "reveal_items": [
                       {
@@ -10552,7 +10552,7 @@
                   "order_index": 22,
                   "text": {
                     "paragraphs": [
-                      "Paso 2: Decide con claridad y confianza. Una vez que determines que el servicio debe suspenderse, comprométete con esta decisión. No lo dudes. Esperar demasiado puede empeorar la situación y aumentar el riesgo para todos los involucrados."
+                      "Paso 2: Decida con claridad y confianza. Una vez que determines que el servicio debe suspenderse, comprométete con esta decisión. No lo dudes. Esperar demasiado puede empeorar la situación y aumentar el riesgo para todos los involucrados."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10569,7 +10569,7 @@
                   "order_index": 23,
                   "text": {
                     "paragraphs": [
-                      "Paso 3: elige el momento adecuado. Niega el servicio antes de servir o entregar otra bebida. El tiempo importa. Actuar temprano previene la escalada y mantiene la interacción más manejable. No esperes hasta que el cliente se vea más afectado."
+                      "Paso 3: Eliga el momento adecuado. Rechaza el servicio antes de servir o entregar otra bebida. El tiempo importa. Actuar temprano previene la escalada y mantiene la interacción más manejable. No esperes hasta que el cliente se vea más afectado."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10666,7 +10666,7 @@
                   "order_index": 27,
                   "text": {
                     "paragraphs": [
-                      "Paso 6: No negocies. Una vez que niegas el servicio, la decisión es definitiva. No ofrezcas “sólo uno más” ni hagas excepciones. Cambiar tu decisión debilita tu autoridad y crea confusión para el cliente."
+                      "Paso 6: No negocies. Una vez que rechaces el servicio, la decisión es definitiva. No ofrezcas “sólo uno más” ni hagas excepciones. Cambiar tu decisión debilita tu autoridad y crea confusión para el cliente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10683,7 +10683,7 @@
                   "order_index": 28,
                   "text": {
                     "paragraphs": [
-                      "Paso 7: mantente consciente de tu entorno. Observa cómo reacciona el cliente. Prepárate para involucrar a la gerencia o a tus compañeros de trabajo si es necesario. Tu seguridad y la de los demás siempre deben ser lo primero."
+                      "Paso 7: Mantente consciente de tu entorno. Observa cómo reacciona el cliente. Prepárate para involucrar a la gerencia o a tus compañeros de trabajo si es necesario. Tu seguridad y la de los demás siempre deben ser lo primero."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10745,7 +10745,7 @@
                 {
                   "order_index": 30,
                   "interactive": {
-                    "question": "Observa a un cliente que muestra claros signos de intoxicación. ¿Cuál es el primer paso correcto?",
+                    "question": "Observas a un cliente que muestra claros signos de intoxicación. ¿Cuál es el primer paso correcto?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -10787,7 +10787,7 @@
                   "order_index": 31,
                   "text": {
                     "paragraphs": [
-                      "Esta sección continúa explicando el proceso de negación después de haberle dicho al cliente que no puedes servirle más alcohol. Lo que hagas a continuación es tan importante como el rechazo mismo. Un seguimiento adecuado ayuda a prevenir una escalada, protege la seguridad y garantiza el cumplimiento de las expectativas de Carolina del Sur."
+                      "Esta sección continúa explicando el proceso de rechazo después de haberle dicho al cliente que no puedes servirle más alcohol. Lo que hagas a continuación es tan importante como el rechazo mismo. Un seguimiento adecuado ayuda a prevenir una escalada, protege la seguridad y garantiza el cumplimiento de las expectativas de Carolina del Sur."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10804,7 +10804,7 @@
                   "order_index": 32,
                   "text": {
                     "paragraphs": [
-                      "Paso 8: No continúes con el servicio de alcohol bajo ninguna circunstancia. Una vez que te niegas, la decisión permanece. No volver a atender al cliente durante esa visita. La coherencia es fundamental. Cambiar tu decisión aumenta el riesgo y debilita la aplicación de la ley."
+                      "Paso 8: No continúes con el servicio de alcohol bajo ninguna circunstancia. Una vez que te rechaces, la decisión permanece. No volver a atender al cliente durante esa visita. La coherencia es fundamental. Cambiar tu decisión aumenta el riesgo y debilita la aplicación de la ley."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10824,7 +10824,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Después de negarte, evita actos como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones pueden deshacer tu decisión y crear confusión. Debes ser consistente y claro en tus acciones."
+                      "Después de rechazar el servicio, evita actos como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones pueden deshacer tu decisión y crear confusión. Debes ser consistente y claro en tus acciones."
                     ],
                     "reveal_items": [
                       {
@@ -10884,7 +10884,7 @@
                   "order_index": 35,
                   "text": {
                     "paragraphs": [
-                      "Paso 10: monitorea el comportamiento del cliente. Continúa observando después de negar el servicio. Debes estar atento a signos de escalada, agresión o empeoramiento del deterioro. Mantenerte alerta te ayuda a responder rápidamente si la situación cambia."
+                      "Paso 10: Monitorea el comportamiento del cliente. Continúa observando después de rechazar el servicio. Debes estar atento a signos de escalada, agresión o empeoramiento del deterioro. Mantenerte alerta te ayuda a responder rápidamente si la situación cambia."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10901,7 +10901,7 @@
                   "order_index": 36,
                   "text": {
                     "paragraphs": [
-                      "Paso 11: Involucrar a la gerencia cuando sea necesario. Si el cliente se molesta, se niega a cumplir o crea un disturbio, notifique a un gerente de inmediato. Los gerentes son responsables de apoyar al personal y manejar situaciones difíciles."
+                      "Paso 11: Involucrar a la gerencia cuando sea necesario. Si el cliente se molesta, se niega a cumplir o crea un disturbio, notifica a un gerente de inmediato. Los gerentes son responsables de apoyar al personal y manejar situaciones difíciles."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10921,7 +10921,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Solicite apoyo de la gerencia cuando vea {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Éstas son señales de advertencia de que la situación puede requerir apoyo adicional."
+                      "Solicita apoyo de la gerencia cuando vea {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Éstas son señales de advertencia de que la situación puede requerir apoyo adicional."
                     ],
                     "reveal_items": [
                       {
@@ -10964,7 +10964,7 @@
                   "order_index": 38,
                   "text": {
                     "paragraphs": [
-                      "Paso 12: Mantenga una distancia segura. No abarrotar al cliente ni invadir su espacio. Colóquese donde pueda salir si es necesario. Tu seguridad siempre es lo primero. Evite el contacto físico a menos que sea absolutamente necesario y lo indique la política."
+                      "Paso 12: Mantenga una distancia segura. No abarrotar al cliente ni invadir su espacio. Colócate donde puedas salir si es necesario. Tu seguridad siempre es lo primero. Evita el contacto físico a menos que sea absolutamente necesario y lo indique la política."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -10981,7 +10981,7 @@
                   "order_index": 39,
                   "text": {
                     "paragraphs": [
-                      "Paso 13: Sigue los procedimientos internos para la documentación. Algunos lugares de trabajo exigen informes de incidentes cuando se niega el servicio. La documentación precisa ayuda a proteger la empresa y demuestra que se tomaron las medidas adecuadas."
+                      "Paso 13: Sigue los procedimientos internos para la documentación. Algunos lugares de trabajo exigen informes de incidentes cuando se rechaza el servicio. La documentación precisa ayuda a proteger la empresa y demuestra que se tomaron las medidas adecuadas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11018,13 +11018,13 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Fomente opciones seguras como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones reducen el riesgo después de haberse negado a dar el servicio y apoyan la seguridad pública."
+                      "Fomenta opciones seguras como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones reducen el riesgo después de haber rechazado a dar el servicio y apoyan la seguridad pública."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
                         "title": "llamar a un paseo",
-                        "revealed_text": "llamar a un paseo"
+                        "revealed_text": "llamar a una caminata"
                       },
                       {
                         "id": "item_2",
@@ -11060,7 +11060,7 @@
                 {
                   "order_index": 42,
                   "interactive": {
-                    "question": "Después de negar el servicio, un cliente continúa pidiendo otra bebida. ¿Qué deberías hacer?",
+                    "question": "Después de rechazar el servicio, un cliente continúa pidiendo otra bebida. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -11102,7 +11102,7 @@
                   "order_index": 43,
                   "text": {
                     "paragraphs": [
-                      "La comunicación es fundamental al negar el servicio. La forma en que hablas puede calmar una situación o empeorarla. Tu objetivo es mantener el control, reducir la tensión y mantener a todos a salvo. La comunicación clara y respetuosa te ayuda a hacer cumplir la ley sin intensificar el conflicto."
+                      "La comunicación es fundamental al rechazar el servicio. La forma en que hablas puede calmar una situación o empeorarla. Tu objetivo es mantener el control, reducir la tensión y mantener a todos a salvo. La comunicación clara y respetuosa te ayuda a hacer cumplir la ley sin intensificar el conflicto."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11216,7 +11216,7 @@
                   "order_index": 48,
                   "text": {
                     "paragraphs": [
-                      "Utiliza declaraciones en primera persona cuando niegues el servicio. Esto mantiene el mensaje controlado y menos conflictivo. También demuestra que estás siguiendo reglas, no tomando una decisión personal."
+                      "Utiliza declaraciones en primera persona cuando rechaces el servicio. Esto mantiene el mensaje controlado y menos conflictivo. También demuestra que estás siguiendo reglas, no tomando una decisión personal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11236,7 +11236,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Algunos ejemplos de lo que puedes decir para negar correctamente el servicio son: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas frases mantienen la comunicación clara y profesional."
+                      "Algunos ejemplos de lo que puedes decir para rechazar correctamente el servicio son: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas frases mantienen la comunicación clara y profesional."
                     ],
                     "reveal_items": [
                       {
@@ -11333,7 +11333,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Utiliza un lenguaje corporal como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas señales ayudan a reducir la tensión y a mantener el control."
+                      "Utiliza un lenguaje corporal como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas señales te ayudan a reducir la tensión y a mantener el control."
                     ],
                     "reveal_items": [
                       {
@@ -11375,7 +11375,7 @@
                 {
                   "order_index": 54,
                   "interactive": {
-                    "question": "Un cliente se enoja después de que se le niega el servicio y alza la voz. ¿Cuál es la mejor respuesta?",
+                    "question": "Un cliente se enoja después de que se le rechaza el servicio y alza la voz. ¿Cuál es la mejor respuesta?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -11514,7 +11514,7 @@
                   "order_index": 59,
                   "text": {
                     "paragraphs": [
-                      "Establece límites claros. Repite cortés pero firmemente tu negativa si es necesario. Mantén tu mensaje consistente. Cambiar demasiado la redacción o el tono puede crear confusión e invitar a la oposición."
+                      "Establezca límites claros. Repita cortesmente pero firmemente a tu negativa si es necesario. Mantén tu mensaje consistente. Cambiar demasiado la redacción o el tono puede crear confusión e invitar a la oposición."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11551,7 +11551,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Proteja su seguridad así: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones te ayudarán a mantenerte preparado si la situación empeora."
+                      "Proteja tu seguridad así: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones te ayudarán a mantenerte preparado si la situación empeora."
                     ],
                     "reveal_items": [
                       {
@@ -11628,7 +11628,7 @@
                   "order_index": 64,
                   "text": {
                     "paragraphs": [
-                      "Ten en cuenta a otros clientes. Los enfrentamientos pueden afectar a todo el entorno. Debes ser profesional y evita crear una escena. Tus acciones ayudan a mantener el orden y a proteger la experiencia de los demás."
+                      "Ten en cuenta a otros clientes. Los enfrentamientos pueden afectar a todo el entorno. Debes ser profesional y evitar crear una escena. Tus acciones ayudan a mantener el orden y a proteger la experiencia de los demás."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11690,7 +11690,7 @@
                 {
                   "order_index": 66,
                   "interactive": {
-                    "question": "Un cliente se vuelve conflictivo después de que se le niega el servicio y comienza a discutir en voz alta. ¿Qué deberías hacer?",
+                    "question": "Un cliente se vuelve conflictivo después de que se le rechaza el servicio y comienza a discutir en voz alta. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -11926,7 +11926,7 @@
                   "order_index": 75,
                   "text": {
                     "paragraphs": [
-                      "Mantener en todo momento una distancia de seguridad con el cliente. Colóquese donde tenga un camino despejado para salir si es necesario. Evite quedar atrapado en espacios reducidos. Tu seguridad es siempre la prioridad, especialmente en situaciones impredecibles."
+                      "Mantener en todo momento una distancia de seguridad con el cliente. Colócate donde tengas un camino despejado para salir si es necesario. Evita quedar atrapado en espacios reducidos. Tu seguridad es siempre la prioridad, especialmente en situaciones impredecibles."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11943,7 +11943,7 @@
                   "order_index": 76,
                   "text": {
                     "paragraphs": [
-                      "Evite la participación física a menos que esté capacitado y dirigido a actuar. Intentar gestionar físicamente a un cliente puede aumentar el riesgo y provocar lesiones. Deje que el personal capacitado o la gerencia se encarguen de cualquier situación que pueda requerir intervención física."
+                      "Evita la participación física a menos que estés capacitado y dirigido a actuar. Intentar gestionar físicamente a un cliente puede aumentar el riesgo y provocar lesiones. Deja que el personal capacitado o la gerencia se encarguen de cualquier situación que pueda requerir intervención física."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -11963,7 +11963,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Apoya la seguridad con {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos pasos ayudan a protegerlo a usted y a otros durante el procedimiento."
+                      "Apoya la seguridad con {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos pasos ayudan a proteger a ti y a otros durante el procedimiento."
                     ],
                     "reveal_items": [
                       {
@@ -12005,7 +12005,7 @@
                 {
                   "order_index": 78,
                   "interactive": {
-                    "question": "Un cliente se vuelve ruidoso, se niega a irse y comienza a amenazar después de que se le niega el servicio. ¿Qué deberías hacer?",
+                    "question": "Un cliente se vuelve ruidoso, se niega a irse y comienza a amenazar después de que se le rechaza el servicio. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -12064,7 +12064,7 @@
                   "order_index": 80,
                   "text": {
                     "paragraphs": [
-                      "Las alternativas no son para reemplazar la negativa a dar el servicio. Una vez que dejes de servir alcohol, esa decisión debe mantenerse. Las alternativas están destinadas a ayudar al cliente después de la negativa a servirle más alcohol, no a cambiar el resultado. Esto ayuda a que tus acciones sean coherentes con las expectativas de Carolina del Sur y las políticas de su lugar de trabajo."
+                      "Las alternativas no son para reemplazar a rechazar a dar el servicio. Una vez que dejes de servir alcohol, esa decisión debe mantenerse. Las alternativas están destinadas a ayudar al cliente después de la negativa a servirle más alcohol, no a cambiar el resultado. Esto ayuda a que tus acciones sean coherentes con las expectativas de Carolina del Sur y las políticas de tu lugar de trabajo."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12144,7 +12144,7 @@
                   "order_index": 83,
                   "text": {
                     "paragraphs": [
-                      "Se puede ofrecer comida si procede. Si bien los alimentos no revierten rápidamente la intoxicación, pueden ayudar a retardar la absorción del alcohol si se consumen antes. Ofrecer comida también puede darle al cliente algo en qué concentrarse y puede ayudar a calmar la situación."
+                      "Se puede ofrecer comida si es necesario. Si bien los alimentos no revierten rápidamente la intoxicación, pueden ayudar a retardar la absorción del alcohol si se consumen antes. Ofrecer comida también puede darle al cliente algo en qué concentrarse y puede ayudar a calmar la situación."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12278,7 +12278,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Para lograr resultados seguros: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos pasos ayudan a reducir el riesgo después de la negativa a seguir sirviendo alcohol."
+                      "Para lograr resultados seguros: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos pasos ayudan a reducir el riesgo después del rechazo a seguir sirviendo alcohol."
                     ],
                     "reveal_items": [
                       {
@@ -12362,7 +12362,7 @@
                   "order_index": 91,
                   "text": {
                     "paragraphs": [
-                      "Protegerse legalmente es una parte clave del servicio de alcohol en Carolina del Sur. Tus acciones pueden tener consecuencias legales si no se siguen las leyes. Negar el servicio cuando sea necesario ayuda a reducir tu riesgo. Seguir los procedimientos adecuados demuestra que actuaste de manera responsable. La documentación también puede respaldar tus decisiones si surgen preguntas más adelante."
+                      "Protegerte legalmente es una parte clave del servicio de alcohol en Carolina del Sur. Tus acciones pueden tener consecuencias legales si no se siguen las leyes. Rechazar el servicio cuando sea necesario ayuda a reducir tu riesgo. Seguir los procedimientos adecuados demuestra que actuaste de manera responsable. La documentación también puede respaldar tus decisiones si surgen preguntas más adelante."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12410,7 +12410,7 @@
                       {
                         "id": "item_2",
                         "title": "negar el servicio cuando se requiera",
-                        "revealed_text": "negar el servicio cuando se requiera"
+                        "revealed_text": "rechazar el servicio cuando se requiera"
                       },
                       {
                         "id": "item_3",
@@ -12442,7 +12442,7 @@
                   "order_index": 94,
                   "text": {
                     "paragraphs": [
-                      "Sigue siempre las políticas de tu establecimiento. Estas políticas están diseñadas para cumplir con los requisitos legales. Ignorarlos puede aumentar tu riesgo. Las políticas también proporcionan pasos claros para manejar situaciones difíciles. Seguirlos demuestra que actuó apropiadamente."
+                      "Siga siempre las políticas de tu establecimiento. Estas políticas están diseñadas para cumplir con los requisitos legales. Ignorarlas puede aumentar tu riesgo. Las políticas también proporcionan pasos claros para manejar situaciones difíciles. Seguirlas demuestra que actuaste apropiadamente."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12459,7 +12459,7 @@
                   "order_index": 95,
                   "text": {
                     "paragraphs": [
-                      "La documentación es importante después de ciertos incidentes. Esto puede incluir negar el servicio o manejar a un cliente problemático. Escribir lo que pasó crea un registro. Este registro puede ser utilizado por la gerencia si es necesario. También ayuda a demostrar que se siguieron los procedimientos adecuados."
+                      "La documentación es importante después de ciertos incidentes. Esto puede incluir rechazar el servicio o manejar a un cliente problemático. Escribir lo que pasó crea un registro. Este registro puede ser utilizado por la gerencia si es necesario. También ayuda a demostrar que se siguieron los procedimientos adecuados."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12476,7 +12476,7 @@
                   "order_index": 96,
                   "text": {
                     "paragraphs": [
-                      "Al documentar, debes ser preciso y objetivo. Escribe sólo lo que observaste e hiciste. Evita opiniones o lenguaje emocional. Los hechos claros son más útiles si el informe se revisa más tarde. Una buena documentación respalda sus acciones."
+                      "Al documentar, debes ser preciso y objetivo. Escribe sólo lo que observaste e hiciste. Evita opiniones o lenguaje emocional. Los hechos claros son más útiles si el informe se revisa más tarde. Una buena documentación respalda tus acciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12539,7 +12539,7 @@
                   "order_index": 98,
                   "text": {
                     "paragraphs": [
-                      "Complete la documentación lo antes posible después del incidente. Esperar demasiado puede provocar que se pierdan detalles. Escribirlo mientras está fresco mejora la precisión. Esto ayuda a garantizar que el informe refleje lo que realmente sucedió."
+                      "Completa la documentación lo antes posible después del incidente. Esperar demasiado puede provocar que se pierdan detalles. Escribirlo mientras está fresco mejora la precisión. Esto ayuda a garantizar que el informe refleje lo que realmente sucedió."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12635,7 +12635,7 @@
                 {
                   "order_index": 102,
                   "interactive": {
-                    "question": "Después de negarle servicio a un cliente en estado de ebriedad, ¿qué debe hacer para protegerse legalmente?",
+                    "question": "Después de rechazar a dar el servicio a un cliente en estado de ebriedad, ¿qué debes hacer para protegerte legalmente?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -12686,7 +12686,7 @@
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Negar el servicio y mantener la calma",
+                        "label": "B. Rechazar el servicio y mantener la calma",
                         "is_correct": true
                       },
                       {
@@ -12717,7 +12717,7 @@
                 {
                   "order_index": 104,
                   "interactive": {
-                    "question": "Un cliente se molesta por negarte a servirle y alza la voz. ¿Cuál es la mejor respuesta?",
+                    "question": "Un cliente se molesta por rechazar a servirle y alza la voz. ¿Cuál es la mejor respuesta?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -12758,7 +12758,7 @@
                 {
                   "order_index": 105,
                   "interactive": {
-                    "question": "Después de negarte a seguir sirviendo y ofrecer solo agua, un cliente sigue pidiendo alcohol con agua. ¿Qué deberías hacer?",
+                    "question": "Después de rechazar a seguir sirviendo y ofrecer solo agua, un cliente sigue pidiendo alcohol con agua. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -12768,7 +12768,7 @@
                       },
                       {
                         "id": "opt_b",
-                        "label": "B. Mantener la negativa y ofrecer sólo agua.",
+                        "label": "B. Mantener el rechazo y ofrecer sólo agua.",
                         "is_correct": true
                       },
                       {
@@ -12799,7 +12799,7 @@
                 {
                   "order_index": 106,
                   "interactive": {
-                    "question": "Un cliente se niega a irse después de que se le negó el servicio y comienza a molestar a otros huéspedes. ¿Cuál es la acción correcta?",
+                    "question": "Un cliente se niega a irse después de que se le rechazo el servicio y comienza a molestar a otros huéspedes. ¿Cuál es la acción correcta?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -12840,7 +12840,7 @@
                 {
                   "order_index": 107,
                   "interactive": {
-                    "question": "Al negar el servicio, el cliente se queda callado pero inestable. ¿Qué deberías hacer a continuación?",
+                    "question": "Al rechazar el servicio, el cliente se queda callado pero inestable. ¿Qué deberías hacer a continuación?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -12881,7 +12881,7 @@
                 {
                   "order_index": 108,
                   "interactive": {
-                    "question": "Después de una negativa difícil, ¿qué paso le ayuda a protegerse legalmente?",
+                    "question": "Después de una negativa difícil, ¿qué paso te ayuda a protegerte legalmente?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
