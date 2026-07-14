@@ -15266,7 +15266,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "{{item_1}} {{item_2}} {{item_3}} {{item_4}} {{item_5}} Estos resultados comúnmente están relacionados con incidentes de DUI. Cada uno representa un riesgo prevenible. El servicio responsable ayuda a reducir la probabilidad de que ocurran estos eventos. Mantenerse alerta y actuar temprano marca una diferencia mensurable."
+                      "{{item_1}}, {{item_2}}, {{item_3}}, {{item_4}} y {{item_5}}: Estos resultados comúnmente están relacionados con incidentes de DUI. Cada uno representa un riesgo prevenible. El servicio responsable ayuda a reducir la probabilidad de que ocurran estos eventos. Mantenerte alerta y actuar temprano marca una diferencia mensurable."
                     ],
                     "reveal_items": [
                       {
@@ -15277,22 +15277,22 @@
                       {
                         "id": "item_2",
                         "title": "Lesiones",
-                        "revealed_text": "Lesiones"
+                        "revealed_text": "lesiones"
                       },
                       {
                         "id": "item_3",
                         "title": "Muertes",
-                        "revealed_text": "Muertes"
+                        "revealed_text": "muertes"
                       },
                       {
                         "id": "item_4",
                         "title": "Arrestos",
-                        "revealed_text": "Arrestos"
+                        "revealed_text": "arrestos"
                       },
                       {
                         "id": "item_5",
                         "title": "Daño",
-                        "revealed_text": "Daño"
+                        "revealed_text": "daños"
                       }
                     ]
                   }
@@ -15326,7 +15326,7 @@
                   "order_index": 16,
                   "text": {
                     "paragraphs": [
-                      "Durante los períodos de alto riesgo se utilizan puestos de control de sobriedad y patrullas selectivas. Estas estrategias de aplicación de la ley aumentan la visibilidad y disuaden a los conductores en estado de ebriedad. Los huéspedes pueden encontrar estos puntos de control después de abandonar su establecimiento. Esto refuerza la importancia de no servir en exceso. Si un huésped está incapacitado, corre el riesgo de que lo detengan y cause daño."
+                      "Durante los períodos de alto riesgo se utilizan puestos de control de sobriedad y patrullas selectivas. Estas estrategias de aplicación de la ley aumentan la visibilidad y disuaden a los conductores en estado de ebriedad. Los huéspedes pueden encontrar estos puntos de control después de abandonar tu establecimiento. Esto refuerza la importancia de no servir en exceso. Si un huésped está incapacitado, corre el riesgo de que lo detengan y cause daño."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -15363,28 +15363,28 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "{{item_1}} {{item_2}} {{item_3}} {{item_4}} {{item_5}} Estos son períodos comunes de alto riesgo para actividad de DUI. Ajusta tu enfoque de concientización y servicio durante estos tiempos. Una mayor atención ayuda a prevenir problemas antes de que comiencen."
+                      "{{item_1}}, {{item_2}}, {{item_3}}, {{item_4}} y {{item_5}}: Estos son períodos comunes de alto riesgo para actividad de DUI. Ajusta tu enfoque de concientización y servicio durante estos tiempos. Una mayor atención ayuda a prevenir problemas antes de que comiencen."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
                         "title": "Tarde en la noche",
-                        "revealed_text": "Tarde en la noche"
+                        "revealed_text": "Tardes en las noches"
                       },
                       {
                         "id": "item_2",
                         "title": "Fines de semana",
-                        "revealed_text": "Fines de semana"
+                        "revealed_text": "fines de semana"
                       },
                       {
                         "id": "item_3",
                         "title": "Vacaciones",
-                        "revealed_text": "Vacaciones"
+                        "revealed_text": "vacaciones"
                       },
                       {
                         "id": "item_4",
                         "title": "Eventos",
-                        "revealed_text": "Eventos"
+                        "revealed_text": "eventos"
                       },
                       {
                         "id": "item_5",
@@ -15535,7 +15535,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "El alcohol puede provocar {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Cada uno de estos efectos aumenta la posibilidad de sufrir lesiones. Estos cambios pueden aparecer gradualmente. Mantenerse alerta le ayuda a reconocerlos temprano y responder antes de que la situación empeore."
+                      "El alcohol puede provocar {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Cada uno de estos efectos aumenta la posibilidad de sufrir lesiones. Estos cambios pueden aparecer gradualmente. Mantenerte alerta te ayuda a reconocerlos temprano y responder antes de que la situación empeore."
                     ],
                     "reveal_items": [
                       {
@@ -15612,7 +15612,7 @@
                   "order_index": 28,
                   "text": {
                     "paragraphs": [
-                      "El riesgo aumenta cuando el alcohol se combina con otros factores. La fatiga, los medicamentos y otras sustancias pueden intensificar el deterioro. Los invitados pueden parecer más afectados de lo esperado. Cuando el comportamiento parezca inusual, tómelo en serio. Reducir la velocidad o detener el servicio puede ayudar a prevenir resultados peligrosos."
+                      "El riesgo aumenta cuando el alcohol se combina con otros factores. La fatiga, los medicamentos y otras sustancias pueden intensificar el deterioro. Los invitados pueden parecer más afectados de lo esperado. Cuando el comportamiento parezca inusual, tómalo en serio. Reducir la velocidad o detener el servicio puede ayudar a prevenir resultados peligrosos."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -15675,7 +15675,7 @@
                   "order_index": 30,
                   "text": {
                     "paragraphs": [
-                      "El alcohol puede aumentar la agresión y reducir el autocontrol. Algunos invitados pueden volverse ruidosos, conflictivos o impredecibles. Esto crea riesgos para el personal y otras personas. Reconocer las señales de alerta temprana le permite actuar antes de que una situación se convierta en lesión o violencia."
+                      "El alcohol puede aumentar la agresión y reducir el autocontrol. Algunos invitados pueden volverse ruidosos, conflictivos o impredecibles. Esto crea riesgos para el personal y otras personas. Reconocer las señales de alerta temprana te permite actuar antes de que una situación se convierta en lesión o violencia."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -15692,7 +15692,7 @@
                   "order_index": 31,
                   "text": {
                     "paragraphs": [
-                      "Los incidentes graves suelen ocurrir después de perder múltiples oportunidades de intervenir. Un huésped puede mostrar signos de deterioro mucho antes de que ocurra una lesión. Cada decisión importa. Actuar temprano (retrasando o negando el servicio de alcohol) puede prevenir daños y proteger a todos los involucrados."
+                      "Los incidentes graves suelen ocurrir después de perder múltiples oportunidades de intervenir. Un huésped puede mostrar signos de deterioro mucho antes de que ocurra una lesión. Cada decisión importa. Actuar temprano (retrasando o rechazando el servicio de alcohol) puede prevenir daños y proteger a todos los involucrados."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -15709,7 +15709,7 @@
                   "order_index": 32,
                   "text": {
                     "paragraphs": [
-                      "La capacitación de Carolina del Sur enfatiza la prevención de los daños relacionados con el alcohol mediante un servicio responsable. Los servidores deben reconocer la intoxicación y tomar las medidas adecuadas. Estas acciones reducen la probabilidad de lesiones y muertes. Su función apoya entornos más seguros y se alinea con las expectativas de capacitación estatales."
+                      "La capacitación de Carolina del Sur enfatiza la prevención de los daños relacionados con el alcohol mediante un servicio responsable. Los servidores deben reconocer la intoxicación y tomar las medidas adecuadas. Estas acciones reducen la probabilidad de lesiones y muertes. Tu función apoya entornos más seguros y se alinea con las expectativas de capacitación estatales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -16070,7 +16070,7 @@
                       {
                         "id": "item_5",
                         "title": "negar el servicio",
-                        "revealed_text": "negar el servicio"
+                        "revealed_text": "rechazar el servicio"
                       }
                     ]
                   }
@@ -16208,7 +16208,7 @@
                   "order_index": 50,
                   "text": {
                     "paragraphs": [
-                      "Los organismos encargados de hacer cumplir la ley pueden realizar visitas de rutina a establecimientos autorizados. Estas visitas ayudan a garantizar que las operaciones cumplan con los requisitos legales. Los oficiales pueden observar el servicio, revisar los procedimientos o atender quejas. Estas interacciones son parte de la supervisión normal. Mantenerse profesional y cooperativo durante estas visitas es importante para mantener el cumplimiento."
+                      "Los organismos encargados de hacer cumplir la ley pueden realizar visitas de rutina a establecimientos autorizados. Estas visitas ayudan a garantizar que las operaciones cumplan con los requisitos legales. Los oficiales pueden observar el servicio, revisar los procedimientos o atender quejas. Estas interacciones son parte de la supervisión normal. Mantenerte profesional y cooperativo durante estas visitas es importante para mantener el cumplimiento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -16305,7 +16305,7 @@
                   "order_index": 54,
                   "text": {
                     "paragraphs": [
-                      "El incumplimiento de las leyes sobre el alcohol puede tener consecuencias graves. Estos pueden incluir multas, acciones legales o sanciones comerciales. Las acciones de cumplimiento pueden afectar tanto al servidor individual como al establecimiento. Comprender estos riesgos refuerza la necesidad de un cumplimiento constante. Cada decisión durante el servicio puede tener un impacto legal."
+                      "El incumplimiento de las leyes sobre el alcohol pueden tener consecuencias graves. Esto puede incluir multas, acciones legales o sanciones comerciales. Las acciones de cumplimiento pueden afectar tanto al servidor individual como al establecimiento. Comprender estos riesgos refuerza la necesidad de un cumplimiento constante. Cada decisión durante el servicio puede tener un impacto legal."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -16401,7 +16401,7 @@
                 {
                   "order_index": 58,
                   "interactive": {
-                    "question": "Un oficial ingresa a su establecimiento durante un turno ocupado y observa el servicio. Un invitado que parece menor de edad se acerca a la barra. ¿Qué deberías hacer?",
+                    "question": "Un oficial ingresa a tu establecimiento durante un turno ocupado y observa el servicio. Un invitado que parece menor de edad se acerca a la barra. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -16460,7 +16460,7 @@
                   "order_index": 60,
                   "text": {
                     "paragraphs": [
-                      "En un caso reportado, se continuó atendiendo a un huésped visiblemente discapacitado a lo largo del tiempo. El personal no intervino. Posteriormente, el huésped provocó un grave accidente. Esta situación refleja una incapacidad para reconocer y actuar en función de señales de advertencia claras. El monitoreo constante y negar el servicio de forma oportuna pueden prevenir estos resultados y proteger tanto al huésped como al público."
+                      "En un caso reportado, se continuó atendiendo a un huésped visiblemente discapacitado a lo largo del tiempo. El personal no intervino. Posteriormente, el huésped provocó un grave accidente. Esta situación refleja una incapacidad para reconocer y actuar en función de señales de advertencia claras. El monitoreo constante y rechazar el servicio de forma oportuna pueden prevenir estos resultados y proteger tanto al huésped como al público."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -16480,7 +16480,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Las señales de advertencia en este caso incluyeron {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos signos estaban presentes pero se ignoraron. Reconocer estos indicadores a tiempo le permite tomar medidas antes de que ocurra daño."
+                      "Las señales de advertencia en este caso incluyeron {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos signos estaban presentes pero se ignoraron. Reconocer estos indicadores a tiempo te permite tomar medidas antes de que ocurra el daño."
                     ],
                     "reveal_items": [
                       {
