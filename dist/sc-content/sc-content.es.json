@@ -6012,7 +6012,7 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Acepte el ID y continúe",
+                        "label": "A. Aceptar el ID y continuar con el servicio",
                         "is_correct": false
                       },
                       {
@@ -6089,7 +6089,7 @@
                 {
                   "order_index": 89,
                   "interactive": {
-                    "question": "Un cliente se frustra cuando usted se toma más tiempo para verificar su identificación cuidadosamente. ¿Cuál es la mejor respuesta?",
+                    "question": "Un cliente se frustra cuando te tomas más tiempo para verificar su identificación cuidadosamente. ¿Cuál es la mejor respuesta?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -6104,7 +6104,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Continúe con cuidado y complete todas las comprobaciones.",
+                        "label": "C. Continuar con cuidado y completar todas las comprobaciones.",
                         "is_correct": true
                       },
                       {
@@ -6168,7 +6168,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Al verificar la identificación, concéntrese en la {{item_1}} , confirme que la persona tenga {{item_2}} , verifique que la {{item_3}} y tome su {{item_4}} . Estos pasos te ayudarán a garantizar que estés tomando una decisión correcta y legal antes de completar la venta."
+                      "Al verificar la identificación, concéntrate en la {{item_1}} , confirma que la persona tenga {{item_2}} , verifica que la {{item_3}} y toma tu {{item_4}} . Estos pasos te ayudarán a garantizar que estés tomando una decisión correcta y legal antes de completar la venta."
                     ],
                     "reveal_items": [
                       {
@@ -6240,7 +6240,7 @@
                   "order_index": 95,
                   "text": {
                     "paragraphs": [
-                      "Algunas identificaciones pueden formatear la fecha de manera diferente. Por ejemplo, el orden del mes, día y año puede variar. Tómese siempre el tiempo para comprender el formato antes de tomar una decisión. Leer mal el formato puede dar lugar a una verificación de edad incorrecta."
+                      "Algunas identificaciones pueden formatear la fecha de manera diferente. Por ejemplo, el orden del mes, día y año puede variar. Tómate siempre el tiempo para comprender el formato antes de tomar una decisión. Leer mal el formato puede dar lugar a una verificación de edad incorrecta."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6283,7 +6283,7 @@
                       {
                         "id": "item_1",
                         "title": "formato de fecha mal interpretado",
-                        "revealed_text": "formato de fecha mal interpretado"
+                        "revealed_text": "comprender incorrectamente formatos de fecha diferentes"
                       },
                       {
                         "id": "item_2",
@@ -6315,7 +6315,7 @@
                   "order_index": 98,
                   "text": {
                     "paragraphs": [
-                      "Consistencia: use el mismo proceso de verificación para todos; evita excepciones."
+                      "Consistencia: utiliza el mismo proceso de verificación para todos; evita las excepciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6365,7 +6365,7 @@
                 {
                   "order_index": 101,
                   "interactive": {
-                    "question": "La fecha de hoy es el 1 de junio. La fecha de nacimiento de un cliente es el 5 de junio de 2005. ¿Qué debe hacer?",
+                    "question": "La fecha de hoy es el 1 de junio de 2026. La fecha de nacimiento de un cliente es el 5 de junio de 2005. ¿Qué debes hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -6380,7 +6380,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Negarse a hacer la venta porque aún no tienen 21 años.",
+                        "label": "C. Negar la venta porque aún no tienen 21 años.",
                         "is_correct": true
                       },
                       {
@@ -6591,7 +6591,7 @@
                   "order_index": 110,
                   "text": {
                     "paragraphs": [
-                      "Si crees que una identificación es falsa, no la acepte. Niega la venta y sigue los procedimientos de tu lugar de trabajo. Mantén la calma y sé profesional. No discutas con el cliente. Tu objetivo es hacer cumplir la ley manteniendo un entorno seguro."
+                      "Si crees que una identificación es falsa, no debes aceptarla. Niega la venta y sigue los procedimientos de tu lugar de trabajo. Mantén la calma y sé profesional. No discutas con el cliente. Tu objetivo es hacer cumplir la ley manteniendo un entorno seguro."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6646,7 +6646,7 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Acepta el DNI porque la foto coincide",
+                        "label": "A. Aceptar el DNI porque la foto coincide",
                         "is_correct": false
                       },
                       {
@@ -6656,7 +6656,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Negarse a hacer la venta por sospecha de manipulación",
+                        "label": "C. Negar la venta por sospecha de manipulación",
                         "is_correct": true
                       },
                       {
@@ -6720,7 +6720,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Cuando sospeches que una ID es falsa, {{item_1}} , {{item_2}} , busca {{item_3}} y toma tu {{item_4}} . Estos pasos le ayudarán a evitar apresurarse a tomar una decisión que podría conducir a una infracción."
+                      "Cuando sospeches que una ID es falsa, {{item_1}} , {{item_2}} , busca {{item_3}} y toma tu {{item_4}} . Estos pasos te ayudarán a evitar apresurarte a tomar una decisión que podría conducir a una infracción."
                     ],
                     "reveal_items": [
                       {
@@ -6775,7 +6775,7 @@
                   "order_index": 118,
                   "text": {
                     "paragraphs": [
-                      "Si no puedes confirmar que la identificación es válida, deberás negarte a la venta. No corras riesgos. La ley exige que usted verifique la edad con una identificación válida. Si no estas seguro, eso significa que no puedes verificarlo. Negarte a realizar la venta es la decisión correcta y segura."
+                      "Si no puedes confirmar que la identificación es válida, deberás negarte a la venta. No corras riesgos. La ley exige que verifiques la edad con una identificación válida. Si no estas seguro, eso significa que no puedes verificarla. Negarte a realizar la venta es la decisión correcta y segura."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6809,7 +6809,7 @@
                   "order_index": 120,
                   "text": {
                     "paragraphs": [
-                      "No volver a la venta una vez que te hayas negado. Cambiar tu decisión aumenta el riesgo y puede provocar errores. Mantente firme. Si el cliente continúa presionando, repite tu decisión e involucra a la gerencia si es necesario. La coherencia es clave para mantener el cumplimiento."
+                      "No volver a la venta una vez que te hayas negado. Cambiar tu decisión aumenta el riesgo y puede provocar errores. Mantente firme. Si el cliente continúa presionando, repite tu decisión e involucra a la gerencia si es necesario. La firmeza es clave para mantener el cumplimiento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6829,7 +6829,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Cuando se niegue a realizar una venta por motivo de ID, diga {{item_1}} , mantenga un {{item_2}} , siga las {{item_3}} e involucre a un {{item_4}} si es necesario. Estos pasos le ayudarán a manejar la situación de forma segura y coherente."
+                      "Cuando te niegues a realizar una venta por motivo de ID, di {{item_1}} , mantén un {{item_2}} y sigue las {{item_3}} e involucra a un {{item_4}} si es necesario. Estos pasos te ayudarán a manejar la situación de forma segura y coherente."
                     ],
                     "reveal_items": [
                       {
@@ -6917,7 +6917,7 @@
                 {
                   "order_index": 125,
                   "interactive": {
-                    "question": "Un cliente presenta una identificación que parece válida, pero sus respuestas no coinciden con la información. Se impacientan y te piden que te apresures. ¿Qué deberías hacer?",
+                    "question": "Un cliente presenta una identificación que parece válida, pero sus respuestas no coinciden con la información. Se impacienta y te pide que te apresures. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
@@ -6932,7 +6932,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Negarse a hacer la venta por incertidumbre",
+                        "label": "C. Negar la venta por incertidumbre",
                         "is_correct": true
                       },
                       {
@@ -6959,7 +6959,7 @@
                   "order_index": 126,
                   "text": {
                     "paragraphs": [
-                      "Negarse a vender a menores de edad es una parte obligatoria de tu función en Carolina del Sur. No debes vender alcohol a ninguna persona menor de 21 años ni a nadie que no pueda presentar una identificación válida. Esta decisión te protege a ti, a tu empleador y al público. Incluso si te resulta incómodo, negarse a hacer la venta es la acción correcta. La confianza en este paso ayuda a prevenir errores y respalda el cumplimiento."
+                      "Negarte a vender a menores de edad es una parte obligatoria de tu función en Carolina del Sur. No debes vender alcohol a ninguna persona menor de 21 años ni a nadie que no pueda presentar una identificación válida. Esta decisión te protege a ti, a tu empleador y al público. Incluso si te resulta incómodo, negarse a hacer la venta es la acción correcta. La confianza en este paso ayuda a prevenir errores y respalda el cumplimiento."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6996,7 +6996,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Cuando te niegues a vender, di que {{item_1}} , explique que {{item_2}} , quédate {{item_3}} y usa un {{item_4}} . Estos pasos le ayudarán a comunicarte con claridad mientras mantienes el control de la situación."
+                      "Cuando te niegues a vender, di que {{item_1}} , explique que {{item_2}} , quédate {{item_3}} y usa un {{item_4}} . Estos pasos te ayudarán a comunicarte con claridad mientras mantienes el control de la situación."
                     ],
                     "reveal_items": [
                       {
@@ -7007,7 +7007,7 @@
                       {
                         "id": "item_2",
                         "title": "Se requiere identificación",
-                        "revealed_text": "Se requiere identificación"
+                        "revealed_text": "se requiere identificación"
                       },
                       {
                         "id": "item_3",
@@ -7051,7 +7051,7 @@
                   "order_index": 130,
                   "text": {
                     "paragraphs": [
-                      "Si un cliente se molesta más, crea espacio y evite una escalada. No levantes la voz ni respondas emocionalmente. Concéntrate en mantener una actitud profesional y sigue los procedimientos. Conservar la distancia cuando sea necesario ayuda a preservar tu seguridad y la de otras personas en el área."
+                      "Si un cliente se molesta más, crea espacio y evita una escalada. No levantes la voz ni respondas emocionalmente. Concéntrate en mantener una actitud profesional y sigue los procedimientos. Conservar la distancia cuando sea necesario ayuda a preservar tu seguridad y la de otras personas en el área."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -7177,7 +7177,7 @@
                   "order_index": 136,
                   "text": {
                     "paragraphs": [
-                      "Rechazar las ventas a menores de edad contribuye a un entorno más seguro. Ayuda a prevenir daños y reduce el riesgo en tu comunidad. Tus acciones marcan la diferencia en situaciones reales. Tomar en serio tu papel ayuda a proteger a los demás y refuerza los estándares responsables del servicio de alcohol."
+                      "Negar las ventas a menores de edad contribuye a un entorno más seguro. Ayuda a prevenir daños y reduce el riesgo en tu comunidad. Tus acciones marcan la diferencia en situaciones reales. Tomar en serio tu papel ayuda a proteger a los demás y refuerza los estándares responsables del servicio de alcohol."
                     ],
                     "instruction": "Read the following, then click Next."
                   }
@@ -7198,7 +7198,7 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Sírvele para evitar interrupciones.",
+                        "label": "A. Servir para evitar interrupciones.",
                         "is_correct": false
                       },
                       {
@@ -7239,7 +7239,7 @@
                     "options": [
                       {
                         "id": "opt_a",
-                        "label": "A. Completa la venta rápidamente",
+                        "label": "A. Completar la venta rápidamente",
                         "is_correct": false
                       },
                       {
