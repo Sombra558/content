@@ -4444,7 +4444,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "La fecha de nacimiento requerida hoy es el 6 de julio de 2005. Una fecha de nacimiento del 2 de septiembre de 2005 es posterior a esa fecha, por lo que el cliente sigue siendo menor de 21 años hasta el 2 de septiembre de 2026. Debe rechazar la venta.",
+                      "correct": "La fecha de nacimiento requerida hoy es el 6 de julio de 2005. Una fecha de nacimiento del 2 de septiembre de 2005 es posterior a esa fecha, por lo que el cliente sigue siendo menor de 21 años hasta el 2 de septiembre de 2026. Debes rechazar la venta.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -4485,7 +4485,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Múltiples señales de alerta, como foto que no coincide, sensación de manipulación y no poder responder una pregunta básica de verificación, significan que no debe vender. Rechace la venta y siga la política del establecimiento sobre retener la ID y avisar a un gerente.",
+                      "correct": "Múltiples señales de alerta, como foto que no coincide, sensación de manipulación y no poder responder una pregunta básica de verificación, significan que no debes vender. Rechaza la venta y sigue la política del establecimiento sobre retener la ID y avisar a un gerente.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -4526,7 +4526,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Comprar o transferir alcohol a una persona menor de 21 años para su consumo es ilegal. Interrumpa la transferencia, rechace más servicio con ese fin e involucre a un gerente si es necesario.",
+                      "correct": "Comprar o transferir alcohol a una persona menor de 21 años para su consumo es ilegal. Interrumpe la transferencia, rechaza más servicio con ese fin e involucra a un gerente si es necesario.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -4698,7 +4698,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Siempre verifique la edad cuando no esté seguro. Es necesario solicitar una identificación válida para evitar ventas a menores de edad y cumplir con la ley de Carolina del Sur.",
+                      "correct": "Siempre verifica la edad cuando no estés seguro. Es necesario solicitar una identificación válida para evitar ventas a menores de edad y cumplir con la ley de Carolina del Sur.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -5371,7 +5371,7 @@
                   "order_index": 59,
                   "text": {
                     "paragraphs": [
-                      "También se podrá aceptar identificación militar. Estas identificaciones son emitidas por el gobierno de EE. UU. e incluyen información de identificación. Revisa atentamente el documento de identidad para confirmar que pertenece a la persona que lo presenta. Si no está seguro de cómo verificarlo, solicita ayuda a un gerente antes de continuar."
+                      "También se podrá aceptar identificación militar. Estas identificaciones son emitidas por el gobierno de EE. UU. e incluyen información de identificación. Revisa atentamente el documento de identidad para confirmar que pertenece a la persona que lo presenta. Si no estás seguro de cómo verificarlo, solicita ayuda a un gerente antes de continuar."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -5521,7 +5521,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Las identificaciones vencidas no son válidas para la venta de alcohol. Debe verificar la edad utilizando una forma de identificación válida y vigente para cumplir con la ley de Carolina del Sur.",
+                      "correct": "Las identificaciones vencidas no son válidas para la venta de alcohol. Debes verificar la edad utilizando una forma de identificación válida y vigente para cumplir con la ley de Carolina del Sur.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -6015,7 +6015,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Los signos de manipulación o mala calidad pueden indicar una identificación falsa. Debe rechazar la venta si no puede confirmar que la identificación sea válida.",
+                      "correct": "Los signos de manipulación o mala calidad pueden indicar una identificación falsa. Debes rechazar la venta si no puedes confirmar que la identificación sea válida.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -6046,7 +6046,7 @@
                       },
                       {
                         "id": "opt_c",
-                        "label": "C. Negarse a vender si no está seguro",
+                        "label": "C. Negarse a vender si no estás seguro",
                         "is_correct": true
                       },
                       {
@@ -6056,7 +6056,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Si no está seguro de que la identificación sea válida, debe rechazar la venta. La incertidumbre significa que no se puede verificar la elegibilidad legal.",
+                      "correct": "Si no estás seguro de que la identificación sea válida, debes rechazar la venta. La incertidumbre significa que no se puede verificar la elegibilidad legal.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -6097,7 +6097,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Debe completar todos los pasos de verificación de identidad independientemente de la presión. Tomarse su tiempo garantiza el cumplimiento y previene las ventas ilegales.",
+                      "correct": "Debes completar todos los pasos de verificación de identidad independientemente de la presión. Tomarte tu tiempo garantiza el cumplimiento y previene las ventas ilegales.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -6240,7 +6240,7 @@
                   "order_index": 96,
                   "text": {
                     "paragraphs": [
-                      "Si no está seguro del cálculo de la edad, deténgase y vuelva a verificar. También puede pedir ayuda a un gerente. Es mejor hacer una pausa que cometer un error. Tomarse más tiempo ayuda a garantizar que cumpla con la ley y lo protege de sanciones."
+                      "Si no estás seguro del cálculo de la edad, detente y vuelve a verificar. También puedes pedir ayuda a un gerente. Es mejor hacer una pausa que cometer un error. Tomarte más tiempo ayuda a garantizar que cumplas con la ley y te protege de sanciones."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -6373,7 +6373,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "El cliente debe tener 21 años cumplidos el día de la venta. Si aún no ha llegado su cumpleaños, deberá rechazar la venta.",
+                      "correct": "El cliente debe tener 21 años cumplidos el día de la venta. Si aún no ha llegado su cumpleaños, deberás rechazar la venta.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -6649,7 +6649,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Los signos de alteración indican que la identificación puede ser falsa. Debe rechazar la venta si no puede confirmar que la identificación sea válida.",
+                      "correct": "Los signos de alteración indican que la identificación puede ser falsa. Debes rechazar la venta si no puedes confirmar que la identificación sea válida.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -7162,7 +7162,7 @@
                     "paragraphs": [
                       "Negar las ventas a menores de edad contribuye a un entorno más seguro. Ayuda a prevenir daños y reduce el riesgo en tu comunidad. Tus acciones marcan la diferencia en situaciones reales. Tomar en serio tu papel ayuda a proteger a los demás y refuerza los estándares responsables del servicio de alcohol."
                     ],
-                    "instruction": "Read the following, then click Next."
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
                 }
               ]
@@ -7201,7 +7201,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Debe rechazar la venta e involucrar a un gerente si es necesario. Mantener la calma y seguir los procedimientos ayuda a gestionar los conflictos de forma segura sin dejar de cumplir.",
+                      "correct": "Debes rechazar la venta e involucrar a un gerente si es necesario. Mantener la calma y seguir los procedimientos ayuda a gestionar los conflictos de forma segura sin dejar de cumplir.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -7242,7 +7242,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Debe verificar la edad cuando no esté seguro. Es necesario verificar una identificación válida y lo protege de realizar una venta ilegal.",
+                      "correct": "Debes verificar la edad cuando no estés seguro. Es necesario verificar una identificación válida y te protege de realizar una venta ilegal.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -7283,7 +7283,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Las identificaciones caducadas no son válidas. Debe utilizar una identificación válida y actual para verificar la edad antes de completar la venta.",
+                      "correct": "Las identificaciones caducadas no son válidas. Debes utilizar una identificación válida y actual para verificar la edad antes de completar la venta.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -7365,7 +7365,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Debe completar todos los pasos de verificación de identificación. Las prisas aumentan el riesgo de cometer errores y pueden dar lugar a infracciones.",
+                      "correct": "Debes completar todos los pasos de verificación de identificación. Las prisas aumentan el riesgo de cometer errores y pueden dar lugar a infracciones.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -7406,7 +7406,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Las respuestas y el comportamiento inconsistentes son señales de advertencia. Si no puede confirmar que la identificación es válida, deberá rechazar la venta.",
+                      "correct": "Las respuestas y el comportamiento inconsistentes son señales de advertencia. Si no puedes confirmar que la identificación es válida, deberás rechazar la venta.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -7447,7 +7447,7 @@
                       }
                     ],
                     "feedback": {
-                      "correct": "Debe rechazar la venta e involucrar a un gerente si es necesario. Mantener la calma y seguir el procedimiento ayuda a manejar la situación de manera segura.",
+                      "correct": "Debes rechazar la venta e involucrar a un gerente si es necesario. Mantener la calma y seguir el procedimiento ayuda a manejar la situación de manera segura.",
                       "incorrect": "Incorrecto."
                     }
                   }
