@@ -9631,7 +9631,7 @@
                   "order_index": 1,
                   "text": {
                     "paragraphs": [
-                      "Rechazar el servicio: obligación legal y profesional—no sirvas a menores de edad ni a personas visiblemente intoxicadas."
+                      "Rechazar el servicio funciona mejor cuando se hace con calma, firmeza y respeto. Usa un lenguaje claro como: 'No puedo servirle otra bebida alcohólica esta noche' y evita debatir o culpar al cliente. Ofrece agua, comida, una bebida sin alcohol o ayuda para organizar transporte. Tu objetivo es terminar el servicio de alcohol de forma segura mientras preservas la dignidad y reduces el conflicto."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -9646,396 +9646,6 @@
               "contents": [
                 {
                   "order_index": 2,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Debes rechazar a dar el servicio cuando un cliente muestra signos de intoxicación como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Estos signos indican deterioro. Continuar sirviendo aumenta el riesgo. Se espera que reconozcas estos indicadores y actúes antes de que la situación empeore."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "habla arrastrada",
-                        "revealed_text": "habla arrastrada"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "mal equilibrio",
-                        "revealed_text": "mal equilibrio"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "reacciones lentas",
-                        "revealed_text": "reacciones lentas"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "confusión",
-                        "revealed_text": "confusión"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "comportamiento agresivo",
-                        "revealed_text": "comportamiento agresivo"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 3,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 3,
-                  "text": {
-                    "paragraphs": [
-                      "La ley de Carolina del Sur prohíbe vender alcohol a una persona ebria. Esto se aplica incluso si el cliente fue atendido primero en otro lugar. Si están visiblemente deteriorados, deberás rechazar a dar el servicio. No importa cómo se emborracharon. Tu responsabilidad comienza en el momento en que interactúas con ellos."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 4,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 4,
-                  "text": {
-                    "paragraphs": [
-                      "La justificación legal de la denegación se basa en la protección de la seguridad pública. Servir a una persona ebria aumenta el riesgo de accidentes, lesiones y comportamiento ilegal. Rechazar el servicio ayuda a prevenir daños y mantiene tu negocio cumpliendo con las leyes estatales. También te proteges de responsabilidad personal."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 5,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 5,
-                  "interactive": {
-                    "question": "Un cliente arrastra las palabras, tropieza y hace ruido. Pide otra bebida. ¿Qué deberías hacer?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Servir una bebida más y controlar la situación ",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Pedir a un compañero de trabajo que decida",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Rechazar el servicio y notificar a la gerencia",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Ignorar el comportamiento",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "Se requiere rechazar el servicio cuando un cliente muestra signos claros de intoxicación. Involucrar a la gerencia ayuda a garantizar la seguridad y el manejo adecuado de la situación.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 6,
-              "min_time": 3,
-              "content_type": "Multiple",
-              "content_type_unique_id": "multiple",
-              "contents": [
-                {
-                  "order_index": 6,
-                  "interactive": {
-                    "question": "Un cliente se irrita después de que tu le niegas otra bebida y dice: 'Conozco al dueño. Sírveme de todos modos'. ¿Qué debes hacer?",
-                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
-                    "options": [
-                      {
-                        "id": "opt_a",
-                        "label": "A. Servir la bebida para evitar conflicto",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_b",
-                        "label": "B. Mantener la calma, repetir la negativa, ofrecer agua u otra opción sin alcohol e involucrar a un gerente si el cliente sigue presionando",
-                        "is_correct": true
-                      },
-                      {
-                        "id": "opt_c",
-                        "label": "C. Discutir hasta que admita que está intoxicado",
-                        "is_correct": false
-                      },
-                      {
-                        "id": "opt_d",
-                        "label": "D. Ignorarlo e irse sin avisar a nadie",
-                        "is_correct": false
-                      }
-                    ],
-                    "feedback": {
-                      "correct": "La negativa debe ser calmada, firme y respetuosa. Repite el límite, ofrece alternativas e involucra a un gerente cuando el cliente se resista o escale la situación.",
-                      "incorrect": "Incorrecto."
-                    }
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 7,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 7,
-                  "text": {
-                    "paragraphs": [
-                      "También debes rechazar el servicio si un cliente se vuelve problemático o inseguro. Esto incluye comportamiento amenazante, acoso o negativa a seguir las reglas. El servicio de alcohol nunca debe continuar en una situación donde exista el riesgo de dañar al personal u otros clientes."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 8,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 8,
-                  "text": {
-                    "paragraphs": [
-                      "Debes rechazar el servicio si un cliente es menor de 21 años. Esto incluye cualquier situación en la que no se proporcione una identificación válida. Si no puedes confirmar la edad, no podrás completar la venta. Adivinar o asumir la edad nunca es aceptable. Confía siempre en una verificación de identidad adecuada antes de servir alcohol."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 9,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 9,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Debes involucrar a la gerencia al rechazar el servicio en situaciones como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Los gerentes deben respaldar tu decisión y ayudar a controlar la situación. Nunca sientas que debes enfrentarte solo a estas situaciones difíciles."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "conflicto creciente",
-                        "revealed_text": "conflicto creciente"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "agresividad del cliente",
-                        "revealed_text": "agresividad del cliente"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "presión grupal",
-                        "revealed_text": "presión grupal"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "juicio incierto",
-                        "revealed_text": "juicio incierto"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "riesgo de seguridad",
-                        "revealed_text": "riesgo de seguridad"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 10,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 10,
-                  "text": {
-                    "paragraphs": [
-                      "La negativa debe ser firme, tranquila y respetuosa. No discutas ni debatas con el cliente. Declara claramente que no puedes atenderlo y evita el lenguaje culposo. Mantén un tono profesional y centrado en la política y la seguridad, no en el juicio personal."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 11,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 11,
-                  "text": {
-                    "paragraphs": [
-                      "No ofrezcas alternativas que involucren alcohol. En su lugar, sugiere opciones o alimentos sin alcohol, si corresponde. En algunos casos, puede ser apropiado ofrecer agua o ayudar a organizar el transporte. Estas acciones respaldan la seguridad sin violar las leyes de servicio."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 12,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 12,
-                  "text": {
-                    "paragraphs": [
-                      "Sigue siempre las políticas de tu establecimiento al rechazar el servicio. Esto puede incluir documentar el incidente o notificar a un supervisor. La aplicación constante ayuda a proteger la empresa y muestra el cumplimiento de las expectativas legales y de capacitación."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 13,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 13,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "La negativa te protege de {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Tomar la decisión correcta puede resultar incómodo, pero evita consecuencias graves. Elegir rechazar a dar el servicio siempre es más seguro que arriesgarte a cometer una infracción."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "sanciones legales",
-                        "revealed_text": "sanciones legales"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "pérdida de empleo",
-                        "revealed_text": "pérdida de empleo"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "multas",
-                        "revealed_text": "multas"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "demandas",
-                        "revealed_text": "demandas"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "cargos criminales",
-                        "revealed_text": "cargos criminales"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 14,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 14,
-                  "text": {
-                    "paragraphs": [
-                      "Rechazar el servicio funciona mejor cuando se hace con calma, firmeza y respeto. Usa un lenguaje claro como: 'No puedo servirle otra bebida alcohólica esta noche' y evita debatir o culpar al cliente. Ofrece agua, comida, una bebida sin alcohol o ayuda para organizar transporte. Tu objetivo es terminar el servicio de alcohol de forma segura mientras preservas la dignidad y reduces el conflicto."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 15,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 15,
-                  "text": {
-                    "paragraphs": [
-                      "Las políticas internas convierten el servicio responsable en un proceso repetible. Una política sólida explica cuándo revisar la ID, cuándo rechazar el servicio, cuándo involucrar a un gerente, cómo evitar que un cliente conduzca y cuándo completar un informe de incidente. Seguir la política te protege porque demuestra que tus decisiones fueron consistentes, documentadas y basadas en la seguridad, no solo en su juicio personal."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 16,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 16,
-                  "text": {
-                    "paragraphs": [
-                      "En Carolina del Sur, rechazar una venta ilegal o insegura siempre está por encima de concretar la venta o complacer al cliente. Una sola venta nunca vale un cargo penal, la pérdida de tu certificado o un accidente que cambie vidas. Las negativas seguras y consistentes son una marca de profesionalismo, no de mala educación, y la cultura de responsabilidad de tu establecimiento depende de que cada servidor se mantenga en esa línea."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 17,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 17,
                   "text": {
                     "instruction": "Haga clic en cada elemento para obtener más información."
                   },
@@ -10075,13 +9685,88 @@
               ]
             },
             {
-              "order_index": 18,
+              "order_index": 3,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 3,
+                  "text": {
+                    "paragraphs": [
+                      "Las políticas internas convierten el servicio responsable en un proceso repetible. Una política sólida explica cuándo revisar la ID, cuándo rechazar el servicio, cuándo involucrar a un gerente, cómo evitar que un cliente conduzca y cuándo completar un informe de incidente. Seguir la política te protege porque demuestra que tus decisiones fueron consistentes, documentadas y basadas en la seguridad, no solo en su juicio personal."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 4,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 4,
+                  "text": {
+                    "paragraphs": [
+                      "En Carolina del Sur, rechazar una venta ilegal o insegura siempre está por encima de concretar la venta o complacer al cliente. Una sola venta nunca vale un cargo penal, la pérdida de tu certificado o un accidente que cambie vidas. Las negativas seguras y consistentes son una marca de profesionalismo, no de mala educación, y la cultura de responsabilidad de tu establecimiento depende de que cada servidor se mantenga en esa línea."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 5,
               "min_time": 3,
               "content_type": "Multiple",
               "content_type_unique_id": "multiple",
               "contents": [
                 {
-                  "order_index": 18,
+                  "order_index": 5,
+                  "interactive": {
+                    "question": "Un cliente se irrita después de que tu le niegas otra bebida y dice: 'Conozco al dueño. Sírveme de todos modos'. ¿Qué debes hacer?",
+                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
+                    "options": [
+                      {
+                        "id": "opt_a",
+                        "label": "A. Servir la bebida para evitar conflicto",
+                        "is_correct": false
+                      },
+                      {
+                        "id": "opt_b",
+                        "label": "B. Mantener la calma, repetir la negativa, ofrecer agua u otra opción sin alcohol e involucrar a un gerente si el cliente sigue presionando",
+                        "is_correct": true
+                      },
+                      {
+                        "id": "opt_c",
+                        "label": "C. Discutir hasta que admita que está intoxicado",
+                        "is_correct": false
+                      },
+                      {
+                        "id": "opt_d",
+                        "label": "D. Ignorarlo e irse sin avisar a nadie",
+                        "is_correct": false
+                      }
+                    ],
+                    "feedback": {
+                      "correct": "La negativa debe ser calmada, firme y respetuosa. Repite el límite, ofrece alternativas e involucra a un gerente cuando el cliente se resista o escale la situación.",
+                      "incorrect": "Incorrecto."
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 6,
+              "min_time": 3,
+              "content_type": "Multiple",
+              "content_type_unique_id": "multiple",
+              "contents": [
+                {
+                  "order_index": 6,
                   "interactive": {
                     "question": "Un servidor corta el servicio a un cliente visiblemente intoxicado. El cliente se va molesto y empieza a caminar hacia el estacionamiento con las llaves del auto en la mano. ¿Cuál es el mejor siguiente paso?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
@@ -10109,6 +9794,321 @@
                     ],
                     "feedback": {
                       "correct": "Detener el servicio es solo una parte del servicio responsable. Escala la situación, involucra a gerencia o seguridad, organiza transporte seguro cuando sea posible y documenta el incidente según la política del establecimiento.",
+                      "incorrect": "Incorrecto."
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 7,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 7,
+                  "text": {
+                    "paragraphs": [
+                      "Rechazar el servicio es una responsabilidad legal y profesional en Carolina del Sur. No debes servir alcohol a alguien que sea menor de edad o que ya esté intoxicado. Esto no es opcional. No rechazar el servicio puede resultar en sanciones tanto para ti como para tu empleador. Tus decisiones afectan directamente la seguridad, el cumplimiento de la ley y la seguridad de tu empleo."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 8,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 8,
+                  "text": {
+                    "paragraphs": [
+                      "Debes rechazar el servicio si un cliente es menor de 21 años. Esto incluye cualquier situación en la que no se proporcione una identificación válida. Si no puedes confirmar la edad, no podrás completar la venta. Adivinar o asumir la edad nunca es aceptable. Confía siempre en una verificación de identidad adecuada antes de servir alcohol."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 9,
+              "min_time": 3,
+              "content_type": "Completion",
+              "content_type_unique_id": "completion",
+              "contents": [
+                {
+                  "order_index": 9,
+                  "text": {
+                    "instruction": "Haga clic en cada elemento para obtener más información."
+                  },
+                  "interactive": {
+                    "content_structure": [
+                      "Debes rechazar a dar el servicio cuando un cliente muestra signos de intoxicación como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Estos signos indican deterioro. Continuar sirviendo aumenta el riesgo. Se espera que reconozcas estos indicadores y actúes antes de que la situación empeore."
+                    ],
+                    "reveal_items": [
+                      {
+                        "id": "item_1",
+                        "title": "habla arrastrada",
+                        "revealed_text": "habla arrastrada"
+                      },
+                      {
+                        "id": "item_2",
+                        "title": "mal equilibrio",
+                        "revealed_text": "mal equilibrio"
+                      },
+                      {
+                        "id": "item_3",
+                        "title": "reacciones lentas",
+                        "revealed_text": "reacciones lentas"
+                      },
+                      {
+                        "id": "item_4",
+                        "title": "confusión",
+                        "revealed_text": "confusión"
+                      },
+                      {
+                        "id": "item_5",
+                        "title": "comportamiento agresivo",
+                        "revealed_text": "comportamiento agresivo"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 10,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 10,
+                  "text": {
+                    "paragraphs": [
+                      "La ley de Carolina del Sur prohíbe vender alcohol a una persona ebria. Esto se aplica incluso si el cliente fue atendido primero en otro lugar. Si están visiblemente deteriorados, deberás rechazar a dar el servicio. No importa cómo se emborracharon. Tu responsabilidad comienza en el momento en que interactúas con ellos."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 11,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 11,
+                  "text": {
+                    "paragraphs": [
+                      "La justificación legal de la denegación se basa en la protección de la seguridad pública. Servir a una persona ebria aumenta el riesgo de accidentes, lesiones y comportamiento ilegal. Rechazar el servicio ayuda a prevenir daños y mantiene tu negocio cumpliendo con las leyes estatales. También te proteges de responsabilidad personal."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 12,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 12,
+                  "text": {
+                    "paragraphs": [
+                      "También debes rechazar el servicio si un cliente se vuelve problemático o inseguro. Esto incluye comportamiento amenazante, acoso o negativa a seguir las reglas. El servicio de alcohol nunca debe continuar en una situación donde exista el riesgo de dañar al personal u otros clientes."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 13,
+              "min_time": 3,
+              "content_type": "Completion",
+              "content_type_unique_id": "completion",
+              "contents": [
+                {
+                  "order_index": 13,
+                  "text": {
+                    "instruction": "Haga clic en cada elemento para obtener más información."
+                  },
+                  "interactive": {
+                    "content_structure": [
+                      "Debes involucrar a la gerencia al rechazar el servicio en situaciones como {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} o {{item_5}} . Los gerentes deben respaldar tu decisión y ayudar a controlar la situación. Nunca sientas que debes enfrentarte solo a estas situaciones difíciles."
+                    ],
+                    "reveal_items": [
+                      {
+                        "id": "item_1",
+                        "title": "conflicto creciente",
+                        "revealed_text": "conflicto creciente"
+                      },
+                      {
+                        "id": "item_2",
+                        "title": "negativa del cliente",
+                        "revealed_text": "negativa del cliente"
+                      },
+                      {
+                        "id": "item_3",
+                        "title": "presión grupal",
+                        "revealed_text": "presión grupal"
+                      },
+                      {
+                        "id": "item_4",
+                        "title": "juicio incierto",
+                        "revealed_text": "juicio incierto"
+                      },
+                      {
+                        "id": "item_5",
+                        "title": "riesgo de seguridad",
+                        "revealed_text": "riesgo de seguridad"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 14,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 14,
+                  "text": {
+                    "paragraphs": [
+                      "La negativa debe ser firme, tranquila y respetuosa. No discutas ni debatas con el cliente. Declara claramente que no puedes atenderlo y evita el lenguaje culposo. Mantén un tono profesional y centrado en la política y la seguridad, no en el juicio personal."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 15,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 15,
+                  "text": {
+                    "paragraphs": [
+                      "No ofrezcas alternativas que involucren alcohol. En su lugar, sugiere opciones o alimentos sin alcohol, si corresponde. En algunos casos, puede ser apropiado ofrecer agua o ayudar a organizar el transporte. Estas acciones respaldan la seguridad sin violar las leyes de servicio."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 16,
+              "min_time": 3,
+              "content_type": "Text",
+              "content_type_unique_id": "text",
+              "contents": [
+                {
+                  "order_index": 16,
+                  "text": {
+                    "paragraphs": [
+                      "Sigue siempre las políticas de tu establecimiento al rechazar el servicio. Esto puede incluir documentar el incidente o notificar a un supervisor. La aplicación constante ayuda a proteger la empresa y muestra el cumplimiento de las expectativas legales y de capacitación."
+                    ],
+                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 17,
+              "min_time": 3,
+              "content_type": "Completion",
+              "content_type_unique_id": "completion",
+              "contents": [
+                {
+                  "order_index": 17,
+                  "text": {
+                    "instruction": "Haga clic en cada elemento para obtener más información."
+                  },
+                  "interactive": {
+                    "content_structure": [
+                      "La negativa te protege de {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Tomar la decisión correcta puede resultar incómodo, pero evita consecuencias graves. Elegir rechazar a dar el servicio siempre es más seguro que arriesgarte a cometer una infracción."
+                    ],
+                    "reveal_items": [
+                      {
+                        "id": "item_1",
+                        "title": "sanciones legales",
+                        "revealed_text": "sanciones legales"
+                      },
+                      {
+                        "id": "item_2",
+                        "title": "pérdida de empleo",
+                        "revealed_text": "pérdida de empleo"
+                      },
+                      {
+                        "id": "item_3",
+                        "title": "multas",
+                        "revealed_text": "multas"
+                      },
+                      {
+                        "id": "item_4",
+                        "title": "demandas",
+                        "revealed_text": "demandas"
+                      },
+                      {
+                        "id": "item_5",
+                        "title": "cargos criminales",
+                        "revealed_text": "cargos criminales"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "order_index": 18,
+              "min_time": 3,
+              "content_type": "Multiple",
+              "content_type_unique_id": "multiple",
+              "contents": [
+                {
+                  "order_index": 18,
+                  "interactive": {
+                    "question": "Un cliente arrastra las palabras, tropieza y hace ruido. Pide otra bebida. ¿Qué deberías hacer?",
+                    "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
+                    "options": [
+                      {
+                        "id": "opt_a",
+                        "label": "A. Servir una bebida más y controlar la situación ",
+                        "is_correct": false
+                      },
+                      {
+                        "id": "opt_b",
+                        "label": "B. Pedir a un compañero de trabajo que decida",
+                        "is_correct": false
+                      },
+                      {
+                        "id": "opt_c",
+                        "label": "C. Rechazar el servicio y notificar a la gerencia",
+                        "is_correct": true
+                      },
+                      {
+                        "id": "opt_d",
+                        "label": "D. Ignorar el comportamiento",
+                        "is_correct": false
+                      }
+                    ],
+                    "feedback": {
+                      "correct": "Se requiere rechazar el servicio cuando un cliente muestra signos claros de intoxicación. Involucrar a la gerencia ayuda a garantizar la seguridad y el manejo adecuado de la situación.",
                       "incorrect": "Incorrecto."
                     }
                   }
@@ -11204,7 +11204,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Proteja tu seguridad así: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones te ayudarán a mantenerte preparado si la situación empeora."
+                      "Protege tu seguridad así: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones te ayudarán a mantenerte preparado si la situación empeora."
                     ],
                     "reveal_items": [
                       {
@@ -11224,8 +11224,8 @@
                       },
                       {
                         "id": "item_4",
-                        "title": "manteniendo las manos visibles",
-                        "revealed_text": "manteniendo las manos visibles"
+                        "title": "manteniéndote visible",
+                        "revealed_text": "manteniéndote visible"
                       },
                       {
                         "id": "item_5",
@@ -12411,7 +12411,7 @@
                 {
                   "order_index": 105,
                   "interactive": {
-                    "question": "Después de rechazar a seguir sirviendo y ofrecer solo agua, un cliente sigue pidiendo alcohol con agua. ¿Qué deberías hacer?",
+                    "question": "Después de rechazar el servicio, un cliente pide “solo agua” pero sigue pidiendo alcohol. ¿Qué deberías hacer?",
                     "instruction": "Lea el escenario y luego seleccione la mejor respuesta.",
                     "options": [
                       {
