@@ -13433,7 +13433,7 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Las promociones responsables fomentan la {{item_1}} al beber, no {{item_2}}, apoyan el {{item_3}}, siguen la {{item_4}}, y promueven el consumo responsable para {{item_5}}. Estos principios ayudan a garantizar que la publicidad no conduzca a situaciones inseguras."
+                      "Las promociones responsables se centran en la {{item_1}}, evitan {{item_2}}, apoyan el {{item_3}}, siguen la {{item_4}} y reducen el {{item_5}}. Estos principios ayudan a garantizar que las promociones no conduzcan a situaciones inseguras."
                     ],
                     "reveal_items": [
                       {
@@ -13443,8 +13443,8 @@
                       },
                       {
                         "id": "item_2",
-                        "title": "tomar rápido",
-                        "revealed_text": "tomar rápido"
+                        "title": "beber rápido",
+                        "revealed_text": "beber rápido"
                       },
                       {
                         "id": "item_3",
@@ -13458,8 +13458,8 @@
                       },
                       {
                         "id": "item_5",
-                        "title": "disminuir el riesgo al beber alcohol",
-                        "revealed_text": "disminuir el riesgo al beber alcohol"
+                        "title": "riesgo",
+                        "revealed_text": "riesgo"
                       }
                     ]
                   }
@@ -14240,33 +14240,33 @@
                   },
                   "interactive": {
                     "content_structure": [
-                      "Para ser profesional sigue las siguientes reglas: {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos hábitos respaldan una cultura laboral sólida y reducen el riesgo."
+                      "Mantén el profesionalismo {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}} y {{item_5}}. Estos hábitos respaldan una cultura laboral sólida y reducen el riesgo."
                     ],
                     "reveal_items": [
                       {
                         "id": "item_1",
-                        "title": "mantener la calma",
-                        "revealed_text": "mantener la calma"
+                        "title": "manteniendo la calma",
+                        "revealed_text": "manteniendo la calma"
                       },
                       {
                         "id": "item_2",
-                        "title": "ser respetuoso",
-                        "revealed_text": "ser respetuoso"
+                        "title": "siendo respetuoso",
+                        "revealed_text": "siendo respetuoso"
                       },
                       {
                         "id": "item_3",
-                        "title": " tener comunicación clara",
-                        "revealed_text": " tener comunicación clara"
+                        "title": "comunicándote claramente",
+                        "revealed_text": "comunicándote claramente"
                       },
                       {
                         "id": "item_4",
-                        "title": " seguir las políticas",
-                        "revealed_text": " seguir las políticas"
+                        "title": "siguiendo la política",
+                        "revealed_text": "siguiendo la política"
                       },
                       {
                         "id": "item_5",
-                        "title": "manejar conflictos de forma segura y efectiva",
-                        "revealed_text": "manejar conflictos de forma segura y efectiva"
+                        "title": "manejando conflictos",
+                        "revealed_text": "manejando conflictos"
                       }
                     ]
                   }
