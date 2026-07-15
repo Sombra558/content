@@ -15022,27 +15022,27 @@
                       {
                         "id": "item_1",
                         "title": "Tarde en la noche",
-                        "revealed_text": "Tardes en las noches"
+                        "revealed_text": "Tarde en la noche"
                       },
                       {
                         "id": "item_2",
                         "title": "Fines de semana",
-                        "revealed_text": "fines de semana"
+                        "revealed_text": "Fines de semana"
                       },
                       {
                         "id": "item_3",
-                        "title": "Vacaciones",
-                        "revealed_text": "vacaciones"
+                        "title": "Días festivos",
+                        "revealed_text": "Días festivos"
                       },
                       {
                         "id": "item_4",
                         "title": "Eventos",
-                        "revealed_text": "eventos"
+                        "revealed_text": "Eventos"
                       },
                       {
                         "id": "item_5",
-                        "title": "cierre de establecimientos de venta de alcohol",
-                        "revealed_text": "cierre de establecimientos de venta de alcohol"
+                        "title": "Cierre",
+                        "revealed_text": "Cierre"
                       }
                     ]
                   }
@@ -15895,7 +15895,7 @@
                   "order_index": 52,
                   "text": {
                     "paragraphs": [
-                      "La supervisión también incluye el servicio de vigilancia a personas en estado de ebriedad. Las fuerzas del orden pueden observar si el personal reconoce y responde al impedimento. Servir a un huésped ebrio aumenta el riesgo y puede dar lugar a medidas coercitivas. Los servidores deben permanecer alerta y actuar cuando sea necesario. La prevención del exceso de servicio respalda tanto el cumplimiento como la seguridad."
+                      "La supervisión también incluye monitorear el servicio a personas intoxicadas. Las fuerzas del orden pueden observar si el personal reconoce y responde a la intoxicación. Servir a un cliente intoxicado aumenta el riesgo y puede dar lugar a medidas de aplicación de la ley. Los servidores deben permanecer alerta y actuar cuando sea necesario. Prevenir el exceso de servicio respalda tanto el cumplimiento como la seguridad."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -16113,7 +16113,7 @@
                   "order_index": 60,
                   "text": {
                     "paragraphs": [
-                      "En un caso reportado, se continuó atendiendo a un huésped visiblemente discapacitado a lo largo del tiempo. El personal no intervino. Posteriormente, el huésped provocó un grave accidente. Esta situación refleja una incapacidad para reconocer y actuar en función de señales de advertencia claras. El monitoreo constante y rechazar el servicio de forma oportuna pueden prevenir estos resultados y proteger tanto al huésped como al público."
+                      "En un caso reportado, se continuó sirviendo a un huésped visiblemente intoxicado a lo largo del tiempo. El personal no intervino. Posteriormente, el huésped provocó un accidente grave. Esta situación refleja una falla al reconocer y actuar ante señales de advertencia claras. El monitoreo constante y el rechazo oportuno del servicio pueden prevenir estos resultados y proteger tanto al huésped como al público."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
