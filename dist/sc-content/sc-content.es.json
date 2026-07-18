@@ -10228,23 +10228,6 @@
               ]
             },
             {
-              "order_index": 10,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 10,
-                  "text": {
-                    "paragraphs": [
-                      "La negativa debe ser firme, tranquila y respetuosa. No discutas ni debatas con el cliente. Declara claramente que no puedes atenderlo y evita el lenguaje culposo. Mantén un tono profesional y centrado en la política y la seguridad, no en el juicio personal."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 11,
               "min_time": 3,
               "content_type": "Text",
@@ -11585,23 +11568,6 @@
               ]
             },
             {
-              "order_index": 62,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 62,
-                  "text": {
-                    "paragraphs": [
-                      "Involucra a la gerencia desde el principio cuando un cliente se vuelve conflictivo. No esperes a que la situación empeore aún más. Los gerentes son responsables de manejar situaciones de mayor riesgo y apoyar las decisiones del personal."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 63,
               "min_time": 3,
               "content_type": "Text",
@@ -11733,23 +11699,6 @@
                   "text": {
                     "paragraphs": [
                       "Los procedimientos de escalada se utilizan cuando una situación va más allá de una negativa normal. Esto incluye a los clientes que se vuelven agresivos, se niegan a seguir instrucciones o crean preocupaciones de seguridad para los demás. Saber cuándo escalar es parte de tu responsabilidad. Actuar temprano puede evitar lesiones, daños a la propiedad o problemas legales para ti y tu empresa."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 68,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 68,
-                  "text": {
-                    "paragraphs": [
-                      "Debes involucrar a la gerencia cada vez que te sientas inseguro o presionado. No intentes manejar una situación grave solo. Los gerentes son responsables de apoyar al personal y tomar decisiones de nivel superior. Traerlos temprano te ayuda a mantener el control y demuestra que estás siguiendo los procedimientos adecuados."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13446,23 +13395,6 @@
                   "text": {
                     "paragraphs": [
                       "Los gerentes también ayudan a manejar situaciones difíciles o de confrontación. Si un cliente se molesta o se niega a seguir las reglas, no discutas. Manten la calma y traiga a un gerente. Esto ayuda a mantener el control y previene la escalada. Los gerentes suelen tener más autoridad y experiencia para manejar estas interacciones de manera segura."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 21,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 21,
-                  "text": {
-                    "paragraphs": [
-                      "Apoyar a los compañeros de trabajo es parte de la responsabilidad del equipo. Si notas que un compañero de trabajo está luchando con una situación, ofrécele ayuda o notifica a un gerente. No ignores los problemas potenciales. Una respuesta rápida puede evitar problemas mayores. Todos comparten la responsabilidad de mantener un entorno seguro y que cumpla con las normas."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }

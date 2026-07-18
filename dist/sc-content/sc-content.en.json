@@ -10322,23 +10322,6 @@
        ]
       },
       {
-       "order_index": 14,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 14,
-         "text": {
-          "paragraphs": [
-           "Refusal should be firm, calm, and respectful. Do not argue or debate with the customer. Clearly state that you cannot serve them and avoid blaming language. Keep your tone professional and focused on policy and safety, not personal judgment."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
        "order_index": 15,
        "min_time": 3,
        "content_type": "Text",
@@ -11582,23 +11565,6 @@
        ]
       },
       {
-       "order_index": 62,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 62,
-         "text": {
-          "paragraphs": [
-           "Involve management early when a customer becomes confrontational. Do not wait for the situation to escalate further. Managers are responsible for handling higher-risk situations and supporting staff decisions."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
        "order_index": 63,
        "min_time": 3,
        "content_type": "Text",
@@ -11730,23 +11696,6 @@
          "text": {
           "paragraphs": [
            "Escalation procedures are used when a situation goes beyond a normal refusal. This includes customers who become aggressive, refuse to follow instructions, or create safety concerns for others. Knowing when to escalate is part of your responsibility. Acting early can prevent injury, property damage, or legal issues for you and your business."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 68,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 68,
-         "text": {
-          "paragraphs": [
-           "You should involve management anytime you feel unsure, pressured, or unsafe. Do not try to handle a serious situation alone. Managers are responsible for supporting staff and making higher-level decisions. Bringing them in early helps maintain control and shows that proper procedures are being followed."
           ],
           "instruction": "Read the following, then click Next."
          }
@@ -13411,23 +13360,6 @@
             "revealed_text": "acting early"
            }
           ]
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 19,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 19,
-         "text": {
-          "paragraphs": [
-           "Supporting coworkers is part of team accountability. If you notice a coworker struggling with a situation, offer help or notify a manager. Do not ignore potential issues. A quick response can prevent larger problems. Everyone shares responsibility for maintaining a safe and compliant environment."
-          ],
-          "instruction": "Read the following, then click Next."
          }
         }
        ]
