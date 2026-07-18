@@ -1,0 +1,2091 @@
+{
+  "exam": {
+    "name": "South Carolina Alcohol – Final Certification Exam",
+    "passingScore": 70,
+    "timeLimitMinutes": 60,
+    "isProctored": true,
+    "maxAttempts": 3
+  },
+  "questions": [
+    {
+      "order": 1,
+      "text": "Your restaurant holds a PLB (Business Liquor by the Drink) license but not a Local Option Permit. A guest asks for a cocktail at 1 p.m. on Sunday. What is correct?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve it; liquor by the drink is always allowed",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Do not serve liquor by the drink on Sunday without a Local Option Permit",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Serve only if they also order food",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Serve beer or wine instead, assuming Sunday rules do not apply",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "text": "You are working at a restaurant. A customer asks if they can purchase a type of alcohol your location does not normally sell. You are unsure if your business is licensed for it. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Sell the alcohol if the customer insists",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Check with a manager before serving",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Guess based on past experience",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Tell the customer it is always allowed",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "text": "A young-looking customer orders a drink. They say they forgot their ID but insist they are 21. Their friend offers to confirm their age. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve the drink if the friend confirms",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Refuse service without valid ID",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Accept a photo of their ID on a phone",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Serve now and ask them to bring ID next time",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "text": "You notice a customer becoming loud, unsteady, and slow to respond. They order another drink and mention they will drive home soon. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve the drink and trust their judgment",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Delay service but serve eventually",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse service and suggest safe transportation",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Continue service unless the situation becomes disruptive",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "text": "You notice a customer with a visible firearm in an establishment that has posted restrictions against weapons. The customer is calm and not causing a disturbance. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Approach the customer and demand they leave",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue other work and reassess only if they become violent",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Notify a manager and follow policy",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Wait until closing and report it then",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "text": "You serve a customer who shows clear signs of intoxication. Later, they are involved in an accident after leaving the business. What type of consequences could result?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Only internal discipline",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Only a warning from management",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Criminal, civil, and administrative consequences",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. No consequences if the customer chose to drive",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "text": "A customer who looks under 21 attempts to order alcohol but does not have an ID. They insist they are old enough. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve them if they seem confident",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Serve them if a coworker says they look old enough",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse service without valid ID",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Serve one drink while you wait for them to find an ID",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "text": "A customer presents an ID that looks damaged and does not clearly match their appearance. They insist it is valid. What is the best action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Accept the ID and serve",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Refuse service due to questionable ID",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Accept it if they insist it was damaged accidentally",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "text": "You notice a customer slurring their speech and struggling to stay balanced. They order another drink. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve quickly so they leave sooner",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Wait to see if other guests complain before acting",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse service due to intoxication",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Ask if they feel okay, and serve if they say yes",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "text": "Two guests each had three drinks in an hour. One appears far more impaired than the other. What is the best explanation for a server to keep in mind?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. The calmer guest is safe to keep serving",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Factors like body weight, food, drinking rate, tolerance, and medications change how alcohol affects each person, so judge impairment by behavior",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. They must have miscounted their drinks",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. BAC is the same for everyone after three drinks",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "text": "A guest orders several drinks quickly. Within a short time, you notice slower speech and unsteady movement. The guest insists they feel fine and asks for another drink. Based on alcohol absorption and effects, what is the safest action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve one more drink slowly",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service because they say they feel fine",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Offer food and continue alcohol service",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Refuse further alcohol service",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "text": "A guest orders two strong mixed drinks in a short time. You notice faster speech and reduced coordination. The guest asks for another drink right away. Based on BAC and standard drink understanding, what is the safest action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve another drink with extra ice",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Offer water and slow service",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Continue service because they say they feel fine",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Suggest switching to beer and continue",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "text": "A guest has been drinking slowly but mentions they have not eaten all day. After two drinks, you notice quicker mood changes and reduced coordination. The guest asks for another drink. What is the safest action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve another drink since intake is low",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Offer food and continue normal service",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Slow or stop alcohol service based on signs",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Continue normal service because two drinks is a low count",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "text": "A guest drinks several beverages and then orders coffee. They say they are fine to continue drinking because the coffee “sobers them up.” What is the safest response?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve another drink since they had coffee",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Allow time and continue normal service",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Offer food and continue alcohol service",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop alcohol service based on impairment",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "text": "A guest has one drink but shows strong drowsiness and poor coordination. They mention taking medication earlier. They ask for another drink. What is the safest action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve another drink since intake is low",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Offer water and continue alcohol service",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Count only the alcohol and continue normal service",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop alcohol service based on impairment",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "text": "A guest orders strong mixed drinks back to back. They appear alert but show poor judgment and risk-taking behavior. What is the best response?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue service since they seem alert",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Offer water and monitor behavior",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Serve a weaker drink instead",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Continue normal service because they still seem alert",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "text": "A guest says they “feel fine” after several drinks. You observe slurred speech and unsteady walking. What should guide your decision?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Guest’s statement",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Number of drinks only",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Observed behavior",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Time spent drinking",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "text": "Today is July 6, 2026. A customer's ID shows a date of birth of September 2, 2005. Can you sell them alcohol?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Yes, any 2005 birth year means they are already 21",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. No -- they turn 21 on September 2, 2026, which is after today, so they are still under 21",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Yes, if they also show a second ID",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Sell after dinner hours because age rules are looser then",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "text": "A customer hands you a license. The photo hair and face look different, the card feels bumpy around the birth date, and the person cannot recall their own ZIP code. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Sell if they seem confident the card is theirs",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Refuse the sale, and hold the ID and notify a manager per house policy",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Sell beer only, since it is lower risk than liquor",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Have them sign a note confirming their age and serve",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "text": "An adult guest orders a beer, then immediately slides it to a visibly underage companion at the table. What is the correct response?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Allow it because the adult purchased the drink legally",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Remove or refuse the drink -- transferring alcohol to someone under 21 is illegal, and you may not keep serving the pair for that purpose",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Warn them once, then allow the transfer if they stay quiet",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Ask them to move farther from the bar and continue service",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "text": "A customer appears young but insists they are 21. You are unsure and the line is growing. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Complete the sale quickly to keep the line moving",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Skip the ID check because they insist they are 21",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Request valid ID before selling",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "text": "A customer cannot provide valid identification but insists they are over 21 and becomes frustrated. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Complete the sale to avoid conflict",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Accept their verbal confirmation",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse the sale without valid ID",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "text": "A customer presents an ID that appears valid, but it is expired. They insist it should still be accepted. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Accept it because the birthdate is correct",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Accept it because the birthdate shows they are over 21",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Refuse the sale due to expired ID",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "text": "A customer presents an ID that looks real, but the print appears blurry and the edges seem uneven. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Accept the ID and continue",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Accept it if the birthdate looks correct",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse the sale due to suspicious ID",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "text": "A customer correctly answers questions about their ID, but you still feel unsure about its authenticity. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Complete the sale anyway",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Trust the answers and proceed",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse the sale if unsure",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Skip further checks",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "text": "A customer becomes frustrated when you take extra time to check their ID carefully. What is the best response?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Rush the process to avoid conflict",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Skip steps to move faster",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Continue carefully and complete all checks",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Continue service unless the situation becomes disruptive",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "text": "Today's date is June 1, 2026. A customer's date of birth is June 5, 2005. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Complete the sale because they turn 21 soon",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Complete the sale if they show any secondary card, even if expired",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse the sale because they are not yet 21",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "text": "A customer presents an ID with a clear photo, but the birthdate looks scratched and altered. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Accept the ID because the photo matches",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Accept it if the photo still looks close enough",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse the sale due to suspected tampering",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 29,
+      "text": "A customer presents an ID that seems valid, but their answers do not match the information. They become impatient and ask you to hurry. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Complete the sale to avoid conflict",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Complete the sale if they answer most questions correctly",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse the sale due to uncertainty",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 30,
+      "text": "A customer without ID becomes loud and insists you serve them because others are waiting. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve them to avoid disruption",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Argue until they leave",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse the sale and involve a manager",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Assume they will handle themselves once they leave",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 31,
+      "text": "A customer gives an ID, but the photo does not clearly match their face. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Accept it if they seem confident",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Accept it if they can answer questions about the address",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Accept verbal confirmation from a friend at the table",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Refuse the sale due to mismatch",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 32,
+      "text": "A customer cannot answer basic questions about their ID and avoids eye contact. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Complete the sale",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Wait to see if other guests complain before acting",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse the sale due to uncertainty",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Let a coworker handle it",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 33,
+      "text": "A guest is slurring words, swaying on the stool, and just knocked over a glass while reaching for their drink. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve one more drink since they are still seated and ordering",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Stop alcohol service, offer water or food, and involve a manager while arranging safe transportation",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Wait for clearer physical collapse before intervening",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Move them to a quieter seat and continue alcohol service",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 34,
+      "text": "A guest begins speaking loudly, stumbling slightly, and struggling to focus on conversation. What stage of impairment are they most likely in?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Early stage",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. No impairment",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Mid-stage impairment",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Severe intoxication",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "text": "A guest is stumbling, has slurred speech, and is spilling their drink repeatedly. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue serving as long as they pay",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service unless the situation becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Offer food and another drink",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop alcohol service",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 36,
+      "text": "A guest becomes loud, interrupts others, and starts arguing with staff after several drinks. What is the best action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue serving to calm them down",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service unless they become physically aggressive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Offer another drink to distract them",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop alcohol service",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 37,
+      "text": "A guest has not eaten, is drinking quickly, and is in a loud group celebrating. What is the best approach?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue normal service since they seem happy",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Base decisions only on drink count, not pace or food",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Slow service and monitor closely",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Serve stronger drinks to match the group",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 38,
+      "text": "A guest is ordering drinks quickly and has not eaten. What is the best way to prevent over-service?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Match their ordering pace to keep the table happy",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Keep the same pace until clear intoxication appears",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Slow service and suggest food or water",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Offer stronger drinks to reduce orders",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 39,
+      "text": "A guest is repeatedly ordering drinks, showing mood swings, and ignoring your attempts to slow service. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue serving to avoid conflict",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service unless they become physically aggressive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Stop alcohol service and involve a manager",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Offer another drink to calm them down",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 40,
+      "text": "A guest orders two drinks quickly and begins speaking loudly. They are laughing and encouraging others to drink faster. What is your best first step?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Wait to see if other guests complain before acting",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Slow service and monitor",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Serve another round",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Ask them to leave immediately",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 41,
+      "text": "A guest has glassy eyes, is repeating themselves, and drops their credit card twice. What do these signs indicate?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. No concern",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Early intoxication",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Mid-level impairment",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Severe intoxication",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 42,
+      "text": "A guest has not eaten, is drinking quickly, and is part of a loud celebration group. What risk is present?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Low risk",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. No special risk beyond a normal table",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Moderate risk",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. High risk",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 43,
+      "text": "A guest insists they are fine but is stumbling and knocking into furniture. What should you rely on?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Guest’s statement",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Drink count only",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Your observations",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Other guests’ opinions",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 44,
+      "text": "A guest becomes argumentative and ignores your attempts to slow service. What is the best next step?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue serving",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Avoid confrontation",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Stop service and involve manager",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Offer a stronger drink",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 45,
+      "text": "A quiet guest appears calm but has slow reactions and unfocused eyes. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Treat subtle signs as less important than loud behavior",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Serve normally",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Monitor and slow service",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Ask them to leave immediately",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 46,
+      "text": "A guest becomes irritated after you refuse another drink and says, 'I know the owner. Serve me anyway.' What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve the drink to avoid conflict",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Stay calm, repeat the refusal, offer water or a nonalcoholic option, and involve a manager if the guest continues to push",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Argue until they admit they are intoxicated",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Walk away without repeating the refusal or notifying anyone",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 47,
+      "text": "A server cuts off a visibly intoxicated guest. The guest leaves angry and starts walking toward the parking lot with car keys in hand. What is the best next step?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Stop at cutting them off and take no further action",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Follow escalation procedures: alert a manager or security, try to arrange safe transportation, and document the incident",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Serve coffee and assume they will sober up immediately",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Let them drive if they promise to go slowly",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 48,
+      "text": "A customer is slurring words, stumbling, and becoming loud. They ask for another drink. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve one more drink and monitor",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Ask a coworker to decide",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Refuse service and notify management",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Wait to see if other guests complain before acting",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 49,
+      "text": "You observe a customer showing clear signs of intoxication. What is the correct first step?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Immediately call security",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Wait until they order again before deciding",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Offer water and continue service",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Observe carefully and confirm signs",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 50,
+      "text": "After refusing service, a customer continues asking for another drink. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve one last drink to calm them",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service unless the situation becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Change your decision if they insist",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Maintain refusal and involve management if needed",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 51,
+      "text": "A customer becomes upset after being refused service and raises their voice. What is the best response?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Speak louder so they understand you are serious",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. End the conversation and hope they leave on their own",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Argue your decision in detail",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stay calm and repeat your refusal clearly",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 52,
+      "text": "A customer becomes confrontational after being refused service and begins arguing loudly. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Argue back to defend your decision",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue other work and reassess only if they become violent",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Stay calm and involve management if needed",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Serve them to avoid conflict",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 53,
+      "text": "A customer becomes loud, refuses to leave, and starts making threats after being refused service. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Try to physically remove the customer yourself",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service unless the situation becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Argue with the customer to gain control",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Involve management immediately and maintain distance",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 54,
+      "text": "A customer has been refused alcohol due to intoxication. What is the best next step?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve a smaller drink instead",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service unless the situation becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Offer water or help them find a safe ride",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Ask another server to resume alcohol service for them",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 55,
+      "text": "After refusing service to an intoxicated customer, what should you do to protect yourself legally?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Move on without creating an incident record",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Only tell a coworker verbally",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Alter details later if anyone asks about the refusal",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Document the incident according to policy",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 56,
+      "text": "A customer shows slurred speech and poor balance but asks for another drink. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve one more drink and monitor",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Refuse service and stay calm",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Pass the decision to another server so you avoid conflict",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Trust their claim that they feel fine",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 57,
+      "text": "After refusing service, a customer asks for “just water” but continues requesting alcohol. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve alcohol with the water",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Maintain refusal and offer water only",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. End the conversation and hope they leave on their own",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Ask a coworker to serve them",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 58,
+      "text": "A customer refuses to leave after being denied service and begins bothering other guests. What is the correct action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Handle it alone",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Wait to see if other guests complain before acting",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Involve management or security",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Offer another drink",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 59,
+      "text": "You refused service and the customer becomes quiet but unsteady. What should you do next?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Resume service if they calm down",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Monitor and ensure safety",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Treat subtle signs as less important than loud behavior",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Ask them to leave immediately without support",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 60,
+      "text": "A customer has had several drinks over a short period and is beginning to show signs of intoxication. What should you do next?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue serving as long as they are not causing problems",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Leave the decision to a coworker while you continue serving",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Slow or stop service and monitor the situation",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Serve water but continue alcohol service",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 61,
+      "text": "You hear that South Carolina may have changed a rule about serving hours, but you are not sure. What is the best professional response?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Keep current habits until a manager announces a change",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Check current South Carolina resources or ask your manager, and complete refresher training to stay current",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Follow what nearby businesses appear to be doing",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Skip refresher training unless your employer requires it",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 62,
+      "text": "A customer becomes upset after you refuse service due to signs of intoxication. They raise their voice and demand another drink. What should you do next?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue serving to avoid conflict",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service unless the situation becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Argue to prove your decision is correct",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Involve a manager and remain calm",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 63,
+      "text": "A group is participating in a drink special and begins ordering drinks quickly. One customer is showing early signs of intoxication. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue serving because it is part of the promotion",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Prioritize other guests until this one becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Slow or stop service and monitor the customer",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Serve water but continue alcohol service",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 64,
+      "text": "A customer orders a strong cocktail with multiple shots and finishes it quickly. They ask for another right away. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve another immediately since it is one drink",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Treat it as one drink and keep the same pace",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Recognize it may equal multiple drinks and slow service",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Only count it as one drink and continue serving",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 65,
+      "text": "A coworker continues serving a customer who appears intoxicated. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Stay focused on your own tables and assume they will handle it",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Support the coworker and continue service",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Address the concern or involve a manager",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Wait until the situation becomes worse",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 66,
+      "text": "A customer shows an ID that looks damaged and hard to read. You are unsure if it is valid. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Accept it if the customer insists it is real",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Refuse service or ask for another valid ID",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Continue service unless the situation becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Let a coworker decide",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 67,
+      "text": "You are unsure whether a customer is intoxicated. What is the best next step?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue serving to be safe",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Ask the customer directly",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Involve a manager for support",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Keep serving while you watch from a distance",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 68,
+      "text": "A busy shift makes it hard to track how much customers are drinking. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Stop tracking and focus on speed",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Guess based on appearance",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Work with your team to monitor",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Prioritize speed and assume guests will self-limit",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 69,
+      "text": "A customer asks for multiple drinks at once for themselves. What is your best response?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve all drinks immediately",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Refuse without explanation",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Limit service and monitor behavior",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Continue service unless the situation becomes disruptive",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 70,
+      "text": "A coworker refuses service and the customer asks you for a drink instead. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve them to help the customer",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Serve them because they asked you instead of your coworker",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Support the refusal and do not serve",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Let the customer decide",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 71,
+      "text": "A guest says they can refuse a breath test because they never agreed to testing. What should a server understand about South Carolina law?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Refusal has no penalty if the driver cooperates otherwise",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Driving in South Carolina is treated as implied consent to testing, and refusal can trigger an automatic license suspension",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Implied consent applies only to commercial drivers",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Testing rules do not apply after midnight",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 72,
+      "text": "A guest wants to take an unfinished open beer in the car for the ride home. What is the correct response?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Allow it if a passenger, not the driver, holds the open container",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Do not allow it; South Carolina prohibits open containers of beer, wine, or liquor in a moving vehicle except in the luggage compartment",
+          "correct": true
+        },
+        {
+          "order": 2,
+          "text": "C. Allow it if the driver appears sober",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Transfer it to an unmarked cup so it is less obvious",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 73,
+      "text": "According to NHTSA FARS data, roughly what share of drivers in South Carolina's fatal crashes in 2023 had a blood alcohol concentration of 0.08% or higher?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. About 10%",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. About 25%",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. About 39%",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. About 75%",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "order": 74,
+      "text": "A guest has been drinking for several hours. It is late, and they plan to drive home. They show slower reactions and reduced awareness. What is the best action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve another drink",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Assume they will handle themselves once they leave",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Suggest they leave quickly",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop service and intervene",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 75,
+      "text": "A guest is stumbling, bumps into others, and drops a glass. They laugh and ask for another drink. What is the best action?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve another drink",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Wait to see if other guests complain before acting",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Ask them to be careful and continue",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop service and intervene",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 76,
+      "text": "A group becomes loud and disruptive near closing time. One guest is clearly intoxicated and tries to leave to drive home. Nearby customers are uncomfortable. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Continue service unless the situation becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Serve another round",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Ask them to quiet down and continue service",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop service and address the situation",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 77,
+      "text": "An officer enters your establishment during a busy shift and observes service. A guest who appears underage approaches the bar. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve quickly to keep the line moving",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Skip ID since they look confident",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Ask a coworker to handle it",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Check ID before serving",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 78,
+      "text": "A guest shows clear signs of intoxication but insists they are fine and asks for another drink. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve one more to avoid conflict",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Trust their claim that they feel fine",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Let another server decide",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop service and intervene",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 79,
+      "text": "A guest has had several drinks and begins speaking slowly. They ask for another drink and mention driving home. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Serve one more drink",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Continue service unless the situation becomes disruptive",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Suggest they hurry home",
+          "correct": false
+        },
+        {
+          "order": 3,
+          "text": "D. Stop service and intervene",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "order": 80,
+      "text": "A guest tries to leave quickly after heavy drinking and says they are driving. What should you do?",
+      "options": [
+        {
+          "order": 0,
+          "text": "A. Allow them to leave without further involvement",
+          "correct": false
+        },
+        {
+          "order": 1,
+          "text": "B. Help them leave quickly so the problem is out of the building",
+          "correct": false
+        },
+        {
+          "order": 2,
+          "text": "C. Intervene and stop service",
+          "correct": true
+        },
+        {
+          "order": 3,
+          "text": "D. Assume they will handle themselves once they leave",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

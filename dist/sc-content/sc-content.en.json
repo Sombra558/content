@@ -6181,7 +6181,7 @@
         {
          "order_index": 101,
          "interactive": {
-          "question": "Today’s date is June 1. A customer’s date of birth is June 5, 2005. What should you do?",
+          "question": "Today’s date is June 1, 2026. A customer’s date of birth is June 5, 2005. What should you do?",
           "instruction": "Read the scenario, then select the best answer.",
           "options": [
            {
@@ -17042,7 +17042,7 @@
       },
       {
        "order_index": 23,
-       "question": "Today’s date is June 1. A customer’s date of birth is June 5, 2005. What should you do?",
+       "question": "Today’s date is June 1, 2026. A customer’s date of birth is June 5, 2005. What should you do?",
        "options": [
         {
          "order_index": 0,
