@@ -7738,52 +7738,6 @@
        ]
       },
       {
-       "order_index": 10,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 10,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "Mid-stage impairment includes more visible physical and mental changes. Watch for {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These are clear warning signs that the guest is becoming intoxicated. Service should be slowed or stopped to prevent further impairment and legal violations."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "slurred speech",
-            "revealed_text": "slurred speech"
-           },
-           {
-            "id": "item_2",
-            "title": "delayed responses",
-            "revealed_text": "delayed responses"
-           },
-           {
-            "id": "item_3",
-            "title": "unsteady movement",
-            "revealed_text": "unsteady movement"
-           },
-           {
-            "id": "item_4",
-            "title": "poor balance",
-            "revealed_text": "poor balance"
-           },
-           {
-            "id": "item_5",
-            "title": "confusion",
-            "revealed_text": "confusion"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
        "order_index": 11,
        "min_time": 3,
        "content_type": "Text",
@@ -8225,52 +8179,6 @@
        ]
       },
       {
-       "order_index": 27,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 27,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "When you observe physical signs, take appropriate action. This may include {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These steps help prevent further intoxication and protect both the guest and your establishment from harm or legal risk."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "slowing service",
-            "revealed_text": "slowing service"
-           },
-           {
-            "id": "item_2",
-            "title": "offering water",
-            "revealed_text": "offering water"
-           },
-           {
-            "id": "item_3",
-            "title": "removing alcohol",
-            "revealed_text": "removing alcohol"
-           },
-           {
-            "id": "item_4",
-            "title": "alerting manager",
-            "revealed_text": "alerting manager"
-           },
-           {
-            "id": "item_5",
-            "title": "stopping service",
-            "revealed_text": "stopping service"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
        "order_index": 28,
        "min_time": 3,
        "content_type": "Multiple",
@@ -8545,69 +8453,6 @@
             "id": "item_5",
             "title": "verbal conflict",
             "revealed_text": "verbal conflict"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 38,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 38,
-         "text": {
-          "paragraphs": [
-           "Not all intoxicated guests act the same way. Some may become quiet and withdrawn, while others become loud and disruptive. Both can be impaired. You must observe behavior patterns over time and look for multiple signs before making a decision about service."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 39,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 39,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "When you observe behavioral signs, respond appropriately. Take steps such as {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These actions help prevent over-service and support a safe, compliant environment."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "slowing service",
-            "revealed_text": "slowing service"
-           },
-           {
-            "id": "item_2",
-            "title": "setting limits",
-            "revealed_text": "setting limits"
-           },
-           {
-            "id": "item_3",
-            "title": "offering alternatives",
-            "revealed_text": "offering alternatives"
-           },
-           {
-            "id": "item_4",
-            "title": "involving manager",
-            "revealed_text": "involving manager"
-           },
-           {
-            "id": "item_5",
-            "title": "stopping alcohol",
-            "revealed_text": "stopping alcohol"
            }
           ]
          }
@@ -9034,52 +8879,6 @@
        ]
       },
       {
-       "order_index": 55,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 55,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "Use simple techniques to control pace. Try {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These actions help slow alcohol consumption without creating conflict. Small steps can make a big difference in preventing intoxication."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "spacing drinks",
-            "revealed_text": "spacing drinks"
-           },
-           {
-            "id": "item_2",
-            "title": "delaying orders",
-            "revealed_text": "delaying orders"
-           },
-           {
-            "id": "item_3",
-            "title": "offering water",
-            "revealed_text": "offering water"
-           },
-           {
-            "id": "item_4",
-            "title": "suggesting food",
-            "revealed_text": "suggesting food"
-           },
-           {
-            "id": "item_5",
-            "title": "checking in",
-            "revealed_text": "checking in"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
        "order_index": 56,
        "min_time": 3,
        "content_type": "Text",
@@ -9378,52 +9177,6 @@
        ]
       },
       {
-       "order_index": 67,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 67,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "Warning signs of problem drinking include {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These patterns show the guest may not be managing their alcohol use safely. Early recognition allows you to adjust service before risks increase."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "frequent intoxication",
-            "revealed_text": "frequent intoxication"
-           },
-           {
-            "id": "item_2",
-            "title": "loss of control",
-            "revealed_text": "loss of control"
-           },
-           {
-            "id": "item_3",
-            "title": "drinking quickly",
-            "revealed_text": "drinking quickly"
-           },
-           {
-            "id": "item_4",
-            "title": "ignoring limits",
-            "revealed_text": "ignoring limits"
-           },
-           {
-            "id": "item_5",
-            "title": "repeated orders",
-            "revealed_text": "repeated orders"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
        "order_index": 68,
        "min_time": 3,
        "content_type": "Text",
@@ -9453,52 +9206,6 @@
            "Emotional or behavioral instability can also signal a problem. A guest may become aggressive, overly emotional, or unpredictable. These behaviors increase safety risks for staff and other guests. Recognizing these changes helps you decide when to step in and limit or stop service."
           ],
           "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 70,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 70,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "Behavioral warning signs include {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These signs show alcohol is affecting judgment and control. At this stage, continuing to serve alcohol increases risk and may violate the law."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "mood swings",
-            "revealed_text": "mood swings"
-           },
-           {
-            "id": "item_2",
-            "title": "aggressive behavior",
-            "revealed_text": "aggressive behavior"
-           },
-           {
-            "id": "item_3",
-            "title": "argumentative tone",
-            "revealed_text": "argumentative tone"
-           },
-           {
-            "id": "item_4",
-            "title": "impulsive actions",
-            "revealed_text": "impulsive actions"
-           },
-           {
-            "id": "item_5",
-            "title": "poor decisions",
-            "revealed_text": "poor decisions"
-           }
-          ]
          }
         }
        ]

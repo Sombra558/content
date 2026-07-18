@@ -7741,52 +7741,6 @@
               ]
             },
             {
-              "order_index": 10,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 10,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "El deterioro en la etapa intermedia incluye cambios físicos y mentales más visibles. Debes estar atento a {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas son claras señales de advertencia de que el huésped se está intoxicando. El servicio debe reducirse o detenerse para evitar mayores deterioros e infracciones legales."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "habla arrastrada",
-                        "revealed_text": "habla arrastrada"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "respuestas retrasadas",
-                        "revealed_text": "respuestas retrasadas"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "movimiento inestable",
-                        "revealed_text": "movimiento inestable"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "mal equilibrio",
-                        "revealed_text": "mal equilibrio"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "confusión",
-                        "revealed_text": "confusión"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 11,
               "min_time": 3,
               "content_type": "Text",
@@ -8228,52 +8182,6 @@
               ]
             },
             {
-              "order_index": 27,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 27,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Cuando observes signos físicos, toma las medidas adecuadas. Esto puede incluir {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos pasos ayudan a prevenir una mayor intoxicación y protegen tanto al huésped como a tu establecimiento de daños o riesgos legales."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "servicio lento",
-                        "revealed_text": "servicio lento"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "ofrecer agua",
-                        "revealed_text": "ofrecer agua"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "bebidas sin alcohol",
-                        "revealed_text": "bebidas sin alcohol"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "involucrar a un gerente",
-                        "revealed_text": "involucrar a un gerente"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "detener el servicio",
-                        "revealed_text": "detener el servicio"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 28,
               "min_time": 3,
               "content_type": "Multiple",
@@ -8548,69 +8456,6 @@
                         "id": "item_5",
                         "title": "conflicto verbal",
                         "revealed_text": "conflicto verbal"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 38,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 38,
-                  "text": {
-                    "paragraphs": [
-                      "No todos los invitados ebrios actúan de la misma manera. Algunos pueden volverse callados y retraídos, mientras que otros se vuelven ruidosos y perturbadores. Ambos pueden verse afectados. Debe observar patrones de comportamiento a lo largo del tiempo y buscar múltiples señales antes de tomar una decisión sobre el servicio."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 39,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 39,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Cuando observe señales conductuales, responda de forma adecuada. Tome medidas como {{item_1}}, {{item_2}}, {{item_3}} e {{item_4}} y {{item_5}}. Estas medidas ayudan a prevenir el servicio excesivo y favorecen un entorno seguro y conforme a la normativa."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "ralentizar el servicio",
-                        "revealed_text": "ralentizar el servicio"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "establecer límites",
-                        "revealed_text": "establecer límites"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "ofrecer bebidas sin alcohol",
-                        "revealed_text": "ofrecer bebidas sin alcohol"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "involucrar al gerente",
-                        "revealed_text": "involucrar al gerente"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "dejar de servir alcohol",
-                        "revealed_text": "dejar de servir alcohol"
                       }
                     ]
                   }
@@ -9037,52 +8882,6 @@
               ]
             },
             {
-              "order_index": 55,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 55,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Utiliza técnicas sencillas para controlar el ritmo. Pruebe {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas acciones ayudan a frenar el consumo de alcohol sin crear conflictos. Pequeños pasos pueden marcar una gran diferencia en la prevención de la intoxicación."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "espaciar bebidas",
-                        "revealed_text": "espaciar bebidas"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "retrasar pedidos",
-                        "revealed_text": "retrasar pedidos"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "ofrecer agua",
-                        "revealed_text": "ofrecer agua"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "sugerir comida",
-                        "revealed_text": "sugerir comida"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "ofrecer bebidas sin alcohol",
-                        "revealed_text": "ofrecer bebidas sin alcohol"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 56,
               "min_time": 3,
               "content_type": "Text",
@@ -9381,52 +9180,6 @@
               ]
             },
             {
-              "order_index": 67,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 67,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Las señales de advertencia de problemas con el alcohol incluyen {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos patrones muestran que es posible que el huésped no esté controlando su consumo de alcohol de manera segura. El reconocimiento temprano te permite ajustar el servicio antes de que aumenten los riesgos."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "intoxicaciones frecuentes",
-                        "revealed_text": "intoxicaciones frecuentes"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "pérdida del control",
-                        "revealed_text": "pérdida del control"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "beber muy rápido",
-                        "revealed_text": "beber muy rápido"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "ignorar los límites",
-                        "revealed_text": "ignorar los límites"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "órdenes repetidas",
-                        "revealed_text": "órdenes repetidas"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 68,
               "min_time": 3,
               "content_type": "Text",
@@ -9456,52 +9209,6 @@
                       "La inestabilidad emocional o conductual también puede indicar un problema. Un invitado puede volverse agresivo, demasiado emocional o impredecible. Estos comportamientos aumentan los riesgos de seguridad para el personal y otros huéspedes. Reconocer estos cambios te ayuda a decidir cuándo intervenir y limitar o detener el servicio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 70,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 70,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Las señales de advertencia de que un cliente está en estado de embriaguez incluyen {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos signos muestran que el alcohol está afectando el juicio y el control. En esta etapa, seguir sirviendo alcohol aumenta el riesgo y puede violar la ley."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "cambios de humor",
-                        "revealed_text": "cambios de humor"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "comportamiento agresivo",
-                        "revealed_text": "comportamiento agresivo"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "tono argumentativo",
-                        "revealed_text": "tono argumentativo"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "acciones impulsivas",
-                        "revealed_text": "acciones impulsivas"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "malas decisiones",
-                        "revealed_text": "malas decisiones"
-                      }
-                    ]
                   }
                 }
               ]
