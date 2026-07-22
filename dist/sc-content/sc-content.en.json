@@ -226,23 +226,6 @@
        ]
       },
       {
-       "order_index": 9,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 9,
-         "text": {
-          "paragraphs": [
-           "Alcohol sales in South Carolina require proper licensing. Businesses must hold a valid permit before selling beer, wine, or liquor. Different permits apply depending on the type of alcohol and business model. For example, restaurants, bars, and retail stores may have different requirements. Main on-premises permit types include PBW, PO7, PLB, PLC, and LOP. Always work under a valid license. Serving alcohol without proper authorization is illegal. References: SC Code § 61-4-120; § 61-4-510; § 61-4-630; § 61-6-1600; § 61-6-1610; § 61-4-150; § 61-4-560; § 61-6-2600; § 61-6-2610."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
        "order_index": 10,
        "min_time": 3,
        "content_type": "Completion",
@@ -1261,23 +1244,6 @@
          "text": {
           "paragraphs": [
            "Your role is to observe and report, not to confront. If you notice a weapon or feel unsafe, notify a manager immediately. Do not attempt to handle the situation yourself. Safety is the priority. Following proper reporting procedures helps reduce risk and ensures the situation is handled appropriately."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 48,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 48,
-         "text": {
-          "paragraphs": [
-           "Law enforcement officers have authority to enter and inspect alcohol-serving establishments. They may check permits, observe operations, and respond to incidents. You must cooperate with officers during any interaction. Providing accurate information and following instructions supports compliance and avoids additional issues."
           ],
           "instruction": "Read the following, then click Next."
          }
@@ -7393,52 +7359,6 @@
        ]
       },
       {
-       "order_index": 10,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 10,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "Mid-stage impairment includes more visible physical and mental changes. Watch for {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These are clear warning signs that the guest is becoming intoxicated. Service should be slowed or stopped to prevent further impairment and legal violations."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "slurred speech",
-            "revealed_text": "slurred speech"
-           },
-           {
-            "id": "item_2",
-            "title": "delayed responses",
-            "revealed_text": "delayed responses"
-           },
-           {
-            "id": "item_3",
-            "title": "unsteady movement",
-            "revealed_text": "unsteady movement"
-           },
-           {
-            "id": "item_4",
-            "title": "poor balance",
-            "revealed_text": "poor balance"
-           },
-           {
-            "id": "item_5",
-            "title": "confusion",
-            "revealed_text": "confusion"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
        "order_index": 11,
        "min_time": 3,
        "content_type": "Text",
@@ -7880,52 +7800,6 @@
        ]
       },
       {
-       "order_index": 27,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 27,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "When you observe physical signs, take appropriate action. This may include {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These steps help prevent further intoxication and protect both the guest and your establishment from harm or legal risk."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "slowing service",
-            "revealed_text": "slowing service"
-           },
-           {
-            "id": "item_2",
-            "title": "offering water",
-            "revealed_text": "offering water"
-           },
-           {
-            "id": "item_3",
-            "title": "removing alcohol",
-            "revealed_text": "removing alcohol"
-           },
-           {
-            "id": "item_4",
-            "title": "alerting manager",
-            "revealed_text": "alerting manager"
-           },
-           {
-            "id": "item_5",
-            "title": "stopping service",
-            "revealed_text": "stopping service"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
        "order_index": 28,
        "min_time": 3,
        "content_type": "Multiple",
@@ -8200,69 +8074,6 @@
             "id": "item_5",
             "title": "verbal conflict",
             "revealed_text": "verbal conflict"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 38,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 38,
-         "text": {
-          "paragraphs": [
-           "Not all intoxicated guests act the same way. Some may become quiet and withdrawn, while others become loud and disruptive. Both can be impaired. You must observe behavior patterns over time and look for multiple signs before making a decision about service."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 39,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 39,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "When you observe behavioral signs, respond appropriately. Take steps such as {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These actions help prevent over-service and support a safe, compliant environment."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "slowing service",
-            "revealed_text": "slowing service"
-           },
-           {
-            "id": "item_2",
-            "title": "setting limits",
-            "revealed_text": "setting limits"
-           },
-           {
-            "id": "item_3",
-            "title": "offering alternatives",
-            "revealed_text": "offering alternatives"
-           },
-           {
-            "id": "item_4",
-            "title": "involving manager",
-            "revealed_text": "involving manager"
-           },
-           {
-            "id": "item_5",
-            "title": "stopping alcohol",
-            "revealed_text": "stopping alcohol"
            }
           ]
          }
@@ -8689,52 +8500,6 @@
        ]
       },
       {
-       "order_index": 55,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 55,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "Use simple techniques to control pace. Try {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These actions help slow alcohol consumption without creating conflict. Small steps can make a big difference in preventing intoxication."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "spacing drinks",
-            "revealed_text": "spacing drinks"
-           },
-           {
-            "id": "item_2",
-            "title": "delaying orders",
-            "revealed_text": "delaying orders"
-           },
-           {
-            "id": "item_3",
-            "title": "offering water",
-            "revealed_text": "offering water"
-           },
-           {
-            "id": "item_4",
-            "title": "suggesting food",
-            "revealed_text": "suggesting food"
-           },
-           {
-            "id": "item_5",
-            "title": "checking in",
-            "revealed_text": "checking in"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
        "order_index": 56,
        "min_time": 3,
        "content_type": "Text",
@@ -9033,52 +8798,6 @@
        ]
       },
       {
-       "order_index": 67,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 67,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "Warning signs of problem drinking include {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These patterns show the guest may not be managing their alcohol use safely. Early recognition allows you to adjust service before risks increase."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "frequent intoxication",
-            "revealed_text": "frequent intoxication"
-           },
-           {
-            "id": "item_2",
-            "title": "loss of control",
-            "revealed_text": "loss of control"
-           },
-           {
-            "id": "item_3",
-            "title": "drinking quickly",
-            "revealed_text": "drinking quickly"
-           },
-           {
-            "id": "item_4",
-            "title": "ignoring limits",
-            "revealed_text": "ignoring limits"
-           },
-           {
-            "id": "item_5",
-            "title": "repeated orders",
-            "revealed_text": "repeated orders"
-           }
-          ]
-         }
-        }
-       ]
-      },
-      {
        "order_index": 68,
        "min_time": 3,
        "content_type": "Text",
@@ -9108,52 +8827,6 @@
            "Emotional or behavioral instability can also signal a problem. A guest may become aggressive, overly emotional, or unpredictable. These behaviors increase safety risks for staff and other guests. Recognizing these changes helps you decide when to step in and limit or stop service."
           ],
           "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 70,
-       "min_time": 3,
-       "content_type": "Completion",
-       "content_type_unique_id": "completion",
-       "contents": [
-        {
-         "order_index": 70,
-         "text": {
-          "instruction": "Click each item to learn more."
-         },
-         "interactive": {
-          "content_structure": [
-           "Behavioral warning signs include {{item_1}}, {{item_2}}, {{item_3}}, {{item_4}}, and {{item_5}}. These signs show alcohol is affecting judgment and control. At this stage, continuing to serve alcohol increases risk and may violate the law."
-          ],
-          "reveal_items": [
-           {
-            "id": "item_1",
-            "title": "mood swings",
-            "revealed_text": "mood swings"
-           },
-           {
-            "id": "item_2",
-            "title": "aggressive behavior",
-            "revealed_text": "aggressive behavior"
-           },
-           {
-            "id": "item_3",
-            "title": "argumentative tone",
-            "revealed_text": "argumentative tone"
-           },
-           {
-            "id": "item_4",
-            "title": "impulsive actions",
-            "revealed_text": "impulsive actions"
-           },
-           {
-            "id": "item_5",
-            "title": "poor decisions",
-            "revealed_text": "poor decisions"
-           }
-          ]
          }
         }
        ]
@@ -9972,23 +9645,6 @@
             "revealed_text": "safety concerns"
            }
           ]
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 14,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 14,
-         "text": {
-          "paragraphs": [
-           "Refusal should be firm, calm, and respectful. Do not argue or debate with the customer. Clearly state that you cannot serve them and avoid blaming language. Keep your tone professional and focused on policy and safety, not personal judgment."
-          ],
-          "instruction": "Read the following, then click Next."
          }
         }
        ]
@@ -11237,23 +10893,6 @@
        ]
       },
       {
-       "order_index": 62,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 62,
-         "text": {
-          "paragraphs": [
-           "Involve management early when a customer becomes confrontational. Do not wait for the situation to escalate further. Managers are responsible for handling higher-risk situations and supporting staff decisions."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
        "order_index": 63,
        "min_time": 3,
        "content_type": "Text",
@@ -11385,23 +11024,6 @@
          "text": {
           "paragraphs": [
            "Escalation procedures are used when a situation goes beyond a normal refusal. This includes customers who become aggressive, refuse to follow instructions, or create safety concerns for others. Knowing when to escalate is part of your responsibility. Acting early can prevent injury, property damage, or legal issues for you and your business."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 68,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 68,
-         "text": {
-          "paragraphs": [
-           "You should involve management anytime you feel unsure, pressured, or unsafe. Do not try to handle a serious situation alone. Managers are responsible for supporting staff and making higher-level decisions. Bringing them in early helps maintain control and shows that proper procedures are being followed."
           ],
           "instruction": "Read the following, then click Next."
          }
@@ -13066,23 +12688,6 @@
             "revealed_text": "acting early"
            }
           ]
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 19,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 19,
-         "text": {
-          "paragraphs": [
-           "Supporting coworkers is part of team accountability. If you notice a coworker struggling with a situation, offer help or notify a manager. Do not ignore potential issues. A quick response can prevent larger problems. Everyone shares responsibility for maintaining a safe and compliant environment."
-          ],
-          "instruction": "Read the following, then click Next."
          }
         }
        ]

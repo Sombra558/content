@@ -226,23 +226,6 @@
               ]
             },
             {
-              "order_index": 9,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 9,
-                  "text": {
-                    "paragraphs": [
-                      "La venta de alcohol en Carolina del Sur requiere una licencia adecuada. Las empresas deben tener un permiso válido antes de vender cerveza, vino o licor. Se aplican diferentes permisos según el tipo de alcohol y el modelo de negocio. Por ejemplo, los restaurantes, bares y tiendas minoristas pueden tener requisitos diferentes. Los tipos principales de permisos para consumo en el local incluyen PBW, PO7, PLB, PLC y LOP. Trabaja siempre con una licencia válida. Servir alcohol sin la autorización adecuada es ilegal. Referencias: SC Code § 61-4-120; § 61-4-510; § 61-4-630; § 61-6-1600; § 61-6-1610; § 61-4-150; § 61-4-560; § 61-6-2600; § 61-6-2610."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 10,
               "min_time": 3,
               "content_type": "Completion",
@@ -1261,23 +1244,6 @@
                   "text": {
                     "paragraphs": [
                       "Tu papel es observar e informar, no confrontar. Si notas un arma o te sientes inseguro, notifica a un gerente de inmediato. No intentes manejar la situación tú mismo. La seguridad es la prioridad. Seguir los procedimientos de presentación de informes adecuados ayuda a reducir el riesgo y garantiza que la situación se maneje de manera adecuada."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 48,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 48,
-                  "text": {
-                    "paragraphs": [
-                      "Los agentes del orden tienen autoridad para entrar e inspeccionar establecimientos que sirven alcohol. Pueden verificar permisos, observar operaciones y responder a incidentes. Debes cooperar con los oficiales durante cualquier interacción. Proporcionar información precisa y seguir instrucciones respalda el cumplimiento y evita problemas adicionales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -7394,52 +7360,6 @@
               ]
             },
             {
-              "order_index": 10,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 10,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "El deterioro en la etapa intermedia incluye cambios físicos y mentales más visibles. Debes estar atento a {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estas son claras señales de advertencia de que el huésped se está intoxicando. El servicio debe reducirse o detenerse para evitar mayores deterioros e infracciones legales."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "habla arrastrada",
-                        "revealed_text": "habla arrastrada"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "respuestas retrasadas",
-                        "revealed_text": "respuestas retrasadas"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "movimiento inestable",
-                        "revealed_text": "movimiento inestable"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "mal equilibrio",
-                        "revealed_text": "mal equilibrio"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "confusión",
-                        "revealed_text": "confusión"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 11,
               "min_time": 3,
               "content_type": "Text",
@@ -9034,52 +8954,6 @@
               ]
             },
             {
-              "order_index": 67,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 67,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Las señales de advertencia de problemas con el alcohol incluyen {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos patrones muestran que es posible que el huésped no esté controlando su consumo de alcohol de manera segura. El reconocimiento temprano te permite ajustar el servicio antes de que aumenten los riesgos."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "intoxicaciones frecuentes",
-                        "revealed_text": "intoxicaciones frecuentes"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "pérdida del control",
-                        "revealed_text": "pérdida del control"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "beber muy rápido",
-                        "revealed_text": "beber muy rápido"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "ignorar los límites",
-                        "revealed_text": "ignorar los límites"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "órdenes repetidas",
-                        "revealed_text": "órdenes repetidas"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 68,
               "min_time": 3,
               "content_type": "Text",
@@ -9109,52 +8983,6 @@
                       "La inestabilidad emocional o conductual también puede indicar un problema. Un invitado puede volverse agresivo, demasiado emocional o impredecible. Estos comportamientos aumentan los riesgos de seguridad para el personal y otros huéspedes. Reconocer estos cambios te ayuda a decidir cuándo intervenir y limitar o detener el servicio."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 70,
-              "min_time": 3,
-              "content_type": "Completion",
-              "content_type_unique_id": "completion",
-              "contents": [
-                {
-                  "order_index": 70,
-                  "text": {
-                    "instruction": "Haga clic en cada elemento para obtener más información."
-                  },
-                  "interactive": {
-                    "content_structure": [
-                      "Las señales de advertencia de que un cliente está en estado de embriaguez incluyen {{item_1}} , {{item_2}} , {{item_3}} , {{item_4}} y {{item_5}} . Estos signos muestran que el alcohol está afectando el juicio y el control. En esta etapa, seguir sirviendo alcohol aumenta el riesgo y puede violar la ley."
-                    ],
-                    "reveal_items": [
-                      {
-                        "id": "item_1",
-                        "title": "cambios de humor",
-                        "revealed_text": "cambios de humor"
-                      },
-                      {
-                        "id": "item_2",
-                        "title": "comportamiento agresivo",
-                        "revealed_text": "comportamiento agresivo"
-                      },
-                      {
-                        "id": "item_3",
-                        "title": "tono argumentativo",
-                        "revealed_text": "tono argumentativo"
-                      },
-                      {
-                        "id": "item_4",
-                        "title": "acciones impulsivas",
-                        "revealed_text": "acciones impulsivas"
-                      },
-                      {
-                        "id": "item_5",
-                        "title": "malas decisiones",
-                        "revealed_text": "malas decisiones"
-                      }
-                    ]
                   }
                 }
               ]
@@ -11238,23 +11066,6 @@
               ]
             },
             {
-              "order_index": 62,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 62,
-                  "text": {
-                    "paragraphs": [
-                      "Involucra a la gerencia desde el principio cuando un cliente se vuelve conflictivo. No esperes a que la situación empeore aún más. Los gerentes son responsables de manejar situaciones de mayor riesgo y apoyar las decisiones del personal."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 63,
               "min_time": 3,
               "content_type": "Text",
@@ -11386,23 +11197,6 @@
                   "text": {
                     "paragraphs": [
                       "Los procedimientos de escalada se utilizan cuando una situación va más allá de una negativa normal. Esto incluye a los clientes que se vuelven agresivos, se niegan a seguir instrucciones o crean preocupaciones de seguridad para los demás. Saber cuándo escalar es parte de tu responsabilidad. Actuar temprano puede evitar lesiones, daños a la propiedad o problemas legales para ti y tu empresa."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 68,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 68,
-                  "text": {
-                    "paragraphs": [
-                      "Debes involucrar a la gerencia cada vez que te sientas inseguro o presionado. No intentes manejar una situación grave solo. Los gerentes son responsables de apoyar al personal y tomar decisiones de nivel superior. Traerlos temprano te ayuda a mantener el control y demuestra que estás siguiendo los procedimientos adecuados."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12606,7 +12400,7 @@
                   "order_index": 1,
                   "text": {
                     "paragraphs": [
-                      "Los servidores de alcohol en Carolina del Sur tienen el deber de servir de manera responsable en todo momento. Esto incluye seguir las leyes estatales y las políticas laborales. Cada bebida servida es una decisión que puede afectar la seguridad. Se espera que permanezcas alerta, observes a los clientes y actúes cuando sea necesario. El servicio responsable ayuda a prevenir daños y te protege de riesgos a ti y a tu empleador."
+                      "Los servidores de alcohol en Carolina del Sur tienen el deber de servir de manera responsable en todo momento. Esto incluye seguir las leyes estatales y las políticas laborales. Cada bebida servida es una decisión que puede afectar la seguridad. Se espera que permanezcas alerta, observes a los clientes y actúes cuando sea necesario. El servicio responsable ayuda a prevenir daños y te protege de riesgos a ti y a tu empleador. Además, el marco normativo y las mejores prácticas de Carolina del Sur exigen que los servidores mantengan actualizado su conocimiento mediante capacitaciones de repaso, autoevaluaciones periódicas y módulos digitales, ya que las leyes, las reglas de permisos y las sanciones pueden cambiar."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13241,7 +13035,7 @@
                   "order_index": 27,
                   "text": {
                     "paragraphs": [
-                      "Carolina del Sur restringe las promociones de alcohol que fomentan el consumo excesivo. Para consumo en el local, un negocio no puede anunciar, vender ni dispensar cerveza, vino o licor gratis, a menos de la mitad del precio regular o en formato dos por uno. También es ilegal realizar 'drinking contests' o 'drinking games'. Estatutos aplicables: SC Code §§ 61-4-160 y 61-6-4550."
+                      "Carolina del Sur restringe las promociones de alcohol que fomentan el consumo excesivo. Para consumo en el local, un negocio no puede anunciar, vender ni dispensar cerveza, vino o licor gratis, a menos de la mitad del precio regular o en formato dos por uno. También es ilegal realizar 'drinking contests' o 'drinking games' (juegos o competiciones de bebidas alcoholicas). Estatutos aplicables: SC Code §§ 61-4-160 y 61-6-4550."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
