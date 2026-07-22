@@ -226,23 +226,6 @@
               ]
             },
             {
-              "order_index": 9,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 9,
-                  "text": {
-                    "paragraphs": [
-                      "La venta de alcohol en Carolina del Sur requiere una licencia adecuada. Las empresas deben tener un permiso válido antes de vender cerveza, vino o licor. Se aplican diferentes permisos según el tipo de alcohol y el modelo de negocio. Por ejemplo, los restaurantes, bares y tiendas minoristas pueden tener requisitos diferentes. Los tipos principales de permisos para consumo en el local incluyen PBW, PO7, PLB, PLC y LOP. Trabaja siempre con una licencia válida. Servir alcohol sin la autorización adecuada es ilegal. Referencias: SC Code § 61-4-120; § 61-4-510; § 61-4-630; § 61-6-1600; § 61-6-1610; § 61-4-150; § 61-4-560; § 61-6-2600; § 61-6-2610."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
               "order_index": 10,
               "min_time": 3,
               "content_type": "Completion",
@@ -1263,23 +1246,6 @@
                   "text": {
                     "paragraphs": [
                       "Tu papel es observar e informar, no confrontar. Si notas un arma o te sientes inseguro, notifica a un gerente de inmediato. No intentes manejar la situación tú mismo. La seguridad es la prioridad. Seguir los procedimientos de presentación de informes adecuados ayuda a reducir el riesgo y garantiza que la situación se maneje de manera adecuada."
-                    ],
-                    "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
-                  }
-                }
-              ]
-            },
-            {
-              "order_index": 48,
-              "min_time": 3,
-              "content_type": "Text",
-              "content_type_unique_id": "text",
-              "contents": [
-                {
-                  "order_index": 48,
-                  "text": {
-                    "paragraphs": [
-                      "Los agentes del orden tienen autoridad para entrar e inspeccionar establecimientos que sirven alcohol. Pueden verificar permisos, observar operaciones y responder a incidentes. Debes cooperar con los oficiales durante cualquier interacción. Proporcionar información precisa y seguir instrucciones respalda el cumplimiento y evita problemas adicionales."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -12609,7 +12575,7 @@
                   "order_index": 1,
                   "text": {
                     "paragraphs": [
-                      "El servicio responsable no es una lección de una sola vez. El marco normativo y las mejores prácticas de Carolina del Sur esperan que los servidores mantengan actualizado su conocimiento mediante capacitaciones de repaso, autoevaluaciones periódicas y módulos digitales. Las leyes, las reglas de permisos y las sanciones cambian; incluso el Legal Supplement tiene una fecha de vigencia, así que lo que aprendió el año pasado puede no ser correcto hoy."
+                      "El servicio responsable no es una lección de una sola vez. El marco normativo y las mejores prácticas de Carolina del Sur esperan que los servidores mantengan actualizado su conocimiento mediante capacitaciones de repaso, autoevaluaciones periódicas y módulos digitales. Las leyes, las reglas de permisos y las sanciones cambian, así que lo que aprendió el año pasado puede no ser correcto hoy."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }
@@ -13227,7 +13193,7 @@
                   "order_index": 27,
                   "text": {
                     "paragraphs": [
-                      "Carolina del Sur restringe las promociones de alcohol que fomentan el consumo excesivo. Para consumo en el local, un negocio no puede anunciar, vender ni dispensar cerveza, vino o licor gratis, a menos de la mitad del precio regular o en formato dos por uno. También es ilegal realizar 'drinking contests' o 'drinking games'. Estatutos aplicables: SC Code §§ 61-4-160 y 61-6-4550."
+                      "Carolina del Sur restringe las promociones de alcohol que fomentan el consumo excesivo. Para consumo en el local, un negocio no puede anunciar, vender ni dispensar cerveza, vino o licor gratis, a menos de la mitad del precio regular o en formato dos por uno. También es ilegal realizar 'drinking contests' o 'drinking games' (juegos o competiciones de bebidas alcoholicas). Estatutos aplicables: SC Code §§ 61-4-160 y 61-6-4550."
                     ],
                     "instruction": "Lea lo siguiente y luego haga clic en Siguiente."
                   }

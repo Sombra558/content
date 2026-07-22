@@ -226,23 +226,6 @@
        ]
       },
       {
-       "order_index": 9,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 9,
-         "text": {
-          "paragraphs": [
-           "Alcohol sales in South Carolina require proper licensing. Businesses must hold a valid permit before selling beer, wine, or liquor. Different permits apply depending on the type of alcohol and business model. For example, restaurants, bars, and retail stores may have different requirements. Main on-premises permit types include PBW, PO7, PLB, PLC, and LOP. Always work under a valid license. Serving alcohol without proper authorization is illegal. References: SC Code § 61-4-120; § 61-4-510; § 61-4-630; § 61-6-1600; § 61-6-1610; § 61-4-150; § 61-4-560; § 61-6-2600; § 61-6-2610."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
        "order_index": 10,
        "min_time": 3,
        "content_type": "Completion",
@@ -1261,23 +1244,6 @@
          "text": {
           "paragraphs": [
            "Your role is to observe and report, not to confront. If you notice a weapon or feel unsafe, notify a manager immediately. Do not attempt to handle the situation yourself. Safety is the priority. Following proper reporting procedures helps reduce risk and ensures the situation is handled appropriately."
-          ],
-          "instruction": "Read the following, then click Next."
-         }
-        }
-       ]
-      },
-      {
-       "order_index": 48,
-       "min_time": 3,
-       "content_type": "Text",
-       "content_type_unique_id": "text",
-       "contents": [
-        {
-         "order_index": 48,
-         "text": {
-          "paragraphs": [
-           "Law enforcement officers have authority to enter and inspect alcohol-serving establishments. They may check permits, observe operations, and respond to incidents. You must cooperate with officers during any interaction. Providing accurate information and following instructions supports compliance and avoids additional issues."
           ],
           "instruction": "Read the following, then click Next."
          }
